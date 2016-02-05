@@ -1,0 +1,182 @@
+2024年e5台語文字
+──台語羅馬字e5 5展望
+
+
+Lau Kiatgak (劉杰岳)
+台文BONG報編輯
+kiatgak@yahoo.com.tw
++886(2)2362-5336~509
+IuN Ungian (楊允言)
+大漢技術學院資工系
+ungian@ms01.dahan.e5du.tw
++886(2)2362-5336~509
+Ko Se5ngiam (高成炎)
+台大資訊工程系教授
+cykao@csie5.ntu.e5du.tw
++886(2)2362-5336~418
+Li Se5ngan (李盛安)
+台大資工所台語文實驗室
+se5ngan@lis.idv.tw
++886(2)2362-5336~509
+
+摘要
+現此時e5台語文字主要有漢字kap羅馬字，羅馬字e5部份主要是白話字。Tak8-e5 leh討論台語文字beh an2-choaN2 書寫e5時，焦點tiaN7-tiaN7 khng3 ti7 toh 1 套上好e5爭議頂koan5，看e5層面無夠闊，無ui3語言發展、文字發展、政策規劃chiah-e5 khah 長遠e5角度落去思考。Teh規劃e5時，lan2上無tioh8-ai3考慮20冬後(2024) koh e7-tang7副合台灣社會e5需要。
+Chit 篇文章tai7先beh探討現此時台語文字書寫e5狀況kap問題，續--落-來探討台灣社會需要siaN2款e5台語文字，上尾針對現此時上副合20冬後需要e5文字型式，Tai2-gu2-bang7 (TGB、台語網)文書法，提供chit8-koa2數字，分析i ambiguity e5程度。
+本文e7-tang3提供語言規劃e5參考，ma7 e7-tang3 chiaN5做自動標調、輸入法設計等等台語資訊處理(Taiwanese information processing) e5 參考。
+
+關鍵詞：台語、文字、Tai2-gu-bang7
+
+1. 2004 年e5台語文字
+Chit篇內底討論e5台語文字包含Ho7-lo2-oe7、Hakkafa、原住民語。M7-koh 討論e5時主要e5先針對Ho7-lo2-oe7，chiah koh ui3語言文字e5共同性探討siaN2款e5文書系統chiah khah 適合未來e5台灣社會。
+現此時Ho7-lo2-oe7 e5 書寫系統百百款，m7-koh社會khah e7-tang3接受--e5 主要有3種型式，to7是漢字、羅馬字kap 漢羅(漢字、羅馬字lam2 leh寫)。Chit內底羅馬字e5部份有真正當做文字leh使用--e5無che7，上主要--e5 to7是POJ (白話字、教會羅馬字) [IuN 2001]。
+大部份e5書寫系統其實long2是當做音標來設計、來使用。Chit-ma2 社會khah e7-tang3接受--e5主要e5 型式有ma7有3種，to7是TLPA (台灣語言音標方案) [IuN5 2002]、POJ (ka7當做音標來用)、通用音標。
+請看表1 e5 比較。
+
+表1 現此時khah主要e5 文字系統kap音標系統
+文字
+音標
+漢字
+TLPA
+漢羅(漢字+POJ)
+POJ
+羅馬字(POJ)
+通用
+
+表1 內底POJ ti7 文字kap音標2 peng5 long2有，an2-ne講--起-來，文字kap音標beh an2-choaN2 區別？其實主要tioh8看beh an2-choaN2用來決定。簡單講，若beh ka7 當做文字，i to7 e7-tang3是文字，若beh ka7當做音標，i ma7 e7-tang3是音標。符號本身並m7是主要e5決定點。To7是an2-ne，POJ m7-chiah iu7-koh是文字，iu7-koh是音標。
+Lan2 ui3 另外2 e5 例e7-sai2得koh-khah 清楚文字kap音標e5關係。第1個是TLPA。當初主要e5設計者之一洪惟仁前chit-cham7-a2 有leh考慮beh ka7 TLPA 定位做文字，an2-ne 本chiaN5 e5 「台灣語言音標方案」 hoan7-se3 to7 e7 piN3-chiaN5 「台灣語言文字方案」--a。第2個例是曾志朗leh 做漢字認知研究e5時，發現其實大腦是用「聽覺區」leh處理漢字e5認知，kap 歐美e5拼音文字差不多。
+M7-koh文字kap音標e5功能iau2是無kang5，文字kap音標有無kang7款e5要求。若定位做文字，tioh8-ai3 副合文字e5 功能，親像kang7 1個詞，tak8所在腔口e7-tang3無kang5，m7-koh書寫型式ai3一致…等等。Ah若定位做音標，tioh8-ai3要求e7-tit-thang正確表示發音，特別是kang7 1個詞，tak8所在e5腔口差ti7 toh-ui7…等等。Lan2 beh探討toh 1 套符號khah好，tioh8-ai3先了解i 到底是beh做文字iah是音標，chiah koh看i是m7是有副合要求。
+另外1 個ai3注意e5所在to7是文字kap音標e5重要性無kang5。Lan2看ㄅㄆㄇ(注音符號)to7知。ㄅㄆㄇe5定位是音標(注音)，i是用來協助學習漢字--e5，學過to7 e7-tang3 tan3掉--a (che7che7 e5台灣人long2是an2-ne)；若改用另外一套來代替ㄅㄆㄇ(親像漢語拼音)，ㄅㄆㄇ to7完全無價值--a(無需要--a)。M7-koh文字to7無kang7款，雖bong2文字ma7 e7 演變，m7-koh i e5 型式若固定--落-來，to7 piN3-chiaN5社會文化e5 1部份，beh koh改to oh改--a，而且ai3付出e5成本chiaN5 koan5。Ui3 學習e5角度來看，音標是用來輔助學習文字--e5，音標是工具，文字chiah是目標；工具若有khah新、khah好--e5 to7 e7-tang3 ka7 舊--e5換掉。M7-chiah有人講：「文字kan-taN e7-tang3有1套，音標e7-tang3 有幾na7種。」確實有i e5道理。
+了解文字kap音標e5關係，lan2 to7 e7-tang3 khah清楚了解現此時chiah-ni7 che7套書寫系統其實大部份long2 無siaN2副合台灣社會(對台語文字)e5需要，因為in大部份long2是beh做漢字e5音標nia5；設計好bai2 mai3講，準講chit-ma2 採取其中一套做規定e5音標，to7算2~3冬後換另外1套，ma7 無要緊，無siaN2真正長遠e5影響。甚至long2無用音標ma7 e7-sai--得。
+Chit-ma2 beh探討e5部份是文字e5問題，音標e5部份照講無應當列入討論，m7-koh考慮chiah-e5音標系統hoan7-se3 e7 ka7 ka-ti7重頭定位做文字(親像TLPA)，lan2 iau2是ka7 列入來做夥討論。
+Chit-ma2 (2004年) e5台語文字上主要e5型式是漢字kap羅馬字。漢字主要是用傳統e5 繁體漢字。羅馬字主要是現代的教會羅馬字。其它e5型式iau2 chiaN5 che5，khah重要--e5是用Kana (文獻chiaN5 che5)，諺文(理論上上kai3理想)。用ㄅㄆㄇ--e5 ma7有，m7-koh ㄅㄆㄇ beh chiaN5做文字用e5機會差不多是無。
+本文主要beh探討--e5是羅馬字e5部份。Lan2 e7-tang3 ui3幾na7種無kang5 e5角度來看chiah-e5羅馬字e5 設計，像講文字e5 功能、標音e5功能、符號e5 角度、文獻e5角度、教育e5角度、台灣主體性e5角度…等等。其中上簡單，tak8-e5上好理解--e5 to7是ui3符號e5 角度來看。
+符號當做文字來使用e5時，tak8-e5 ai3學、ai3認、ai3讀，i e5設計好bai2 chiaN5 直接反應ti7 學習、閱讀e5 效率頂koan5。Chit-ma2 用羅馬字為主e5書寫系統用e5符號主要是用kap 現代英文kang7 款e5字母。Khah特別--e5是「科根」，有koh使用另外be7少e5符號來表意。為著處理台語khah特別e5所在，有e5系統ma7另外koh借chit8-koa2符號入來用，像「現代文書法」to7借用「ν」來表示鼻音化。
+字母e5使用主要是用來表示子音、母音。M7-koh ma7有人ka7部份e5字母theh8來表示聲調，像「Daigixzi」(台語字)[DGZ] kap「現代文書法」。Ma7有人用字母來表意。
+聲調e5處理有人用附加符號(diacritic)，像POJ，ma7有人用數字，像TLPA。……
+單獨就符號設計來看，lan2 to7 e7-tang3看著無kang7款e5思考角度。M7-koh lan2若尊重符號本身，ti7 chiah-e5無kang5 e5角度--nih，羅馬字上重要e5 1個原則to7是「清(voiceless)濁(voicded)對立」e5原則。Chit 個原則chiaN5重要，影響chiaN5深遠，lan2 ti7 第2部份e7 koh討論--著。Ti7 Ho7-lo2-oe7內底，清濁對立上明顯--e5 to是「[p]、[ph]」(清) kap「[b]」(濁) e5對立。表2 lan2 to7用「b」是m7是用來表示濁聲來ka7 現此時khah有代表性e5書寫系統做1個上簡單、上有意義e5分類。內底e5通用有分做甲式kap乙式[TI7]，一般leh講e5通用其實是ki2通用乙式。
+
+表2 台語羅馬字書寫系統上基本的e5分類
+「b」表示濁聲(世界通用)
+「b」表示清聲(中國式)
+POJ
+通用乙式
+TLPA
+
+改良式TLPA
+
+Daigixzi (台語字)
+
+科根
+
+現代文書法
+
+普實台文
+
+通用甲式
+
+
+2. 未來e5台灣社會需要siaN2款e5文字
+Beh 分析台灣社會到底需要siaN2款e5文字，lan2 tioh8-ai3 ka7眼光看khah 遠--koa2，看20冬後e5台灣社會大約a2 是siaN2款情形，ai3應付siaN2款e5需要。
+語言beh chiaN5做書面語大約a2有3個過程：文字化、標準化kap現代化。Chit-ma2台語e5書寫型式chiaN5 che7，m7-koh 終kui尾ma7 tioh8標準化[IuN5 2003]，到kah 20冬後e5文字tioh8-ai3副合現代化e5 要求。
+準講chit-ma2 有積極teh 挽救台灣e5母語，an2-ne 20冬後e5台灣社會hoan7-se3 to7 e7 達到某種程度e5「多元文化、多音共響」。若an2-ne，siaN2款e5文字e7-tang3副合hit款社會e5需要？現此時台灣社會受華語教育e5影響，普遍leh使用漢字，Ho7-lo2-oe7 kap Hak-ka5-fa大多數ma7 e7-tang3用漢字來書寫，an2-ne，以後是m7是用漢字to7好？若多元文化是真--e5 (m7是浮面e5口號nia5)，原住民語應當ai3有相當程度e5普遍性，因為原住民語上kai3 e7-tang3代表台灣，上e7-tang3突顯台灣e5主體性。Ah漢字kam2適合theh8來寫原住民語？答案chiaN5明顯是無適合。Lan2若真正有對重原住民語，an2-ne，台灣e5 文字政策to7應該ng3羅馬字e5方向來行。
+Ah若羅馬字，toh 1 種類型--e5 e7 khah適合？
+若用原住民語做主體來思考，考慮原住民語本身是清濁對立(清音無送氣) e5語言，an2-ne，lan2 to7應該選擇用「b」表示濁聲──世界通用hit 款類型--e5 [TiuN 2003]。對Ho7-lo2-oe7來講，siang2款是清濁對立(清音koh 分做送氣、無送氣2種) e5語言，siang2款應當tioh toe3原住民語後壁，選擇世界通用hit 款類型--e5 e7 khah適合。
+另外1個ai3考慮e5重點是國際化e5衝擊。
+台灣未來是beh行向中國iah是行向世界？應該是行向世界e5機會khah koan5。世界上用羅馬字做文字e5國家上che7，而且大多數long2是清濁對立e5方式，全世界使用人口上che7 e5英語kap西班牙語long2是。台灣e5羅馬字若選擇清濁對立e5設計方式，beh kap 世界sio接e5路e7上順。
+國際化e5衝擊ma7 e7展現ti7 新e5事物、新e5思想頂koan5。Chit-ma2智識粒積e5速度愈來愈緊，新e5觀念、新e5產品用新e5詞彙直直ka7 lan2衝擊，lan2若無1套機制來處理，to7 e7 toe3 be7著時代，hong5 tu7-tu7--去。Theh8「email」chit 個例來看，m7管an2-choaN2翻譯，「電子郵便」、「電子批」、「電郵」…long2無「email」簡單、清楚、好學、好了解。特別是少年chit ian5--e5 chiaN5慣勢講chit8-koa2 「我chiaN5 shock」、「有夠cool」chit種thau3-lam7 外來語詞彙e5話句。Beh批評講an2-ne直接用外來語e5詞彙，e7降ke7語言e5純度，m7是講be7-sai2，總--是欠缺khah積極e5作用；若承認語言有性命、e7成長，用吸收外來語詞彙e7-tit-thang hou7母語成長e5心態，來面對外來語e5衝擊，顛倒有khah正面e5效果。
+未來e5台灣、未來e5世界是多元文化e5環境，智識量e7 che7 kah be7赴吸收。Beh要求國民學e5 mih8件tioh8-ai3 好學、有效率，學習e5過程--nih 學--著e5觀念long2 ai3 e7-tang3 koh繼續使用，an2-ne chiah e7-sai2得降ke7學習e5負擔，應付生活中各種挑戰。使用e5 文字ma7 kang7款ai3 an2-ne ka7要求。用chit個標準來看，ㄅㄆㄇ chit 種學過to7 無siaN2 lou7用e5 mih8件，to7 無副合要求。學習羅馬字e5過程，lan2 e7-tang3學著拼音能力，對語言e5能力iah是beh學習pat8種語言long2 chiaN5有幫chan7。Koh進1步來看，使用清濁對立e5拼音系統，e7-tang3得著頂koan5講--e5 chiah-e5好處。
+若考慮未來e5台灣人一定ai3學母語kap 外文，chit個時chun7需要1個共同e5發音基礎，雖bong2 1套文字e5音標e7-tang3有幾na7套，m7-koh若e7-tang3學1套tak8種文字long2 e7-tang3用、上kai3通用e5音標上好。現此時e7-tang3副合chit個要求--e5 to7 kan-taN IPA (國際音標) nia5。台灣e5音標政策上好是學IPA to7好。Ui3 IPA e5角度來看，IPA e5 設計ma7是清濁對立e5方式，文字e5選擇當然上好ma7是清濁對立e5方式。
+Chit-ma2 社會tauh8-tauh8-a2有使用羅馬字e5共識--a，若20冬後台灣社會beh 使用羅馬字，表示台灣社會beh ui3使用漢字e5傳統行向使用羅馬字，che tioh8-ai3 khai be7少時間，上關鍵e5部份其實是文字系統beh hou7 社會接受，ai3 1段時間來試驗、來驗證。現此時大多數e5書寫系統，其實long2欠缺驗證e5過程，有真正當做文字來書寫、khah大量來書寫--e5 kan-taN POJ、Daigixzi…少數幾套nia5。20冬後台灣社會選用e5羅馬字一定ai3 先經過驗證e5過程。
+Kah若an2-ne，20冬後e5華語kap Hak-ka5-fa beh an2-choaN2？其實台灣社會早to7有leh用適合華語kap Hak-ka5-fa e5 文書法--a，he to7是「Wade System」(威妥瑪式)kap Hak-ka5-fa e5白話字，2套long2是清濁對立e5系統，而且文獻long2 chiaN5 che7。
+
+表3 未來台灣社會理想的e5 書寫系統
+分類
+語言
+書寫系統
+音標
+所有
+IPA
+母語
+原住民語
+(聖經用--e5)白話字
+母語
+Hak-ka5-fa
+白話字
+母語
+Ho7-lo2-oe7
+POJ
+母語？外語？
+華語
+Wade System
+外語
+英語
+英文
+通用語
+Esperanto (世界語)
+Esperanto
+
+3.台語網(Taigubang， TGB) e5文書法分析
+台語網是1個開放性e5 email討論區，內底大多數e5 email是用羅馬字來書寫，雖bong2無1個固定e5型式，m7-koh大部份e5 人寫--e5 long2差不多，大約a2是用POJ做基礎，m7-koh無標聲調，用「ou」來表示「烏」，用「nn」iah是「N」來表示鼻音，有必要e5時，用數字來表示聲調。Ti7 chia，lan2先ka7 chit種書寫系統叫做台語網文書法，若有人beh講chit種方式是POJ kap TLPA e5 混合體ma7是e7-tang3，m7-koh到底iau2是無kang5 e5書寫方式，上好iau2是hou7 i 1 個單獨e5 名稱khah 好討論。
+TGB文書法另外1個khah無一致e5所在to7是音節kap音節中間是m7是beh 用「-」隔開，有人有寫，有人無寫。無寫khah seng5文字，ti7 chia to7 theh8無寫e5型式來分析。M7-koh若雙音節e5詞，準講其中1個音節kan-taN 有1個字母，像「i2-au7」，lan2 iau2是保留「-」，khah be7 講分be7清音節e5界線。
+Lan2分析e5辭典long2-chong2有56806個POJ，若照頂koan5講--e5 chit種台語網文書法來寫，to7 kan-taN e7 chhun 50429個詞。
+POJ內底有11278個詞(19.85%) e7 因為無寫聲調soah kap別e5詞去衝--著，piN3-chiaN5 TGB文書法內底有4901個詞(9.72%) 本底POJ e5 有ambiguity e5現象。Chhe5-un5講--來，TGB有ambiguity e5詞，e7對應2.30個POJ。
+簡單講，假設1篇文章內底tak8-e5詞e5頻率sio-siang5，lan2若無寫調號，有90%以上(1-9.72%=90.18%) e5詞無ambiguity e5 問題。Ah若無夠10% (9.72%)有 ambiguity e5詞，差不多是2個(2.30) POJ內底ioh 1 個，看前後文，通常to7 e7知意思，be7有siaN2大問題。An2-ne簡單e5分析，e7-tang3 hou7 lan2 khah直覺了解是an2-choaN2 TGB文書法e7-tit-thang通過實務e5 考驗，一直leh使用。
+
+
+
+
+
+
+圖1 POJ轉換做TGB文書法詞彙數量變化
+
+Lan2進1步來看詞kap音節e5關係。POJ 單音節e5詞有1982個，若用無調號e5 TGB文書法來寫，有1709個e7 去衝--著，比例(86.2%)不止a2 koan5，像「an、an2、an3、an5」4個long2 e7寫做「an」。Ah若POJ雙音節e5詞有36839個，9035個e7去衝--著，比例(24.5%) to7降chiaN5 che7。POJ 3個音節e5詞有16140個，528個e7衝--著，比例chhun 3.27%。POJ 4個音節e5詞有1783個，6個e7衝--著，比例chhun 0.34%。POJ 5個音節e5詞有49個，6個音節e5詞有13個，to7 long2 be7衝--著-a。請參考表4。Ui3 chiah-e5數字，lan2 e7-tang3 khah了解聲調e5作用主要是leh區別單音節e5詞，聲調ti7多音節e5詞e5作用to7 piN3 chiaN5 ke7。另外1個角度來看，chit-ma2 iau2-boe7完成定型e5 TGB文書法，為著beh避免ambiguity，sio連續單音節e5詞hoan7-se3 e7 傾向結合做1個多音節e5詞。
+
+表4 TGB文書法音節kap ambiguity e5關係
+音節數
+衝--著e5詞
+POJ詞數
+比例
+1
+1709
+1982
+86.2%
+2
+9035
+36839
+24.5%
+3
+528
+16140
+3.27%
+4
+6
+1783
+0.34%
+5
+0
+49
+0.00%
+6
+0
+13
+0.00%
+總計
+11278
+56806
+19.85%
+Lan2 來看4 e5音節6個衝--著e5詞：
+「hun-hun-put-peng5、hun3-hun3-put-peng5」
+「li5-li5-lak-lak、li-li-lak-lak」
+「oai-ko5-chhih-chhoah8、oai-ko-chhih8-chhoah8」
+Tak8組sio衝e5 2個詞其實意義long2 sio-kang5，kan-taN 聲調sio2-khoa2有cheng差。意思to7是講：並無真正造chiaN5 ambiguity e5問題。Chit種情形無寫調號e5 TGB文書法顛倒khah適合──寫法(文字) 1種to7好，beh an2-choaN2讀(音標)據在人kah意。
+像頂koan5 chit種情形應當iau2 chiaN5 che7，像「liam-mi、liam5-mi」ma7是。也to7是講真正有ambiguity 問題e5 比例其實pheng7頂koan5統計--e5 e7 koh-khah少。
+是 an2-choaN2講TGB文書法e5 khah適合20冬後e5台灣社會？主要to7是i khah e7-tang3適應多元文化、多語化、國際化、簡單、好用……等等e5要求。
+
+4. 結論
+本文kan-taN是對TGB 文書法1個初初開始e5研究nia7-nia7，be7-tang3有siaN2-mih明確e5結論。M7-koh ui3 了解現此時台語文字e5狀況開始，設想20冬後台灣社會需要e5文字，lan2 發覺使用「清濁對立」e5羅馬字e7 khah適合台灣，另外lan2 ma7發覺TGB文書法chiaN5適合20冬後有多元文化性質e5台灣社會。
+需要koh進1步深入研究e5所在chiaN5 che7，像講使用詞頻來分析，iah是使用真正e5文章來分析，認知e5問題，多語言e5問題，外來語e5問題，學習e5問題，文書法e5比較……。M7-koh上重要--e5其實是ai3真正有落去使用，chiah e7 真正知影有siaN2-mih問題，有好用--無。Chit點是目前大多數書寫系統問題上大e5所在，ma7是TGB文書法上強e5點。
+Lan2 khah深入了解TGB文書法，ma7 e7-tang3協助了解台語羅馬字e5本質。目前khah正式leh使用e5台語羅馬字主要是POJ (kap Daigixzi…)，若考慮beh ka7無標調e5羅馬字自動標調，ui3頭前e5分析來看，beh做到80%以上e5正確率應當be7 kai3困難。Iah是講若beh做輸入法，ui3頭前e5分析來看，多音節e5詞e7-tang3免輸入聲調，效率to7 e7 chiaN5 koan5。
+
+
+
+

@@ -1,0 +1,92 @@
+計算台語功能詞E5頻率
+─「台語網」白話字文獻語料庫E5應用之1
+
+Tan5-TeN7 Hong5-giau5 (陳鄭弘堯)
+Montclair State University
+
+摘要
+
+自1995年到taN有數千張e5白話字電子郵便保存ti7網路頂e5「Tai5-gu2-bang7」公共資料庫。Chit款e5白話字文獻因為無受著漢字e5束縛，內容khah che7是口語tek e5語料，對台語e5應用語言學、社會語言學e5研究有i  e5價值。本文描述利用chiah-e5現有資料來建立1 e5初步e5白話字文獻語料庫（30萬e詞），而且應用ti7台語功能詞素e5頻率分析。Goan2得--著e5 16%接近鄭良偉（1978）e5估計。因為台語功能詞e5漢字標準化tu2著be7-chio2 oh解決e5問題，chit-e5數據值得語文計畫專家參考。
+
+關鍵詞：台語詞素、功能詞、白話字語料庫
+
+
+
+
+計算台語功能詞E5頻率
+─「台語網」白話字文獻語料庫E5應用之1
+
+1. 前言
+
+Ho7-lo2話ti7台灣用羅馬字書寫e5傳統超過1世紀。Chit套文字（俗稱白話字1）ti7 90年代透過新e5電子郵便科技（e-mail）開始ti7網路頂進行無國界e5生thoaN3。自1995年開始，有3，500張以上e5白話字郵便粒積ti7 2 e5「Tai5-gu2-bang7」公共資料庫，chiaN5做1 e5原始e5語料庫（corpus）。當初設立chiah-e5資料庫e5原始目的並m7是beh方便學者研究；宣傳kap擴大使用者基礎chiah是主要e5目的。無議誤chiah-e5資料確實是現代白話字文獻e5 1大部份，轉換做適合語言分析e5格式是1項要緊e5事工。
+
+本文tai7先討論白話字語料e5 chit8-koa2特色，然後描述收集、處理chiah-e5白話字文本（texts）e5 1種方法kap所得--著e5結果。Goan2 koh進1步利用初步整理--過e5語料庫來計算台語網路書寫用e5功能詞e5頻率。TeN7（1978: 306）認為，無適當iah是無固定e5漢字e5 Ho7-lo2台語詞素佔5%左右，m7-koh因為其中包括be7-chio2常用e5功能詞，in ti7文本出現e5頻率大約是15%。本文無beh探討漢字kap功能詞素e5對應關係iah是對應e5比例。Goan2 e5目的猶原是beh利用chit-e5題目來檢驗語料庫e5品質，尤其用ti7量化e5研究當中。總--是，因為台語功能詞佔漢字無穩定e5詞素e5 1大部份，功能詞ti7文本e5比例愈koan5表示純漢字寫作e5策略更加ai有1套公認e5漢字選用標準，若無，to7應該接受羅馬字做正式e5文字iah是文字之1，chiah有可能避免讀寫e5困擾。
+
+2. 方法
+
+2.1 語料庫e5設計
+
+李勤岸（2000）收集20世紀主要e5台語小說來建立1 e5語料庫，thang進行語詞e5分析比較。I  e5資料來源部份本底to7是數據格式。相對chit款文學資料，goan2 e5做法是kan-taN採用目前網路頂現有e5白話字郵便資料，無另外去徵求iah是數據化其他可能e5台語語料來源（個人phoe信、一般網頁、刊物文章）。
+
+採用chiah-e5 liah8--落-來e5資料來建立語料庫有幾na7種好--處。第1是資料便便，無牽涉著著作權iah是商業使用權e5問題，任何人都thang去下載。第2，因為白話字是1種彷拉丁書寫模式e5字母文字，一般用teh處理英語語料（ASCII 編碼）e5軟體工具to7 e7-tang3應用ti7 chit款白話字資料，無親像漢字需要特別e5文字iah是轉換工具。Koh khah要緊e5 1點是，語料庫所收集e5資料e5性質：因為白話字e5表音規則oa2近音素分析，無特別註釋--過e5語料對音素/語音分析猶原有lou7用。比較--起-來，漢字做單元e5台語語料庫有i e5好--處（可比講語文教學），m7-koh ti7紀錄原始口語方面暗kham3著che7-che7款資料，尤其方言差、口語風格（speech  styles）。漢字書寫（包括漢羅並用）用字無一致e5情形ma7非常普遍，對研究者來講是1 e5挑戰。
+
+另外，根據goan2非正式e5參與觀察，goan2認為羅馬字e5書寫模式鼓勵母語使用者寫出khah有口語特色e5台語話句（utterances）2。因為漢字是華語文唯一e5媒介，白話字e5「全羅」書寫環境對降ke7華語e5干擾（transfer）hoan7-se3有效果3。Koh因為電子郵便是1種比傳統phoe信khah非正式e5寫作文體，通phoe e5網路內底koh有be7-chio2平常時熟sai7 e5有志，傾向口語、非正式e5環境e5趨勢kiam2-chhai2 khah明顯。設使chiah-e5初步e5印象e7-tang3得著實證，白話字e5語料應該比漢字e5語料khah oa2近直接e5口語抄本（transcript），所保存e5資料khah豐富。
+
+按照Ball (1997) e5分類，本語料庫e5設計有以下e5特色：
+
+* 媒體：電子文本。
+
+
+* 語料範圍：單語（monolingual）資料，資料來源是kang7時期e5母語使用者，無經過翻譯。實際上因為Tai5-gu2-bang7 e5國際特色、參與者e5階級背景、kap白話字e5多語功能，原始語料包括幾na7種語言，成員未必是母語人口。
+
+* 註釋：除了文本本底有e5郵便資料以外，無其他e5註解（詞類、語法、言談分析）。
+
+2.2 語料庫e5起造方法
+
+「Tai5-gu2-bang7」前後bat有2 e5公共資料庫。1995年1--月至1999年4--月e5郵便（800張左右）保存ti7台灣文化資訊站e5 loeng BBS版4。自2000年開始到2001年年底，有另外2，800張留ti7 Yahoo e5資料庫5。Goan2 ti7 Linux作業系統e5環境用GNU Wget（v. 1.5.3）來自動進行網頁下載e5 khang-khoe3。因為軟體tu2著技術問題，第2 e5資料庫e5下載工作be7-tang3順利進行，所以kan-taN台灣文化資訊站e5資料有包括ti7最後e5語料庫內底。
+
+Liah8--落-來e5 800份網頁檔案續--落-來交hou7 3 e5程式（附錄A）進1步去處理。In e5功能主要是（一）kui批簡化檔案名稱（batch  renaming），（二）清除重覆e5檔案6，（三）起造語料庫檔案。Chit-e5語料庫檔案be7-tang3包括網頁顯示資料用e5碼（親像HTML）。另外，附件e5檔案大多數是有漢字e5文書檔案，ma7無應該收--入-去；總--是，因為技術性e5問題，goan2暫時ka7算在內。Goan2 e7 ti7(3.2）討論資料品質e5問題。
+
+2.3 分析e5步數
+
+計算1 choa7符號ti7語料庫出現e5頻率並無困難。M7-koh單純機械式chhoe7--出-來e5符號未必是1 e5有意義iah是kang7款意義e5單元。理論上goan2設計e5第4 e5程式e7-tang3統計語料庫e5詞頻（token frequencies），而且根據1 e5檔案提供e5詞條chhoe7出hiah-e5詞e5詞頻，得著功能詞ti7語料庫e5頻率。Chit-e5應用題所需要e5台語功能詞詞條列ti7附錄B，主要參考TeN7（1984）。實際上，chit-e5程式對「詞」e5定義是機械式--e5:原則上只要符號kap符號中間有lang3縫（space）to7 ka7當做1 e5獨立e5單元，連符（hyphen）相接e5詞素屬於kang7 1 e5單元，功能無kang5 m7-koh符號sio-siang5--e5 to7 ka7當做kang7 1 e5詞。Khah下kha e7探討chiah-e5因素對分析e5影響。
+
+3. 結果kap討論	
+
+3.1 語料庫e5描述
+
+Goan2得--著e5語料庫收集著1995年至1999年中間e5「Tai5-gu2-bang7」電子郵便800張左右，long2總超過6萬choa7(30萬e詞），檔案空間大約2.3 MB。平均1張phoe包含370 e詞。
+
+3.2 功能詞ti7文本內e5頻率
+
+附錄B所列--出-來e5頻率合--起-來總共49，723 e詞，等於語料庫所有e5詞e5 16.3%。Chit-e5數字e5可靠性tioh8 koh斟酌，總--是kap TeN7（1978: 308）得--著e5 15%台語sio-oa2。
+
+Beh檢驗chit-e5結果e5真實性e7-tang3 ui3 2 e5方向進行。第1是收入語料庫e5文本e5語言一致性e5問題，第2是判斷「詞」e5問題。針對第1 e5問題，beh得著有意義e5功能詞計算，語料庫所收集e5文本應該kan-taN包括單一語言。總--是，chin3前ti7(2.2）有講--著，佔chio2數e5郵便附件無法tou7排除ti7語料庫之外是本研究khah無理想e5所在之1。Chiah-e5附件khah che7是編碼--過e5 binary資料，因為內部無lang3空白（space），程式統計e5過程ka7當做1條詞。另外有夾ti7白話字之間e5華語kap通phoe者轉寄e5華語文章（媒體報導為主）。頭1類e5數量非常chio2，後1類因為oan-na是編碼--過e5 binary，程式按照lang3縫e5頻率ka7當做「詞」計算。
+
+Khah oh處理e5問題是通phoe者轉寄e5英語文章。因為英文kang7款是拉丁式e5文書形體，詞kap詞中間tiaN7-tioh8有空白，無特別安排英文詞典iah是其他分辨語文e5方法真phaiN2 ka7排除在外。因為chit-e5限制，本語料庫得--著e5詞條e5純度iau2無夠理想，偏差造成功能詞e5頻率計算偏向khah ke7。
+
+第2 e5層面是計算詞頻e7 tu2--著e5問題。原始e5語料庫真有可能因為拼音錯誤、拼音規範無kang5、方言無kang5等e5因素收入各種表面上無sio-siang5 e5詞。分析工具若ka7當做獨立e5詞條，得--著e5結果tiaN7有偏差。英文e5 color/colour、organize/organise反映出地方性e5規範無一致e5情形，you/ya/y'代表無kang7款e5社會意義。白話字因為iau2屬於「我手寫我口」e5拼音系統，而且無經過標準化e5過程，拼音多元化e5例比英文加真che7，親像be7/boe7、tioh8/toh8/to7、e5/ge5、iah/ah8、an2-choaN2/an2-noa2。Goan2 e5分析步數並無針對chiah-e5可能e5變異因素做完整e5處理（修訂錯誤、處理方言差等等），致使chit8-koa2功能詞e5變異體無包括ti7詞條e5統計內底。若ka7 chin3前提起e5問題ma7包括在內，終kui尾e5影響是得--著e5 16.3% siuN ke7。
+
+詞頻計算e5層面iau2 koh有 3 e5需要斟酌e5所在：聲調、斷詞kap詞類。真che7詞素kan-taN增差ti7聲調。雖然白話字e5設計有考慮著主要e5聲調變化，使用者製造--出-來e5文本未必反映著傳統e5規範。科技e5限制7、人為e5因素8造成Tai5-gu2-bang7 e5使用者khah che7無phah iah是無法tou7 phah白話字e5聲調符號。一般來講，kou-put-chiong需要表示（iah是beh強調聲調）e5時chun7 chiah用數字代替。
+
+本文ka7斷詞e5意義限制ti7羅馬字書面語處理lang3縫e5問題kap為beh解決問題所制訂e5規則。Tai5-gu2-bang7屬於tng teh發展e5 community of practice，無論是現有規範e5實踐iah是新規範e5發展long2可能有i e5無穩定性。功能詞e5部份表現ti7 in kap非功能詞（content  words）之間e5關係─平平kang7段上下文，有時用連符iah是雙連符（輕聲記號）sio接，有時無。本語料庫e5內容ma7反映出chit款無穩定性。Ti7計算e5過程，goan2並無去處理夾ti7別e詞e5功能詞；chit-e5限制ma7影響著詞條e5頻率。
+
+Siong7尾，需要考慮e5問題牽涉著「kang7音詞」（homonym）。親像tioh8--tioh8 e5 2 e5 tioh8 e5語法功能無sio-siang5(動詞 + 功能詞），應該ai區別。總--是，chit-e5課題牽涉著語料庫進1步根據詞類來解析（tag）i e5內容，chit-e5層次e5分析超出本文e5範圍。
+
+4. 結論kap未來方向
+
+本文初步認定90年代e5白話字電子文獻對語言、語文e5研究有價值。Goan2 ti7資源有限e5情形下演示如何利用程式起造1 e5原始e5語料庫，然後去統計台語功能詞ti7現代白話字網路文獻e5頻率。因為語料庫純度iau2無夠、白話字書寫無一致、詞類無分別等等e5因素，量化e5詞條研究iau2無thang做到頂真e5程度。總--是，ti7出刊e5台文作品kap日常口語之間，電子郵便e5寫作應該有i e5特殊性。Ti7社群e5層次e7-tang3研究台語文ti7 10冬以內e5演變kap標準化過程，ti7個人e5層次e7-tang3研究白話字初學者學習e5過程，ma7 e7-tang3比較文字系統kap表達能力e5互動，對Ho7-lo2話e5言談（discourse）分析ma7是1種資料來源，值得進1步開發。
+
+
+1 最近幾年另外號做「台灣字」（TOJ）。
+2 雖然漢字書寫e5台語文可能khah欠「口語特色」，m7-koh猶原算是「自然」（非人工）e5話句。
+3 根據非正式e5觀察，Tai5-gu2-bang7 e5成員long2是雙語 iah是多語者，而且大部份bat華語，kan-taN chio2數e5外國人bat台語，m7-bat華語。
+4 http://twserv.csie.nctu.edu.tw/cgi-bin/showlist?loeng+-
+5 http://groups.yahoo.com/group/taigubang/
+6 GNU Wget e5重要功能之1是i有法tou7追蹤指定網頁中任何1 e5連結（link），來完成kui-e5網頁目錄e5下載。M7-koh因為台灣文化BBS站e5連結有無kang7款e5顯示方式，kang7 1  e5網頁不幸有可能m7-taN7 liah8著1 pian3。其他無需要e5檔案包括圖形、BBS本身e5網頁等。  
+7 科技e5限制包括軟體e5取得、安裝、設定、使用，其中輸入軟體beh好用，需要su3配e5電腦設備（尤其keyboard）。
+8 時間、慣勢。
+
+
+
+

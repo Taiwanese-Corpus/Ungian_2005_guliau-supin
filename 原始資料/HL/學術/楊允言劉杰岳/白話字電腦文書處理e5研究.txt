@@ -1,0 +1,139 @@
+白話字電腦文書處理e5研究
+
+Lau5 Kiat8-gak8 劉杰岳 台文罔報編輯 kiatgak@phahng.idv.tw	
+IuN5 Un2-gian5 楊允言 大漢技術學院資訊工程科 講師 ungian@pchome.com.tw
+
+摘要
+白話字ti7台灣社會有百外冬e5歷史，以台語書面語來講，白話字有數量siong7 che7 e5教科書、字/辭典、文學作品...。M7-koh，因為調符e5問題，電腦文書處理方面必須另外做處理，這點，成做真che7拼音符號系統創造者beh另外制訂一套符號所強調e5其中一個理由。本文beh針對個人電腦ti7處理白話字方面，所開發出來e5軟體做一koa2探討，主要是TW301、HOTSYS kap TP，包括調符、輸入方式、特殊台語漢字、輸入法...等等e5技術問題，說明chiah-e5軟體對台語文發展e5貢獻，最後，提出白話字相關軟體未來e5發展方向。
+
+關鍵詞 白話字、TW301、HOTSYS、TP、台語文
+
+一、白話字e5 歷史
+
+白話字並m7是台灣chiah有e5名稱，利用羅馬拼音來書寫某一種口語語言long2會sai2叫做白話字。其中台灣白話字，是台灣各本土語言所採用e5羅馬字，包括Ho7-lo2話、客話、台灣各原住民族所使用e5。為著方便，本文以下所講e5白話字就是指台灣白話字，特別是指Ho7-lo2話e5白話字。
+
+若是無算新港文書這種目前已經無人使用e5語言e5台語書面語，白話字e5歷史會tang3 ui3 180年前Me2-lu-sut8 (Medhurst)編《福建方言字典》(1832年)開始算。[TiuN 2001 p14] Ti7台灣發行e5第一份報紙：《台灣教會公報》(原來e5名稱是《台南府城教會報》)是1885年開始發行，所以白話字ti7台灣ma7有超過一百冬e5歷史。一開始，伊是傳教士傳教e5工具，同時ma7是部份民眾吸收新智識e5 媒介。白話字這個名稱，kap當其時台灣使用e5另外兩種文字：孔子字（古漢文）、唐人字（華語白話文）相比pheng7,伊是ti7台灣唯一會tang3將台語寫落來e5文字[Lau5 1886]。雖然白話字ti7日本時代kap 國民政府時代long2有受著迫害，[TiuN 2001 p18-19]總是，白話字是kau3目前為止文獻資料siong7 che7 e5台語文字，出版品包括字/辭典、醫學、台語教材、文學創作、翻譯作品、學術論文、宗教、...等等，面向真闊而且豐富，伊以經世俗化，並無限定ti7教會內底使用 。(註1)
+
+Ti7台灣，咱所講e5「國際」其實主要kan-na是日本、美國，台灣人khah熟sai7 e5拼音符號，主要是ㄅㄆㄇ、ａｂｃ kah kha-na(假名)。白話字有部份e5符號，超出英文26個字母，soah chiaN5做一koa2人反對伊e5理由，超出e5部份，有e5 ti7西歐文字字母內底chhoe7會著，chhun--e5,以電腦文書應用e5角度來看，就需要做處理[Te3 1999]。
+
+受著電腦科技發展e5影響，大部份出版品，long2用電腦來排版，白話字soah 因為調號暫時無khah好e5處理方式，只好另外設法。有e5用數字代替，可比「Tai5-oan5」寫做「Tai5-oan5」；ma7有歸氣用手撇來處理調號，m7-na7校對費氣而且ma7無sui2。
+
+二、TW301
+
+TW301是夏威夷大學東亞語文研究所鄭良偉教授ti7 1990年發展e5 軟體，提供台文工作者一個真利便e5工具。TW301用BIG-5、倚天中文系統做基礎來發展。
+帶調符e5白話字e5內碼ti7 128--160中央。TW301修改兩個倚天中文系統提供e5檔案：ascfont.15（16點e5字）kap ascfont.24（24點e5字），將內碼128--160 e5內容做修改，請參考表一：
+
+Ti7 chia，簡單做一koa2解說：
+(1) 第二聲（a2)、第三聲（a3)、第五聲（a5)e5符號，標準ASCII碼本身就有提供，有提供e5就無徙位，致使無照”a2 a3 a5 a7 a8” e5順序來；
+(2) 128--160long總33個位，無夠將所有大寫e5符號he7入來；
+(3) 帶調符e5 “n” long2 是kap “g”做伙出現，所以徙對2-byte e5漢字造字區，以”ng2 ng3 ng5 ng7 ng8” e5 形式出現。
+
+另外，特殊e5 台語漢字，親像 [mai3]、 [in]、 [chhit/thit]、 [tho5]、 [e5]等等就利用倚天提供造字程式來處理。
+
+輸入法e5部份，TW301利用倚天中文所提供e5詞庫輸入法，將台語詞khng3 ti7內底，利用多音詞、直拍法、簡拍法，來提升速度。
+
+利用多音詞、直拍法kap簡拍法改進輸入e5速度，基本原則就是減少揀字詞e5機會，一個音有幾lo7字，咱若是用雙字詞iah是三字詞，重覆e5機會就真少a；直拍法是針對khah chiap8使用e5單字詞，可比「e5、會、be7」等等，咱用 ee55、ee77、be77 ka7叫出來，按呢就免揀字；簡拍法是將khah chiap8 用e5多音詞，khioh 伊e5 第一個字母，減少輸入齒(key)，可比beh出現「今仔日」就 拍 “kaj”。
+
+以下簡單歸納TW301 e5 優點：
+(1) Hou7台語文工作者家己整理台語文章，省去交印刷廠排版、校對e5費氣；
+(2) 詞庫輸入法提供使用者家己修改詞條，加減會tang3增加拍字e5速度。
+TW301問世無外久，微軟(Microsoft)公司sak出圖形介面e5作業系統，hou7使用者真利便，所以愈來愈少人使用DOS。TW301對台語文運動幫贊真大，總是無法度阻擋這個趨勢。
+
+三、HOTSYS
+
+HOTSYSR全名是HOTSYSR-HAKSYSR，是蘇芝萌先生所構想、發展e5 軟體。
+HOTSYSR e5發展，是以Windows 作業系統做基礎，1994年正式提出，hit 陣是英文版Windows加雙橋漢字系統，1996年sak 出中文Windows 3.1 e5 HOTSYSR版本，後來koh有繼續改版。除了Windows作業系統，HOTSYSR另外一個基礎是Word文書處理軟體。
+
+調符e5部份，HOTSYSR造HoloWin、HakkaWin! kap Hobo三種字型。Ti7 Windows系統，UTF-8 e5字型內碼128-255(0x80-0xFF)long2會sai2使用，按呢，帶調符e5白話字，包括大寫e5 long2會得入來，請參考表二。所有e5 調符long2 ti7 內底， 另外koh 加 ”μ” e5 符號，是客話使用e5。
+
+特殊e5 台語漢字，觀念kap TW301 kang7款，Windows作業系統e5 中文字型有提供造字e5 功能。
+輸入法e5 部份，HOTSYSR另外發展T/Windows台文輸入法。Ti7 這個詞庫內底，kang7款有多音詞、簡拍法、直拍法等e5 功能。T/Windows輸入法提供一個功能，揀過e5詞以後會排ti7頭前，用一段時間了後，khah無用著e5詞條會慢慢仔走對後壁。
+另外，HOTSYSR運用Word自動校正功能，自動將使用者拍e5數字轉做調符，koh 會tang3將通篇e5調符轉數字、數字轉調符。
+綜合以上所講e5,HOTSYSR有以下e5優點：
+(1) 伊是目前所知唯一用團體力量（Teamwork）合作完成e5 台語相關軟體；
+(2) 輸出品質好；
+(3) Ti7輸入法揀過e5詞，後pai2會排頭前；
+(4) 輸入法，頂回揀著e5 詞，後pai2會排頭前；
+(5) 詞庫無開放hou7 使用者修改，維持詞庫e5一致性；
+(6) 自動將數字轉換做調符，輸入利便；
+(7) 提供數字轉調符、調符轉數字e5 功能，方便資料交換；
+
+四、Taiwanese Package
+4.1. 背景
+網際網路(internet) 普遍以後，資料e5流通速度加chiaN5緊，M7-koh HOTSYSR編出來e5資料若beh轉做網頁會有問題，一koa2符號be7-tang3正常顯示。Taiwanese Package (以下簡稱TP ) e5出現，hou7 chiah e5問題得著解決。
+
+TP使用字型e5技術來處理白話字，包括Ho7-lo2話、Hak-ka5-fa、原住民族語言。
+TP主要分做四部份，合做伙以後ka2-na2歸個套裝軟體(package)。Siong7重要e5部份是字型(Taiwanese Serif) kap輸入法(借用English-New Zealand)。有這兩部份，就會tang3 ti7 che7-che7 e5軟體頂koan5使用白話字。另外一部份是配合Microsoft OfficeR來用e5 macro，用來轉換用別種表示白話字e5格式 (包括HOTSYSR 以及用數字代替調符e5白話字 )。另外一部份是公用軟體(utility)，用來轉換TW301格式e5資料。
+
+TP會tang3 ti7 khah che7 e5系統來使用，包括英文版、日文版、中文版e5 Windows。無kang7語言e5 tak8種版本，像Windows 95/ 98/ ME/ NT/ 2000/ XP，ma7 long2會tang3。
+
+4.2. 技術探討
+
+TP使用字型技術處理白話字，借用西歐文字編碼(Western Europe)，ka7其中部份白話字無用著e5字母換做白話字特有e5字母。內碼128~255 部份請參看表三。
+
+字母表安排e5 原則是：
+(1) Kap西歐本chiaN5 kang7款 e5符號就ka7保留，像” a2 ”；
+(2) 選字型相oa2 e5字母來代替，像” a7 ”用” a ”來代替；
+(3) 儘量閃過符號e5 部份，像160(OxA0)本chiaN5是一種特別e5空格 (non-breaking space ) 就無提來用；
+(4) chhun--e5 照順序排落來。
+這種安排方式有兩個好處：
+(1) Kap 現有e5 系統、軟體有siong7 koan5 e5相通性(compatibility)，ti7西歐語言版本e5 Windows差不多所有e5 軟體long2馬上會tang3 直接使用白話字--a，連Notepad（記事本）ma7無問題；
+(2) Ti7 Windows 95/98/ME chiah e5對Unicode 無sim2-mih支援e5系統ma7會tang3使用。使用字型e5處理方式，並m7是標準e5做法，m7-koh世界上e5語言chiah che7,電腦系統有正式支援--e5有限，大部份做法long2是用類似方式來處理。
+
+Ti7使用漢字e5系統，像中文版、日文版e5 Windows，因為128~255 e5編碼會kap現有e5編碼去衝--著，beh用白話字就限制ti7會tang3選擇字型e5軟體。
+
+Ti7字型e5部份，TP本身有提供Taiwanese Serif e5 字型。實際上，白話字 本身就是一種西歐e5 文字，配合語言本身e5 需要增加chit-koa2 特別e5 符號nia7-nia7。
+
+輸入法e5部份，TP提供「[En] English (New Zealand)」。借用English (New Zealand) e5 原因是英文無用著128~255 e5編碼，khah be7去衝--著。設計e5原則比照西歐e5 方式，使用”deadkey”、”AltGr”  chiah e5慣例。
+
+4.1.	特色
+TP主要有三個特色：
+
+1. 證明白話字 ti7 電腦頂koan5 ma7 真好用
+TP設計e5時：
+(1) 採用siong7 基本e5 電腦系統原理來設計，包括輸入法kap 字型；
+(2) 採用siong7 通用e5 字型技術來處理語言無hou7 系統支援e5 問題；
+(3) 注意無kap 別e5 軟體相衝。
+2. 真che7軟體頂面會sai2使用
+Ti7西歐語言版本e5 Windows使用白話字無問題。Ti7使用漢字e5 中文版Windows內底，就需要會tang3選擇字型e5軟體，像WordPad、Microsoft Word、Outlook Express、Excel、FrontPage、PhotoDraw 這類e5軟體。特別是ti7 網頁頂koan5會tang3直接使用白話字這點，ti7現此時網路時代，m7-taN7提升白話字資訊化e5 程度，並且加速白話字流通e5速度。
+3. 會tang3處理原住民族語言、Hak-ka5-fa、Ho7-lo2話
+Ui3 頭前e5 表e7-tang3 看著現此時有leh用e5白話字符號long2 有khng3--入來，包括各種台灣母語。
+
+六、其它
+
+除了以上提起e5文書處理軟體以外，koh有用無kang7方式解決白話字問題e5軟體iau2是方法，ti7 chia簡單做說明。
+
+6.1 CTex
+台大語言所張裕宏教授利用Ctex處理白話字e5 調符。Ctex 就是中文Tex，主要用途是數學符號e5排版。處理台語調符免用複雜e5數學符號，m7-koh，CTex有提供”a2、a3、a5、a7、a8” chia e5符號，”ou” kap “N” ma7 好處理。
+
+6.2 圖形e5方法
+蓋讚科技負責人廖倚輝先生用be7少時間tih 開發台語相關軟體。蓋讚科技e5 網站有帶調符e5 羅馬字，伊是將羅馬字當做圖來處理。
+
+七、未來e5 方向
+
+台灣beh 行入世界，就愛使用世界通用e5 標準。Ti7資訊資料e5編碼，現此時世界上siong7重要--e5是Unicode。伊會tang3表達世界大多數文字，互相be7去衝--著。若考慮台灣beh國際化，未來多語言使用e5需求會chiaN5 koan5,愈早使用Unicode 愈好。根據1991年出版e5 Unicode 1.0，白話字所有e5符號long2有包括ti7內底，只是有部份符號愛用組合e5方式來處理，既然白話字有che7-che7 e5文獻，為著資料數位化e5需要，咱應該向ISO申請將這部份e5字母正式編碼。[Uni 1991]
+另外，ti7出版界一向long2是使用Mac e5電腦khah che7,為著beh hou7白話字koh-khah普遍，應該愛開發Mac頂koan5 e5 白話字軟體。
+
+參考資料
+[Chan 1997] 曾正義，《台語電腦強強滾﹕HOTSYS台文系統操作手冊》，1997，台中：雙語出版社
+[HOT] hotsys網站：http://www.hotsys-haksys.cm
+[IuN5 1993] 楊允言，〈台語文字化e5 過去kah現在〉，收錄ti7 《台灣史料研究》創刊號p57-75，1993，台北：吳三連台灣史料基金會(ma7有刊ti7 http:// 203.64.42.21/iug/Ungian/Chokphin/Bunjihoa/bunjihoa.htm )
+[IuN5 2000] 楊允言，〈個人電腦處理台語羅馬字e5探討〉，收錄ti7《資訊技術與應用學術研討會》p45-57，2001，花蓮：大漢技術學院資訊工程科 (ma7有刊ti7 http://203.64.42.21/iug/Ungian/Chokphin/tiannauPOJ/tiannauPOJ.htm )
+[IuN5 et. 2000] 楊允言等整理，《白話字文獻書目》，2000，發表ti7 http://203.64.42.21/iug /ungian/soannteng/poj.htm 
+[IuN5&TiuN 1999] 楊允言、張學謙，〈台灣福佬話非漢字拼音符號的回顧與分析〉，收錄ti7 《台灣母語文化重生與再建學術研討會》論文集p62-76，1999，台南：台南市文化基金會(ma7有刊ti7 http://203.64.42.21/iug/Ungian/Chokphin/ Huho/huho-0.htm )
+[KCH] 蓋讚科技網站：http://www.twsoft.com.tw/index.html
+[Lau5 1886] Lau5 Bou7-chheng，〈Peh8-oe7-ji7 e5 Li7-ek〉，刊ti7《TAI5-LAM5 HU2-SIAN5 KAU3-HOE7-PO3》p42，1885-1886年
+[Lau5 2001] 劉杰岳，〈Unicode e5 Pit-ki3 (Unicode e5筆記〉，刊ti7《TAI5-OAN5-JI7》第六期p6-9，高雄：高雄台語羅馬字研習會，2001年3月
+[Mak 2001] Makatau Loan作，Leng5-leng5、A-hui7漢羅翻寫，〈台灣字(白話字)邁入網路e5新天地〉，刊ti7《台文罔報》第55期，台北：台文罔報雜誌社，2001年4月
+[Ng5 1988] 黃省堂，〈帶聲調記號的台灣教會羅馬字製造法與使用法〉，收錄ti7 《台灣風物》38卷2期p158-185，1988，台北：台灣風物雜誌社
+[Te3 1999] 戴凱序，〈Writing Latinized Taiwanese Languages with Unicode,1999 Edition 〉， 1999，發表ti7 http://www.taiwanese.com/tp/tpsurvey/ tpsurvey.pdf 
+[TeN7 1993] 鄭良偉，《台語電腦文書處理輸入法系統：TW301使用手冊》，1993，台北：前衛出版社
+[TGB] 台語網 http://groups.yahoo.com/group/taigubang 頂面相關e5 討論
+[Tiun 2001] 張裕宏：《白話字基本論：台語文對應&相關的議題淺說》，台北：文鶴，2001年3月
+[TP] Taiwanese Package網站 http://home.kimo.com.tw/kiatgak/ 
+[Uni 1991] Unicode Inc.：《The Unicode Standard─WorldWide Character Encoding》Version 1，Addison-Wesley Publishing Company，1991年10月
+
+
+註1：以高雄台語羅馬字研習會做例，in使用白話字，m7-koh成員內底，90% m7是基督徒；台語網是使用白話字討論、聯絡代誌e5網路社群，成員有台灣人、外國人，分散ti7世界各國，成員內底ma7真che7人m7是基督徒，m7-koh有一koa2以前ti7教會學過白話字e5朋友加入，因為教會並無積極tih推sak白話字，in hia並無成立一個kah chiah-e5社團會tang3比pheng7 e5白話字使用社群。
+
+註2：“deadkey” e5意思是，有e5符號，當你輸入e5時陣，伊be7隨走出來ti7螢幕，會等第二個符號輸入了後chiah會顯示，可比講輸入” ` “螢幕暫時無反應，koh輸入”e”了後，螢幕頂面就會出現”e3”；”AltGr” 是正peng5 e5 Alt齒，可比ti7 TP，輸入”q”會出現” ou “，若是需要”q”這個符號，就輸入AltGR+q。

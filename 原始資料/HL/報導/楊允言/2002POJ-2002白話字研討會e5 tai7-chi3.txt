@@ -1,0 +1,45 @@
+2002白話字研討會e5 tai7-chi3
+楊允言
+1. 原起頭
+2001年6月，為著國校九年一貫課程beh開始，我設立1 e5「九年一貫鄉土語言台語教材資源中心」e5網站(http://203.64.42.21/POJ/)，ma7請永芳兄、杰岳兄、弘堯、A惠、學謙兄、宗信兄等人提供相關資料kap tau3整理文稿，其中有1部份篇幅tih討論TLPA e5問題。Chit幾冬來，lan2感覺TLPA用真choe7暗步，tih搶白話字(POJ) e5空間，尤其第1線e5工作者感受chiaN5深。Hit-chun7我想，in既然用各種學術包裝、政治手腕來打擊POJ，lan2應該公開來討論chiah-e5問題，透過討論建立lan2 e5共識，清楚表明lan2 e5立場，白紙寫烏字，ka7話講hou7透枝。
+M7-koh，e7辦台語文相關e5研討會，hit-chun7 to7 kan-taN民視kap台灣語文學會，民視e5學術性khah ke7，台灣語文學會是TLPA e5制訂單位。另外1方面，我ma7感覺，POJ雖然ti7台灣e5學術界khah無勢力，是講lan2 e5學術能力並無khah bai2，其實有才tiau7來辦研討會，透過學術討論，來提升POJ e5地位。當然，an2-ne我beh寫e5批判TLPA e5論文，to7免驚無所在thang發表--a。
+8月，第7屆世界台語文化營開了，台灣羅馬字協會(TLH) ma7正式成立，我是15位理事之1，後--來向理事會提議辦研討會，通過。實在lan2腳手ma7無，意思to7是ka-ki7 ai3 liau5--落-去，總款--lah。
+Khah早我ti7東華大學食頭路e5時，pat參與研討會e5籌備，差不多10人，做1冬；koh今年4月ti7中山大學辦e5「第4屆台灣語言及其教學國際學術研討會」，我ka7看，大概20人，做半冬，開百thong2萬。Lan2 e5研討會，腳手真欠，TLH補助8萬，去外口請錢請無，有將近1冬e5準備時間。
+我認為lan2 e7-sai2透過辦研討會，訓練lan2 e5學術寫作能力，整理lan2過去所phah拚--e5，重要--e5是ai3有論文集留--落-來，免siuN ka-iah8，只要論文集有出--來，e7-tang3 chhai7 ti7圖書館，iah是論文khng3 ti7網路頂面hou7人引用，an2-ne，lan2 e5 phah拚to7有價值--a。
+
+2. 籌備e5情形
+因為人chio2，所以我知iaN2 ai3 khah獨裁--leh chiah有效率，我放棄用電話聯絡來減輕負擔，kan-taN用Email聯絡tai7-chi3，我提出建議，用Email問委員e5想法，儘量照委員e5意見，若無意見to7我決定。Chit8開始先chhe7審稿/議程委員，寫Email問i是m7是願意tau3-saN-kang7，另外ma7開始發徵求論文e5消息，先寄摘要來審查，要求ai3用台語文寫，無論漢羅iah全羅，羅馬字用POJ。
+地點e5選擇，原底相著POJ e5發源地台南，希望tiam3成大台文所辦，總--是台文所2002年beh成立大學部kap博士班，無閒chhih-chhah。後--來請學謙兄tau3幫贊，ti7台東師院語教系。
+研討會e5時間，為著方便海外tng2--來e5朋友參加，kap第8屆世界台語文化營(TBI)連sio續，TBI 7/11~13 ti7高雄，7/13 e-pou是交通時間，7/14研討會。本來ma7希望tak8-e5來台東，e7-tang3順續感受東台灣e5風土人情，總--是，連續4工，對choe7-choe7朋友來講，已經盡pong7--a。
+12月e5時研討會網站設立(http://iug.csie.dahan.edu.tw/2002GTH)。
+12月底，徵求論文摘要截止，long2總收著26篇，比原來e5按算加chiok choe7，其中有2人投2篇。經過審稿委員e5評分kap討論，拒絕其中4篇，chhun--e5 e5 22篇，後--來有6篇無寫--出-來；另外有1篇，是TLH理事長張醫師邀請南師許長謨教授投稿，許教授有Email 摘要hou7我，m7-koh hit-chun7我e5電腦teng5-taN5--去，soah收無著，3月e5時chun7，許教授ka7學謙兄講，我chiah知iaN2 chit層tai7-chi3，經過委員e5同意，將許教授e5論文ma7列--入-來，所以long2總有17篇論文發表。另外，有2場邀請講座，分別是鄭良偉教授kap德國學者Henning Kloeter7(感謝理事長張醫師e5聯絡）。因為an2-ne，chit-e5學術研討會加掛「國際」2字，chiaN5做「2002台灣羅馬字教學kap研究國際學術研討會」。
+論文摘要審查是將收--著e5論文摘要khng3 ti7網站頂，m7-koh需要有戶頭kap密碼chiah e7-tang3看，我寫1 e5 ASP Program來處理chit部分，省去寄送e5費氣。委員將評分表kap意見寄hou7我整理，我chiah來做統計。
+另外，因為徵求論文e5部分有列1 e5主題：POJ kap其它符號e5比較，有2篇論文摘要明顯是kan-taN beh講另外e5拼音系統，chit 2篇後--來hou7審稿委員拒絕，其中1 e5作者有意見，kap我通真choe7張Email討論chit件tai7-chi3;另外，ma7有1 e5 hong5拒絕e5作者對評審委員表示強烈不滿。
+
+
+3. 會議前
+6月開始報名，我開始分配khang-khe3，報名辦法出--來了後，請黃玲玲老師處理報名資料、做紅布條，另外為著beh省錢，名牌e5塑膠套a2，演講者e5塑膠kheh-a2等等，long2用台文營e5;學謙兄chit-peng5 tau3 chhoan5交通資訊kap toa3旅館e5資料、會場佈置、印論文集……等等。Toa3 e5問題，後--來chiah發現大事不妙，7/13是拜六，台東e5旅館特別phai2訂！
+我ma7將報名辦法、議程、論文全文、交通/旅館資訊掛去網站頂koan5。為著beh增加台語文，尤其是POJ e5能見度，掛ti7網站e7-tang3 hou7 chiah-e5論文增加hong5引用e5機會，chio2數論文作者無同意刊全文--e5，to7 kan-taN掛摘要。
+Phah算boe7超過50人參加，我請學謙兄代訂旅館，tu2開始先訂台東公教會館10間，有boe7 chio2人ti7報名截止了後chiah來報名，koh beh加訂房間e5時，公教會館已經無位--a，只好有--e5訂ti7勞工育樂中心。一直到研討會前1工，koh有臨時beh報名參加，需要代訂旅館--e5，害我1粒頭殼mouh leh燒，bu2 1 e7 thiam2 kah歪腰。後--來long2總訂25間房。
+校對論文了去siong7 choe7時間，大概bu2 1個月以上，chio2部分作者是手寫稿寄來我un5-un5-a2 phah字，koh有幾e5作者對POJ無hiah-ni7熟手，一般研討會e5論文，論文內容是作者ka-ki7負責，lan2第1 pai2辦，希望減chio2 chit8-koa2錯誤，橫直看了koh改，改了koh看，看kah目chiu kiong7 beh thoah窗。
+7/11~13 ti7高雄辦台文營，7/12我先tng2來花蓮，mih8-kiaN7 chhoan5-chhoan5--leh，7/13 chai2起駛車落去台東。學謙兄chit-peng5，感謝大嫂廖老師ma7落來tau3-saN-kang7，hou7準備khang-khe3 koh khah好勢。
+
+4. 7/14 ti7台東
+參加e5人有80 e5以上。
+老實講，我kan-taN e7記leh天氣熱kah，研討會會場邊--a2 e5教室看e7著遠遠e5大海，因為研討會排ti7 1工，議程有khah an5，我chong5來chong5去，無thang坐落來好好a2聽tak8-e5 e5精彩論文發表。
+
+
+
+5. 會議了
+研討會超過時間結束，大部分e5朋友趕遊覽車tng2去高雄，我留ti7台東，真歡喜圓滿結束，無發生大問題。
+其實chit-e5時chun7，我kui-sian人long2軟--去-a。實在真thiam2頭，做1 pai2 to7已經叫m7敢--a。
+暗時，kap學謙兄kui家口a2，連我e5某kiaN2走去史前博物館看水舞，thiam2 bong2 thiam2，心情chiok輕鬆，學謙兄tih kap我討論未來koh beh做e5 khang-khe3。
+
+6. 檢討kap建議
+我開1 e5頭，希望lan2 POJ研討會e7-tang3繼續辦--落-去，chit-e5想法，因為2003年為文tng2--來，答應負責2004白話字研討會，所以確定辦e7成，心內真歡喜。
+Chit-pai2 e5研討會，因為先摘要審查，所以khah了精神，建議以後e7-sai2考慮直接全文審查。
+Lan2 koh有choe7-choe7議題thang好好a2來ka7整理，親像為文接2004 POJ研討會，按算beh改寫台灣文學e5歷史，che是1 e5 chiok好、chiok重要e5觀點。除了che，我ma7希望lan2 e7-sai2將lan2 chit 10幾冬e5 phah拚做chit8-koa2整理，可比台語網、學生台灣語文促進會、台文通訊、台文罔報、……等等e5歷史，chiah-e5 mih8-kiaN7整理--出-來，對lan2以後e5傳承iah是推廣絕對是chiok要緊--e5。
+
+
+
+

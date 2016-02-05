@@ -1,0 +1,20 @@
+台灣字（白話字）邁入網路e 新天地
+            原作：	Makatau Loan
+漢羅用字整理：	Leng5-leng5、A-hui7
+近來通用拼音 kap 漢語拼音 ti7  台灣 tak kah 烏天暗地。台灣字（白話字）這個tiam3-ti7 台灣khia7 起已經有150 冬 e5 先覺者，soah hou7 頭前這2套屘kiaN2 ka7 風神搶搶--去。Be7-su 講是 in khah 好，khah 合台灣人用--le。
+Khou-a2 內 e5 人long2 知影台灣字有世界通用性，有台灣傳統性，有社會流通性，有文獻e5 多樣性。M7-kuh 比起 TLPA——另外1個屘kiaN2 ，beh進入電腦 e5 路程就有khah kham5-khiat8。原因是台灣字特有 e5 聲調記號。第2、3聲long2 算好處理，m7-kuh 第7 kap 第8聲ti7 一般e5 電腦字形iah 是特殊符號表真oh得chhoe7。這個問題ti7 PC Windows e5 出現，宣告個人資訊化時代e5 臨到，有愈khah 緊急，因為電子資料 e5 流通是上kai3 有速度、有效率 e5 溝通方式。
+90年代蘇芝萌先生 kap 其他人發展--出-來 e5 HOTSYS(r)，ti7 台灣字 e5 電子資料化扮演真重要 e5 角色。台語文作家會sai2 藉這個軟體，用台語 e5 思考來寫作，進行台語文台灣字kap 漢字文字e5 電子化。這個風氣激出有愈che7 人用台灣母語來創作。M7-na7 an2-ni ，現時台灣流通上闊，讀者上che7 e5 《台文通訊》kap《台文BONG報》，long2 是採用 HOTSYS 來處理台灣字。連台灣島內 chiang3 時唯一koh teh 發行e5 台語全羅馬字 e5 雜誌——《Tai5oanji7》，也是用HOTSYS備辦。
+雖bong2 HOTSYS(r) hou7 台灣字踏入去PC Windows內底，m7-kuh 因為HOTSYS(r) ai3 kah ti7  MS Word內面chiah 會sai2 使用，其他軟體無合，ma7 無法tou7 使用ti7 internet 網路(無合HTML e5 格式)。Beh ti7 網路頂顯現台灣字，除了用圖形檔案處理以外，猶原有困難。這個問題，到 taN 總算有解決方法--a。
+劉杰岳先生ti7  2001 年初發表Taiwanese Package這個軟體，將台灣本土 e5 Ho7-lo2、Hak-ka5、南島語各族群羅馬字所需要e5 字形，包做1夥。因為是利用字形來處理，所以若準 PC 內底有裝 Taiwanese Serif  這個字形，不管是任何軟體，甚至是網路頂，long2 會用得看--著。Che不但會sai2 hou7 台灣字跳出 MS Word kan-taN 會sai2 做文書處理 e5 束縛，進1步會sai2 ka7 台灣字he7 ti7 電子簡報(presentation)，電子海報(poster)kap財務報表(financial spreadsheet)e5 軟體來使用。Koh 愈khah 重要--e5是會sai2  khng3 ti7 internet網路來推廣kap 交流，hou7 台灣字這套台灣歷史中上好e5 文字系統會sai2 ti7 網路頂展風神，顯現ti7 koh-khah 開闊e5 世界。
+這個軟體比較蘇芝萌先生e5  HOTSYS(r) 有幾na7 個進步。下kha 說明：
+1. Taiwanese Package (簡寫TP)字形e5 使用，無受著 MS Word、Chinese Windows  e5 束縛，會sai2 用ti7 其他che7-che7 e5 軟體。Che 對台灣字全面e5資訊化、電腦化、網路化有真大e5 幫贊。
+2. TP e5  輸入法 teh phah 母音 e5 時 tioh8-ai3 順續完成調號 e5 輸入(台灣字式--e5 )，比較HOTSYS(r) ka7 調號he7 ti7 字 e5 後壁，ti7 字母long2 phah 了後chiah 輸入(也就是TLPA式--e5)，khah hu3合講話發音 e5 慣勢，顯明調號m7 是加--出-來 e5 數字，是 kap 母音be7-sai2 割離e5 1 部份。這款e5 方法也是 kap 世界其他非英語e5羅馬字 e5 輸入法，可比講法語、德語kang7 款e5 處理法tou7。
+3. TP 有考慮著真che7,文章、刊物 leh 使用HOTSYS(r)，提供HOTSYS(r) 到TP、TP到HOTSYS(r) e5 轉換，有尊重傳統 e5 慣勢。這款注重傳承、有歷史感 e5 態度值得鼓勵。
+4. TP 會sai2 使用ti7 原住民南島語、Hak-ka5-fa（客話）、Ho7-lo2語，ka7 台灣所有 e5 母語完全包ti7 這個軟體內底，m7-na7方便多語使用者 e5 利用，iau2 有宣揚台灣各族群共存共榮，各族群語言和諧合奏 e5 象徵性e5 意義。
+5. TP ti7 經營上採取現此時軟體界上流行e5 分享體e5 模式（shareware）。先開放hou7 人自由使用。若準使用者感覺好用chiah 出錢來買。這款模式會sai2 hou7 做軟體e5 人/公司khah 無經濟壓力，koh-khah 有氣力拚勢做。
+Lan2 相信新e5 科技是beh 為人類服務--e5。Be7-sai2 因為電腦phaiN2 處理就teh hoah 「傳統優雅e5 物件已經無市場」，be7 流行--a。總--是2000年是台灣人出頭天e5 年代，lan2 也beh 來恭喜kap 迎接台灣字ti7 2001年邁入新時代。台灣字koh 加油！眾兄姐koh 拚--落-去。
+【編註】這篇文原本用「全羅」e5 形式刊ti7 《Tai5oanji7》第6期。
+HOTSYS(r) e5 網址是:
+http://www.HOTSYS-HAKSYS.com。
+Taiwanese Package e5 網址是:
+http://home.kimo.com.tw/kiatgak。

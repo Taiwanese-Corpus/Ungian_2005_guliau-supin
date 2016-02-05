@@ -1,0 +1,429 @@
+Seng3-kek8 Te7-2-chip8
+CHOK-CHIA2 E5 OE7
+Chit phiN “Be5-lou7 e5 lang5” si7 chok-chia2 ti7 Thou5-khou3 kau3-hoe7 bok8 -hoe7 e5 si5 cho3 e5.  Pun2-lai5 beh ti7 Thou5-khou3 ian2, khiok in-ui7 kui-bou5 toa7, tioh8 su-iau3 chin-choe7 jin5-but8, chin-choe7 siat-pi7 e5 koan-he7 kam2-kak bo5 hoat-tou7 thang ian2 chit te3 kek8.  Chit phiN na7 m7-si7 ti7 tou-chhi7 e5 kau3-hoe7, khah u7 jin5-but8, khah u7 hok8-chong e5 chun2-pi7, goa2 siuN7 ti7 jiok8-siau2 e5 kau3-hoe7 u7 khun3-lan5.   
+Put-ko3 loe7-iong5 chin u7 chhu3-bi7, chin u7 tek8-sek e5 sim-li2-kek8, ki-thaN u7 “Be7 koan5” chit phiN si7 chap8-goa7 ni5-cheng5, Jit8-ti7 si5-tai7 e5 chok-phin2, si7 tui3 Jit8-bun5 koh hoan koe3-lai5 e5......Ti7 hi2-kek8 e5 heng5-the2 tiong u7 pau chin toa7 e5 ka-teng5 chham2-keng2 kap mau5-tun2 ti7-teh.  Chit te3 kek8 ti7 Sin-kang2, Pak-kang2, Thou5-khou3 bat ian2 liau2.  “Sio-hui5 sai-hu7” chit phiN, m7-si7 goa2 tit8-chiap e5 chok-phin2, si7 bat khoaN3 lang5 teh ian2, goa2 chiu7 chiau3 hit e5 i3-su3, koh sia2 ho7 Chu2-jit8-oh8 hak8-seng ian2 e5... .  To7-ian2 e5 lang5 chin7-liong7 kho2-lu7 jin5-but8, the2-keh, chai5-tiau7, i2-kip8 hoh8-chong, poe3-keng2 lai5 ian2.
+      
+Koan-he7 kau3-hoe7 kap ian2-kek8 e5 su7, goa2 ti7 te7-it chip u7 kong2 liau2, sou2-i2 bo5 ai3 koh tiong7-hok8, chong2-si7 ng3-bang7 oe7-thang chham-kho2 hit e5, soa3 u7 hit e5 cheng-sin5 lai5 ian2.
+      
+I2-siong7 chiah e5 kek8-pun2, m7-tiaN7 kan-taN cho3 ian2 e5 lou7-eng7, ia7 oe7-thang cho3 thak8 e5 lou7-eng7.  ChhiaN2 li7-eng7 cho3 Seng3-si-kho, Seng3-keng-kho e5 peh8-oe7-ji7 kho3-pun2 ia7 si7 put-chi2 u7 li7-ek, hou7 hak8-seng ti7 thak8 e5 chin3-heng5 tiong u7 chhu3-bi7 lai5 khah khoai3 bat ji7.
+ChhiaN2 liat8-ui7 kau3-oan5 chhai2-eng7 ti7 li2 e5 hak8-kip hou7 li2 e5 hak8-seng thak8 a2 -si7 ian2. 
+      
+ChhiaN2 kau3-hoe7 e5 chheng-lian5 ng3-bang7 u7 ki-hoe7 thang ti7 boe7-sin3 e5 lang5 e5 bin7-cheng5 lai5 ian2, soa3 in2-chhoa7 in bat chin-li2.  Ki5-tiong “Pu3-lang5 kap Liap8-sat-lou7” “Be5-lou7 e5 lang5” si7 beh ti7 pou3-to7 iong7 e5......
+ 
+Goan7 Chu2 e5 chiok-hok ti7 te7-ji7 chip8 e5 teng2-bin7.                                               
+Ng5 Hoai5-un   1957.5.21
+
+Be5-lou7 e5 lang5
+1幕3場:
+   1 場  人生街頭
+   2 場  巴比倫 
+   3 場  勝利e5 凱歌
+A.人物:盲人、靈子、占卜、和尚、私慾婆、惡魔、財神、市民 (老夫人)、市民 (紳士)、市民 (乞食)、女神 (名聲)、女神 (地位)、酒漢a、酒漢b、賭徒a、賭徒b、虛榮太太、虛榮小姐、死神、牧師、天軍 (聖歌隊)
+B.主題歌: 聖詩169頁
+第一場    人生街頭	
+Khoah-toa7 e5 ke-thau5, u7 lou7-teng a2-si7 chioh8-siong7, chhiu7-bak8 cho3 poe3-keng2.
+
+Bou7-au7 Seng3-koa-tui7 gim5-si Seng3-si 169 siu2
+
+出場人物:盲人,靈子,占卜,和尚,私慾婆,惡魔。
+
+ 1. 盲人：Goa2 si7 chit8-e5 kho2-lin5 e5 chhiN-mi5 lang5, ti7 chit e5 jin5-seng ke-thau5 teh chhoe7-kiu5 oah8-mia chiaN3-lou7.  KiaN5-lai5, kiaN5-khi3 long2 chhoe7 bo5 chin-sit8 peng5-an an-hioh e5 sou2-chai.  Ah, jin5-seng sit8-chhai7 si7 chin khang-hu, long2 si7 iu-chhiu5, lo5-khou2, tang7-taN3.  Giah8-bak8 si3-ui5 chheN-chhin3, bo5 u7 chin2-kiu3, chi2-u7 si7 ou-thiN toe7-am3, kiaN5 be5-lo7 na7-tiaN7.
+Leng5-chu2 ah, lan2 taN tioh8 kin2-kin2 koh chin3-heng5 lan2 e5 lou7, khoaN3 oe7-thang chhoe7-tioh8 chit8-e5 sou2-chai7 hou7 lan2 thang an-un2 khia7-khi2 a2-bo5.  Jin5-seng sit-chai7 si7 chit8-e5 ou-am3 e5 toa7-hai2, hong-eng2 na2 hau2-sai, tu5 si2 i2-goa7 long2 bo5 lou7.
+2. 靈子：A-pa, na2 kiaN5 na2 bo5-lou7, na2-chhoe7 na2 khoaN3 boe7-tioh8, long2 si7 chin hong-hoe3 pha-hng.
+3. 盲人：Sit8-chai7 u7-iaN2 lan2 i2-keng chhoe7 kau3 kha-nng2 chhiu2-sng lah.  Iau2-ku2 lan2 boe7 eng7-tit choat8-bang7, lan2 tioh8 ke3-siok lou2-lek8 lai5 kiaN5, lai5 chhoe7 hit e5 peng5-an e5 sou2-chai7, na7 bo5 lan2 chiu7 eng2-oan2 tim5-lun5 ti7 chit e5 khou2-thang3 choat8-bang7 e5 se3-kan.  TaN lan2 tioh8 koh kiaN5, li2 tioh8 chhoa7 goa2 e5 lou7, in-ui7 goa2 long2 si7 oa2-kho3 li2 e5 in2-chhoa7. 
+4. 靈子：A-pa, chong2-si7 chian5-tou5 chin ou-am3, bong5-bong5 bu7-bu7, goa2 ma7 boe7 hiau2-tit beh kiaN5 to2-ui7 chit8-tiau5 lou7. 
+
+5. 盲人：Chhin3-chhai2 kiaN5 lah, na7 u7 khah ho2-kiaN5 e5 lou7 chiu7 ka7 kiaN5 lah.  Koh na7 u7 tu2-tioh8 lang5 tioh8 ka7 chheng2-kau3 lah. Chhin3-chhai2 toe3 lang5 e5 au7-bin7 kiaN5 soah boe7 hiau2-tit!  
+6. 靈子：A-pa, goa2 chin ia2-sian7, long2 bo5 khui3-lat8 thang kiaN5 khi3 lah.  Lan2 lai5 tiam3 chia tam7-poh8 hioh-khun3 ho2 bo5?
+7. 盲人：Kho2-lin5 e5 kiaN2, li2 toe3 goa2 an2-ni tak8-ui7 teh kiaN5-seh8, sit8-chai7 hou7 li2 chin lo5-khou2, chong2-si7 long2 si7 ui7-tioh8 lan2 e5 heng7-hok.  TaN lan2 tiam3 chia hioh-khun3, li2 tioh8 m7-thang li7-khui goa2, tioh8 ai3 khiN5-tiau5 ti7 goa2 e5 sin-piN. 
+(Nng7-lang5 che7-loh8 hioh-khun3, Chiam-pok chhut-tiuN5)
+8. 占卜：KhoaN3-mia7, khoaN3-mia7!!  Thiu-chhiam, pok-koa3!  Na7 u7 lang5 ai3 beh tit-tioh8 seng5-kong, pu3-kui3, chiong-lai5 e5 heng7-hok tioh8 lai5 chiu7-kin goa2.  Goa2 si7 Pat-koa3 soaN-teng2 e5 理智 chiam-pok, choan-choan ti7 chit e5 人生街頭 teh chhoa7 chiah e5 kiaN5 be5-lou7 e5 lang5.  Lai5 ah, a2-si7 u7 lang5 sim-lai7 iu-bun7 bo5 peng5-an, tioh8 lai5 chiu7-kin goa2, a2-si7 chian5-tou5 u7 sim2-mih8 bo5 beng5 e5 su7, long2 thang lai5 kau3 goa2 chia lai5 siong3-mia7.
+9. 盲人：Sian-siN ah, li2 kiam2 oe7-thang po3 goa2 e5 lou7?
+10. 占卜：Li2 si7 sim2-mih8 lang5?
+11. 盲人：Goa2 si7 chit8-e5 chhiN-mi5 lang5, kap goa2 e5 kiaN2 ti7 chit e5 人生街頭 teh kiaN5 be5-lou7.  Goan2 si7 ai3 beh kau3 chit8-e5 oah8-mia7, peng5-an, khoai3-lok8 e5 sou2-chai7, thang siam2-pi7 chit se3-kan e5 hong-pho, khou2-thang3, m7-chai li2 oe7 chai hit e5 sou2-chai7 tioh8 tui3 to2-ui7 chit8-tiau5 lou7 khi3 chiah chhoe7 oe7 tioh8?
+12 占卜：Ho2, li2 si7 ai3 beh kau3 hit e5 oah8-mia7, peng5-an, khoai3-lok8 e5 sou2-chai7 o?!  
+ChhiaN2 li2 chhun li2 e5 chhiu2 hou7 goa2 ka7 li2 kong2 li2 tioh8 tui3 chit e5 ke-thau5 kiaN5 kau3 hit e5 ke-boe2, ti7 hit e5 ke-boe2 u7 2 tiau5 lou7, chhiaN2 li2 chiau3 li2 e5 i3-chi3 lai5 kiaN5 hit tiong-kan e5 chit8-tiau5, in-ui7 ti7 hit 2 tiau5 lou7 e5 lou7-boe2 long2 u7 li2 sou2 teh chhoe7-kiu5 e5 sou2-chai7.  
+13 盲人：To-sia7 li2 e5 chi2-to7, na7 bo5 li2 e5 pang-chan7 goan2 pe7-kiaN2 tioh8 tiam3 chia gong7-gong7-a2 teh seh8 bo5 lou7.
+14 占卜：Goan7 li2 chian5-tou5 kng-beng5, tit-tioh8 li2 e5 heng7-hok, li2 na7 u7 koh tu2-tioh8 sim2-mih8, thang lai5 chia mng7 goa2, taN chhiaN2 li2 sun7-lou7 peng5-an.  KhoaN3-mia7, khoaN3- mia7!  Thiu-chhiam pok-koa3!           
+ (Thoe3-tiuN5)
+15 盲人：Leng5-chu2 ah, lan2 taN tioh8 kin2-kin2 lai5 khi3, m7-thang koh ian5-chhian5, li2 tioh8 ai3 chiau3 hit e5 lau7-lang5 sou2 kong2 chhoa7 goa2 lai5 khi3, lan2 teh beh tit-tioh8 an-hioh, khoai3-lok8 e5 sou2-chai7 lah. (Gim5-si 169 siu2)
+16 靈子：A-pa, lan2 i2-keng lai5 kau3 hit e5 2 tiau5 lou7-thau5 lah. 
+17 盲人：Ah, kau3-ui7 lah tioh8 m7!  TaN to2-ui7 chit8-tiau5 khah ho2-kiaN5, koh chian5-tou5 kng-beng5 li2 tioh8 ai3 chim-chiok khoaN3.
+18 靈子：ChiaN3-peng5 chit-tiau5 si7 oeh8-oeh8 koh kham-khiat8 e5 soaN-lou7, ti7 hit e5 lou7-boe2 u7 toa7 soa-bou5.  To3-peng5 chit-tiau5 si7 peN5-thaN2 koh ho2 kong-keng2 e5 toa7-lou7, chong2-si7 cheng5-bin7 si7 bu7-bu7 ou-am3.
+19 盲人：TaN beh an2-choaN2 phah-sng3, ia7 bo5 lang5 thang mng7 thang koh in2-chhoa7 lan2!
+(和尚出場)
+
+20 和尚：南無阿彌陀佛,南無阿彌陀佛!  HiaN-ti7 ah, li2 beh khi3 to2-ui7?
+21 盲人：Goa2 si7 chit8-e5 kho2-lin5 e5 chhiN-mi5 lang5, ti7 chit e5 lou7-thau5 teh kiaN5 be5-lou7, m7 chai-iaN2 tioh8 kiaN5 to2-ui7 chit8-tiau5 lou7 chiah oe7-thang kau3 hit e5 an-hioh, khoai3-lok8, peng5-an e5 sou2-chai7, li2 m7-chai oe7-thang chi2-to7 goan2 a2-boe7?
+22 和尚：Na7-si7 an2-ni, chhiaN2 li2 tui3 chit tiau5 oeh8-oeh8 koh kham-khiat8 e5 lai5, goa2 si7 chit-tiau5 liong5-sim lou7 e5 hoe-siuN7, kiN3-na7 u7 lang5 ai3 beh tui-jip8 kau3 hit e5 peng5-an, khoai3-lok8 e5 sou2-chai7 tioh8 tui3 chit-tiau5 lou7 lai5.  Ti7 chit-tiau5 lou7 u7 siu-heng7 e5 chhiu7-na5, ia7 u7 kim3-iok8 e5 chui2-ti5, u7 seng5-put8 e5 sio2-soaN, lou7-boe2 chiu7-si7 Se-chong7 e5 soa-bou5 lah.  Ti7 hit e5 Se-chong7 u7 li2 sou2 teh chhoe7 e5 peng5-an, an-hioh, khoai3-lok8 ti7-hia.
+23 盲人：An2-ni chin-ho2, chhiaN2 li2 kin2-kin2 chhoa7 goa2 jip8 lai5 khi3.
+24 和尚：Ban7-si7 leh, li2 na7 beh jip chit-tiau5 lou7 tioh8 ai3 thng3 li2 e5 siok8-saN, siok8-khou3, ia7 tioh8 thi3 li2 e5 thau5-mng, koh tioh8 eng7 kha-thau5-u lai5 pe5 jip8-khi3, li2 e5 chhiu2 ia7 m7-thang bak-tioh8 chit se3-kan e5 siok8-but8.
+25 盲人：An2-choaN2, tioh8 an2-ni chiah oe7-thang jip-khi3 tioh8 bo5?
+26 和尚：Si7 lah, tui3 kou2-cha2 kiN3-na7 u7 lang5 beh jip8 chit-tiau5 lou7, long2 tioh8 chiau3 chit e5 hoat-tou7 chiah oe7-thang jip8-khi3.
+27 盲人：Goa2 oan5-choan5 bo5 hit e5 khui3-lat8, goa2 si7 chit8-e5 loan2-jiok8 e5 chhiN-mi5 lang5, thai3 oe7-thang lai5 chiau3 chit e5 hoat-tou7.  ChhiaN2 li2 lin5-bin2 goa2 hou7 goa2 m7-bian2 an2-ni cho3 thang jip8 chit-tiau5 lou7 ho2 bo5? 
+28 和尚：Boe7 eng7-tit, li2 na7 u7 sim beh kiu5 li2 chiong-lai5 e5 hok-khi3, li2 tioh8 m7-thang kiaN kan-khou2.
+
+29 盲人：Goa2 ka-ki7 bo5 hit e5 khui3-lat8 thang tit-tioh8 Se-chong7 e5 khoai3-lok8; goa2 si7 chit8-e5 kha-nng2 chhiu2-sng e5 lang5, an2-choaN2 u7 hoat-tou7 neh?
+30 和尚：Kho2-lin5 e5 lang5, li2 e5 sim-sin5 loan2-jiok8, long2 bo5 u7 jim2-siu7 e5 lat8, bo5 u7 khek-khou2 e5 sim!  TaN li2 chhiaN2, goa2 beh lai5 khi3.          
+(Liam7-keng thoe3-tiuN5)
+31 盲人：Leng5-chu2 ah, taN lan2 beh an2-choaN2, hit e5 Se-chong7 ko2-jian5 tioh8 keng-koe3 hiah-nih8 toa7 e5 hi-seng kap lo5-lek8 chiah oe7-thang jip8-khi3, koh lan2 long2 bo5 u7 sim2-mih8 khui2-lat8, taN u7 sim2-mih8 pan7-hoat?
+(私慾婆出場)
+32 私慾：HiaN-ti7 ah, lin2 ti7 chit e5 sou2-chai7 teh chhoe7 sim2-mih8? Li2 si7 beh khi3 to2-ui7?
+33 盲人：Oh, chit ui7 lau7 a-po5, li2 si7 sim2-mih8 lang5?
+34 私慾：Goa2 kio3-cho3 Su-iok8-po5, long2 si7 chit e5 toa7-lou7 thau5 teh chhoa7 lang5 e5 lou7. 
+35 盲人：Na7-si7 an2-ni chhiaN2 li2 chhoa7 goan2 e5 lou7 ho2 m7?  Goan2 si7 ti7 chit e5 lou7-thau5 teh kiaN5 be5-lou7 e5 lang5. 
+36 私慾：Lin2 si7 beh khi3 sim2-mih8 sou2-chai7?
+37 盲人：Goan2 si7 chit8-e5 siu7-khou2 bo5 an-hioh e5 lang5, ai3 beh chhoe7 chit8 e5 peng5-an, khoai3-lok8 e5 sou2-chai7, m7-chai chit tiau5 toa7-lou7 si7 beh kau3 sim2-mih8 sou2-chai7?
+38 私慾：Chit tiau5 toa7-lou7 si7 se3-kan lang5 toa7-pou7-hun7 sou2 teh kiaN5 e5 sou2-chai7, long2 si7 chin tho3-tong3, koh chin u7 heng7-hok, khoai3-lok8 e5 sou2-chai7, li2 na7 jip8-khi3 khoaN3, li2 tioh8 chai hit e5 khoai3-lok8 kau3 an2-choaN2.
+39 盲人：Na7-si7 se3-kan lang5 toa7-pou7-hun7 sou2 teh kiaN5 e5 lou7 tek-khak si7 chin tho3-tong3, chin khak-sit8 chiah tioh8.
+40 私慾：Ti7 chit lai7-bin7 ia7 u7 eng5-hoa5 e5 Pa-pi2-lun5, ia7 u7 hiong2-lok8 e5 Lo5-ma2, ia7 u7 pu3-kui3 e5 Ai-kip8, se3-kai3 it-chhe3 e5 heng7-hok, khoai3-lok8 pau-ham5 ti7 lai7-bin7.
+41 盲人：An2-ni chhiaN2 li2 kin2-kin2 chhoa7 goa2 jip8-khi3, goa2 e5 sim thiaN liau2 chin hoe2-jiat8. 
+42 私慾：An2-ni chhiaN2 li2 toe3 goa2 e5 au7-bin7 lai5, tioh8 chhut-chai7 goa2 chhoa7-lou7.
+TaN hit-keng chiu7-si7 Hu-ke2 kiong, hit-chan3 si7 Hi-eng5 lau5, hit-cho7 si7 Hiong2-lok8 thah, hit e5 chiu7-si7 Mia5-siaN tian7, koh hit e5 chiu7-si7 Ng5-kim siaN5.
+43 盲人：Chong2-si7 chin kho2-sioh goa2 e5 bak8-chiu long2 bo5 khoaN3-kiN3 sim2-mih8.
+44 私慾：Si7 lah, li2 e5 bak8-chiu tek-khak bo5 khoaN3-kiN3, in-ui7 u7 無智 e5 ou-hun5 teh jia-phe3 teh, li2 tioh8 ai3 khi3 pai3-kiu5 Sat-tan3 ong5 lai5 ka7 li2 khui li2 e5 無智.
+45 盲人：Sat-tan3 ong5 si7 sim2-mih8 lang5, i oe7 khui goa2 e5 bak8-chiu tioh8 bo5?!
+46 私慾：Sat-tan3 ong5 si7 chit se3-kan e5 ong5, li2 na7 hoaN-hi2 hang5-hok8 i, chiu7 beh chiong i it-chhe3 e5 eng5-hoa5 kap khoai3-lok8 hou7 li2 u7 hun7 thang hiong2-siu7.
+47 盲人：Goa2 ui7-tioh8 goa2 e5 siN3-mia7 e5 heng7-hok kap khoai3-lok8 hoaN-hi2 hang5-hok8 ti7 i e5 bin7-cheng5, chhiaN2 li2 kin2-kin2 chhoa7 goa2 lai5 khi3 chhoe7 i.
+
+48 私慾：Na7-si7 an2-ni li2 koh toe3 goa2 lai5. 
+(魔王出場。私慾婆,盲人,靈子跪下)
+49 魔王：Su-iok8 po5, li2 koh ka7 goa2 chhoa7 lang5 lai5 mah!!  Kam2-sia7 li2 e5 lo5-khou2, li2 hou7 goa2 e5 kok-tou7 khui-khoah, hou7 goa2 e5 koan5-peng3 ke-thiN, li2 sit8-chai7 chin7-tiong ti7 goa2.
+50 私慾：Ong5 ah, li2 m7-thang koe3-thau5 po-chiong2 goa2, in-ui7 che put-ko3 si7 goa2 e5 pun2-hun7 na7-tiaN7.
+51 魔王：Chit ui7 se3-kiaN2 si7 tui3 to2-ui7 lai5 e5...
+52 私慾：Ti7 jin5-seng lou7-boe2 teh kiaN5 be5-lou7 e5 lang5, goa2 chiu7 in2-chhoa7 i jip8 lai5 chia.
+53 盲人：Ong5 ah, goa2 si7 chit8 e5 kho2-lin5 e5 chhiN-mi5 lang5, ti7 se3-kan teh kiaN5 be5-lou7, chhoe7 bo5 u7 chit8 sou2-chai7 thang an-un2, khoai3-lok8 khia7-khi2.  Ong5 ah, goa2 chai li2 e5 koan5-peng3 kap eng5-iau7, chhiaN2 li2 hou7 goa2 u7 hun7 ti7 li2 e5 kok-tou7 e5 lai7-bin7, thang to5-siam2 kim-se3 e5 choat8-bang7, thong3-khou2 lai5 hiong2-siu7 khoai3-iok8 kap peng5-an!
+54 魔王：Hng3, li2 si7 chit8-e5 be5-lou7 e5 lang5, li2 m7-bian2 koh siong-pi, khoa3-lu7, goa2 beh hou7 li2 choan-sim goa2 e5 kok-tou7 e5 lai7-bin7 lai5 an-hioh khoai3-iok8.  Chong2-si7 li2 tioh8 ai3 ban7-su7 hang5-hok8 goa2.
+55 盲人：Ong5 ah, goa2 hoaN-hi2 chiau3 li2 e5 chi2-i3 lai5 kiaN5.
+56 魔王：An2-ni, li2 sou2 chhoa7 hit e5 gin2-na2 lai5 kau-tai3 ti7 goa2. 
+57 盲人：Ong5 ah, chhiaN2 li2 m7-thang hun-li7 goan2, chit e5 goa2 sou2 thiaN3 e5 kiaN2, si5-siong5 kiat-lian5 ti7 gao2, si7 goa2 siN3-mia7 e5 pang-chan7, chhiaN2 li2 m7-thang hun-li7 goan2.
+58 魔王：Li2 tioh8 hang5-hok8 goa2 e5 chi2-i3, goa2 sou2 hoaN-hi2 e5 tu2-tu2 si7 chit e5.  Su-iok8 po5 chhiaN2 li2 chiong gin2-na2 thoa jip8-khi3 kim3 ti7 goa2 e5 kaN-lo5.
+
+59 私慾：Gin2-na2, goa2 beh pak8 li2 ti7 kaN-lo5, toe3 goa2 lai5.
+60 靈子：A-pa, A-pa, kiu3 goa2, kiu3 goa2.
+61 盲人：M7-thang hun-li7 goan2 lah, chhiaN2 li2 m7-thang pak8 goa2 sim sou2 thiaN3 e5 kiaN2 lah!
+62 魔王：Be5-lou7 e5 lang5, li2 tioh8 ai3 hok8-chiong5 goa2, chiah oe7-thang hiong2-siu7 hok-khi3 kap khoai3-iok8 ti7 goa2 e5 kok-nih8, na7-si7 li2 e5 kiaN2 si7 beh chiaN5-cho3 li2 hiong2-siu7 khoai3-iok8 e5 that-gai7, li2 tioh8 kau-tai3 i ti7 goa2 e5 chhiu2-lai7.
+63 靈子：A-pa, A-pa, kiu3 leh lah, li2 kiam2 bo5 thiaN goa2 e5 siaN teh au5-kio3 li2 tioh8 m7, goa2 soa3-boe2 e5 siaN li2 kiam2 bo5 thiaN tioh8 mah!?
+64 盲人：Goa2 e5 kiaN2, u7 lah, chong2-si7 goa2 long2 bo5 hoat-tou7 thang ban2-hoe5 li2 lah, goa2 e5 kiaN2, goa2 e5 kiaN2!
+(Hau2,私慾婆,靈子退場)
+65 魔王：Be5-lou7 lang5, li2 m7-bian2 ui7-tioh8 li2 e5 kiaN2 lai5 thi5-khau3, li2 tioh8 toe3 goa2 lai5, goa2 beh chhoa7 li2 lai5 khi3 khoaN3 se3-kan e5 eng5-hoa5.
+66 盲人：Ah, goa2 li7-khui goa2 e5 kiaN2 u7 sim2-mih8 heng7-hok, u7 sim2-mih8 khoai3-lok8.
+67 魔王：Li2 tioh8 ai3 choan-sim hiong2-lok8, m7-thang koh siuN7-tioh8 li2 e5 kiaN2, na7 bo5, kiat-kiok8 li2 tioh8 ai3 siu7 koaN2 chhut ti7 hit e5 eng2-oan2 ou-am3 e5 be5-lou7.
+68 盲人：Ong5 ah, goa2 beh sun7-than3 li2 lah.
+69 魔王：An2-ni tioh8, li2 tioh8 an-sim oa2-kho3 goa2, goa2 beh khui li2 ti3-hui7 e5 bak8-chiu, hou7 li2 u7 khoaN3-kiN3 it-chhe3 e5 bi2-sek. Chiah u7 chit8-nia2 ou-saN, li2 na7 moa 
+chit-nia2 ti7 li2 e5 sin-khu, li2 tioh8 sui5-si5 oe7 khoaN3-kiN3.(moa-saN)
+70 盲人：U7-iaN2, long2 u7 khoaN3-kiN3 to7-tioh8!  Moa2-moa2 long2 si7 se3-kan e5 eng5-kng!  Ng5-kim siaN5, chhia-hoa5 e5 Pa-pi2-lun5, Lo5-ma2, Ai-kip8, long2 si7 chin-sui2 e5 kong-keng2.
+71 魔王：U7 sim-sek bo5?  TaN goa2 ka7 li2 kong2 chiah e5 long2 si7 goa2 e5 sou2-u7, li2 oe7 thang chiau3 li2 e5 chi2-i3 khi3 hiong2-siu7, kau3 li2 e5 sim-moa2 i3-chiok, li2 e5 sim sou2 ai3 e5 m7-thang kim3-chi2 i.  Goa2 koh chhoa7 li2 lai5 khoaN3 goa2 e5 kok-tou7 e5 peh-siN3 e5 seng-oah8.  Li2 toe3 goa2 lai5.
+第二場  巴比倫之引誘
+出場人物：財神、市民 (老婆)、市民 (紳士)、市民 (乞食) 惡魔、盲人、女神a、女神b、虛榮太太、虛榮小姐、酒漢a、酒漢b、賭徒a、賭徒b
+ (財神phaiN7 chiN5-te7, chau2 chhut-tiuN5, teh ia7 chiN5, u7 4 e5 市民 phoe-mia7 teh khioh chiN5.)
+1 財神：ChiN5 oh, chiN5 oh!  Beh ai3 e5 lang5 tioh8 kin2-kin2 lai5 oh!  KiN3-na7 lai5 pai3 goa2 e5 lang5, goa2 beh hou7 i hoat-chai5 chiaN5 pu3. ChhiuN2-loh8-khi3 oh!  ChhiuN2-loh8-khi3 oh!
+2 市民 (a,b,c)：Che goa2 e5 lah!  Che goa2 e5 lah!  
+3 財神：ChiN5 si7 se3-kan ban7-hang7 e5 goan5-thau5, si7 lang5-lang5 sim-lai7 e5 ngou2-siong7.  Na7 u7 chiN5 ka-teng5, sia7-hoe7, peng5-iu2 chiah u7 peng5-an, khoai3-lok8.  ChiN5 si7 it-chhe3 e5 goan5-tong7-lat8.  U7 chiN5 sai2-kui2 ia7 oe7 oe-bo7!  Lai5 oh, lai5 oh!  Lai5 chiu7-kun7 goa2, goa2 beh hou7 li2 hoat-chai5 toa7 ho2-giah8.
+4 市民 (老婆)：Peng5-iu2 ah, li2 chin bo5-chhai2 si5-kan tiam3 hia teh khia7, m7-tioh8 koaN2-kin2 lai5 khioh chiN5!  Li2 long2 m7 chai-iaN2 chiN5 e5 po2-poe3, na7 u7 chiN5 long2 m7-bian2 kiaN lan2 e5 kiaN2-ji5 put-hau3 lan2. 
+(khia7 khi2-lai5 kong2, kong2 m7-bian2 koh khu5 loh8-khi3, oaN7 pat8-e5 khia7 khi2-lai5.)
+5 市民 (紳士)：HiaN-ti7 ah, kin2 lai5 kap goan2 saN-kap khioh chiN5 oh!  Na7 u7 chiN5 chiah u7 chun-kui3, lang5 khoaN3 lan2 chiah u7 chiuN7-bak8, na7 bo5, tioh8 oe7 hou7 lang5 khoaN3-khin.
+
+6 市民(乞食)：U7 chiN5 chiah u7 png7 thang chiah8, bo5 chiN5 tioh8 phak teh go7, khoaN3 beh chiah8 san-tin hai2-bi7 a2-si7 khia7 ko-lau5 tai7-ha7, a2-si7 chheng7 tiu5-toan7 phang2-se, long2 si7 tioh8 chiN5 chiah u7 lah.
+7 盲人：Chit e5 chiN5 si7 sim2-mih8 mih8-kiaN7 lang5-lang5 thai2-oe7 chiah-nih8 i3-ai3.  (Khioh chit8-tiuN chiN5-phio3 khi2-lai5 khoaN3) Tau3-ti3 lang5 si7 ui7-tioh8 chiN5 lai5 chun5-chai7 a2-si7 chiN5 ui7-tioh8 lang5 chiah u7, long2 boe7-beng5.  Lang5 ng3-bang7 tui3 chiN5 lai5 tit-tioh8 khui3-lat8 kap chun-kui3, khoai3-lok8, khiok m7 chai-iaN2, ui7-tioh8 chiN5 e5 ian5-kou3 i2-keng sit-loh8 i long2-chong2 e5 jin5-keh liau2 lah.
+8 魔王：Li2 khoaN3 ti7 goa2 e5 kok-lai7 lang5-lang5 long2 si7 teh tui-kiu5 chiN5-chai5.  In-ui7 jin5-seng e5 heng7-hok, hoaN-hi2 long2 si7 kin-ku3 ti7 chit e5 chiN5, chiN5 chiu7-si7 tai7-piau2 lang5 e5 siN3-mia7 kap khoai3-lok8, sou2-i2 lang5-lang5 long2 phoe-mia7 teh khioh chiN5, chiN5 ia7 si7 it-chhe3 peng5-an kap an-lok8 e5 tiau5-kiaN7.  TaN goa2 koh chhoa7 li2 lai5 khi3 khoaN3 chit8 sou2-chai7.
+(二女神 pi2-bu2 chhut-tiuN5, pi2-bu2 chit8-lin3 liau2-au7.)
+9 女神a:HiaN-ti7 ah, li2 ai3 se3-kan e5 mia5-siaN bo5?  Na7 ai3 tioh8 lai5 goan2 e5 Mia5-siaN tian7 kiu5.
+10 女神b：Li2 na7 ai3 se3-kan e5 te7-ui7, chiah lai5 goan2 chia.
+11 盲人：Lin2 si7 sim2-mih8 lang5?
+12 女神a:Goa2 si7 Mia5-siaN tian7 e5 lu2-sin5.
+13 女神b：Goa2 si7 Te7-ui7 tian7 e5 lu2-sin5.
+14 女神a:Lau5 ti7 se3-kan chi2-u7 chit e5 mia5-siaN na7-tiaN7, sou2-i2 kou2-cha2 lang5 kong2;  Hou2 si2 lau5 phoe5, lang5 si2 lau5 mia5.  Lang5 na7 u7 ho2 e5 mia5-siaN, chiu7 ti7 se3-kan m7-bian2 kiaN bo5 heng7-hok.
+15 女神b：Li2 na7 ai3 heng7-hok tioh8 ai3 u7 se3-kan e5 te7-ui7, li2 na7 si7 chi2-u7 u7 chiN5-chai5, ia7 bo5 te7-ui7, si7 bo5 sim2-mih8 li7-ek, se3-kan e5 chiN5, put-ko3 si7 beh kau3 ti7 chit e5 te7-ui7 e5 chhiu2-toaN7 na7-tiaN7.
+
+16 盲人：Mia5-siaN kap te7-ui7 u7-iaN2 chiah-nih kah ho2 bo5?
+17 女神a:Si7 lah, chin-che7 lang5 pang3-sak in e5 ke-san2, su7-giap8, ka-teng5, sim7-chi3 siN3-mia7 lai5 teh tui-kiu5 chit e5 heng7-hok.
+18 女神b：ChhiaN2 li2 na7 beh ai3 se3-kan choe3-toa7 e5 heng7-hok chiah lai5 goan2 hia, khoaN3 li2 ai3 beh cho3 chhi7-tiuN2 a2-si7 koan7-tiuN2, tin3-tiuN2, seng2 gi7-oan5, koan7 gi7-oan5, goan2 long2 oe7 thang hou7 li2.(退場) 
+19 魔王：Chit 2 e5 女神 si7 che2-moe7, siong5-siong5 saN kun-toe3 teh, in ti7 chit se3-kan e5 se3-lat8 na2-lai5 na2 kiong5.  Li2 khoaN3 choe3-kin7 che7-che7 lang5 long2 teh keng3-cheng te7-ui7.  TaN goa2 koh chhoa7 li2 lai5 khoaN3 Hu-eng5 chhi7.
+(Hu-eng5 thai3-thai3 kap sio2-chia2 出場).
+20 虛榮太太：(Na2 khoaN3 kiaN3 na2 chhut-tiuN5.)  Goa2 boah hun2, boah an2-ni m7-chai u7 ho2-se3 a2-bo5?  Goa2 e5 saN m7-chai u7 ho2 khoaN3 a2-bo5?
+21 小姐：U7 lah, thai3-thai3.  Li2 chit-nia2 iuN5-chong chin-chiaN3 sui2, si7 ti7 to2-ui7 chit8-keng iuN5-chong tiam3 cho3 e5 leh?
+22 太太：Chit-nia2 si7 ti7 流行 iuN5-chong tiam3 cho3 e5 leh, hian7-chai7 e5 mih8-kiaN7 chin-chiaN3 che7, chin-chiaN3 che7-chiong2, hou7 goa2 chheng7 kau3 long2 boe7 liau2.
+23 小姐：Si7 lah, chit-ma2 e5 chng-thaN7 phin2 ma7 chin-che7, li2 khoaN3 hou7 goa2 koa3 kau3 kui sin-khu.
+24 太太：Si7 lah, lan2 e5 hu-eng5 chhi7 kin7-lai5 u7 koh-khah nau7-jiat8, koh-khah chhia-hoa5 khi2-lai5 lah.
+25 小姐：Toa3 ti7 hu-eng5 chhi7 sit8-chai7 chin sim-sek tak8-jit8 long2 ui7-tioh8 chng-thaN7, ui7-tioh8 thit-tho5 chin bo5 eng5. 
+
+26 太太：Toa3 ti7 chit e5 hu-eng5 chhi7 e5 lang5 long2 bo5 si5-kan thang siong-sim a2-si7 khoa3-lu7 sim2-mih8, thang kong2 long2 si7 chin heng7-hok.
+27 盲人：Lin2 2 e5 hu7-jin5-lang5 si7 to2-ui7 e5 lang5, chiah oe7 chng kau3 chiah nih sui2?
+28 小姐：HiaN-ti7 ah, li2 m7-bat goan2 tioh8-m7?  Goan2 chiu7-si7 toa3 ti7 hu-eng5 chhi7 e5 lang5, chit-ui7 si7 Mou-teng thai3-thai3, goa2 kio3-choe3 hi-hoa sio2-chia2.
+29 盲人：Hu-eng5 chhi7 si7 sim2-mih8 sou2-chai7.
+30 太太：Hu-eng5 chhi7 chiu7-si7 se3-kan choe3 nau7-jiat8, choe3 gou7-lok8 e5 sou2-chai7, ti7 hia e5 lang5 long2 bo5 iu-bun7.
+31 小姐：Tak8-me5, tak8-jit8 long2 u7 hi3, u7 tian7-iaN2 thang khoaN3, ia7 u7 sui2-saN thang chheng7, u7 che7-che7 mih8 thang chng-thaN7,tak8-jit8 long2 ui7-tih8 chiah e5 su7 chin bo5-eng5.
+32 盲人：Hu7-jin5-lang5 ah,lin2 sou2 toa3 e5 Hu-eng5 chhi7 kiam2 oe7-thang hou7 lang5 tit-tioh8 sim-lai7 e5 peng5-an kap heng7-hok. Goa2 si7 chit8-e5 bo5 an-lok8 e5 lang5, ai3 beh chhoe7 an-lok8 e5 sou2-chai7.
+33 太太：Na7-si7 an2-ni, chhiaN2 li2 lai5 goan2 e5 Hu-eng5 chhi7 cho3 goan2 e5 chhi7-bin5, li2 tek-khak ti7 goan2 e5 hu-eng5 chhi7 oe7-thang tit-tioh8 boan2-chiok chiah tioh8.
+34 小姐：ChhiaN2 li2 chiah lai5 lah, lang5 e chiN5 kap te7-ui7 put-ko3 ia7-si7 ui7-tioh8 hi-hoa, gou7-lok8 na7-tiaN7. (Thoe3-tiuN5)
+35 魔王：Hu-eng5 chhi7 si7 chit8-e5 chhia-chhi2 koh nau7-jiat8 e5 sou2-chai7, ti7 hia e5 lang5 tak8-jit8 long2 ui7-tioh8 goa2-mau7 kap khoai3-lok8 teh bo5 eng5.  Lang5 ti7 chit e5 se3-kan na7 m7-si7 ui7-tioh8 chiah e5 su7 lai5 teh cho3 an-ui3, chiu7 chiaN5-cho3 chit8 e5 bo5-bi7 bo5-sou3 e5 sou2-chai7.
+36 盲人：Chong2-si7 ti7 hit khoan2 e5 sou2-chai7 kiam2 oe7-thang tit-tioh8 an-ui3 mah?!  Kiam2 bo5 pat8-e5 hoat-tou7 khak-sit8 hou7 lang5 tit-tioh8 peng5-an, khoai3-lok8 e5 boan2-chiok mah?
+
+37 魔王：Li2 iau2-ku2 teh giau5-gi5 sim2-mih8?  Goa2 koh chhoa7 li2 lai5 khoaN3 hiong2-lok8 ke e5 lang5.
+(二酒漢出場, chhiu2 theh8 chiu2-kan, tian-tian chui3-chui3.)
+38 酒漢a:Lim loh8-khi3 oh, lim loh8-khi3 oh!!  Bou2-kiaN2, chhan5-hng5, chhu3-theh8 long2 lim loh8-khi3 oh, chi2-u7 chiu2 oe7 kai2 lang5 e5 sim-bun7, hou7 lang5 bong5-ki3 it-chhe3. 
+39 酒漢b：Ke-hoe2 ti7 ta2-loh8, san2-giap8 u7 sim2-mih8 lou7-eng7!  Mi5-jit8 lim hou7 tian-tian to2-to2, kiu5 iok8-bong7 e5 boan2-chiok chiu7 kau3-giah8 lah!
+40 酒漢a:Se3-kan si7 ma2-ma2 hu-hu, lim-chiu2 kai2 sim-bun7 i2-goa2 u7 sim2-mih8 lou7.
+41 酒漢b：Jin5-seng si7 chhin-chhiuN7 chhau2-hoe, bo5 lim chiu7 bin5-a2-jit8 beh si2 ia7 bo5 tek-khak, lim loh8-khi3 oh, lim loh8-khi3 oh!!  Chit8-tih ang5-chiu2 oe7 hou7 ngou2-the2 che5-lok!
+42 盲人：HiaN-ti7 ah, li2 lim hit e5 si7 sim2-mih8?
+43 酒漢a:Che oh, che kio3 choe3 chiu2 lah, sim-lai7 iu-bun7 bo5 peng5-an e5 lang5 lim liau2 oe7 kai2 sim-bun7 lah, li2 m7-chai tioh8 bo5?
+44 酒漢b：Lim chit e5 loh8-khi3 long2 m7-chai thiN-toe7 kui2-kin, chi2-u7 hou7 sim hoaN-hi2, tak8-hang7 long2 m7-chai liau2-liau2.
+45 盲人：An2-ni chit e5 si7 kai2 sim-bun7 e5 ioh8 mah?
+46 酒漢a:Si7 lah, che si7 bo5 peng5-an, choat8-bang7 e5 lang5 choe3 ho2 e5 ioh8, lim liau2 sui5-si5 tit-tioh8 i-ti7.
+47 酒漢b：Goan2 long2 m7-bat pang3-he7 goan2 e5 chiu2-kan, sou2-i2 put-an bo5 ki-hoe thang koh hai7 goan2.
+(酒漢退場,賭徒出場, chhiu2 theh8 poah8-kiau2 pai5-a2.)
+48 賭徒a:Poah8-kiau2 si7 lang5 sou2 hoat-beng5 choe3-toa7 e5 chhu3-bi7, si7 chit8-e5 
+ti3-mia7-tek e5 gou7-lok8.  Kiau2 na7 poah8 loh8-khi3, chiu7 bo5 me5 bo5 jit8, lian5 khun3 ia7 bo5 si5-kan.  U7 si5 poah8 kau3 tioh8 be7 ke-hoe2, u7-si5 lian5 bou2-kiaN2 ma7 poah8 bo5 khi3.
+49 賭徒b：Lian5 seN3-mia7 ma7 tioh8 poah8 loh8 khi3.  Lang5-lang5 long2 chai poah8-kiau2 e5 li7-hai7, iau2-ku2 boe7-thang li7-khui chit e5 thang kiaN e5 gou7-lok8, jin5-seng si7 ju5-chhu2 ju5-chhu2, gou7-lok8 koe3-jit8 i2-goa2 bo5 lou7.
+50 盲人：HiaN-ti7 ah, lin2 si7 sim2-mih8 lang5, lin2 teh cho3 sim2-mih8?
+51 賭徒a:Li2 m7-chai tioh8 bo5, goan2 si7 teh poah8-kiau2 lah!  Chiu7-si7 toa3 ti7 Gou7-lok8 ke e5 Poah8-kiau2-chui2-a2 lah. 
+52 賭徒b：Goa2 e5 sio2-mia5 kio3 choe3 Ou-hi5-kiau2-a2, goan2 lau7-pe7 kio3 choe3 Ou-hi5-poah8-a2.
+53 賭徒a:Goa2 si7 toa3 ti7 Moa5-chhiok lou7, Ou-hi5-kiau2-a2 si7 toa3 ti7 Ki5-lu2 hang7, chhiaN2 li2 lai5 khi3 goan2 Gou7-lok8 ke-a2 thit-tho5.
+54 賭徒b：Goan2 hia sim2-mih8 khoan2 e5 gou7-lok8 to u7, khoaN3 beh poah8 moa5-chhiok, a2 si7 beh keng3-be2, tong7-kiu5, poah8 pai5-a2, long2 u7.
+55 賭徒a:Lai5-khi3 oh, jin5-seng ju5-chhu2 ju5-chhu2, gou7-lok8 i2-goa2 bo5 an-ui3 lah.
+56 賭徒b：Li2 na7 beh tit-tioh8 jin5-seng e5 heng7-hok tioh8 lai5-khi3 goan2 e5 Gou7-lok8 ke lah.(退場)
+57 魔王：Gou7-lok8 hou7 lang5 e5 sim long2 chip8-tiong khi2-lai5, ti3-kau3 bo5 ki-hoe7 thang siau3-liam7 i e5 leng5-hun5, siuN7 kau3 i e5 seN3-mia7.  Li2 na7 beh tit-tioh8 heng7-hok tioh8 ai3 choan-sim lai5 hiong2-lok8.
+TaN chhiaN2 li2 kin2-kin2 khi3, m7-thang koh tiu5-tu5, khoaN3 li2 ai3 sim2-mih8 sou2-chai7, li2 long2 thang khi3 hiong2-lok8.
+
+58 盲人：Ong5-ah, chhiaN2 li2 iong2-un2 goa2 khi3 chhoe7 Li2-ti3 chiam-phok, lai5 kap i chham-siong5 ho2 bo5?
+59 魔王：Boe7 sai2-tit!  Li2 i2-keng ti7 goa2 e5 koan5-lek8 e7, li2 na7 bo5 hang5-hok8 ti7 goa2, lai5 choan5-sim ti7 chit e5 kok-lai7 hiong2-lok8, li2 tek-khak oe7 siu7 koaN2 chhut ti7 eng2-oan2 ou-am3 e5 ham7-khiN, ti7 hia ka7-ge5 chhiat-chhi2.
+60 盲人：Goa2 li7-khui goa2 e5 kiaN2 long2 bo5 u5 chit8 si5 khek e5 peng5-an.
+61 魔王：Li2 tioh8 ai3 koaN2-kin2 koat-toan3, m7-thang 2 iuN7 sim.  Li2 khoaN3 thau5-cheng5 u7 chit8-phiN3 e5 ou-hun5 tit8-tit8 teh lai5, ti7 hit e5 lai7-bin7 u7 toa7 hong-thai, beh lai5 pau-ui5 li2, ia7 bo5 goa7-ku2 Si2-sin5 teh beh lai5 chhoe7 li2, ia7 beh chhoa7 li2 kau3 ti7 choat8-bang7 e5 chhim-ian.  Goa2 taN beh lai5-khi3 lah!
+62 盲人：Ong5-ah, ban7-si7 leh, ong5 ah, ban7-si7 leh!!
+(消電, oaN7 chheN-lek8-sek e5 電球.)
+第三場  勝利e5 凱歌
+出場人物：盲人、死神、牧師、靈子、天軍（聖歌隊）。	
+1 盲人：KhoaN3 goa2 beh an2-choaN2 phah-sng3 chiu7 ho2, tau3-ti2 ti7 to2-ui7 chiah oe7-thang chhoe7-tioh8 chin-sit8 e5 peng5-an kap khoai3-lok8, sou2 khoaN3 e5 long2 si7 chin bo5 tho3-tong3 koh si7 bo5 khak-sit8.  Ah, goa2 beh an2-choaN2 oe7-thang koat-toan3 goa2 e5 khi3-hiong3.  Goa2 e5 sim chin tioh8-kip, chin iu-khou2.  Li2 khoaN3 hong-thai i2-keng kau3 lah, ou-hun5 bit8-pou3 tit8-tit8 kun7-oa2 lai5!  Si3-ui5 chhiN-chhin3 hong siok-siok.  Hit e5 si7
+sim2-mih8 siaN!  Ki5-ki5 koai3-koai3, chhin-chhiuN7 hai2-eng2 gong2 gong2 hiang2!  Ah, ah!!  Hit e5 ou-iaN2 si7 sim2-mih8, si7 sim2-mih8 ki5-koai3!  Chhiu2 giah8 toa7-to, thoa thih-lian7.  U7 chheng-chheng ban7-ban7 e5 si2 kut-thau5 toe3 ti7 hit au7-bin7.  Li2 si7 sim2-mih8 lang5? (死神出場)Goa2 kap li2 u7 sim2-mih8 kan-siap8!  ChhiaN2 li2 li7-khui goa2 khi3, chhiaN2 li2 li7-khui goa2 khi3!!
+2 死神：Goa2 chiu7-si7 si2 e5 sin5.
+
+3 盲人：Sim2-mih8 kio3 cho3 si2?
+4 死神：Si2 chiu7-si7 it-chhe3 oah8-mia7 e5 phoa3-hai7, si2 chiu7-si7 ban7 put-heng7 e5 put-heng7, si2 chiu7-si7 oan5-choan5 e5 biat8-bo5, si2 chiu7-si7 eng2-oan2 e5 ou-am3.
+5 盲人：Oh, kho2-phaN3 e5 si2, goa2 kap li2 u7 sim2-mih8 kan-siap8, chhiaN2 li2 li7-khui goa2 khi3, chhiaN li2 li7-khui goa2 khi3!!
+6 死神：Li2 m7-bian2 kiaN, bo5 u7 chit8 e5 lang5 oe7-thang siam2-pi7 goa2 e5 chhiu2, goa2 beh phoa3-hai7 it-chhe3, goa2 beh chhoa7 lang5 kau3 ti7 choat8-bang7 e5 chhim-ian.
+7 盲人：ChhiaN2 li2 m7-thang lai5 phoa3-hai7 goa2 e5 peng5-an, m7-thang lai5 chhiuN2-khi3 goa2 e5 heng7-hok.
+8 死神：Se3-kan e5 peng5-an ti7 ta2-loh8!  Se3-kan heng7-hok ti7 ta2-loh8, kiam2 m7-si7 long2 si7 liah8 hong, liah8 iaN2 mah?
+9 幕後聲（聖歌隊 e5 siaN）：Jin5-seng e5 khoai3-lok8 ti7 ta2-loh8, jin5-seng e5 hok-khi3 ti7 ta2-loh8, long2 si7 liah8 hong, liah8 iaN2, hit e5 eng5-kng chhin-chhiuN7 hoe, khoai3-sia7 chhin-chhiuN7 chhau2.
+(幕後 chau3 chong3-giam5 e5 音樂) 
+10 盲人：Hit e5 si7 sim2-mih8 e5 siaN?  Chhin-chhiuN7 hai2-eng2 hoah8-hoah8 hau2!
+11 死神：Hit e5 chiu7-si7 choat8-bang7 e5 chhim-ian e5 choan5 leng5-hun5 hou-kio3 e5 siaN, ti7 toe7-e7 teh thou2-khui3 ai-chham2!  TaN goa2 ia7 beh chhoa7 li2 kau3 hit e5 choat8-bang7 e5 chhim-ian.
+(消電,死神退場,盲人在黑暗中)
+12 盲人：Aih-ah, goa2 e5 sim kan-khou2 kau3-kek8!  Long2 bo5 u7 oah8-mia7 e5 ng3-bang7, long2 si7 si2 e5 siong7-bun7, choat8-bang7 e5 saN-kio3, m7-chai u7 sim2-mih8 lang5 beh kiu3 goa2 thoat-li7 chit e5 thang-kiaN e5 choat8-bang7 a2-bo5.  Goa2 e5 sim chhin-chhiuN7 taN tang7-taN3, goa2 e5 kha-chhiu2 long2 bo5 lat8.  Ou-thiN toe7-am3 e5 chhim-ian, tui3 ta2-loh8 u7 goa2 e5 
+chin2-kiu3!  Ah, u7 sim2-mih8 lang5 beh kiu3 goa2 thoat-li7 chit e5 thong3-khou2 e5 sou2-chai7!
+13 歌聲：(獨唱 聖詩169首 第三節) (電光照在盲人身上)
+14 盲人：Hit e5 si7 sim2-mih8 siaN-im!  Ho2 thiaN chhin-chhiuN7 thiN-teng2 e5 gak8-khi3.  Hit e5 siaN kiam2 m7-si7 goa2 sou2 teh ng3-bang7 sou2 teh ki5-thai7 e5 siaN mah.  Hit e5 siaN moa2-moa2 kam2-tong7 goa2 e5 sim, hit e5 hoaN-hi2 e5 siaN-im koh chit8-pai2 hou7 goa2 e5 ng2-bang7 koh hok8-to3 to3-tng2 lai5.  Hit e5 siaN-im chhin-chhiuN7 bi5-kng chio3 ti7 goa2 ou-am3, choat8-bang7 e5 sim!
+(牧師 theh8 Seng3-keng 出場)
+15 牧師：HiaN-ti7 ah, li2 thai2-oe7 che7 ti7 chit e5 ou-am3 sou2-chai7? Li2 ti7 chia teh chhong3 sim2-mih8? 
+16 盲人：Goa2 si7 chit8 e5 choat8-bang7 bo5 lou7 e5 be5-lou7 lang5, kiaN5-seh8 ti7 chit e5 se3-kan, ai3 beh tui-chhoe7 chin-sit8 e5 peng5-an, kap khoai3-lok8, khiok na2 chhoe7 na2 bo5, hoan2-tng2 ham7-loh8 ti7 chit e5 ou-am3 e5 chhim-kheN, chhoe7 bo5 chin2-kiu3.
+17 牧師：HiaN-ti7 ah, chhiaN2 li2 m7-bian2 koh choat8-bang7, in-ui7 Ia5-sou u7 ui7-tioh8 long2-chong2 choat8-bang7 be5-lou7 e5 lang5 lai5 kau3 se3-kan, hou7 kiN3-na7 kiu5-kio3 I e5 mia5 e5 lang5 oe7-thang tit-tioh8 peng5-an, khoai3-lok8.
+18 盲人：Ia5-sou si7 sim2-mih8 lang5?  Thai2-oe7 u7 chit-khoan2 su7? 
+19 牧師：Ia5-sou chiu7-si7 Siong7-te3 e5 tok8-siN KiaN2, ui7-tioh8 se3-kan lang5 e5 choe7, lai5 siu7 si2 ti7 sip8-ji-ke3 teng2, beh kiu3 kiN3-na7 sin3 I e5 lang5 m7-bian2 tim5-lun5 oe7-thang tit-tioh8 eng2-oan2 oah8.
+20 盲人：Sian-seN ah, hit e5 Ia5-sou kiam2 oe7 kiu3 goa2 thoat-li7 chit e5 choat8-bang7 e5 chhim-ian mah?  
+21 牧師：Oe7, lang5 ti7 Mou5-kui2 e5 chhiu2-lai7, tim5-lun5 ti7 choe7-ok e5 lai7-bin7, ti3-kau3 choat8-bang7, bo5 peng5-an, kong-keng2 hui-siong5 chhiN-chham2, khiok Ia5-sou beh kiu3 ti7 choe7-tiong teh choat8-bang7 thong3-khou2 e5 lang5, I chhun khui siang-chhiu2 teh kio3 kong2, 
+kiN3-na7 lo5-khou2 poe7 tang7-taN3 e5 lang5 tioh8 lai5 chiu7-kun7 goa2, goa2 beh hou7 li2 tit-tioh8 an-hioh.  HiaN-ti7 ah, li2 tioh8 sin3 hit e5 kiu3-se3 Chu2 Ia5-sou, I chiu7 beh sui5-si5 kiu3-siok8 li2 thoat-li7 chit e5 choat8-bang7 e5 choe7-ok, kap ou-am3 e5 si2-bong5. (天軍出場,靈子gia5十字架 khia7 ti7天軍e5中央)
+22 盲人：Sian-seN ah, goa2 hoaN-hi2 lai5 siu3 Ia5-sou, soa3 tit-tioh8 I e5 kiu3-siok8.  ChhiaN2 li2 in2-chhoa7 goa2.
+23 牧師：Kam2-sia7 Chu2, chhiaN2 li2 khia7 khi2-lai5.  (天軍 soe3-siaN gim5 seng3-si 159 siu2.)  Li2 tioh8 hoan2-hoe2 jin7-choe7 lai5 tu5-khi3 li2 it-chhe3 e5 choe7-ok, koh soa3 thang nia2-siu7 chui2 kap Seng3-leng5 e5 soe2-le2, hou7 li2 chiaN5-cho3 sin chhong3-cho7 e5 lang5.  (盲人 kui7-teh ki5-to2, 牧師 ka7 i kiaN5 se2-le2.)  Lan2 lang5 chhut-si3 ki3-jian5 toa3-choe7, chiu7 siok8 Mou5-kui2, gek8-thiN e5 poe3 chiau3 thiN gi2-toan3 tioh8 siu7 heng5-hoat8.  Kai-chai3 Siong7-te3 chi3-toa7 un-hui7, chhe-khian2 Seng3-kiaN2 tam-tng choe7-koa3, hou7 lan2 eng2-oan2 bian2-tit siu7 si2, hoan2-tng2 oe7-tit eng2-oah8 hok-khi3.
+Li2 u7 kam-goan7 jin7 Siong7-te3 choe3 li2 e5 ThiN-pe7, Chu2 Ia5-sou choe3 li2 e5 Kiu3 Chu2, Seng3 Sin5 choe3 li2 e5 Po2-hui7-su; koh beh chin7-sim sin3-kho3 I a2-bo5?
+(盲人, tam3-thau5)
+Li2 u7 seng5-sit8 hoan2-hoe2 li2 e5 choe7, koat-i3 sin3-kho3 sip8-ji7-ke3 e5 hok-im, lai5 tit-tioh8 sia3-choe7 e5 peng5-an, kap sin3 e5 oah8-mia7 a2-bo5?
+24 盲人：Goa2 beh an2-ni sin3!  (Ou-saN thoat-li7)
+25 牧師：An2-ni ho2, chhiaN2 li2 khia7 khi2-lai5,kam2-sia7 Chu2, o-lo2 Chu2!
+26 盲人：Oh, u7 khoaN3-kiN3 lah, ho5-teng2 e5 kng-beng5!  Sui2 e5 jit8-thau5, chhiN-chhui3 e5 chhau2-pou, ui2-tai7 e5 kiong5-chhong, long2 si7 hian2-beng5 Siong7-te3 e5 koan5-leng5 kap eng5-kng,thiN-teng2 toe7-e7 u7 chin-li2 kap chin-sit8 moa2-moa2.
+
+Kiu2-un chhin-chhiuN7 poe moa2 lau5!  Ha-le-lu-iah, kam2-sia7 Chu2, o-lo2 Chu2.  Li2 khoaN3 thiN-khui, thiN-sai3 kun5-chip8 gim5-si o-lo2.  Oh, eng5-iau7 e5 sip8-ji7-ke3, ui7-tioh8 goa2 lau5-chhut po2-hoeh e5 sip8-ji7-ke3, Ha-le-lu-iah!  Oh, goa2 ia7 u7 khoaN3-tioh8 goa2 sou2 thiaN3 e5 kiaN2, Leng5-chu2 ah, Leng5-chu2 ah, li2 taN tng2-lai5 ti7 goa2 lah tioh8 m7!
+(二人 lam2-oa2)
+27 靈子：A-pa ah, Chu2 Ia5-sou e5 sip8-ji7-ke3 u7  thau2-pang3 lan2 e5 so2-lian7.  Chit-ki chiu7-si7 lan2 tit-kiu3 e5 ki3-ho7, si7 Ia5-sou si2 lai5 kong3-phoa3 Mou5-kui2 e5 thau5-e5...
+28 牧師：TaN lin2 m7-bian2 koh tu2-tioh8 hun-li7, thang eng2-oan2 ti7 Siong7-te3 thiaN3 kiaN2 e5 kok lai5 hiong2-siu7 khoai3-lok8 kap peng5-an, chhiaN2 lin2 eng2-kiu2 khiN5-tiau5 ti7 chit-ki sip8-ji7-ke3, li2 na7 khiN5-tiau5, Sat-tan3 chiu7 bo5 hoat-tou7 thang koh hai7 lan2, si2-sit, ou-am3 ia7 bo5 koh koan2-hat lan2!  ChhiaN2 tai7-ke lai5 gim5-si o-lo2 Chu2. (聖詩169首4 chat)  
+Oan5
+
+
+
+BOE7 KOAN5
+2幕6場：
+1幕   1場  賣權
+2場  父與子
+3場  母與子
+4場  祝福
+5場  逃走
+2 幕   1場  曠野
+A.人物：1.雅各、2.以掃、3.以撒、
+        4.利百加、5.天使a、
+        6天使b、7.天使c。
+B. 主題歌：1. Jno. R. Sweneg;“Nearer My God to Thee” 
+           2. 聖詩277 首。
+第一幕    第一場    賣權
+場所    屋內
+Nga2-kok ti7 bu2-tai5 chiaN3-peng5 chiah8 tau7-a2-thng.  I2-so3 tui3 to3-peng5 chhut-tiuN5, chhiu2 u7 theh8 phah-lah8 e5 khi3-khu7.
+1 雅各：Oh!  Chin ho2-chiah8, chin ho2-chiah8.  Chiah8-tioh8 pi5-thou2 khui, bak8-chiu koh e7 kim.
+
+2 以掃：Nga2-kok, li2 teh chiah8 sim2-mih8? 
+3 雅各：An2-choaN2 lah, goa2 teh chiah8 sim2-mih8 kap li2 u7 sim2-mih8 kan-siap8 lah.
+4 以掃：Bo5-lah, goa2 kin-na2-jit8 hohN, phau2 khong3-ia2 phau2 chit8 jit8 siuN7 kong2 beh liah8 khoaN3 u7 sim2-mih8 cheng-seN thang lai5 chu2 chheN-chhau chhiaN2 li2, koh soah chin phaiN2-un7 liah8 long2 bo5 poaN3-hang7.
+5 雅各：Oh-ah, kin-a2-jit8 a-hiaN li2 si7 hou7 sim2-mih8 ka7 li2 kam2-tong7 tioh8 thah chiah-nih8 chhin-chhiat leh, cheng7 kau3-taN goa2 na7 lau5 chhui3-khi2-noa7 teh khoaN3 li2 chiah8 e5 si5-chun7 li2 lian7 chit8-te3 kut-a2 to m7-bat phah-ka-lauh8.  TaN li2 si7 beh ai3 goa2 ka7 li2 choe3 sim2-mih8? 
+6 以掃：Bo5 lah, goa2 to ui7-tioh8 an2-ni phau2 kui-jit8, phau2 kah nng2-sio5-sio5 pak-tou2 chin-chiaN3 iau lah. 
+7 雅各：An2-ni si7 an2-choaN2?  Li2 si7 kio3 goa2 beh ka7 li2 chhong3 sim2-mih8 hoe3.  Li2 pak-tou2 iau kap goa2 u7 sim2-mih8 koan-he7. 
+8 以掃：Ho2-sim leh lah, Nga2-kok, a-hiaN pak-tou2 hui-siong5 e5 iau lah.  Chhin-chhiuN7 teh beh si2-khi3, pai3-thok leh lah, hou7 goa2 chiah8 chit8-e5 ho2 bo5?
+9 雅各：Bo5 lah, goa2 bo5 teh chiah8 sim2-mih8 hoe3 lah.  A-hiaN li2 chin kaN-siu5 e5 khoan2.  Ah!  Chin ho2-chiah8, chin ho2-chiah8. Chit e5 thng khi3-bi7 hui-siong5 e5 ho2.  Chiah8 tioh8 lian7 chih8 iah8 giong7 beh lak khi2-lai5.
+10 以掃：Sim2-mih8 hoe3 lah?  Hou7 goa2 chiah8 chit8-chhui3 khoaN3-mai7-a2 ho2 m7? 
+11 雅各：Be7-tang3 lah, hou7 li2 chiah8 chit8-chhui3 soah liau2 toa7-chiN5.
+12 以掃：Bo5, khoaN3 chit8-oaN2 beh be7 goa2-che7 goa2 ka7 li2 be2 lah.
+
+13 雅各：Goa2 m7 be7 lah.
+14 以掃：Lian7 goa7-che7 li2 iah8 m7 be7 tioh8 m7?
+15 雅各：Tong-jian5 e5 noh8.
+16 以掃：Goa2 iong7 chit8-ki chhai5-long5 e5 kha ka7 li2 be2 lah ho2 m7?  Bin5-a2-chai3 goa2 na7 liah8-tioh8 khah ka7 li2 lap8.
+17 雅各：Hng2!  Tang3-sng-kau5, chiong soaN-nih8 long2-chong2 e5 chhai5-long5 ka7 goa2 be2 goa2 ma7 bo5-ai3. 
+18 以掃：Li2 u7 iaN2 bo5 ai3 tioh8 m7, ho2 an2-ni goa2 beh ka7 li2 phah, beh ka7 li2 iong7 chhiuN2 e5.  Goa2 si7 li2 e5 hiaN-ko li2 m7-chai tioh8 m7?  Si7 Siong7-te3 sou2 chiok-hok e5 toa7-kiaN2, na7 bo5 beh thiaN goa2 e5 chhui3 goa2 si7 u7 koan5-li7 thang ka7 li2 phah si2 oh.
+19 雅各：Ho2 lah, ban7-chiah leh lah, Tu2-tioh8 li2 chit e5 thou2-lang5 bo5 hoat-tou7.
+20 以掃：An2-ni taN iong7 chhai5-long5 kha chit8-ki beh be7 goa2 hoN3.
+21 雅各：Bo5 noh8 he si7 be7 tang3 noh8, a7-u7 hiah-nih8 siok8 e5.
+22 以掃：Bo5 tioh8 iong7 sim2-mih8 hoe3 tah beh be7 goa2 neh, khah-kin2 leh lah, goa2 iau kah toa7-tng5 teh ko3 sio2-tng5 li2 m7 chai hohN.
+23 雅各：An2-ni lah hohN, li2 na7-si7 kam-goan7 chiong li2 chim2-ma2 sou2 kong2 hit e5 toa7-hiaN e5 koan5 lai5 ka7 goa2 be2, goa2 chiah beh kam-goan7 be7 li2. 
+24 以掃：Li2 kong2 sim2-mih8 hoe3!  Iong7 toa7-hiaN e5 koan5 ka7 li2 be2 hohN.  Hng3!  Che u7 kau3-giah8 ki5-koai3 e5 be2-be7.  Ti7 chit e5 si5-tai7 ia7 u7 lang5 teh iong7 mia5-hun7 cho3 seng-li2.  Chong2-si7 bo5 iau3-kin2 lah, pak-tou2 na7 kah iau kau3-teh lah, iong7 siN3-mia7 ma7 
+tioh8 ka7 li2 be2.  Kiat-kiok8 ia7 si7 bo5 sim2-mih8 sun2-hai7 lah.  TaN khah-kin2 phang5-lai5 leh, beh iong7 toa7-hiaN e5 koan5 ka7 li2 be2 lah.
+25 雅各：SaN ban7-chiah leh goa2 na7 be7 li2, li2 tui3 kin-a2-jit8 khi2 tioh8 kio3 goa2 a-hiaN hohN, ia7 bo5 koan5-li7 thang phah goa2 lah hohN.  Li2 i2-au7 chiu7 m7-si7 Siong7-te3 sou2 chiok-hok e5 toa7-kiaN2 lah hohN. An2-ni li2 ia7 kam-goan7 tioh8 m7.
+26 以掃：Hng3!  Bo5 tho3-tong3, bo5 tho3-tong3.  Chong2-si7 bo5 iau3-kin2 lah, ka7 li2 be2 loh8-khi3 ah.  Iau kah poaN3-sio2-si2 teh ham li2 ko ko tiN5.
+27 雅各：HoN3!  An2-ni hohN, bo5 lai5 chhi3 kio3 khoaN3 mai7 koh, kio3 goa2 a-hiaN khoaN3-mai7-a2.
+28 以掃：Hng3 li2 chit e5 u7-iaN2 chap8-hun u7 kau2-koai3.  Pak-tou2 iau kau3 teh, hou7 li2 khah pheN teh bo5 iau3-kin2.  TaN beh kio3, li2 tioh8 thiaN hou7 chim-chiok hohN.  “A-hiaN.”  An2-ni ho2 lah hohN taN khah-kin2 phang5-lai5.
+29 雅各：An2-ni ho2 chin song2-khoai3, chin song2-khoai3.  ThiN-te7 khai-chou2 m7-bat u7 e5 song2-khoai3, taN phang5-khi3 chiah8, phang5-khi3 chiah8, goa2 chit e5 sio2-ti7-a2 e5 bin7 thai2-e7 seN-choh chiah m7 khah gong7 koh kham2 leh.
+30 以掃：Sim2-mih8 hoe3 ah!  Ho2-ho2 li2 tioh8 ka7 goa2 ki3 leh hohN.  Khah-theng5-a2 tah koh hou7 li2 kio3 kiu3 lang5.  U7-iaN chin ho2-chiah8 to-tioh8, goan2-lai5 chiu7-si7 ang5-tau7-a2 thng hohN, long2 hou7 li2 phian3-phian3 khi3.  Pak-tou2 iau sit8-chai7 si7 u7 kau3 kan-khou2.  Sou2-i2 chiah-tioh8 hou7 li2 chhiaN2 kah pa2 koh chui3.  TaN li2 tioh8 ka7 goa2 ki3 leh hohN. (以掃退場)
+31 雅各：Hng2!  Chin song2-khoai3, chin song2-khoai3.  Bo5 sio2-khoa2 ka7 ka3-si7 leh long2 be7 sai3-tit.  TiaN7 kong2 i si7 toa7-kiaN2 ia7 iong7 toa7-kiaN2 e5 koan5 lai5 beh khi-hu7 goa2, bo5 sio2-khoa2 ka3-si7 chit8-e7 long2 be7 sai3-tit.  Chong2-si7 m7-thang hou7 i koe3-thau5 siu7-khi3.  Na7 
+hou7 i khi2 thou2-phiah khi2-lai5 chiu7 hui3-khi3. TaN goa2 tioh8 lai5-khi3 pang-chan7 goa2 e5 a-bo2 e5 kang.
+(退場)  
+第二場  父與子
+場所同樣      以撒出場
+1 以撒：Lang5 na7 chiah8 lau7 sit8-chai7 si7 phaiN2 koe3-jit8.  Nng7, saN pah ni5 cha2-cheng3 goa2 siau3-lian5 e5 si5-chun7, kap goa2 e5 lau7-pe7 A-pek-liap8-han2 phiau-liu5 chit8-kok koe3 chit8-kok kau3 kin-na2-jit8 i2-keng chiaN5-cho3 chit8-e5 lau7-lang5.  Lau7 kah be7 chhoan2-khui3.  Bak8-chiu ia7 bo5 khoaN3-kiN.  Chiah8 kah chiah-nih8-a2 che7 hoe7 iah8 si7 kan-khou2.  TaN chi2-u7 si7 kan-taN tan2-hau7 si2, Siong7-te3 tiau3 goa2 tng2-khi3 kiN3 goa2 e5 chou2-sian na7-tiaN7.  Se3-han3 e5 si5-chun7 goa2 e5 lau7-pe7 A-pek-liap8-han2 iong7 chha5 hou7 goa2 phaiN7 ti7 kha-chiah-phiaN chhoa7 goa2 kau3 ti7 Mou5-li7-a e5 soaN hit e5 tai7-chi3 chhin-chhiuN7 cha7-hng e5 su7 iau2-ku2 ti7 bak8-chiu cheng5 hou7 goa2 bo5 be7 ki3-tit.  Sit8-chai7 jit8-chi2 teh koe3 si7 chin-kin2.  Ti7 hit-si5 eng3-kai tioh8 si2 e5, siu7 Siong7-te3 e5 un-hui7 u7 oah8 kau3 kin-na2-jit8, chong2-si7 kiat-kiok8 iah8 si7 tioh8 si2.  Bo5 si2 iah8 be7 soah tit.  Chi2-u7 si7 long7-hui3 lang5 e5 khui3-lat8 na7-tiaN7, sit8-chai7 jin5-seng si7 khang-hi, si7 liah8-iaN2, kai-chai3 tui3 thiN u7 siuN2-su3, I2-sou3 kap Nga2-kok thang cho3 hou7-su5 hou7 goa2 tam7-poh8 an-sim.  TaN chong2-si7 goan2 e5 si5-tai7 si7 i2-keng koe3-khi3 lah. Goa2 ho2 thang ka7 I2-sou3 chiok-hok, iah8 thang lai5 khi3 chhoe7 goa2 e5 bong7, eng2-oan2 thang hioh-khun3.  TaN I2-so3 kin-na2-jit8 si7 an2-choaN2 kah iau2-boe7 to3-lai5, m7-chai u7 tu2-tioh8 sim2-mih8 tai7-chi3 a2-bo5.  Goa2 tioh8 lai5 ka7 i kio3 khoaN3-mai7-a2.  “I2-so3-a3, I2-so3-a3.”  
+(以掃出場)
+2 以掃：A-pa sim2-mih8 tai7-chi3 lah, hiah-nih8-a2 toa7-siaN si7 an2-choaN2 lah?  Li2 sin-the2 kan-khou2 a2-bo5?  A2-si7 li2 ai3 chiah8 sim2-mih8 si7 bo5?
+3 以撒：I2-so3-a3!  Li2 khoaN3 a-pa chiah-nih8-a2 lau7, kin-na2-jit8 beh si2 bin5-na2-jit8 beh si2 ma7 m7 chai-iaN2, sou2-i2 goa2 siuN7 kong2 kin-a2 jit8 ai3 ti7 Siong7-te3 e5 bin-thau5-cheng5 ka7 li2 
+chiok-hok, na7 bo5 ma7 si7 be7 an-sim.  TaN li2 khi3 giah8 li2 e5 chhiuN kap li2 e5 bu2-khi3, ia7 khi3 soaN-ia2, ka7 goa2 liah8 chit8-chiah pui5-pui5 e5 lok8-kang2 lai5 chu2-chu2 leh phang5 lai5 hou7 li2 e5 a-pa chiah8.  Hou7 goa2 e5 sim-sin5 chiah8 hou7 song2-khoai3 thang chiok-hok li2 e5 chian5-tou5  TaN khah-kin2 khi3 thang khah-kiu2 to3-lai5.
+4 以掃：A-pa kiam2 u7-iaN2, ah chin hoaN-hi2, A-peh-liap8-han2 e5 Siong7-te3, I2-sat e5 Siong7-te3 taN beh chiaN5-cho3 goa2 sou2 tok8-chiam3 e5 Siong7-te3 lah hoN3.  Ah!  Goa2 e5 Siong7-te3, i2-au7 se3-kan lang5 ia7 beh kio3 I2-so3 e5 Siong7-te3 lah hohN.
+5 以撒：M7-thang kin2-kip, tioh8 ai3 chu7-chai7 si5 si7 iau2-be7 kau3 lah.  Kau3 a-pa beh ka7 li2 chiok-hok e5 si5-chun7 li2 tioh8 ai3 kin2-sin7.  M7-thang an2-ni hong3-hong3, taN khah kin2 khi3.
+(利百加出場)
+6 以掃：Ah!  Chin hoaN-hi2, taN goa2 chiaN5-cho3 chit8 e5 lang5 lah. Beh chiaN5-cho3 che7-che7 kok-bin5 e5 pe7, beh cho3 che7-che7 peh-seN3 e5 Ong5 lah.  Goa2 e5 kiaN2-sun beh chhin-chhiuN7 hai2 e5 soa, iah8 beh chhin-chhiuN7 kiong5-chhong e5 chheN bu5-sou3 put-chi2.  TaN goa2 khah-kin2 lai5 khi3 thang khah-kin2 to3-lai5 siu7 chiok-hok.
+(以掃與以撒退場)
+第三場  母與子
+1 利百加：Nga2-kok ah!  Nga2-kok ah!  Chit e5 gin2-na2 m7-chai ti7 to2-ui7 teh chok-giat8.  Sit8-chai7 si7 chin-chiaN3 bo5 hoat-tou7. Nga2-kok ah!  Nga2-kok ah!
+2 雅各：Sim2-mih8 leh a-bu2, chhut kah hit ho7 chha5-pe5 siaN beh hou7 lang5 kiaN si2 si7 bo5.  Si7 sim2-mih8 tai7-chi3 tioh8 m3?  A-pa teh kan-khou2 tioh8 m3?
+3 利百加：Li2 chit e5 gin2-na2 u7-iaN2 chin bo5 lou7-eng7. Toa7 tai7-chi3 lah li2 chai m3.  Li2 iau2-ku2 gong7-gong7.
+
+4 雅各：Sim2-mih8 hoe3, toa7 tai7-chi3 hohN.  Ti7 lan2 chit e5 goan5-si2 si5-tai7 toa7 tai7-chi3 si7 chin han2-tit, na7 si7 toa3 ti7 hit e5 20 se3-ki2 e5 si5-chun7 u7 se3-kai3 tai7-chian3 a2-si7 goan5-chu2-tan5 beh tui3 thau5-khak teng2 ka7 li2 poah8 loh8-lai5, che phah-sng3 si7 toa7 tai7-chi3.  Chong2-si7 ti7 lan2 chit e5 si5-tai7 si7 e7-tang3 an-sim koe3-jit8 chiah tioh8.  Si7 tui3 thiN-nih8 loh8 hoe2 loh8-lai5 tioh8 m3 neh.  A2-si7 te7-bin7 piak-khui nih8?  
+5 利百加：Li2 chit e5 gin2-n2 si7 teh kong2 sim2-mih8 hoe3. Li2 tiam7-tiam7 thiaN a-bo2 e5 oe7, tu2-chiah goa2 u7 thiaN-kiN3 li2 e5 a-pa kio3 I2-so3 tioh8 chu2 ho2-chiah8 e5 liau7-li2 phang5-lai5 hou7 i chiah8.  I beh thang ka7 chiok-hok.  Ti7 Siong7-te3 e5 bin7-thau5-cheng5 e5 chiok-hok si7 chit8 e5 thang-kiaN e5 toa7 tai7-chi3, li2 chai-iaN2 bo5.  Sou2-i2 li2 e5 a-pa ti7 i boe7 si2 e5 i2-cheng5 ai3 beh kin2-kin2 ka7 I2-so3 chiok-hok.
+6 雅各：An2-ni si7 an2-choaN2 neh, a-bo2 li2 si7 chin-chiaN3 kip-seng3 li2 kong2 toa7 tai7-chi3 hou7 goa2 liah8 chun2 si7 tui3 thiN loh8 hoe2 a2-si7 thian-kun loh8-lai5 leh.  Goan2-lai5 chiu7-si7 ui7-tioh8 chit e5 tai7-chi3 hohN.  Hai7 goa2 kiaN chit8-tio5.
+7 利百加：Li2 chiu7-si7 chit-khoan2 e5, sou2-i2 ban7-si3 to be7 chhut-thoat.  TaN tiam7-tiam7 thiaN goa2 ka7 li2 kong2, a-bo2 si7 khah thiaN3 li2, sou2-i2 chiah beh ui7-tioh8 li2 an2-ni lai5 khoa3-lu7.  Na7 si7 I2-so3 hit khoan2 e5 ia2-seng3 goa2 chiu7 kiaN, sou2-i2 goa2 chhian-ban7 ai3 li2 ti7 Siong7-te3 e5 bin7-cheng5 tit-tioh8 chiok-hok. 
+8 雅各：Ti7 Siong7-te3 e5 bin7-cheng5, tit-tioh8 chiok-hok si7 u7 sim2-mih8 li7-ek leh, kiam2 oe7 eng7-kiu2 be7 si2 tioh8 m3. 
+9 利百加：Li2 chit e5 gin2-na2 chin-chiaN2 lou2.  Ti7 Siong7-te3 e5 bin7-cheng5 tit-tioh8 chiok-hok si7 chhin-chhiuN7 tit-tioh8 Siong7-te3 chit8-iuN.  A-pek-liap8-han2 a-kong e5 Siong7-te3, I2-sat a-pa e5 Siong7-te3, chim2-ma2 chiu7 chiaN5-cho3 li2 e5 Siong7-te3 lah, Siong7-te3 na7 u7 kap li2 ti7-teh, li2 e5 seng-gai5 oe7-thang tit-tioh8 I e5 chiok-hok kap po3-siuN2.
+10 雅各：U7-iaN2 to tioh8, an2-ni be7 bai2.
+ 
+11 利百加：Siong7-te3 kau3 to2-ui7 to beh kap li2 ti7-teh.  Beh po2-hou7 li2 thoat-li2 gui5-hiam2 kap chai-e7. Beh hou7 li2 chiaN5-cho3 se3-kai3 e5 ong5.  Hou7 li2 chiaN5-cho3 jin5-lui7 e5 pe7.
+12 雅各：An2-ni goa2 beng5-pek8 lah, A-bo2 taN lan2 tioh8 an2-choaN2 cho3 khah-ho2?
+13 利百加：Li2 tioh8 thiaN goa2 e5 chhui3 kin2-kin2 khi3 ti-tiau5 ka7 goa2 liah8 nng7-chiah pui5 e5 ti-a2 lai5 hou7 goa2.  A-bo2 beh thang liau7-li2 kau3 chin ho2-chiah8, hou7 li2 thang phang5-khi3 hou7 li2 e5 a-pa chiah8 thang tui3 I2-so3 lai5 chhiuN2-toat8 i e5 chiok-hok.
+14 雅各：Chong2-si7 A-bo2 sui-bong2 a-pa bak8-chiu bo5 khoaN3-kiN3 chong2-si7 i e7 eng7 bong e5, I2-so3 si7 chin-che7 mng5, goa2 long2 bo5 mng5, sou2-i2 na7 hou7 a-pa khoaN3-phoa3 e5 si5-chun7, goa2 chiu7 m7-si7 beh siu7 chiok-hok, soah hou7 chiu3-chou2 chit8-e5 eng2-oan2 be7 chhiau-thian, soe kah lak thau5-mng5 toh hui3-khi3.  KhoaN3 na7 hou7 a-pa chiu3-cho2 tioh8 goa2 chiu7 hui3-khi3.
+15 利百加：M7-bian2 kiaN lah, li2 na7 siu7 chiu3-chou2 a-bo2 tah ka7 li2 tam-tng, put-ji7 kou3 li2 tiam7-tiam7 thiaN goa2 sou2 ka7 li2 kong2 e5 khi3 cho3.
+16 雅各：Li2 na7-si7 kong2 an2-ni goa2 lai5 khi3.
+17 利百加：Khah-kin2 lai5 leh hohN, phah-sng3 I2-so3 iah8 liam-piN teh beh to3-lai5 lah.
+18 雅各：Chin bo5 tho3-tong3, I2-so3 na7 chai-iaN2 chit e5 tai7-chi3 m7-chai beh kau3 goa7-nih8 siu7-khi3, nng7-peng5 chhui3-phoe2 tioh8 hou7 i sian3 kah cheng2-cheng2 khi2-lai5, hit e5 mng5 sian-seN goa2 si7 chin-chiaN3 kiaN.  TaN goa2 lai5 khi3.  A-bo2 li2 kin2-kin2 pi7-pan7 hou7 ho2-se3.
+19 利百加：Ho2 lah, khah-kin2 leh, khah-kin2 leh.  (雅各退場,利百加準備起火,雅各出場)
+
+20 雅各：A-bo2 ah, chit nng7-chiah u7 iu-siu3 bo5, che si7 Tiong-kok tek8-san2 e5 ho2-cheng2.
+21 利百加：Khah-kin2 ka7 goa2 liah8 jip8-khi3 chau3-kha m7-thang chau2, thang kap goa2 tau3 kha-chhiu2.
+第四場  祝福
+1 以撒：I2-so3 m7-chai si7 an2-choaN2 khah iau2-be7 tng2-lai5.  I m7-chai u7 liah8-liau2 ho2-se3 a2-bo5?  A2-si7 u7 tu2-tioh8 sim2-mih8 chai-e7 a2-bo5?  Ti7 kin-na2-jit8, ti7 chit e5 hoaN-hi2 e5 jit8-chi2 na7 hou7 i tu2-tioh8 sim2-mih8 put-heng7 e5 tai7-chi3, goa2 chiu7 tui3 Siong7-te3 khoaN3 beh an2-choaN2 kong2.  Kin-na2-jit8 si7 chiok-hok e5 jit8.  Na7 m7-si7 Siong7-te3 e5 i-su3 bo5 lang5 e7 chhiuN2 toat8 chit e5 hok-khi3.  I2-so3 si7 goa2 sou2 oa2-kho3 e5 kiaN2.  I hou7 goa2 tit-tioh8 ia2-seng e5 chu-bi7, hou7 goa2 e5 chhui3 u7 hok-khi3 thang hiong2-siu7 san-tin.  I2-so3 si7 goa2 sou2 hoaN-hi2 e5 kiaN2, phah-sng3 i e7 liam5-piN tng2-lai5.  E7 liah8 lai5 hou7 goa2 e5 sim hoaN-hi2 thang chiok-hok i.  TaN goa2 tioh8 siaN2 tiam3 chia to2-teh tan2-hau7 i tng2-lai5.
+(利百加,雅各出場)
+2 利百加：An2-ni ho2-se3, an2-ni ho2-se3. Li2 ka khoaN3 chiah e5 bah chu2 kah chiah-nih8-a2 phang, khoaN3-tioh8 kau3 long2 beh lau5 noa7 chhut-lai5, li2 e5 saN chheng7 u7 ho2-se3 bo5?  Chhiu2 e5 phoe5 pak8 u5 ho2-se3 bo5?  An2-ni phah-sng3 li2 e5 lau7-pe7 ia7 be7 jin7-tit li2 lah.  TaN koaN2-kin2 khi3.  Tioh8 ai3 khah se3-ji7 leh. M7-thang siuN chheN-kau5.  Soa3 long3-phoa3 tai7-chi3, a-bo2 ia7 beh ti7 li2 e5 piN-a2. 
+3 雅各：Ho2 lah!  Goa2 chai lah, goa2 chai lah. 
+4 雅各：A-pa, A-pa.
+5 以撒：HaN3?  Li2 si7 sim2-mih8 lang5.
+6 雅各：Goa2 lah, A-pa li2 e5 toa7-kiaN2 I2-so3 lah.  Goa2 m7 si7 Nga2-kok lah.
+
+7 利百加：Hai7 ah, m7 bian2 kong2 an2-ni lah.
+8 雅各：Goa2 si7 I2-so3 lah.  Chiau3 a-pa e5 beng7-leng7, goa2 u7 khi3 ti-tiau5 liah8 nng7-chiah8 ti-a2-kiaN2. 
+9 利百加：Ai2 ah, m7-si7 lah, m7-si7 ti-tiau5 lah, khi3 soaN-ia2 liah8 e5 lok8 lah.
+10 雅各：Ah, u7-iaN2 to-tioh8 goa2 u7 khi3 soaN-ia2 liah8 chit8-chiah pui5-e5 lok8-a2-kiaN2 ia7 u7 kio3 a-bo2 ka7 goa2 liau7-li2.
+11 利百加：Tioh8 kong2 ka-ki chu2 e5 lah.
+12 雅各：Ah!  Kong2 m7 tioh8 lah, goa2 ui7-tioh8 a-pa chu2 kah chin ho2 chiah8, phang5-lai5 ti7 chia chhiaN2 li2 khi2-lai5, in-ui7 chin ho2 chiah8, sou2-i2 li2 m7-thang chiah8 kau3 e7-hoai5 soa3 lak8 khi2-lai5 neh.  Goa2 seng ka7 li2 thong-ti leh.
+13 以撒：Ou3?!  Li2 si7 I2-so3 tioh8 m3, li2 chiah-nih8 khoai3 to3-tng2 lai5 tioh8 m3.
+14 雅各：Si7 noh8, lan2 lai7-bin7 u7 khan bo5-soaN3 tian7-sin3 li2 m7 chai-iaN2 mah.  Kin-a2-jit8 Ia5-ho3-hoa ui7-tioh8 goa2 beh khah-kin2 tit-tioh8 li2 e5 chiok-hok u7 tek8-piat siuN2-su3 goa2 khah-khoai3 tit-tioh8.  TaN A-pa ah chhiaN2 li2 chiah8 ia7 thang koaN2-kin2 ka7 goa2 chiok-hok.
+15 以撒：An2-ni chin-ho2, chin-chiaN3 thang kam2-sia7.  TaN li2 khia7-oa2 lai5 goa2 e5 piN-a2 thang hou7 goa2 ka7 li2 bong, khoaN3 li2 si7 I2-so3 a2 m7-si7, in-ui7 chiok-hok si7 iau3-kin2 e5 tai7-chi3 be7-sai3 lam7-sam2 tit.  Na7 chiok-hok m7-tioh8 to chin hui3-khi3.  Hng3!  Li2 chhiu2 to si7 I2-so3 e5 chhiu2 to tioh8.  Chong2-si7 li2 e5 siaN-im u7 sio2-khoa2 khah ko3-iuN7.
+16 雅各：He si7 an2-ni lah, A-pa ah, thau5-tu2-a2 goa2 teh chhi3-chiah8 liau7-li2 e5 si5-chun7, chit8-te3 kut soa3 khe3 ti7 na5-au5-khau2 nih8, sou2-i2 kong2 tioh8 oe7 soa3 ko3-iuN7 lah.
+
+17 以撒：An2-ni li2 si7 goa2 e5 toa7-kiaN2 I2-so3 bo5 m7-tioh8 hohN.
+18 雅各：Bo5 m7-tioh8 lah.
+19 以撒：na7-si7 an2-ni hohN, ka7 goa2 phang5 li2 sou2 chu2 e5 liau7-li2 lai5. Hng3, hng3, u7-iaN2 to-tioh8 chin-chiaN3 phang.
+20 雅各：ChhiaN2 li2 khoaN-khoaN-a2 eng7.  Chia ia7 u7 pho5-to5-chiu2 goa2 ka7 li2 thin5.
+21 以撒：U7-iaN2 chin ho2-chiah8 to-tioh8!  Chin-chiaN3 sin-sian2 e5 khi3-bi7, li2 si7 chin ho2 e5 kiaN2, iu5-goan5 si7 goa2 e5 toa7-kiaN2, taN ka7 li2 e5 A-pa chim chit8-e7.  An2-ni ho2, an2-ni ho2.(雅各跪落,以撒站起來,手放在雅各頭上)  Li2 e5 a-pa sim-koaN chin boan2-chiok, li2 phah-sng3 ia7 chin hoaN-hi2.  Li2 khoaN3 li2 chit e5 hoaN-hi2 si7 chhin-chhiuN7 Siong7-te3 sou2 chiok-hok ia2-tiong e5 chhau2 chit8-iuN7, Siong7-te3 chhin-chhiuN7 kang3-lou7 ti7 soaN-iaN2 e5 chhiu7-bak8 kap chhau2-hoe chit8-iuN7 beh po2-hou7 li2, ia7 beh chiong te7-kiu5 e5 un7-mia7 hou7 li2.  Che7-che7 peh-seN3 beh chiu7-kun7 li2.  Ti7 li2 e5 bin5-cheng5 aN3-thau5 keng3-pai3 li2.  Siong7-te3 ia7 beh kap li2 e5 tong5-pau saN-kap ti7-teh.  Beh hou7 li2 e5 tong5-pau long2 hang5-hok8 ti7 li2 e5 bin7-cheng5.  Chiu3-chou2 li2 e5 beh siu7 chiu3-chou2 chiok-hok li2 e5 ia7 beh siu7 chiok-hok.  TaN koh ka7 li2 e5 a-pa chim chit8-e7.  An2-ni ho2 lah, goa2 taN ia7 thang an-sim kheh-bak8 lah.
+22 雅各：A-pa ah to-sia7!  Ng3-bang7 li2 tng5-tng5 oah8 teh.  TaN an2-ni to ho2 lah hoN3?
+以掃突然拿料理出場。
+利百加,雅各恐懼退場。
+23 以掃：A-pa ah!
+24 以撒：Li2 si7 sim2-mih8 lang5?
+
+25 以掃：A-pa e5 toa7-kiaN2 I2-so3 lah.
+26 以撒：Sim2-mih8 li2 si7 I2-so3 m3?
+27 以掃：Si7 lah chiau3 A-pa e5 beng7-leng7 goa2 u7 khi3 cho3 chin ho2 e5 liau7-li2 lai5 lah.  ChhiaN2 li2 chiah8 ia7 ti7 Siong7-te3 e5 bin7-cheng5 thang ka7 goa2 chiok-hok.
+28 以撒：Ou!  An2-ni thau5-tu2-a2 phang5 liau7-li2 lai5 hou7 goa2 chiah8 e5 si7 sim2-mih8 lang5?  A-pa i2-keng tu2-chiah chiah8 I2-so3 e5 liau7-li2 ia7 ka7 chiok-hok liau2 lah na-tiaN7.
+29 以掃：Chong2-si7 goa2 tu2-chiah tng2 lai5 na7-tiaN7 neh, chiau3 A-pa e5 i3-su3 khi3 liah8 lok8-a2 lai5 chu2 liau7-li2 chu2-liau2 taN2-chiah phang5 lai5 na7-tiaN7.  Si7 an2-choaN2 leh!  Khah u7 chit ho7 tai7-chi3 an2-ni?
+30 以撒：An2-ni li2 si7 I2-so3 bo5 m7 tioh8 neh?
+31 以掃：A-pa chhiaN2 li2 bong goa2 e5 chhiu2 goa2 kiam2 oe7 phian3 li2 tioh8 m3!  (bong)
+32 以撒：Ah!  Li2 ko2-jian5 si7 goa2 e5 toa7-kiaN2 I2-so3 bo5 m7-tioh8.  Chong2-si7 bo5 hoat-tou7 lah.  Goa2 boe7 thang koh ka7 li2 chiok-hok lah! 
+33 以掃：A-pa, khah oe7-sai3 hou7 li2 kong2 an2-ni!  Li2 tioh8 ai3 ka7 goa2 chiah8 lah!  Ia7 tioh8 ka7 goa2 chiok-hok lah.  A-pa khak-kin2 leh lah!  A-pa khah-kin2 leh lah!  Li2 ia7 tioh8 ka7 goa2 chiok-hok lah, na7 bo5 chiok-hok goa2 si7 boe7 thang oah8 ti7 chit e5 se3-kan lah, khah-kin2 ka7 goa2 chiok-hok lah, khah-kin2 ka7 goa2 chiok-hok lah!
+34 以撒：Li2 kong2 an2-ni ia7 si7 i2-keng bo5 boat-tou7.  A-pa i2-keng bo5 u7 hit e5 leng5-lek8 lah.  Li2 e5 sio2-ti7 Nga2-kok i2-keng tui3 li2 chhiuN2-toat8 hit e5 chiok-hok khi3 lah!  TaN goa2 long2 bo5 hoat-tou7 lah.
+
+35 以掃：Boe7-sai3-tit lah!  Boe7-sai3-tit lah!  Li2 ia7 tioh8 ka7 goa2 chiok-hok lah.  Sio2-khoa2 ia7 bo5 iau3-kin2 lah, li2 soah long2 bo5 ka7 goa2 lau5 chit8-sut-a2 tioh8 m3?
+36 以撒：Goa2 chiong li2 e5 it-chhe3 long2 hou2 Nga2-kok lah, chiong li2 it-chhe3 e5 tong5-pau hou7 i cho3 lou5-le7, chiong te7-chiuN7 it-chhe3 e5 gou7-kak chheng-chiu2 long2 hou7 i lah.  TaN goa2 long2 bo5 chhun sim2-mih8 lah!  I2-sou3 ah!  Li2 beh kio3 goa2 ka7 li2 cho3 sim2-mih8.
+37 以掃：An2-ni si7 koe3-thau5 chan5-jim2 lah, goa2 be7 thang hou7 li2 kong2 an2-ni lah.  Goa2 si7 a-pa li2 e5 toa7-kiaN2 khah oe7-tang3 hou7 li2 kong2 an2-ni.  Li2 ia7 tioh8 ka7 goa2 chiok-hok, ka7 goa2 chiok-hok.
+38 利百加：I2-sou3, li2 khah oe7 hiah thou2, an2-ni li2 beh ka7 a-pa chhui si2 tioh8 m3?  Ai-ioh!  Li2 khoaN3 lin2 lau7-pe7 e5 bak8-chiu soa3 it-tit8 teh tng2 lah.  Ai-ioh!  Soa3 chin-chiaN3 si2 khi3 lah, ai-ioh I3-sat-a3!  I3-sat-a3!
+39 以掃：Chin-chiaN3 kan-kui2 chit e5 Nga2-kok na7 bo5 hou7 si2 phah-sng3 be7-sai3-tit!  Chu7 kau3-taN long2 si7 beh kap goa2 cho3 tui3-tek8.  I ham goa2 ti7 lau7-bo2 e5 thai e5 si5 chiu7 i2-keng si7 chit8 e5 kan-cha3 e5 lang5 lah.  Goa2 beh tai7-seng chhut-thai e5 si5 i ia7 kap goa2 ko-ko-tiN5, m7 hou7 goa2 tai7-seng chhut-lai5.  Soa3 tui3 goa2 e5 kha ka7 goa2 khiu2-teh, m7 hou7 goa2 chhut-lai5. Tu2-a2-chiah ia7 kiong5-kiong5 ka7 goa2 be2 toa7-kiaN2 e5 koan5 khi3, chit-tiap8 ia7 ka7 goa2 chhiuN2-toat8 chiok-hok khi3.  Ho2!  Li2 na7-si7 chiah-nih8 kah hui-hoat, goa2 ia7 u7 goa2 e5 kak-ngou7.  Cha3-ki, kan-kui2, goa2 ki2 thiN chiu3-choa7, goa2 kin-a2-jit8 tek-khak beh hou7 li2 si2, beh hai7-si2 li2 e5 seN3-mia7. (以掃呼叫退場)
+40 利百加：TaN hai7 lah, khoaN3 beh an-choaN2 tioh8 ho2, khah oe7 tu2-tioh8 chiah-nih8 kah hiau-heng7!  Ah, Siong7-te3 ah, kiu3 lang5 leh oh!  A-pek-liap-han2 e5 Siong7-te3, I2-sat e5 Siong7-te3 ah!  Li2 tioh8 kiu3 goa2 e5 kiaN2 Nga2-kok oh!  Goa2 e5 tiong7-hu soa3 si2-si2 khi3!  Ou3!  KhoaN3 goa2 beh an-choaN2 tioh8 ho2! Goa2 sou2 thiaN3 e5 kiaN2 ah!  Goa2 sou2 thiaN3 e5 kiaN2 ah.  Nga2-kok!  Nga2-kok!  Kin2-lai5 leh lah.
+
+(呼叫。雅各出場)
+41 雅各：Ai3-ioh!  A-pa si7 an-choaN2!  Tau3-te2 si7 sim2-mih8 tai7-chi3 leh.
+42 利百加：ThiaN a-bo2 e5 oe7 khah-kin2 leh, khah-kin2 leh.
+43 雅各：A-bo2, si7 an-choaN2 leh, li2 khah e7 cheN-kau5 kau3 an2-ne neh.  Un-un-a2 kong2 lah.
+44 利百加：Khah-kin2 leh, khah-kin2 leh, toa7 tai7-chi3 lah, toa7 tai7-chi3 lah.
+45 雅各：A-bo2 si7 sim2-mih8 toa7 tai7-chi3 leh, ai3-ioh, ai3-ioh soa3 hun7-hun7 khi3!  TaN che u7 iaN2 toa7 tai7-chi3 to-tioh8.  Goa2 tioh8 kin2-kin2 lai5 khi3 theh8 khoaN3 u7 chui2-bo5.
+46 利百加：M7-bian2 lah, taN bo5 iau3-kin2 lah.  Li2 tioh8 khah-kin2 khi3 chun2-pi7 thang chau2 lah.  Na7 bo5 khah-kin2 leh li2 chiu7 bo5 seN3-mia7 lah.
+47 雅各：Tau3-te2 si7 sim2-mih8 tai7-chi3 leh. A-pa si2-si2 ti7 chia li2 beh kio3 goa2 chau2 khi3 to2-ui7.
+48 利百加：Chau2 khi3 Hap-lan5 lah.  Khah-kin2 khi3 leh.  Ti7 hia u7 li2 e5 a-ku7 Lah-pan toa3 ti7 hit sou2-chai7, li2 tioh8 khah-kin2 khi3 chhoe7 i. Na7 bo5, li2 e5 a-hiaN teh beh lai5 hai7-si2 li2 e5 seN3-mia7. In-ui7 li2 tui3 i chhiuN2-toat8 chiok -hun7.  Hian7-chai7 chin-chiaN3 hun7-khai3. Sou2-i2 tioh8 khah-kin2 chau2, ho2-sim leh khah-kin2 khi3 lah.
+49 雅各：TaN u7 iaN2 si7 hui3-khi3 e5 tai7-chi3 lah.  Ah!  KhoaN3 goa2 beh an-choan2.  Goa2 tek-khak e7 hou7 i thai5-si2.
+50 利百加：M7-bian2 kiaN li2 koai-koai thiaN goa2 e5 oe7, goa2 sou2 thiaN3 e5 kiaN2 li2 
+koaN2-kin2 theh8 li2 e5 pau-hok8 chau2-khi3 Hap-lan5 chhoe7 li2 e5 a-ku7 Lah-pan.  Chiam7-si5 bih tiam3 hia tan2-hau7 li2 e5 a-hiaN e5 khi3 khah siau leh, li2 tah koh tng2-lai5.  Lou7-tiong ia7 tioh8 khah chu3-i3 leh.  An2-ni li2 chai-iaN2 hohN.
+51 雅各：Chai lah!  Chai lah!  A-bo2, li2 e5 sin-the2 tioh8 khah chiau3-kou3 leh.  Goa2 put-si5 ki5-to2 Ia5-ho5-hoa hou7 li2 tng5-tng5 oah8-teh.  Phah-sng3 lan2 bo5 u7 ki-hoe7 thang koh saN-kiN3.  Chong2-si7 li2 ia7 m7-bian2 hoan5-lo2.  TaN A-bo2 beh lai5-khi3 lah. Chai3-hoe7, Chai3-hoe.
+合唱二七七首
+52 利百加：TaN ho2, taN ho2.  Na7 bo5 khah-kin2 leh, si5 na7 ti5 chiu7 hai7.  A-bo2 u7 ka7 li2 chun2-pi7 koa2 sit8-niu5 thang hou7 li2 toa3-khi3, li2 lou7-tiong tioh8 khah chu3-i3 leh hahN. Chai3-hoe7, goa2 sou2 thian3 e5 kiaN2.
+53 雅各：Chai3-hoe7 A-bo2, li2 tioh8 iong2-kiaN7 hahN, chai3-hoe7, chai3-hoe7.
+54 利百加：Chai3-hoe7, goa2 sou2 thiaN3 e5 kiaN2 li2 taN khi3 lah tioh8 m3.  Li2 li7-khui3 li2 e5 a-bo2, chit8-e5 khi3 lah tioh8 m3. (hau2) 	
+第二幕    第一場    曠野
+1 雅各：Kin2-na2-jit8 chau2 chit8-jit8 e5 lou7 chau2 kau3 chin ia3-sian7, taN phah-sng3 kau3 chia an-un2 lah.  Sit8-chai7 u7 kau3-giah8 lou7-khi3, bo5-tai7 bo5-chi3 ia7 lai5 tu2-tioh8 chit e5 su7.
+TaN jit8-thau5 i2-keng loh8 sai-soaN lah, ou-am3 me5 chiam7-chiam7 kau3, goa2 e7-hng m7-chai beh tiam3 to2-ui7 ke3-me5.  Sou2 khoaN3 si3-ui5 si7 chheN-chhin3 e5 soaN-te7, chioh8-thau5 moa2-lou7, bu5-jin5 choat8-iaN2, chhiN-chham2 e5 keng2-kai3.  Goa2 e7-hng taN tioh8 kou-toaN ti7 chit e5 khong3-ia2 lai5 ke3-me5. Tu2-ho2 chia u7 chit8-te3 chioh8-thau5, chin ho2-se3, goa2 tioh8 eng7 chit te3 chioh8 lai5 cho3 chim3-thau5 tiam3 chia lai5 hioh-khun3.
+
+Li2 khoaN3 chheN-sin5 moa2-thiN chhin-chhiuN7 thiN-sai3 kun5-chip8.  TaN goa2 beh kui7-loh8 ti7 Ia5-ho5-hoa e5 kha-ui7 e5 e7-bin7, goa2 beh khui-siaN o-lo2.  Ia5-ho5-hoa, kiu5 Li2 sia3-bian2 goa2 it-chhe3 e5 choe7-koa3.  Goa2 u7 khi-phian3 goa2 e5 lau7-pe7, goa2 u7 chhiuN2-toat8 goa2 e5 toa7-hiaN e5 hok-hun7, kiu5 Li2 sia3-bian2 goa2, in-ui7 goa2 chai goa2 su-iau3 Li2 e5 tong5-chai7, su-iau3 li2 e5 hu5-chhi5, na7 bo5 Li2 ti7 goa2 e5 sin-chiuN7 goa2 it-seng si7 lok8-khong, soe-pai7. 
+Ia5-ho5-hoa ah, kiu5 Li2 bo5 pang3-sak goa2, kiu5 li2 ti7 goa2 sin-chiuN7 lai5 chiau3-kou3 pang-chan7 goa2, hou7 goa2 e5 kha oe7-thang khia7-chai7 ti7 long2-chong2 e5 tui3-tek8 e5 bin7-cheng5, long2-chong2 e5 chai-hai7 e5 teng2-bin7.  A-men. 
+(雅各入睡, khai-si2 chau3-gak8, JVO. R. SWENEG e5 “Nearer My God to Thee”.  U7 saN e5 thiN-sai3 chhut-hian7 ti7 舞台, jian5-au7 chiau3 koa e5 tiau7 thiau3-bu2.  二部唱 e5 si5 2 e5 thiN-sai3 thiau3, 1 e5 thiN-sai3 theng5, 1 pou7 chhiuN3 e5 si5 2 e5 thiN-sai3 theng5, 1 e5 thiN-sai3 thiau3, 4 pou7 chhiuN3 e5 si5 3 e5 thiN-sai3 long2 thiau3.)
+OAN5
+
+Sio-hui5 Sai-hu7
+Jin5-but8: Sio-hui5 sai-hu7, Te5-au, Oe-a2, ham5-ou5, Pui5-kng.
+Chu2-te5: Lo5-ma2 9：20-21,
+        I2-sai3-a 29：16
+        Ia5-li7-bi2 18：1-6 
+C. Pi-liok: Chiau3 te5-au, oe-a2, sio-hui5 sai-hu7, tham5-ou5, pui5-kng e5 sun-su7 pai5-liat8 khu5 ti7 tai5-teng2.  Pi7-cho7 e5 si3-lang5 u7 koa3 in e5 tou5-oe7 ti7 heng-cheng5.  Jian5-au7 chiau3 hoat-gian5 e5 sun-su7 khia7 khi2-lai5.
+Sio-hui5-lang5: Goa2 si7 sio-hui5 e5 sai-hu7, goa2 tak8-jit8 ti7 goa2 e5 tiam3-lai7 eng7 ni5-thou5 lai5 cho3 kok-chiong2 e5 khi3-khu7.  U7 hoe-kan, u7 oaN2, u7 te5-au, u7 phiat-a2.  Goa2 cho3 chia e5 long2 si7 ai3 in chiau3 in e5 pun2-hun7 khi3 li7-ek lang5.
+Ki5-tiong ia7 u7 khah chhou-siok8 ha7-chian7, ia7 u7 khah ko-siong2 chun-kui3, khiok long2 si7 chin-u7 lou7-eng7, chin u7 su-iau3, bo5 chit8-hang7 tek8-piat8 khoaN3-khin a2-si7 tek8-piat8 khoaN3-tang7, tak8-hang7 long2 tioh8 chin7 in e5 pun2-hun7 lai5 eng5-kng in e5 chu2-lang5.  (thoe3-tiuN5)
+Te5-au: Ah, chin-chham2, chin-chham2!  Goa2 e5 chu2-lang5 bo5-tai7 bo5-chi3 ka7 goa2 cho3-chiaN5 chit8-te3 te5-au, hou7 goa2 chin put-heng7, me5-jit8 oan3-sin chheh-mia7.  In-ui7 goa2 ti7 siu7-cho7 e5 tiong-kan si7 chit8 e5 choe3 m7-chiaN5 mih8 e5..., oe2-oe2 koh pui5-pui5, chin phaiN2-khoaN3-siuN3.  Sim7-chi3 lang5-kheh na7 lai5, long2 lu goa2 cho3 thau5-cheng5, hou7 goa2 cho3 lang5 e5 kou2-tong2, m7-tiaN7 kan-taN an2-ni koh siong5-siong5 eng7 kun2 chhiang5-chhiang5 e5 kun2-chui2 ka7 goa2 thin5 loh8-khi3, hou7 goa2 sio kau3 poaN3 sio2-si2.  Ah, goa2 chin phaiN2-mia7!  Goa2 jim2-siu7 long2 boe7-tiau5 lah!
+Oe-a2: Te5-au hiaN ah, li2 e5 phaiN2-mia7, bo5 goa2 e5 phaiN2-mia7.  Chu2-lang5 chng-thaN7 
+li2 sui2-sui2, khng3 li2 ti7 toh-teng2, li2 iau2 teh hoah-chham2, li2 long2 m7-chai goa2 e5 chham2-keng2.  Chu2-lang5 cho7-chiaN5 goa2 chit e5 oe-a2, ka7 goa2 be7 kau3 khit-chiah8-m2 e5 chau3-kha.  I tak8-jit8 eng7 chha5-chhau2 ka7 goa2 hun, ka7 goa2 sio, hou7 goa2 m7-chiaN5 iuN7-siuN3, m7-chiaN5 bian7-bok8, ou-ma3-ma3 kau3 beh chhut-chiap, bo5 lang5 kaN2 eng7 chhiu2 bong goa2. 
+Ah, goa2 sit8-chai7, phaiN2-khoaN3 kau3 bo5 bin7 thang kiN3 lang5, m7-tiaN7 kan-taN an2-ni, goa2 tak8-jit8 tioh8 hou7 hoe2 sio kau3 tong3 boe7 tiau5.  Ah, goa2 ti7 siu7-cho7 e5 tiong-kan si7 chit8 e5 choe3 put-heng7 e5..., bo5 pat8-hang7 oe7 pi2 goa2 khah-chham2.
+Tham5-ou5: Oe-a2 hiaN ah, li2 m7-thang an2-ni kong2!  Li2 e5 chham2 long2 boe7 pi2 goa2 e5 chham2.  Chu2-lang5 ka7 goa2 cho7-chiaN5 chit e5 tham5-ou5, soa3 be7 goa2 kau3 chit8 e5 hi3-lo5 piN7-iN7 khi3, he7 goa2 ti7 piN7-pang5 e5 tiong-ng hou7 lang5 phui3-tham5 phui3-noa7, goa2 tak8-jit8 tioh8 chiah8 kui-tou7 e5 la3-sap, kui-tou7 e5 hai7-khun2.  Ah, goa2 sit8-chai7 chhiN-chham2 kau3-kek8 lah.  Goa2 chin oan3-hun7 goa2 e5 mia7-un7, siu7-cho7 e5 tiong-kan goa2 si7 te7-it put-heng7 e5.
+Pui5-kng: Tham5-ou5 hiaN ah, ban7-si7 leh!  Li2 e5 put-heng7 ia7 m7 tat8-tioh8 goa2 e5 put-heng7 e5 ban7-hun7 e5 chit8-hun7.  Goa2 si7 chit8 e5 kek8 siu7 iam3-chian7 e5 pui5-kng, chhong3-cho7 tiong goa2 si7 te7-it ha7-chian7 e5. Goa2 e5 chhiN-chham2 bo5 te2 kong2. 
+Goa2 e5 chu2-lang5 ka7 goa2 be7 hou7 cho3-sit e5 lang5, cho3-sit e5 lang5 ka7 goa2 thoa-kau3 chhan5-hng5 e5 piN-kak, koh khui-khang chiong goa2 oah8-oah8 tai5, chi2-u7 chhun chit8 e5 chhui3 na7-tiaN.  Goa2 e5 siu7-khou2 m7-tiaN7 an2-ne tioh8 oe7 chun2-koe3, cho3-sit lang5 tak8-jit8 khi3 chhe2-ti5, khioh-chip8 toa7-pui5 sio2-pui5 lai5 tui3 goa2 e5 chhui3-khang piaN3 loh8 kau3 moa2-moa2, hit e5 khi3-bi7 long2 boe7 hiau2 thang kong2 khi2.  Goa2 long2 kek kau3 tu3 boe7 tiau5 lah!  Oh, goa2 e5 chham2 si7 kong2 boe7 chin7. 
+Sio-hui5 lang5:(chhut tiuN5) Lin2 tai7-ke ti7 chia teh gi7-lun7 sim2-mih8, teh oan3-chheh sim2-mih8!  Lin2 m7-thang khoaN3 pat8-lang5 lai5 iam3-chian7 ka-ki7.  Goa2 chhong3-cho7 lin2 u7 hou7 lin2 chit8 e5 su2-beng7, si7 tak8 e5 chiau3 in e5 pun2-hun7 lai5 li7-ek lang5 eng5-kng in e5 chu2-lang5 , m7-si7 hou7 lin2 hou7-siong7 saN oan3- chheh ti3-kau3 choat8 bang7.  Lin2 khoaN3, lin2 tak8-lang5 e5 kong-chok an2-choaN2 toa7 li7-ek lang5, hou7 lang5 tit-tioh8 heng7-hok. Sou2-i2 lin2 tioh8 ui7-tioh8 lin2 e5 chit-hun7 lai5 hoaN-hi2 khoai3-lok8, hou7 lin2 e5 chu2-lang5 ia7 tit-tioh8 eng5-kng.  
+Lin2 siu7 chhong3-cho7 e5..., put-ko3 tioh8 hang5-hok8 lin2 e5 chu2-lang5 e5 chi2-i3.  An2-ne lin2 beng5-pek8 bo5?
+Te5-au, Oe-a2, Tham5-ou5, Pui5-kng: Goan2 beng5-pek8 lah!
+Sio-hui5 lang5: (Am3-liam7 Lo5-ma2 9：20-21.  I2-sai3-a 29：16. Ia5-li bi 18：1-6) 
+Gim5-si, Than3 Li2 chi2-i3, Chu2, than3 Li2 chi2-i3,
+Li2 si7 hui5 sai-hu7, goa2 si7 ni5-thou5…
+(Poe5-leng5 Si-koa te7 1 chip8 Te7 9 siu2)
+
+

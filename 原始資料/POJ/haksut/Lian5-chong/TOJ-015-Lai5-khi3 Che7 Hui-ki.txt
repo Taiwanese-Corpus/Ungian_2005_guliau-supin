@@ -1,0 +1,33 @@
+
+
+Lai5-khi3 Che7 Hui-ki 
+---Bou5-nu7-li2 Teng7-lut8
+Lian5-chong
+	Chong..a ti7 101 ki5 e5 Tai5-bun5 Thong-sin3 khoaN3-tioh8 1 phiN khong-tiong sio2-chia2 kong2 Tai5-gi2 be7 lian3-tng2 e5 chhio3-oe7, ti7 chia Chong..a kohka7 thng7--1--pai2. Chiah-e5 oe7 goan5-pun2 e5 i3-su3 si7 an2-ni: Kok-ui7 a-kong a-ma2, bo5 goa7-ku2, lan2 e5 hui-ki chiu7 beh kang3-loh8--lah. ChhiaN2 lin2 tai7-ke chun2-pi7 lin2 ka-ki7 e5 heng5-li2, goa2 e7 ti7 lin2 e5 bok8-tek-te7 hia ka7 lin2 ¡§bye-bye¡¨.TaN chit-e5 khong-tiong sio2-chia2 soa3 an2-ni kong2: Kok-ui7 kong-a2-ma2, bo5 goa7-ku2, lan2 e5 hui-ki chiu7 beh lak--loh8--lai5--lah. ChhiaN2 lin2 tai7-ke chun2-pi7 lin2 ka-ki7 e5 seng-le2, goa2 e7 ti7 lin2 e5 bong7-te7 hia ka7 lin2 pai3-pai3. Oah! 1 tng7 chha beh kah kau2 chhioh, sit8-chai7 chin li7-phou2. Sui-bong2 si7 chhio3-oe7, m7-ku2 ti7 lan2 e5 sin-khu-piN, iu5-goan5 tiaN7-tiaN7 e7 thiaN-tioh8 chit-khoan2 liong2-kong e5 Tai5-gi2, sit-khi3 goan5-bi7 koh hou7 lang5 sa bo5 liau5-a2-mng5.
+Kin-a2-jit8 Chong..a si7 beh lai5 siau7-kai3 hui-ki (iah8 kio3-cho3 hui-heng5-ki) ti7 thiN--nih8 poe e5 goan5-li2, soa3 seng kong2 hiah-e5 5-4-3 e5 tai7-chi3, chhiaN2 lin2 m7-thang siu7-khi3, tauh8-tauh8-a2 ka7 thak8--loh8--khi3. Chit-e5 goan5-li2 chiu7-si7 ho7-cho3 Bou5-nu7-li2 Teng7-lut8. Bou5-nu7-li2(Daniel Bernoulli 1700-1782) chhut-si3 ti7 Ho5-lan5. I e5 a-peh, a-pa kap i e5 a-hiaN long2-si7 chin chhut-mia5 e5 sou3-hak8-ka. Sou2-i2 cheng7 i se3-han3 e5 si5 chiu7 tui3 Bi5-chek-hun(calculus) chiok u7 heng3-chhu3. I e5 a-pa ma7 chin piaN3-se3 ka3..i, m7-ku2 a-pa si7 ng3-bang7 i khi3 cho3 I-hak8 e5 gian2-kiu3. Bou5-nu7-li2 bo5 hou7 i e5 a-pa sit-bang7, ti7 21 hoe3 chiu7 oan5-seng5 I-hak8 e5 hak8-giap8. 25 hoe3 e5 si5 hoat-beng5 chaiN2-iuN7 lai5 niu5 lang5 e5 hoeh-ap, ia7 in-ui7 an2-ni, soa3 tui3 Liu5-the2 (chhin-chhiuN7 chui2, khong-khi3) e5 Lek8-hak8 koh chai3 cho3 chin3 1 pou7 e5 gian2-kiu3. Ti7 kong-goan5 1738 ni5 hoat-piau2 Liu5-the2 Tong7-lek8-hak8, che chiu7-si7 hui-ki khi2-poe e5 goan5-li2. Bou5-nu7-li2 Teng7-lut8 chiu7-si7 e7-bin7 chit e5 sou3-hak8-sek:
+   £l V2  + P = const
+                choa2
+
+
+
+
+
+
+                 toh-a2
+            Tou5-1
+£lsi7 liu5-the2 e5 bit8-tou7, V si7 liu5-the2 e5 sok-tou7, P si7 liu5-the2 e5 ap-lek8, const si7 kou3-teng7 e5 sou3-liong7.
+Na7-si7 liu5-the2 e5 sok-tou7 ban7, i e5 ap-lek8 chiu7 khah toa7, liu5-the2 e5 sok-tou7 pian3 khah kin2, i e5 ap-lek8 chiu7 e7 pian3 khah se3. Chit-ma2 lan2 lai5 cho3 1-e5 chin kan2-tan e5 chhi3-giam7. Theh8 1-tiuN choa2, chiau3 hit 2-tiau5 ut-choa7 ka7 chih cho3 ¡§£v¡¨e5 heng5, ka7 i khng3 tiam3 toh-a2 teng2, chhin-chhiuN7 Tou5-1, ia7 chhiaN2 li2 chhun li2 e5 siang-chhiu2, ka7 ¡§£v¡¨e5 siang-peng5 hoaN7 hou7 tiau5. Koh lai5, ui3 toh-a2 kap choa2 ui5--khi2--lai5 hit khang, toa7 lat8 ka7 i pun5 hong, chhiaN2 li2 chim-chiok khoaN3, chit-e5 ¡§£v¡¨-heng5 choa2 e5 teng2-bin7 e7 nah--loh8--lai5. In-ui7 choa2 e5 teng2-bin7 kap siang-peng5-piN-a e5 khong-khi3 long2 bo5 teh liu5-tong7, chit-tiap8 choa2 ui3 goa7-bin lai5 e5 ap-lek8 chiu7 si7 tai7-khi3-ap-lek8. Hit-khang lai7-te2 e5 khong-khi3 chin kin2 teh chau2, tui3 choa2 e5 ap-lek8 chiu7 pi2 khau2-bin7 khah se3, sou2-i2 lan2 chiu7 khoaN3-tioh8 choa2 e5 teng2-bin7 e7 lap-lap. 
+Bou5-nu7-li2 Teng7-lut8 ma7 oe7-tit-thang kai2-sek e7-bin7 e5 su7-kiaN7. Lan2 beh che7 hoe2-chhia, ti7 goat8-tai5 tan2 chhia e5 si5, long2 e7 khoaN3-tioh8 1-choa7 kai3-soaN3, na7-si7 u7 lang5 chhiau-koe3 hit-tiau5 kai3-soaN3 khah oa2 goat8-tai5-piN, cham7-bu7 jin5-oan5 chiu7 e7 kio3 lang5 the3 chhut, khia7 khah au7-piah--leh, che long2-si7 ui7-tioh8 lang5 e5 an-choan5. Na7-si7 tu2-ho2 u7 tui3-ho7 khoai3-chhia chin kin2 sai2-koe3 goat8-tai5, lan2 long2 e7 kam2-kak 1-chun7 hong sau3--koe3--lai5, bo5 phah-sng3 u7 lang5 tah8-jip8 kai3-soaN3 lai7, chiu7 e7 hou7 hoe2-chhia khip oa2--khi3. Bo5 goa7-ku2 i2-cheng5, ti7 Biau5-lek8 hoe2-chhia-cham7 chin-chiaN3 hoat-seng chit-khoan2 put-heng7 e5 tai7-chi3. 1-e5 hu7-jin5-lang5 khi3 hou7 Chu7-kiong5-ho7 e5 hoe2-chhia khip-khi3, koh kauh-si2 ti7 goat8-tai5 e7-kha. Sou2-i2 m7-koan2 si7 sai2-chhia a2-si7 khia5 ou-toh-bai2, long2 m7-thang siuN chhio-tio5, beh kap toa7-tai5-chhia pi2-kin2, na7-si7 oa2 siuN kin7, chiu7 e7 hou7 toa7-tai5-chhia khip--khi3, hoat-seng chhia-eh.
+
+
+Khong-khi3
+
+
+	Lo5-lo5 so-so kong2 1 toa7-thoaN, ia7 si7 khah kin2 lai5 kai2-sek beh hou7 hui-ki khi2-poe e5 goan5-li2. Hui-ki na7-si7 beh khi2-poe, it-teng7 ai3 tiam3 phau2-to7 ka sok, hou7 lau5 ui3 hui-ki-sit8-a2 e5 khong-khi3 chhin-chhiuN7 Tou5-2 an2-ni, thong-koe3 sit8-a2 teng2-bin7--e5 liu5-tong7 khah-kin2, e7-bin7--e5 khah ban7, Bou5-nu7-li2 Teng7-lut8 hou7 lan2 chai-iaN2 sit8-a2 e7-bin7 oe7 san2-seng khah toa7 e5 ap-lek8 (iong7 ou-sek khah tng5 e5 chiN3-thau5 lai5 piau2-si7). Na7-si7 hui-ki e5 sok-tou7 ju2 chau2 ju2 kin2, lau5 ui3 hui-ki-sit8-a2 e5 khong-khi3 ia7 e7 pian3 kin2, beh ka7 hui-ki gia5--khi2--lai5 e5 lek8-liong7 chiu7 e7 ju2 toa7, sok-tou7 ka kau3 hou7 gia5 hui-ki e5 lat8 chhiau koe3 hui-ki e5 tang7-liong7, chit-tiap8 hui-ki chiu7 poe--khi2--khi3--louh! Iong7 pho5-lo2-phiat-a2 e5 hui-ki bo5 toa7-chiah, chai3 e5 lang5-kheh ia7 bo5 che7, sou2-i2 chin kin2 chiu7 e7-tit-thang khi2-poe. Na7-si7 toa7-heng5 e5 kheh-ki, chhin-chhiuN7 khong-tiong bah-suh, 1-pai2 e7-tang3 chai3 2-3-pah lang5, chiu7 su-iau3 iong7 phun3-sia7 ian5-jin2 lai5 chhui-sak, hou7 hui-ki e5 ka-sok khah kin2, ji5-chhiaN2 phau2-to7 ma7 ai3 ke chiok tng5, chiah u7 hoat-tou7 hou7 hui-ki khi2-poe. 
+
+
+
+
+
+
+	Poe--khi2--khi3 e5 hui-ki na7-si7 beh chheng3-koan5, tng2-oat, a2-si7 beh kang3-loh8, ma7-si7 ai3 iong7 Bou5-nu7-li2 Teng7-lut8 lai5 kai2-sek. Ti7 hui-ki e5 boe2-sit8 hia, u7 kok-chiong2 siat-ke3 e5 toa7, chhin-chhiuN7 Tou5-3. Hui-ki beh oat chiaN3-chhiu2-peng5, boe2-sit8 e5 hong-hiong3-toa7 chiu7 ai3 phian chiaN3-peng5, hui-ki beh chheng3-koan5, boe2-sit8 e5 seng-kang3-toa7 chiu7 ai3 khiau-koan5. KhoaN3 kau3 chia, na7-si7 kam2-kak bu7-sa3-sa3, chhiaN2 li2 m7-thang loe2-chi3, iong7 choa2 chih 1-chiah hui-ki poe khoaN3-mai7--leh. Ka7 sit8-a2 e5 boe2-liu au2-koan5 koh poe khoaN3-mai7--leh, sit8-a2 e5 boe2-liu ia7 e7-tang3 tak8-e5 kak-tou7 long2 sio2-khoa2 ka7 au2--1--e7, koh poe khoaN3-mai7--leh, li2 na7-si7 an2-ni chhi3-giam7, cho3 pi2-pheng7, Chong..a beh ka7 li2 o-lo2! Kiong-hi2 li2 chai-iaN2 Bou5-nu7-li2 Teng7-lut8--louh!

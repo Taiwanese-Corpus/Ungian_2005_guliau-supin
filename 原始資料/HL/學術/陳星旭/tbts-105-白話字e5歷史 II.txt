@@ -1,0 +1,48 @@
+白話字e5歷史(II)
+Henning Kloter原作	     陳星旭翻譯
+
+3.	傳教士個別e5貢獻
+3.1	Medhurst 
+Medhurst e5 《福建話拼音法(Orthography of the Hok-keen Dialect) 》(1832印行)是根據二種辭典做伊e5源頭。To7是《十五音》kap Robert Morrison e5《華語字典(Dictionary of the Chinese language)》(1815-1822)。《十五音》出版hit年，Medhurst tu2好來到Malacca，hit時伊ti7倫敦宣道學會e5印刷所工作。Beh來亞洲進前，Medhurst有ti7倫敦學北京話，但是來了才發現ti7 Malacca「五百人中間無超過一個人會曉北京話，抑是ti7會話中講超過十字e5北京話。」結果Medhurst只好去學Malacca khah che7人講e5馬來話，廣東話kap閩南話。一年後，伊to7有法度用閩南話講道。根據洪惟仁e5研究，ti7  Medhurst拍拚teh學e5這冬，《十五音》是伊學閩南話e5私人『模範字典』。
+Medhurst ti7伊編e5字典e5序言有講，「《十五音》有十五個字首kap五十個字尾，有法度thang合成所有可能e5聲音來表達福建話所beh表達e5話。Chia-e5字首，字尾beh用歐洲字母來寫。」但是，Medhurst 拼音法ti7每一個音節字首所用e5字母超過《十五音》所用e5十五個字首。Medhurst用--e5 kap伊本來e5辭典編纂e5模式有一koa2出入，比如：
+   1)『柳』寫做<l> kap  <n>。這兩種寫法無像(siang7) e5所在是:「Lew2 『柳』若kap m7是鼻音e5字尾組合，to7讀<l> e5聲，但是若kap有鼻音e5字尾組合，<l> to7夾有鼻音，變做足成<n> e5聲，比如『少年郎』e5『郎』 拼做 <neng2>，to7是 [n  ]。
+2)	『英』ti7 《十五音》是表示無字首。Ti7 Medhurst拼音法內底e5滑溜音（voiced glides）[ u,j] to7用<w> kap <y>來寫。
+3)	單字<g> kap雙字音<gn>攏表示仝一個字首『語』。但是「單字音讀 <g> e5音，後壁e5鼻音字to7有需要發<gn> e5鼻音。 」
+Medhurst e5『福建話拼音法』對以後e5拼音系統影響有限。伊e5調號kap現代POJ仝款，伊e5字首有小khoa2改變，但是伊hit套複雜e5字尾系統to7無受人接受。我參考洪惟仁e5著作，ka7 Medhurst系統e5子音kap現代POJ做一個比較(就聲母符號ti7 POJ e5對照，我有參考張裕宏2001年e5著作)：
+    1)  ti7 POJ，/    / 寫做 <ng>，仝款e5音，Medhurst寫做 <gn>。
+    2)  ti7 POJ，送氣發音字首 /ph，th，kh，tsh/   寫做<ph，th，kh，chh>，ti7 Medhurst系統用省略號<u8> 後壁toe3一個<h>來表示送氣音，<puh8>，<tuh8>，<kuh8>，<chuh8>。
+    3)  ti7 POJ，滑溜音[u,j]因為是無字首開始，所以放空字，但是ti7 Medhurst系統用<w> kap <y> 來表示。
+3.2  Doty kap Talmage
+Beh用Elihu Doty ti7 1853印e5 《羅馬字化廈門話e5英漢手冊》來証實he就是現代POJ拼音法是有khah過分。Ti7  Medhurst 開創性e5字典出版只有二十冬後，Doty to7採用kap Medhurst所提倡e5無仝e5拼音法。現存e5文獻無法度hou7咱有可靠e5結論講啥物人才是19世紀中期這套拼音法e5開創者。
+1840年代，ti7中國傳教工作e5法定地位改變。1842年e5南京條約以後，清帝國對傳教士進入傳教e5禁令部份解除。廈門是五口通商e5港口之一。Ti7廈門e5傳教士無joa7久to7開始做教本地話e5 khang-khoe3。結果是大家對羅馬字系統e5興趣koh活--起-來，也拍拚teh改進。Pitcher (1912) 有記載，「1850 e5時，羅馬字化廈門話to7有ti7學校teh教，但是應該是ti7 che以前，選17個羅馬字母做拼音字母e5 khang-khoe3 to7 已經開始--a。 」
+Chia-e5 khang-khoe3真明顯是ti7廈門e5所有教派e5傳教士做伙做--e5 。Hit時有美國歸正會、倫敦傳道會kap英國長老會。根據Pitcher e5研究，「Ka7華語用羅馬字寫--出-來e5主要推動者是神學博士J.V.N.Talmage牧師。不過，所有三個教派e5傳教士攏真心盡意teh支持伊。」
+Talmage有五本用羅馬字化廈門話寫e5著作：
+(1)	《Tng5-oe hoan-ji chhou-hak (Amoy Spelling Book) 》(1852年ti7 廈門印行)，「15頁，.. 用羅馬字印行beh教人用羅馬字學廈門話e5入門冊。」
+(2)	《Thian lo lek3 theng5 ( Pilgrim’s progress) 》(1853年ti7 廈門印行，77頁)
+(3)	《Lo-tek e5 chheh (Book of Ruth) 》(1853年ti7廈門印行，20頁)
+(4)	《Iong2 sim sin si (Hymn Book in the Amoy dialect) 》(1859年ti7 廈門印行，26頁)
+(5)	《Yew5 tuae8 tue8 tuo8o (Map of Judea) 》(1861年印行，大張)
+我猶無法度chhoe7出chia e5文獻現在ti7 to2位。但是，Doty有講，伊e5「拼音法除了一、二e5所在有小khoa2變化以外，大部分攏是根據ti7廈門e5傳教士所用--e5 。」Ui3真che7例會tang3看出Doty e5系統kap現代POJ真相像。所以咱會使真確實按呢講，現代POJ拼音法大部分ti7 1850時代to7已經定型--a 。
+另外Alvin Lin、洪惟仁kap Ann Heylen也有一款講法，in 講1850 時代e5早期拼音法e5創新是ti7廣東e5傳教士Wells Williams開始--e5 。Lin e5 假設是根據Williams ti7 1851年ti7 《華文珍藏 (Chinese Repository) 》雜誌內面用羅馬字廈門話所寫e5一篇Chhong3-se3 Toan（Genesis）第四十六章來講--e5。 這段文章e5拼音法真符合POJ。Williams家己講，「Che是我第一擺試驗 ，beh ka7華語羅馬字化，用kap in無像e5文字來教--in 本地人」。
+但是，John DeFrancis 認為這段創世記e5文章是廈門傳教士翻譯--e5。伊這個講法ma7有道理，因為ti7這段文章內底e5作者名錄註解hit位，Williams有提起是別人所寫，m7是伊家己。而且ti7幾冬前，Williams有發展一套ka7華語羅馬字化e5拼音法，ti7真che7所在攏kap Lin所提e5 hit段文章用法無像。Williams e5拼音系統ti7仝hit本雜誌後來e5文章有繼續發展。Ti7 chia-e5文章，伊有khah詳細說明華文書寫法kap Morrison拼音法e5不足。 1836年，伊呼籲「用意大利用e5羅馬字，經過小khoa2修改，來寫華語」，接--落-來用一套新e5拼音法，用羅馬字母「來寫華語，廣東話kap福建話e5發音」。
+洪惟仁認為Williams e5 chia-e5建議是POJ拼音法e5開始。不過這種講法並無hou7人真正會tang3信服e5證據，不過Williams e5『新福建拼音法』對後--來閩南語羅馬字化有鼓舞e5作用。Williams e5真che7拼音建議並無hou7人採用，後--來Doty ma7無採用利用加添一個調號來表示長母音e5作法。Koh再講，以後e5羅馬福建話e5文章也無提起Williams e5拼音法。Williams真che7拼音法e5建議，攏無hou7人ti7 1850年代e5拼音系統採用。下面有五個例：
+(1)	調號：Williams引進新e5調號。Chia-e5調號有一種註ti7平聲字或者上聲字e5頭前，另外一種註ti7 qu或者 ru e5後壁。但是Doty kap以後e5 POJ攏用Medhurst e5標調法。
+(2)	對 /    / kap  /o/ 無仝發音e5 處理：Williams對che無處理。Doty kap以後e5 POJ用上標 e5點 < 。> 來分辨。< o。> 代表 /    /，< o > 代表 / o /。
+(3)	送氣音e5表示法：現代e5 POJ，送氣音/ph，th，kh，tsh/ 是用<ph，th，kh，chh>來表示。Medhurst系統是用省略號<u8> 後壁toe3一個 <h>，to7是<puh8>，<tuh8>，<kuh8>， <chuh8>。Williams kap Doty e5拼音系統，送氣音是用<‘ >。用< h >來表示送氣音是1869年Mac Gowan以後e5代誌。
+(4)	字首音 /   / e5 表示法：Williams kap Medhurst 仝款ka7這音寫做 <gn>。拼做 <ng> 是Doty kap 以後e5 POJ系統才確立--e5 。
+(5)	鼻母音e5表示法：Ti7 Medhurst kap Williams e5系統，用上標e5  < n > khng3 ti7 beh發鼻音e5母音頭前，比如，Medhurst e5  < hno2 > ，kap Williams e5 < (hno2 > teh表示 [ h     ]。 現代用上標e5  < n > toe3 ti7母音後壁e5表示法(hon2)，是tui3 Doty在1853年確立 e5 。
+
+（本文用英文發表ti7 《2002年台灣羅馬字教學kap 研究國際學術研討會論文集》）
+（訂正：原作者來函，104期第2頁，『英國e5博物館』應該改做『英國e5圖書館』）
+
+
+
+
+
+
+
+ 
+
+
+
+

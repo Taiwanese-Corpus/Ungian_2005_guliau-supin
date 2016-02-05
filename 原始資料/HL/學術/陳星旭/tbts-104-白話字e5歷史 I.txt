@@ -1,0 +1,43 @@
+白話字e5歷史(I)      Henning Kloter原作	     陳星旭翻譯
+
+ 
+0.	引言
+白話字(POJ) e5字面上e5意思to7是『平常講話e5文字』。Ti7 這篇論文，POJ是teh指西方傳教士ti7 19世紀尾期傳入台灣e5 Ho7-lo2話e5教會羅馬字系統。Ka7定義按呢縮小，是為著beh避免廣義e5 POJ定義所產生e5誤會。
+這篇論文是beh寫西方傳教士所設計e5閩南語拼音法e5大綱。第一節beh介紹西班牙傳教士所發展e5初期閩南語羅馬字。第二節beh ui3 一koa2有代表性e5著作來說明19世紀POJ e5演變。第三節beh研究個別傳教士所提倡e5拼音法。第四節，我beh討論POJ功能性e5改變以及伊kap漢字e5對照。
+
+1.	西班牙式eH5o-lo2話羅馬字化
+上早e5閩南語羅馬字文獻ti7 16世紀to7已經有--a 。Che是當時e5西班牙Dominican教派e5傳教士kap翻譯者ti7 Manila華人社區所收集編成--e5。羅馬字化e5引進事實上是一個漸進e5演變。因為翻譯者是根據當時華人移民e5漢字做底--e5。上早e5一pho7閩南語e5西文翻譯是《The Christian doctrine in the Chinese  script and tongue(華文e5基督教義)》。以後to7用『教義』指這本冊。這本冊e5第一部份是ti7 1587年後無外久，透過ham傳教士Miguel de Benavides kap Juan Cobo工作e5華人翻譯者所寫--e5。 (參考: 1966 Van der Loon e5著作) Van der Loon ti7 1967年e5論文所提起早期e5 Ho7-lo2文獻中，有一pho7 《Ho7-lo2話-西班牙語字典 》(Bocabulario de lengua sangleya por las letraz de el A.B.C.) kap一pho7『文法 』(Arte de la lengua chiochiu)。Chia e5冊應該是ti7 17世紀初編輯--e5。原稿現在收ti7英國e5博物館。 
+另外一pho7早期字典編纂e5手稿，是一位m7知名e5人士所編e5 《Dictionary of the Zhangzhou language, containing simple and compound words, with peculiar characters ofthis dialect, in Spanish alphabetic order and the five Chinese tones 》，這本大概是1609年e5冊。根據Van der Loon e5研究，這本冊e5手稿ti7 1894年伊最後e5所有者ka7伊e5圖書館ti7法國出賣了後，to7 m7知tui3 to2位去--a。
+根據Van der Loon e5記載，傳教士母語中某幾個字母聲音e5長短有影響著西班牙式拼音e5設計。所以in e5 拼音系統ham Medhurst系統kap後來新教e5傳教士所設計e5拼音法有真che7無仝e5所在。西班牙式e5調號ma7真無仝款。Van der Loon指出，in e5調號，單獨kap複用--e5攏總有13個。而且用kah真無一致：「Ti7 『教義』這本冊內底，大部份e5調號kan-taN用ti7送氣音kap鼻化音e5字，che無的確是因為這種標調法猶未成熟。而且出現ma7 chia有hia無，真亂。無m7-tioh8，抄稿者e5無用心是主要e5原因。 」
+所以西班牙式早期e5 Ho7-lo2話羅馬字無可能是19世紀西方傳教士e5範本。Yoshihide Murakami (1961) 推測講，Medhurst根本to7無參考這本《Dictionario de la lengua Chincheo》e5 字典。這種講法ma7是有證據--e5，因為19世紀Medhurst kap其他POJ e5著作攏m7-bat提起早期西班牙式羅馬字e5代誌。
+
+2.	POJ e5源頭
+POJ e5拼音規則ti7 19世紀中期to7大部份定型--a。Tui3 hit時起，有出版真che7文章。但是，到taN猶無一份比較khah完整e5清單。咱會tang3 tui3 Philip Wilson Pitcher (1912)下面所講--e5得著一個大概e5狀況，知影ti7 20世紀初期有joa7 che7文獻存在。伊有寫，「Ti7所有e5小學，禮拜日ti7教會，平時ti7厝--裡，阮攏teh教POJ。實在真phaiN2估計到底有joa7 che7人teh讀廈門羅馬字(POJ)。講khah保守--leh，應該是五千到六千中間。」伊ka7已經出版e5文獻分類做：字典工具、宗教文獻、一般文獻、教科書kap雜誌。
+因為英國長老教會e5 Scottish傳教士巴克禮牧師(Thomas Barclay 1849-1935)e5 拍拚，POJ ti7 19世紀末、20世紀初tiam3台灣快速成長。巴克禮牧師主張「母語聖經」，伊ka7新約kap舊約攏翻譯做台灣話。伊為Douglas所編e5字典準備附錄。1885年，伊創辦一份月刊《Tai5-oan5-hu2-siaN5 Kau3-hoe7-po3(台灣府城教會報) 》，報導宗教性e5文章kap世界新聞。 1913年，甘為霖牧師(William Campbell) 真驕傲講，台南教會出版社已經用南台灣e5腔口出版700,357頁e5文章。 
+POJ e5拼音規則ti7 19世紀中期開始發展。Ti7後--來e5教學講義kap參考文獻中，咱有看著陸續e5改進。本文所提有關POJ e5發展是根據下面19世紀到20世紀初中間e5研究：
+
+(1)	Walter Medhurst e5《福建話字典(A dictionary of the Hok-keen3 dialect) 》(1832印行)。這本冊收錄10,500 字，用Medhurst拼音法e5字母做順序。這本冊所收e5字是tui3 Xie Xiulan e5詩韻讀本『彙字雅詞十五音』所揀選--出-來。
+(2)	Elihu Doty e5 《羅馬字化廈門話e5英漢手冊(Anglo-Chinese manual with romanized colloquial in the Amoy dialect) 》 (1853印行)。Che是現存上早e5一本閩南語教科書。「親像冊名所指明，是一本幫助日常kap廈門華人溝通所用e5簡便手冊。」冊e5內底有分二十六項目，包括『宇宙』，『職業』kap『動物』種種。
+(3)	John MacGowan e5 《廈門話手冊(A manual of the Amoy colloquial) 》(1869印行)。MacGowan e5講義是「為著初學者beh了解廈門話e5入門知識所設計。」冊內面有四十三節kap一篇附錄『廈門話主要動詞kap形容詞字彙』。
+(4)	Carstairs Douglas e5 《漢英字典(Chinese-English dictionary) 》(1873印行)。收集大約8300字，是第一本ka7廈門口語系統tek符號化e5冊。也是第一本完全用羅馬字編寫e5閩南語字典。
+(5)	Warnshuis, A. Livingston kap H.P. de  Pree e5 『廈門話課本(Lessons in the Amoy vernacular)』(1911印行)。初學者e5課本，總共有三十課e5課文，語詞索引kap字彙分類表。
+(6)	William Campbell e5 《廈門話字典(Dictionary of the Amoy vernacular) 》(1913印行)。Ti7 超過23000羅馬字詞中間，15000字有漢字對列。每一字攏有簡單e5廈門話羅馬字e5定義。Che是第一本ti7台灣刊印e5羅馬字化廈門話e5參考書。1997年koh有再版第十九版。
+(7)	Thomas Barclay e5 《漢英字典續訂本(Supplement to Douglas(1873) )(1923印行)。Barclay e5《續訂本》收集自Douglas e5字典ti7 1873年印行以後e5新字詞。Kap《漢英字典》無仝--e5是《續訂本》e5 3600字是用漢字做主，羅馬字做副。
+
+（本文以英文發表ti7 《2002年台灣羅馬字教學kap 研究國際學術研討會論文集》）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
