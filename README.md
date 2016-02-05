@@ -26,3 +26,10 @@
   * 白話字文章資料夾
 * `tgbgl.mdb`
   * 資料目錄
+
+### 轉換後資料
+* `HL.csv`、`POJ.csv`
+  * 用`mdbtools-gmdb`共`tgbgl.mdb`的表export轉做`csv`檔
+* `HL`、`POJ`資料夾
+  * 對`原始資料`的big5檔案轉做utf8編碼
+  * `find . -type f -name '*.txt' -exec iconv -f big5 -t utf8 {} -o ../轉換後資料/{} \;`
