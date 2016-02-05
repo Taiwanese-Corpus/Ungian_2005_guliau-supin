@@ -38,5 +38,4 @@
 sudo apt-get install -y python3 python-virtualenv g++ python3-dev zlib1g-dev libbz2-dev liblzma-dev tofrodos
 virtualenv --python=python3 venv; . venv/bin/activate; pip install --upgrade pip; pip install tai5-uan5_gian5-gi2_kang1-ku7; python 轉換資料.py
 find 轉換後資料/ -name '*txt' -exec fromdos {} \;
-git checkout HEAD 原始 資料/
 ```

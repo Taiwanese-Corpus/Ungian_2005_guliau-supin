@@ -38,21 +38,14 @@ def _試轉碼(檔名):
         #         print(檔名)
         #         程式腳本._走指令(['file',檔名],True)
         #         程式腳本._走指令(['enca',檔名],True)
-        raise RuntimeError(檔名 + '無法度轉！！')
-
-
-def _換空白(檔名):
-    with open(檔名, 'rb') as 檔案:
-        原本資料 = 檔案.read()
-    換空白資料 = re.sub(b'\x83.', 原本資料, b' ')
-#     換空白資料 = (原本資料
-#              .replace(b'\x83x', b' ')
-#              .replace(b'\x83n', b' ')
-#              .replace(b'\x83i', b' ')
-#              )
-    with open(檔名, 'wb') as 檔案:
-        檔案.write(換空白資料)
-#     print(原本資料)
+        #         raise RuntimeError(檔名 + '無法度轉！！')
+        程式腳本._走指令([
+            'iconv', '-f', 'big5',
+            '-t', 'utf8', '-c',  # 忽略有問題的字元
+            '-o', 新檔名,
+            檔名
+        ])
+        return 新檔名
 
 
 def _提掉x02_b控制字元(檔名):
@@ -71,13 +64,5 @@ if __name__ == '__main__':
         for 檔案 in 檔案檔名:
             if 檔案.endswith('txt'):
                 檔名 = join(所在, 檔案)
-                try:
-                    新檔名 = _試轉碼(檔名)
-                except:
-                    try:
-                        _換空白(檔名)
-                        新檔名 = _試轉碼(檔名)
-                    except:
-                        print(檔名)
-                        raise
+                新檔名 = _試轉碼(檔名)
                 _提掉x02_b控制字元(新檔名)
