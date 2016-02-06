@@ -1,0 +1,387 @@
+探求HO7-LO2台語中間E5非漢語語詞
+--羅馬字書寫法E5正當性
+
+Sakai， Toru (酒井 亨）
+台灣大學法律研究所碩士班
+
+
+
+摘要
+
+Chiok che7台灣人相信（甚至信仰）Ho7-lo2台語（所謂e5「台灣閩南語」）kap Hakka台語kan-taN是漢語（中國話）e5「方言」。有人beh chhoe7 siaN2-mih「本字」，chhoe7無「本字」時，講siaN2-mih「有音無字」。雖然過去e5語言學界，Ho7-lo2話一直歸類做「漢語閩南方言e5亞方言」，iau2 koh有「漢語是文法上真一致e5統一體」e5看法，m7-ku2 1970年代以來，透過日本e5 Hashimoto， Mantaro，美國e5 Jerry Norman等等學者e5研究累積--落-來，學界soah來承認Ho7-lo2話、粵語m7是漢語e5方言，to7是漢語系中間e5 1 e5語言。Iau2 koh最近ti7日本、中國、美國有che7-che7語言學者指出，對語詞比較kap 1部份統語論上（syntactic）來講，Ho7-lo2台語kap Miao-Yao 語族iah是Tai-Kadai語系、甚至是kap南亞語系(Austroasiatic)、南島語系(Austronesiatic)，互相關係真深。因此，chia chit8-koa2語言e5來源，可能是過去e5「百越」 "Hundreds of Viets" (BaiYue3) e5語言。
+
+Chit篇論文是整理以往e5研究來看Ho7-lo2台語e5「有音無字」大部份可能本chiaN5 ?是漢語詞，所以當然「無漢字」chiah tioh8。
+
+
+探求HO7-LO2台語中間E5非漢語語詞
+--羅馬字書寫法E5正當性
+
+1. 無科學性e5漢字「本字」
+
+按照過去e5語言分類，台灣Ho7-lo2話分類做「漢語閩語閩南方言台灣次方言」。
+
+所謂e5「漢語系」語言，除了「閩語」以外，koh有官話、晉語、徽語、湘語、贛語、吳語、客語、粵語等所謂「9大方言區」（包括閩語），m7-taN7無kang5 e「方言」互相be7通，koh來kang7款e5「方言」內e5地方腔ma7互相be7通。
+
+到chit-ma2為止，chiok che7台灣語言研究者long2想，「Ho7-lo2話既然ma7是漢語e5方言，所有e5語詞一定long2有漢字e5來源」，所以真拚命去chhoe7 siaN2-mih「本字」。M7-ku2 hit-koa2人所「chhoe7--出-來」e5「本字」往往無科學性e5證據。典型e5例是王育德、林寶卿、連雅堂。
+
+Lan2台語研究大前輩王育德(1963)指出：
+sui2(美麗）e5本字可能是「水」。儘管是「查字典類都chhoe7 long2無"sui2， 美麗" e5意思。Koh來to7是我個人e5想像--a。人若聽著"水（chui2)"都一定想e7出來"sui2 koh清khi3 e水"。Lan2 be7-tang3懷疑講古早有1 e所在ka7水當做sui2 e5意思）。
+
+儘管i koh講「既然chhoe7無"水" ma7有"sui2" e5意思，chit款記錄來證明我e5推定，chit款說法kan-taN是假說nia5』，i koh繼續用kang7款e5假說：
+
+siau2(瘋）可能是「小」（以下用Ho7-lo2話詞：「古漢語」e5方式來表記），san2(瘦）：「散」，koan5(高）：「玄」，te2(短）：「底」，khia7(徛）：「[立義]」(gi7)，siuN7（想）：「尚」，heng5(還）：「衡」，hou7(乎）：「附」，lang5(人）：「儂」，thang（窗）：「通」，pe7(父)：「罷」，cha-pou（查甫）：「嗟甫」等等。
+
+Tu2著bah（肉），王--氏ma7真艱苦，「我感覺可能是ka7異民族借--來-e5」（m7-ku2 "bah" hiah-ni7基礎--e5、常用e5語詞kam2有「借用--e5」，基層民族e5語言kam2 e7-sai2講「異民族」？）
+
+根據中國學者林寶卿最近e5研究（1999）：
+
+kha (leg) e5古漢語語源準做[骨交]，因為，《說文》：『[骨交]，脛也，從骨，交聲』；宋. 金盈之《新編醉翁談錄》卷六：『因禮拜頓悟伸[骨交]』等。
+
+kiaN2 (child) e5本字做囝，因為唐. 顧況《囝》詩：『囝生閩方』等等。M7-ku2 long2無證據，kan-taN i講講--e5 nia5。因為另外幾e5研究「本字」e5人e5見解差不多long2無一致。
+
+gong7 (fool) 準做戇，《說文》：『戇，愚也』。
+
+gau5 (wise) 準做[敖/力]，《說文》：『[敖/ 力]，健也』。林氏說明講『[敖/力]訓為強建，而強健又與賢能同訓為力，說明[敖/力]有賢能義。』
+
+bat (know) 準做八。因為『從字形看，"八"是兩臂的象形，兩臂分屬在身體左右兩邊，所以八有分別義。能夠根別辨別，自然就有"認識"，"懂"得之義』。
+
+thai5 (to kill) 準做治。《說文》：『[魚/刀]，楚人謂治魚也。治魚即殺魚也』。
+
+Ti7 chia王育德所講e5「sui2=水」，林寶卿所講e5「bat＝八」，in e5說明long2是siuN勉強--e5，到底是an2-choaN2「水」e5意思kan-taN ti7 Ho7-lo2話內底變做「美」e5意思，我無法tou7了解。『"八"有分別義。能夠根別辨別，自然就有"認識"，"懂"得之義』ma7是kan-taN對i來講是「自然」nia5，我認為無siaN2自然--e5 [1]。
+
+Iau2 koh，「kiaN2 e5本字做囝，因為唐. 顧況《囝》詩：『囝生閩方』ma7是真可笑，顧況《囝》詩內底e5囝字to7是特別只是為著「閩方」e5語詞來製造e5「方言固有字」，hit-e5意義kap日本「國字」 { [人動]（日本e5勞動用chit字，有訓讀hataraku、ma有「漢音」dou）、[結頁]（無訓讀kan-taN有漢音ketsu nia5)}，朝鮮e5國字 { [石/乙] (音tol) }，越南南字 { [天/上]、[南五] } kang7款，若準講漢字ma7 ai3 ka7「囝」字包括在內，日本國字、越南南字ma7變做「古早本字」--a。
+
+漢字至少有5萬字，若準勉強ai3去chhoe7「漢字」，m7-taN7是ti7 Ho7-lo2話內底，而且是ti7日本話中間ma7 chhoe7 e7著「正統e5漢字」。「中國4千年e5偉大歷史」中間，m7知joa7 che7本冊，其中煞尾kan-taN7 ti7 1本冊iah是幾na7本冊內底chhoe7 e7著hiah-e5奇奇怪怪e5「字」，勉強講是「本字」，he kam2有iaN2？Kam2有siaN2-mih意思？
+
+總--是讓1百步，萬一接受Ho7-lo2話為漢語方言，iau2 koh認定「本字」是真e5時chun7，tai7先ai3解決1 e問題。Ti7日本研究「方言」學者e5常識是「方言周圈論」：意思to7是，「方言」e5語詞，離文化中心（khah早是京都）愈hng7保留愈古e5語詞，hit-e5分布地域若地圖上畫--出-來，以京都為中心e5同心圓e5模樣。所以，ai3確定講「某1 e方言語詞to7是古早e5日本標準語（京都語）留--落-來-e5」e5時chun7， 先ai3證明出來chit-e5語詞e5全國性分布到底是an2-choaN2，kap京都e5距離差不多joa7 hng7 e其他所在ma7有類似e5語詞。
+
+林氏等等e5「本字說」long2無chit種學術性koh科學性e5檢討。若準講「水」e5意思真正變做「美」，hit-e5現象應該m7-taN7是Ho7-lo2話nia5，可能ti7客家話、廣東話、越南話、瑤語等等中間e5幾na7種語言內底ma7 chhoe7 e7著（何況是中國國土比日本國土koh khah闊、語言種類koh khah che7)。若無，hit種e5推論是勉強、無理、起意、bong2料、隨便講講nia5 lah。
+
+「Ho7-lo2話是漢語e5 1種」e5憑據其實是hiah-ni7貧乏，顛倒是chiaN5做古早語言學e5「通說」（有人甚至講criteria），實在無法tou7相信。無證據e5理論chiaN5做通說e5理由，應該是政治力量e5問題，並m7是因為有siaN2-mih學術上e5說服力（beh ti7下面第4章內底詳細討論）。
+
+2. 非漢語語源
+
+2.1 古百越語群
+
+Ti陳國強(1988) kap蔣炳釗(1988)等等，中國e5歷史以及人類學者檢討百越族e5冊內面講，ti7 chit-ma2所謂長江以南e5 kui-e華南中間，大概ti7西漢朝以前，漢族差不多無teh toa3，to7是漢文文獻所通稱講「越人」「百越諸族」toa3--e5(ti chit-ma2 e5福建所toa3 e5族群hong5講「閩越」)。
+
+當然lan2若名義看e7出來an2-ni，百越並m7是有同性質e5 1 e民族，to7是應該互相語言be7通e5 che7-che7族群有ti7--leh nia。雖然語言be7通，ma7應該是比較有類似特色e5語言群ti7--leh。陳國強(1988: 313~24)講，in百越族e5後代應該是chit-ma2 e5 Tai-Kadai、Miao-Yao系各族，所以khah早越人e5語言ma7應該是Tai-Kadai、Miao-Yao系統e5 chit8-koa2語言。
+
+歷史e5悠久可能比黃河文明khah久e5長江文明（河姆渡、良渚等文明）ma7是百越族創造--e5。所以美國語言學者Paul K. Benedict ti7 1985年指出講，ti7製造青銅器等古代先進技術上，南方e5長江文明、to7是百越文明大幅領先北方e5黃河文明，所以chit-ma2 chiok che7人所講「北方中國khah優勢、所有e5漢文化long2 an3北方來」hit種e5講法，並無siaN2-mih正確(Suwa， 2000)。
+
+M7-taN7 an2-ni，百越族koh khah早期ma7有可能kap南島、南亞kang7 1系統。P.K.Benedict ti7 1940年代發表e5論文提出講Tai語族kap Li（黎）語等構成1 e Tai-Kadai語系，kap南島語系同源，koh進1步提出了「Austro-Tai語門」e5假說。法國e5 Andre-Georges Haudricourt kap美國e5 James A. Matisoff等ma7有贊同Benedict e5主張(倪1995: 256~57)。
+
+M7-ku2，khah早ti7華南地區滿si3-ke3 e百越族是an2-choaN2萎縮到chit-ma2 e5「chio2數民族」，kan-taN存ti7雲南、貴州、四川、廣西、廣東等Tai-Kadai、Miao-Yao族？原因應該是「漢化」[2] e5結果--lah。
+
+2.2 Ho7-lo2話多層說
+
+根據王育德e5研究(1960)，用Swadesh所提示e5「基本語詞200字」來比較官話（北京）、吳語（蘇州）、閩語（廈門）、粵語（廣東）、客家語（梅縣）等「漢語5大方言」互相距離e5時chun7，chiah發現Ho7-lo2話（王所講e5「閩語廈門方言」） kap北京語互相e5同源詞（共通起源e5語詞）e5比例kan-taN有48.9% nia5，hit款e5比例若去kap英語kap德語e5 58.5%比較--起-來，koh khah ke7。所以對語詞來講，Ho7-lo2話kap北京語e5距離比英語kap德國語koh khah大。英語kap德語ma7互相be7通，所以Ho7-lo2話kap北京語互相be7通to7是當然e5 tai7-chi3。
+
+王e5研究koh顯示講：Ho7-lo2話kap蘇州話e5比例是51.40%，kap廣東話是55.31%，連kap客話都是kan-taN有58.65% nia5。
+
+Iau2 koh李如龍(1982)用「北風kap日頭」e5故事所做e5統計來講，ti7泉州話（接近Ho7-lo2話）總字數120字中，kap粵語廣州話kap吳語蘇州話有差別e5語詞占1百字、比例是百分之80以上e5高率。
+
+根據Graham Thurgood (1985: 8~11)所介紹e5 P. K. Benedict e5學說，ti7 Benedict分類「漢語系」e5時，「閩語」an3其他e5「現代漢語方言」分開，分類做「漢語系內底e5獨立方言群」，顯示閩語e5特殊性。
+
+當然，ti7 chit8-koa2 kap北京話無kang5 e5語詞中間，大部份若m7是古典漢語，to7是「用漢字，kan-taN ti7閩南語創造」e5漢字系統e5語詞--a。 M7-ku2，Hashimoto (1978: 230)指出講，按照Swadesh 200字內底，Ho7-lo2話「至少」有5字（many = che7，to kill = thai5，dry = ta， wet = tam，leg = kha等，當然m7-taN7 5字--lah）e5「同源語詞m7-taN7 ti7現代"方言" chhoe7無，連ti7古代文獻內底都chhoe7無e5 chit8-koa2語詞，ti7非常基本--e5、iau2 koh絕對無法tou7講借用e5部份中，che7-che7出--來-e5」(Hashimoto， id.) 
+
+愈基本、日常e5語詞，愈kap北京語iah是漢語語言無kang5，是Ho7-lo2語e5特色。一般來講，愈基本e5語詞表示是愈底層e5 (siong7保守--e5、無變化--e5)語詞。所以，Hashimoto (1978 etc.)對「閩語kap粵語是漢語e5 1種」e5講法表示懷疑，Yue (1976)提出講，閩語、粵語等語言內底e5 hit種特色是Tai語系接受「漢化」e5結果nia。Norman (1988)顯示講：「閩語內底有chit8-koa2語詞，無siaN2-mih ai3懷疑是kap南亞語系有密切e5關係」，to7是講閩語e5底層是南亞語系[3]。
+
+Ho7-lo2話kap Tai-Kadai、Miao-Yao、iah是南亞、南島語系有密切e5關係，hit種學說有考古學、歷史學上e5旁証。
+
+董忠司(1996: 86~87)提起講，siong7下kha e5底層有「古百越語」（chit-ma2 e5 Tai-Kadai kap Miao-Yao）；koh來接受「古吳越語（che本身是吳越固有語kap吳人所接受koh有腔口e5漢字語詞混合來造成e5語言）」（參看附表），chiaN5做大部份e5白話音；唐朝時chun7 to7來吸收中原漢語（chiaN5做文言音）。對頂面e5語詞e5例來看，董e5假說e7-tang3相信--e5。M7-ku2 1篇論文e5主要目的kap主題並m7是ai3講Ho7-lo2話e5形成過程，kan-taN針對Ho7-lo2話內底所謂「有音無字（漢字）」語詞是an2-choaN2樣--e5 nia5。
+
+儘管lan2 be7-tang3否認Ho7-lo2台語大部份e5語詞kap漢語有關係，hou7人容易koh自然來liah8準講Ho7-lo2台語是漢語e5 1種，m7-ku2 ma7 be7-tang3否認kap Miao-Yao iah是Tai-Kadai語系ma7有密切e5關係。
+
+2.3 非漢語語詞e5來源（建議名單）
+
+所以ti7 chia，我ka7以往學者e5研究成果整理--起-來（請看附表），Ho7-lo2話內底所謂「有音無字（漢字）」語詞可能有Tai-Kadai（傣侗）語系、Miao-Yao（苗瑤）語族、iah是南亞語系、南島語系等e5來源：地名內底e5 na2 (拿，不／中)，lam3(水／田，水／土），pai5 (排，不／平)，liau5 (寮)；一般語詞e5 aiN7 (aiN7 gin2-a2)，bah (肉)，bat (bat字)，bih (匿)，che7 (che7人)，chim (chim嘴phoe2)，choa5(蛇），chhu3 (厝)，gam (我kap i真gam， 真好)，gam-gam (tu2好e5意思， 4點gam-gam)，gong7(憨），hang7 (項; 1項代誌)，hut (hut死)，hiat (hiat mih8-kiaN7)，hoe2(火），iat8 (iat8手)，ka-choah8，kiaN2（囝），kha (腳)，kham3 (蓋)，khok8 (頭殼sio-khok8)，khiu7 (麻薯真khiu7)、la5-li2 (蟟鯉、穿山甲)，leng7 (縛了siuN leng7)，lim (lim茶)，lin (si3-ke3 lin)，lut (lut--落-去)，man-man5 (chiah8; 小兒語)，me (me塗豆)，moa (moa雨moa)，nng (nng孔)，noa7 (嘴noa7)，pai2 (擺；去2 pai2)，pin2 (用竹a2做--e5， phak8米粉e5器具， 米粉pin2)，pit (壁pit--去)，phau3 (袍;長衫袍)，pheh8 (沫)，phaiN2 (歹)，tak (tak chit8-te3 bah)，tam3 (tam3頭)，tam5 (tam5濕)，tiN7 (水tiN7--lah)，toh (toh位)，tou7-un2 (土蚓)，thai5 (thai5死人)，thut8 (脫去)，ut8 (ut8 ian-hun)。
+
+本人想beh補充：cha-bou2 (查某)，cha-pou (查埔)，gau5 (賢)，gong7 (戇)，kap (你kap我)，ke7 (低)，lang5 (人)， lang0 (寒--人e5人) ， sui2 (美)，sun-a2 (孫仔)，ta (乾)。（以上請看附表）
+
+Koh來，hau2 (吼)， hiN7 (耳)， hou7 (予)， ka7 (咬)， kan-taN (干單)， kin-chio (芎蕉)， khioh (拾)， m7 (不)， mai3， thai3 (別)， pui5 (肥)， phaN3 (冇)， suh (吸)， ti3 (戴)， tui3 (對toh位去)等， ti7 Tai-Kadai e5 chit8-koa2語言內底有類似e5語詞； giah8 (giah8頭)， khau3 (哭)， ke7 (低)， lo5 (濁)， noa7 (爛)， oh (難)， sih-na3 (閃電)， teh (teh進行)， teh (壓)， thou5 (塗)， thou5-tau7 (塗豆)等， ti7 Miao-Yao e5 chit8-koa2語言內底有類似e5語詞。
+
+其他『可能是古越語的殘跡』e5語詞(周， 1996: 11~12；陳、李， 1994: 131)：名詞：chi-bai (女陰)， gio5 (蟯， 文蛤)， ko5-a2 (討魚e5竹製工具)， lan (腳結lan)， lok (lok-a2， 袋子)， phiah8 (疹)， siau5 (精液)；動詞：beh (要)， choaiN7 (手骨choaiN7--著)， chhng2 (chhng2手指甲)， hit8 (枴a2亂亂hit8)， hiu3 (hiu3度針)， li3 (li3紙)， liam3 (liam3嘴phoe2)， long7-lian-liu2 (落魄而流浪)， ka-leng2-sun2， nng3 (gau5 nng3孔)， pit (pit紙)， sahN (sahN著風)， sim3 (pun3-taN teh sim3)， ta2 (chiah8飯;小兒語)；形容詞：gam7 (siau2貪無心肝無顧別人)， lo3 (人真lo3)， nah (phong3椅nah--落-去)， siau2 (起siau2)， sio5 (han5-ban7 e5意思， 做tai7-chi3真sio5)。
+
+來源不明，可能是古越語e5語詞 (陳、李，1994:146)：ak-chak， chhin3-chhai2， chhit-tho5， chhong3-ti7， kou2-chui， lam7-sam2， tiau5-ti5。
+
+Ti Ho7-lo2話內底e5動詞、形容詞語彙真豐富，koh來加上chit8-koa2 gin2-a2詞，應該m7-taN7 ti7 chia所舉例--e5 nia5，iau2 koh有chiok che7 e5 語詞long2是「非漢語」--e5。
+
+He long2是phaiN2 chhoe7漢字iah是根本都chhoe7無漢字e5語詞，所以不如優先用羅馬字e5「建議名單」。
+
+3. 語言分類e5政治性
+
+雖然ti7日本e5語言學界ka7 Ho7-lo2話當做獨立e5語言，甚至有人當做非漢語語言，m7-ku2目前台灣人內部對語言e5定位顛倒無清楚。連「建國派」人士內底有人相信「Ho7-lo2話，雖然是獨立e5語言，m7-ku2屬漢語系是be7-tang3否認e5事實」chit款迷思，所以hit款人ma7 tiaN7-tiaN7「be7否認」台灣kap中國「雖然是政治上ai3分開，m7-ku2語言上、血統上來看是兄弟國家」。
+
+M7-ku2，某1 e5「語言」到底是「語言」iah是「方言」，並無法tou7 khia7 ti7語言學「客觀」e5手續、iah是語言本身e5要求來決定，to7是hit-koa2 teh講該當語言e5人e5意願，iah是有權力e5國家、民族所決定--e5。因為所有號做siaN2-mih語言hit種e5行為long2是政治性--e5(Tanaka， Katushiko， 1981 & 1991)。
+
+比如講，lan2 an3越南語（Vietnamese）kap目前歸類做「少數民族語言」白（Pe，Bai）語系所屬問題e7-tit-thang看見「語系所屬問題ma7是政治e5問題」e5真面目--lah。
+
+越南過去是中國e5屬國，越南話e5結構kap漢語官話chiok seng5，所以，19世紀以前有chiok che7人kioh是「漢語e5方言」(Hisamochi， 1944: 11)。M7-ku2越南ti7戰後獨立以後，利用法國學者e5研究，強調講「m7是漢語方言，ma7 m7是漢語系」。Chit-ma2 e5越南話已經歸類做「Mon-Khmer語系」，已經宣布脫離漢語系[4]。
+
+真趣味e5 tai7-chi3，對中國人來講越南話猶原是「漢語系e5獨立1支語言」。今a2日e5語系所屬問題猶原有爭論。Ui3 hit款e5情形來看，某1 e語言到底屬ti7 toh 1 e5語系本身是政治上（m7是語言學上）爭論e5對象。
+
+雲南e5 Bai（白）語（雲南大理漢化e5程度真深e5 chio2數民族語言）e5情況kap越南語接近，ma7有chit8-koa2出入e5所在。雖然Bai語ti7第2次大戰前tiaN7-tiaN7 hou7人歸類做「漢語方言之1」，chit-ma2講i ?是漢語，hong5歸類做「漢藏語系緬甸、彝語族」語言。不ji7過，按照中國語言學者e5統計（戴1992: 105），Bai語1800 e5語詞中，「固有詞」kan-taN有250 e5、13.8% nia5，漢字詞1550 e5、占86.1%。根據Ramsey (1990: 366~68)講，白語內底ma7有sio-kang5有體系化、精緻e5 7世紀漢語中古音，ma7有介紹Bai語是漢語族e5 1 e語言，差不多ti7 2500年e上古漢語以前，an3「原漢語」分化--出-來，hit種假說。
+
+Hashimoto (1973: 230)提起「m7是漢語e5語詞占1成」e5 Ho7-lo2話kap Bai語，chiah指出講，Ho7-lo2話kap Bai語e5漢語化e5程度無siaN2無kang5，顛倒Ho7-lo2話歸類做「漢語方言」，Bai語歸類做「m7是漢語，to7是Tibet語族」，he to7是因為人看著Ho7-lo2話e5時chun7只有看見占9成e5漢語部份，叫做「Ho7-lo2話是漢語」，講到Bai語e5時kan-taN看見1成e5非漢語部份，to7講「Bai語m7是漢語」，an2-ni i突顯出過去e5漢學家講法e5矛盾kap雙重標準e5問題。
+
+Hashimoto (1978) koh指出：官話中間siong7西北方e5東干語kap粵語siong7南e5方言比較--起-來e5時，m7-taN7發音、語詞無kang5，連ti7文法結構上都無kang5。顛倒，地理上e5距離真接近e5無kang7語系e5語言e5特色互相接近，比如講，粵語kap隔壁廣西e5 Zhuang（壯）語互相間，iah是東干語kap Altai語系e5特色khah接近。
+
+Hashimoto an3基本語詞、形容語詞排序、表現比較文構造、類別詞e5種類、表現tense & aspect e5形式等等chiok che7 e5角度，來做比較、分析「漢語」kap周圍e5各「非漢語」語言，to7指出，「漢語系是無siaN2統一性特色e5語系」。
+
+講實在，語言學本身並m7是「政治上中立性」e5學問，m7管是語言學者本身有意識iah無，古早以來語言學者long2有受著政治影響力e5控制，比如講，出名e5語言學者Antoine Meillet對弱勢語言e5記述明顯表示強勢者e5偏見(Tanaka， 1999: 154~65)。
+
+Tanaka， Katsuhiko (1999: 167)又koh指出講，「有關語言e5歷史性研究，kan-taN幫助特定e5語言（引用者註：強勢語言）e5威信愈koan5，具體e5研究結果加強hit種現實，語言學者kan-taN沈淪ti7 "學問上客觀" e5原則論中間，用in無清楚e5目chiu來面對現實e5時chun7，無法tou7保持客觀e5態度」。
+
+M7是kan-taN語言分類、語言學是an2-ni，iau2 koh文化人類學、民族分類ma7有政治e5影響。分佈ti7湖南西部kap湖北恩施地區e5土家族，toa3 ti7海南島東方、昌感縣e5「村人」，Zhuang族，Bai族，She族，雖然中共政府認定做「chio2數民族」，m7-ku2 in人本身認同「漢族」。Suzuki， Masataka (1993)指出講，chiok che7中國「chio2數民族」是hou7中共政府「創造」e5虛構。
+
+所以koh進1步--leh，lan2 e7-sai2講：某1 e集團是kang7 1 e民族iah是異民族，某1 e話到底是方言iah是語言，某1 e語言屬ti7 toh 1 e語系，long2無一定是學術、客觀e5條件來決定--e5，顛倒是tiaN7-tiaN7 khia7 ti7政治目的來製造--e5。
+
+可能有人講出，我ti7 chia所舉例e5 Ho7-lo2話內底e5越語e5因素，long2無夠證據來說服別人，所以，Ho7-lo2話m7是漢語hit款話ma7 be7-tang3成立。M7-ku2 lan2 mai3 be7記--得，Ho7-lo2台語hou7人分類做「漢語e5方言」也並無透過siaN2-mih科學性e5證據來決定--e5，he kan-taN只是中國政府（ROC kap PRC）khia7 ti7 in e5政治目的kap利益來決定『台灣閩南語不是獨立語言，而是漢語的方言』nia5。He long2是政治問題，m7是siaN2-mih純粹學問、科學e5問題--lah！
+
+4. 代結論 台灣主體性e5語文認識
+
+當然，語詞因為有關Ho7-lo2話kap「chio2數民族語言」e5關係e5研究是最近tu2-tu2-a2開始nia5，資訊猶原無夠che7 thang去完整e5研究kap結論。
+
+M7-ku2，設使講「Ho7-lo2話中間e5非漢語語詞論」無完整，過去e5「Ho7-lo2話絕對是漢語」hit款主張ma7無siaN2-mih學術性e5憑據，kan-taN信仰體系、迷思nia5。Chit-ma2所需要--e5是免koh再設siaN2-mih「前提」，an2-ni將Ho7-lo2話kap周圍e5所有e5語言比較、整理、分析--起-來。
+
+目前e5傾向來看，若是資訊愈che7，「Ho7-lo2話中間e5非漢語語詞論」愈有基礎。
+
+Koh khah重要e5 tai7-chi3 to7是台灣主體性e5語文認識--lah。Na2像第4章所提醒--e5，認定Ho7-lo2話是m7是1 e語言，Ho7-lo2話是m7是漢語內底e5 1種，Ho7-lo2話內底e5「有音無字」詞是m7是應該當做「非漢語chiah tioh8」，其實he long2是政治認定e5問題，m7是kan-taN用學術e5研究e7-tang3解決--e5。
+
+10幾冬以來e5台灣本土化e5過程中間，chiok che7人建議講ai3確立台灣主體性e5歷史、國家認同。Ti7 chia重要e5 tai7-chi3是beh an2-choaN2確立台灣語文主體性e5意識e5問題。像第4章所講--e5，chiok che7人iau2 koh無法tou7脫離「漢語、漢人」意識、iau2 koh無清楚語文認定ma7是ai3建立e5意思。
+附記（chit8-koa2呼籲）
+
+以王育德(1963?)做代表，chiok che7研究Ho7-lo2話e5人，long2 bat主張講，福建閩南話kap台灣Ho7-lo2話應該有差別。我ma7完全同意chit點。M7-ku2以往e5研究者long2提起語詞e5差別nia5，其實，語詞方面，閩南kap台灣e5差別無hiah-ni7明顯，無hiah-ni7 che7 e5款。根據我e5想像，可能ti7 prosody方面有差別。台灣Ho7-lo2話e5地方差別，應該m7-taN7因為是「泉彰lam7」e5比例差別nia5，可能ti7音韻特色、prosody方面有反射、保留著平埔族祖先語言e5特色。Chit方面e5研究，我本來m7是語言音韻學專門--e5，所以ng3望專門teh研究語言學e5學者來做chit方面e5研究。多謝。
+
+
+[本文註]
+
+[1] 詳細去看王育德i e5論文，lan2 e7了解i本身應該有發現著「有音無字」--e5，大部份可能是非漢語詞，to7是古早越語詞，m7-ku2表面上看--起-來hiah固執漢語來源e5理由主要是考慮in ti7東京大學研究所讀語言學時e5指導老師服部四郎(Hattori， Shiro^)真固執「閩語是漢語」論，所以e7-tang3講王ma7 kou-put-chiong an2-ni講。因為日本e5大學（尤其是舊制帝國大學系統）內底師生關係真有威權式e5上下觀念，王ma7 m7敢挑戰老師e5見解。
+
+[2] SiaN2-mih是「漢化」？Hashimoto (1983: 3) ka7「漢族」定做「bat漢字，iah是ai3 bat漢字（m7-ku2無成就hit-e5意願）e5人」an2-ni，「bat漢字」是chiaN5做「漢族」siong7重要e5條件--lah。所以漢化to7是「番a2」beh chiaN5做漢族e過程。
+
+[3] Yue所指出e5「Tai語系底層說」kap Norman e5「南亞語系說」並無siaN2-mih衝突、矛盾，因為khah短e5時間來看，閩語kap Tai語系有chiok明顯e5一致，m7-ku2檢討koh khah深層e5特色來看，Tai語系本身e5底層是南亞kap南島語系（倪 1995 etc.）。
+
+[4] Kang7款e5例ti Baltic語族kap Slav語族，iah是荷蘭語kap ke7地德語e5關係e5歷史變遷中間看e7著。Baltic語族chit-ma2 e5通說chiah是獨立e5語族，kap Slav語族是真接近m7-ku2獨立語族，19世紀帝俄時代m7是an2-ne。19世紀e5 Baltic語族e5定位是Slavo-Baltic語族，kap Slav語族做kang7 1 e語族。荷蘭語本來是ke7地德語e5 1種，chit-ma2 kap隔壁德國ke7地德語人講話完全e7通，m7-ku2荷蘭人專工創造獨自e5書面語，語文上kap德語分開、獨立。
+
+ [附表]
+
+1. 特殊發音符號處理要點：
+Ti7以下e5附表，ASCII以外e5特殊e5音，be7-tang3輸入、印字，所以一律換做ACSII文字來處理如下：
+
+[ea]: spread front half-open vowel as in the French "e" in "mettre" (the first "e").
+[ue]: spread back close vowel， similar to the Japanese "u" in "ku:ki" (air) of Japanese.
+[oe]: spread back half-close vowel as similar to the Mandarin Pinyin "e" in "yi2-ge0".
+@: schwa， unrounded central vowel as in the English "a" in "about".
+[ou]: rounded back half-open vowel as in the French "o" in "porte".
+
+子音:
+
+[dh]: voiced fricative inter-dental or post-dental in the English "th" in "that".
+[gh]: voiced fricative velar as in the German "g" in "Wagen".
+[hr]: voiced fricative uvlar， but pronounce as if r，z，etc.
+[ng]: voiced velar nasal， as in "ng" in the English "singer".
+[sh]: voiceless fricative alvelolo-palatal as in the Mandarin Pinyin "x".
+[sl]: voiceless lateral-fricative alveolar ; voiceless "l".
+[sr]: voiceless fricative retoroflex as in Mandarin Pinyin "sh".
+[th]: voiceless fricative inter-dental or post-dental in the English "th" in "think".
+[tj]: alveolo-palatalized "t"， similar to the Japanese "t".
+[zr]: voiced fricative retoroflex as in the Mandarin Pinyin "zh".
+
+2. 古吳楚語e5例： (周， 1996: 53~54; 李， 1997: 19~24)
+
+古楚語：am7 (頷)， chia (這a)， chit8 (一)， hioh8 (葉)， hut (拂;hut--loh-khi)， poaN7 (拌; poaN7塗粉)， ham5 (潭)
+
+古吳語：lang5 (人)， ng2 (手!g)， o3 (澳;小海灣)， oa3 (身軀oa3 ti7桌)， phio5 (萍)， sah8 (sah8雞卵)， tun (墩;小山)
+
+古吳楚共通語：au (甌;小杯)， chhin3 (流chhin3汗)， chhoh (罵)， hia (勺)， keng2 (做褲tioh8 khioh-keng2 chiah e7好看)， khi5 (蜞，蛭)， khng3 (囥)， loa3 (khah淺水e5溪a2)， tng7 (碗洗了tioh8 tng7)， thau2 (thau2結)
+
+3. 地名內底e5非漢語詞：
+
+根據中國學者李如龍1997: 114~16，周、羅2001: 196~325，台灣kap福建e5地名內底e5語詞像：
+
+（語言名簡稱：Tai (傣)德宏 = Tai-Taue， Tai西雙版納 = Tai-Lue）
+
+na2 (拿，不／中) 水田 
+
+Zhuang武鳴: na， Tai-Taue: la， Tai-Lue: na
+
+lam3 (水／田，水／土) 爛泥、下陷
+ 
+Zhuang武鳴: l[ou]m， Puyi者香:lom， Puyi新橋: lom， Puyi八坑: lam，pai5 (排，不／平) 山 
+
+Tai剝隘: poo， Puyi新橋: p@u， Tai金平: pu liau5 (寮) 雞舍，圍欄Tai-Kadai祖語: lau， laau
+
+4. 一般語詞內底e5 非漢語詞：
+
+一般語詞內底kap Tai-Kadai（Zhuang-Kam， 壯侗）各語有關係e5詞(李， 1997: 117~19戴， 1992: 343~51；陳、李， 1994: 127~31)；kap Miao-Yao（苗瑤）各語有關係e5詞(戴， 1992: 354， 蒙2001: 193~233)；kap南亞、南島語系有關係e5語詞（倪1994、1995，鄧19）
+
+（語言名簡稱：Tai(傣)德宏 = Tai-Taue， Tai西雙版納 = Tai-Lue， Miao-QD: 苗(Miao)-黔東(QD); Miao-XX: Miao-湘西(XX); Miao-CDQ: Miao-川黔滇; She: 佘／田(She); Yao: 瑤勉(Yao-Mien) ）
+
+aiN7 (aiN7囝仔)
+
+    MIAO-YAO：Miao-QD: a， Punu: [ny]i[ng]
+bah (肉) 
+
+    TAI-KADAI：Zhuang土州: b[ou]k， Zhuang天等， 德保， 靖西: ba:i， ma:i， w， Tai:-Lue: m[a()n， Sui: man(油)， Li: mam
+
+    南島：Indonesia: gemuk， Radeh: ema (肥)， 回輝: mah (pui5 )， Amis: [sh]imal (油)， Bunun: ma[sh]muh bat (bat字)
+
+   MIAO-YAO：Miao-QD: pu; Miao-XX: pu; Miao-CQD: pou; She: pe; Yao: pei， Punu: pa (參考：越南語: bie^'t)
+
+bih (匿)
+
+    MIAO-YAO：Miao-QD: mi; Yao: pii[ng]
+
+che7 (真che7人)
+
+    TAI-KADAI：Zhuang: la:i， Puyi: la:i， Tai-Lue: lai， Tai-Taue: la:i， Li (黎): [sl]o:ichim (chim嘴頰)
+
+    TAI-KADAI：Zhuang， Kam: [sh]up， tsop， Thai: [sh]u:p choa5 (蛇）
+
+    TAI-KADAI：Kam: la， Tai-Taue: [ts]up-la， Tai-Lue: tup， Tai金平[tsh]up（"l"音容易變做"s"，因為"l" e5無氣音[lh]足成"s"音）
+
+    南島：Indonesia: ular， Radeh: ala， Amis: un@r， 回輝: la Kam: la
+chhu3 (厝)
+
+    MIAO-YAO：Miao-QD: ts[ea]; Miao-XX: p[zr][ue]; Miao-CQD: t[sr]e; Yao: pau gam (kap i真gam)
+
+    TAI-KADAI：Zhuang武鳴: gam gam-gam (4點gam-gam)
+
+    TAI-KADAI：粵語kap Zhuang武鳴: [ng]am-[ng]am gong7 (戇)
+
+    TAI-KADAI：Zhuang龍州: [ng]u:[ng]， Zhuang武鳴: [ng]o[ng]， hang7 (項; 1項代誌) 
+
+    TAI-KADAI：Zhuang龍州: hang hut (hut死)
+
+    TAI-KADAI：Zhuang武鳴: fat， Sui: vat hiat (hiat mih8-kiaN7)
+
+TAI-KADAI：Zhuang龍州: vit， Zhuang武鳴: vut， Tai-Lue: f[ea]t hoe2 (火）
+
+TAI-KADAI：Zhuang: fei， Puyi: fi， Be: v@i， Kam: pui， Sui: wi， Maonan: vi， Tai-Taue: fai， Tai-Lue: fai
+
+南島：Indonesia: api， Paiwan: sapi， 回輝:pui  iat8 (iat8手)
+
+TAI-KADAI：Zhuang龍州: vat， Puyi八坎: vit， ka-choah8
+
+    TAI-KADAI：Zhuang: tu sa:p， Puyi: tu@ sa:p， Be (臨高): sia:la:p， Tai-Taue，Tai-Lue: m[ea][ng]sa:p， Tai金平: sa:t， Kam(侗): kwa:p， Mulao: [dh]@p， Sui: la:p kiaN2 (囝)
+
+  南亞：Khmer: k[ou]n， Viet: con(k[ou]n)， Mon: kon， Wa: k[ou]n， Bru: k[ou][ou]n， Chong: kheen， Khasi: khuin kha (腳)
+
+    TAI-KADAI：Zhuang: ka， Puyi: ka， Tai-Taue， Tai-Lue: xa (腿)， Thai: kha， Kam: pa， Maonan: pjala:u， 南島：Indonesia paha， Paiwan: dapal (long2是大腿e5意思) Indoneia; kaki， 回輝: kai (long2是腳e5意思) 
+
+kham3 (蓋)
+
+  TAI-KADAI：Zhuang武鳴: k[ou]m， k[ou]p， Mulao， Maonan: k@p， Puyi: k[ou]m， h[ou]m， Tai-Taue: hom， Sui: k@m， k[ou]m， h[ou]m， khok8 (頭殼sio-khok8) TAI-KADAI：Zhuang武鳴: k[ou]k khiu7 (麻薯真khiu7)
+
+    TAI-KADAI：Sui: kh@u la5-li2 (蟟鯉;穿山甲)
+
+    TAI-KADAI：Thai (Bangkok): lin， Kam: lan， Puyi: lin， Zhuang: lin， Tai-Taue， Tai-Lue: ket-lin， Tai元江: lin MIAO-YAO：Miao-QD: [lh]o[gh]o; Miao-CQD: [zr]ou; She: [ng]u ; 
+Yao: lai 南島：Indonesia: tengiling， Amis: al@m leng7 (縛了siuN leng7)
+    TAI-KADAI：Sui: lo[ng]
+
+lim (lim茶)
+
+    TAI-KADAI：Zhuang武鳴: d@m， Be: lum， Tai-Lue: dum， Tai金平: lum， 
+    Tai元陽: lim， kin， Tai武定: lun， Kam: wum， Sui: r@m， [gh]um
+    南島：Indonesia: minum 
+
+lin (si3-ke3 lin)
+
+    TAI-KADAI：Zhuang龍州: lan， Zhuang武鳴: kli[ng]， li[ng]
+
+lut (lut--落-去)
+    
+TAI-KADAI：Zhuang龍州: lu:t， Zhuang武鳴: lo:t， Tai-Leu: lut
+man-man5 (chiah8; 小兒語)
+    TAI-KADAI：Sui: mam-mam， Kam: ma[ng]-ma[ng]
+me (me塗豆)
+    TAI-KADAI：Zhuang: ra， hba
+moa (moa雨moa) 
+    MIAO-YAO：Miao-QD: pa; Miao-CQD: mpua
+nng (nng孔)
+    TAI-KADAI：Zhuang武鳴: do:n， Sui: l@n， Tai-Leu: d[ea]n
+noa7 (嘴noa7)
+TAI-KADAI：Zhuang: mla:i， Puyi: na:i， Be: nam mai， Tai-Leu: nam la:i， Tai-Taue: lam la:i， Kam:[ng]we， Li(黎): nom [sl]o:i
+pai2 (擺; 去2擺)
+    TAI-KADAI：Zhuang: pai， Puyi: pai， Be: f[ou]i， Sui: pai
+pin2 (米粉pin2)
+    TAI-KADAI：Zhuang武鳴: pin， Kam: pin， Sui: bin
+pit (壁pit--去)
+    TAI-KADAI：Zhuang: rek， p'ek， Mulao: pik， Maonan (毛南): p'ik
+phau3 (袍;長衫袍) 
+    TAI-KADAI：Zhuang: ma:k puk， ma:k pa:[ng]， Puyi: m: puk， 
+    Be: Mak[ng]uk， Kam: pa:u
+pheh8 (沫)
+    TAI-KADAI：Zhuang武鳴: p[ou]p
+phaiN2 (歹)
+    MIAO-YAO：Miao-QD: pa; XX-M: pa; Miao-CQD: pua
+tak (tak chit8-te3 bah)
+    TAI-KADAI：Kam(Tong)， Sui: tak， Tai: hak， Zhuang kap臨高: hdak
+    南島：Indonesia: tetak， Amis: [sh]@t@l (tak肉)， l@t@k (tak樹)
+tam3 (tam3頭)
+    TAI-KADAI：Zhuang武鳴: tam
+tam5 (tam5濕)
+    MIAO-YAO：Miao-QD: t[ea]; XX-M: nte; Miao-CQD: nto; She: ta[ng]; 
+      Yao: doo[ng]
+
+tiN7 (水tiN7--lah) 
+    TAI-KADAI：Zhuang: rim， tim， Puyi: zim， Tai-Leu: dum，  
+Tai-Taue: tem
+
+toh (toh位)
+    MIAO-YAO：Miao-QD: tei; Miao-CQD: tu; She: tat 
+
+tou7-un2 (土蚓)
+    TAI-KADAI：Zhuang: tu dw:n， Puyi: tu@ di:n， Tai-Leu: d[oe]n， d@n， 
+    Tai-Taue: ti l@n
+
+thai5 (thai5死人)
+    TAI-KADAI：Zhuang武鳴:ta:i， Puyi: ta:i， Tai-Taue， Tai-Leu: ta:i， Kam: t@i， Mulao: tai， Sui: tai， Maonan: tai， Be: dai， Li: [sl]u:i， [sl]a:u， Proto-Tai: trai（long2是「死」e5意思）
+    MIAO-YAO：Miao-XX: ta (殺人)， Miao-QD: [tj]i (殺雞)， 
+Miao-CQD:tua (殺雞‧人)， She: ta， Yao-Mien: tai， Punu: to， Proto-Miao: *daih
+    南島：Indonesia: mati（殺死）， Amis: pataj（死）， Bunun: mata[dh]， 
+      Paiwan: matsay
+
+
+thut8 (脫去)
+    TAI-KADAI：Zhuang武鳴: tok
+
+ut8 (ut8 ian-hun)
+    TAI-KADAI：Zhuang武鳴: u:t， Puyi羊場: u:t
+
+補充：
+
+cha-bou2 (查某)
+    Zhuang龍州: ti me， Miao-QD: chi ma[ng]， She: ne va
+
+cha-pou (查埔)
+    Zhuang龍州: ti po， Miao-QD:chi pa， She: ne p[oe]， ne pu
+
+gau5 (賢)
+    Yao-Lakya: [ng]ja:u
+
+gong7 (戇) 
+    Yao-Punu: [ng]o[ng]， Yao-Lakya:[ng]a:[ng]
+
+kap (你kap我)
+  Tai-Lue， Tai金平: kap
+
+ke7 (低)
+    She: khje， Yao-Punu: ku， Yao-Lakya: ka
+
+sui2 (美)
+    Thai (Bangkok): sua:i
+
+sun-a2 (孫仔)
+    Zhuang龍州: la:n ba:u， Tai: la:n tsa:i， Mulao: la:k kh[gh]a:n， 
+    Yao-Mien: fun， 越南: cha'u (niece kap grand-son be7分別)
+
+ta (乾)     Li: da:u， Puyi: zo， Kam: so
+
+
+
+
+
+

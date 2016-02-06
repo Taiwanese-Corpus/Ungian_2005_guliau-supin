@@ -1,0 +1,5 @@
+Holowin chi-oan5 e5 pian-be2 (encoding) si7 HOTSYS hoat-beng5 e5 he7-thong2, ham5 au7-lai5 Kiat8-gak8 hiaN hoat-beng5 e5 TP(Taiwanese Package)pian-be2 be7-hah8, e7 sio chhiong.  (I2-siong7 iu5-koh ham5 kok-che3 phiau-chun2 Unicode/Ban7-kok-ma2 bo5-siang5.)  Ji7-heng5 kho2-pi2 lan2 lang5 e5 saN, saN oaN7-tiau7 iau2-si7 kang5-e5-lang5, sou2-i2 kan-taN oaN7 ji7-heng5 bo5 choan2-oaN7 e7-kha-chan5 e5 pian-be2, tiaN7-tioh8 be7 hah8-su.
+Jit8-bun2 ma7 u7 kui2-na7-tho3 sio-chhiong e5 pian-be2, cheng-chha tian7-nau2
+chok-giap8 he7-thong2(OS) jin7-bat Jit8-bun5, bo5 jin7-bat POJ e5 pian-be2.  OS
+khoaN3-tioh8 HOTSYS pian-be2, TP pian-be2, Unicode pian-be2 liah8-chun2 si7 3-tho3 hou7-siong bo5 ti7-tai7 e5 pian-be2.  (Na7 u7 lang5 tui3 OS khah liau2-kai2--e, chhiaN2 pou2-chhiong.)Pian-be: http://zh-min-nan.wikipedia.org/wiki/Pian-b%C3%9
+	(Henry)

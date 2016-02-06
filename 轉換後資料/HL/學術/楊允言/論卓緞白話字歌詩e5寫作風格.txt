@@ -1,0 +1,249 @@
+論卓緞白話字歌詩e5寫作風格
+ 
+楊允言大漢技術學院資訊工程科講師ungian@ms01.dahan.edu.tw
+ 
+ 
+摘要
+七字仔是台灣民間文學e5一部份，普遍流傳ti7台灣e5民間社會。基督教傳來台灣百外冬，這個宗教表現出來e5是聖經、聖詩。卓緞女士(1901~)出世ti7散赤e5家庭，二十外歲入基督教，五十一歲開使用ti7教會學來e5白話字寫出七字仔形式e5白話字歌詩。
+本文beh簡單介紹卓緞e5人生歷程，kah伊所創作e5白話字歌詩，並且beh利用計算語言學e5方法，分析伊所使用e5詞彙ti7台語本土語層、移借語層e5比例，來討論這koa2白話字歌詩e5語詞風格、特色，ma7 beh以台灣民間e5七字仔、白話字七言文kah卓緞e5白話字歌詩做一下比較。落尾，beh探究一般社會大眾對白話字歌詩、對卓緞e5看法。
+ 
+關鍵詞 白話字歌詩，七字仔，七言文，台語文學，台灣文學
+ 
+ 
+ 
+一、            踏話頭：出土e5白話字歌詩kah卓緞這個人
+《自由時報》ti7 2001年二月初九刊出一篇報導，花蓮市有一個百歲e5老阿媽，m7-pat去學校讀過書，ma7 m7-pat字。伊ti7二十幾歲e5時入基督教，有學白話字，五十一歲hit年，開始用白話字寫台語歌詩。消息刊出了後，包括《中國時報》、《聯合報》、以及花蓮在地e5《更生日報》ma7有刊出類似e5消息。
+阮知影消息了後，to7去ka7拜訪。進前卓緞e5查某囝洪惠香小姐透過台北e5朋友整理部份歌詩，白話字kah中文對照，m7-koh少部分聲調boe7記-e撇，iah是撇m7著。
+阮將chiah-e5白話字歌詩，用台語文書軟體重phah字 [1]，ui3 chia開始，洪小姐勻勻仔將阿媽e5手稿交hou7阮來整理。
+有一段時間阮tak8禮拜去阿媽in tau，將目前整理好e5物件交hou7洪小姐，並且印全羅馬字e5資料，親像《風向》、《Tai5-Oan5-Ji7》、...等等hou7阿媽看 [2]。伊boe7曉華語，看無漢字，除了手邊少數e5白話字書刊 [3]kah家己e5歌詩以外，伊無物件通讀。
+根據《卓公宗慶子孫家譜》kah阿媽e5手稿所寫e5,卓宗慶（1850-1926，桃園龜山嶺頂）1898年（48歲）hou7馬偕受洗入基督教，是台灣第一代e5基督教家庭，卓宗慶long2總八個囡仔，卓緞是siong7尾一個。卓緞出世e5時，in阿母因為生產後食m7著葯仔致kau3失去性命，第三工to7將伊送hou7一個真散赤e5家庭養飼。
+卓宗慶ti7 1904年chhoa7 囡仔、新婦、孫long2總十人來花蓮，1907年搬去鳳林對面e5烘爐口開墾，1913年soa2去六階鼻。1923年，卓緞e5第五個兄哥卓萬力去西部將卓緞in歸家口chhoa7來六階鼻。後來卓萬力引chhoa7伊信耶穌，學白話字。總是伊e5 ta-ke ka7伊阻擋，boai5 hou7伊讀chiah-e5書。22歲hit年，伊e5手酸痛，in ta-ke叫符仔先畫符唸咒，用符仔燒灰泡滾水hou7 lim，顛倒歸身軀抽疼，hou7伊想beh自殺，後來兄哥ka7鬥出錢，chhoa7伊去花蓮病院手術chiah醫好，自按呢，ta-ke to7無koh阻擋伊信耶穌。
+伊e5翁婿1947年過身，伊chhoa7兩個真細漢e5查某囝去花蓮。一開始因為租厝無好勢，暫時搬入去空e5羊仔寮toa3落來，hit陣伊e5空課是整理花蓮信義教會禮拜堂，透早起來to7起烘爐火來煮米，趕緊拼拜堂外面埕，食飽to7緊洗衫，然後to7去旅社洗被單，「洗kah路尾chun7被單腳手pi7-pi7-chhoah，long2無力，轉去就te2飯來攪糖濫滾水，食飽就是倒ti7眠床歇睏，每日long2做按呢空課...」，「我透早若有時間就是跪ti7台仔頂祈禱，感謝上帝救主，幫贊我，有所ng3望e5你long2知，我to7是放心(pang3-sim)交託主，萬事有主e5好旨意，我long2無煩惱真平安[Toh]。...」後來有朋友引伊去法院ka7 ti7法院工作e5獨身e5煮飯、洗衫；尾a toa3厝內ka7人chhoa7囡仔koh ka7人洗衫。一直kau3兩個查某囝long2畢業、有頭路，chiah khah清閒。
+若是照時間推算，卓緞女士開始寫白話字歌詩e5時陣（51歲），iah-koh是伊tih過艱苦日子e5時。
+ 
+二、            卓緞白話字歌詩舉例
+卓緞e5白話字歌詩，形式to7親像一般台灣民間社會流傳e5七字仔，七字七字，有對句。伊所寫e5歌詩，會tang3 ka7分做四種主題：(1) o-lo2上帝、(2) 勸世、(3) 節慶祝福、(4) 記錄家己，當然，大部分e5歌詩會將兩個以上e5主題濫做伙。
+Kau3目前為止，long2總整理出卓緞e5白話字歌詩25首，另外koh有非白話字歌詩e5部分，主要是卓緞用白話字記錄伊家己e5生活、伊e5過去。以下beh揀其中幾首來舉例介紹：
+(一)  Chiok Gou7-ko Toh-Ban7-Lek8 Lak8-chap8-hoe3 SeN-jit8 Kam2-un Si (祝五哥卓萬力六十歲生日感恩詩 )
+Chiok-hok gou7-ko lak8-chap8-hoe3 Tai7-ke hoaN-hi2 lai5 chu7-hoe7 	祝福五哥六十歲大家歡喜來聚會
+Siong7-te3 siuN2-su3 toa7 un-su3 Hou7 li2 e5 kiaN2 choe3 bok8-su 	上帝賞賜大恩賜Hou7你e5囝做牧師
+Gou7-ko sin3-giong2 chin kian-teng7 Kong2-oe7 si3-chiaN3 choe3 kng-teng Ia7 u7 un-jiu5 e5 seng3-cheng5 Hok8-sai7 Siong7-te3 ia7 khian5-seng5 	五哥信仰真堅定講話四正做光燈Ia7有溫柔e5性情服侍上帝ia7虔誠
+Lak8-e5 a-hiaN chin iong2-kiaN7 Che si7 Siong7-te3 toa7 un-tian2 	六個阿兄真勇健這是上帝大恩典
+Siong7-te3 chiok-hok lan2 hiaN-be7 Tak8-ni5 kin-jit8 saN-kap che7 	上帝祝福咱兄妹Tak8 年今日相 kap 坐
+Siong7-te3 siuN2-su3 chin kau3-giah8 Gou7-so2 liau7-li2 chin ho2-chiah8 	上帝賞賜真夠額五嫂料理真好食
+Chiah8 kau3 tai7-ke chhio3-hi-hi HoaN-hi2 gou7-ko lak8-chap8-ni5 Ng3-bang7 chhit-chap8 koh saN-kiN3 Siong7-te3 su3-hok na2 ke-thiN Gou7-ko ia7-si7 thiaN3 hiaN-ti7 Sio2-be7 ia7-si7 chin ti3-i3 	食kau3大家笑嘻嘻歡喜五哥六十年Ng3望七十閣相見上帝賜福那加添五哥ia7是疼兄弟小妹ia7是真致意
+Kho2-sioh lau7-bu2 cha2 ke3-sin Sio2-be7 hou7 lang5 khioh khi3 chhi7 PiN3-choe3 se3-siok8 e5 kiaN2-ji5 	可惜老母早過身小妹hou7人khioh 去飼變做世俗e5囝兒
+Gou7-ko thiaN3 goa2 si7 sio2-be7 Chhin-chhiuN7 bok8-chia2 kin2 khi3 chhe7 	五哥疼我是小妹親像牧者緊去chhe7 
+Chhe7-tioh8 sio2-be7 chin hoaN-hi2 Kin2-kin2 chhoa7 lai5 thiaN to7-li2 	Chhe7著小妹真歡喜緊緊chhoa7來聽道理
+Goa2 thiaN to7-li2 bo5 teng3-kin Tu2-tioh8 piN7-thiaN3 chin-chiaN3 ku2 M7-chai Siong7-te3 si7 chin-chu2 	我聽道理無釘根Tu2著病疼真正久M7知上帝是真主
+Koh-chai3 poe7-gek8 chin Siong7-te3 Tu2-tioh8 chhi3-lian7 chin-chiaN3 che7 	閣再背逆真上帝Tu2著試煉真正che7 
+Kai-chai3 Siong7-te3 u7 po2-hou7 Chhoa7 goa2 oat8-thau5 kiaN5 chiaN3-lou7 	佳哉上帝有保護Chhoa7我越頭行正路
+TaN kiu5 Siong7-te3 tioh8 chiok-hok Chiok-hok gou7-ko u7 khoai3-lok8 	TaN求上帝著祝福祝福五哥有快樂 
+這是卓緞真早期e5作品，五哥對伊來講意義重大，因為第一，五哥無將伊放boe7記，轉去西部chhoa7伊過後山；第二，五哥引chhoa7伊信主；第三，二十幾歲破病真嚴重e5時，五哥出siong7 choe7錢幫贊伊度過難關。
+Ui3這首歌詩ma7會tang3看出，卓緞使用真choe7教會用語，包括大恩賜、光燈、大恩典、相kap、牧者、試煉等等，ti7其它e5歌詩作品內底，仝款會看著這個情形，表示卓緞e5作品，受教會白話字作品（聖經、聖詩等）e5影響真深遠。
+ 
+(二)  Io-kiaN2 Si (Io囝詩，1990.5母親節作)
+Lau7-bu2 io-kiaN2 chin hoaN-hi2 Jit8-mi5 na2 io na2 gim5-si Soe3-kiaN2 na2 thiaN na2 ho2 khun3 Lau7-bu2 khoaN3 kiaN2 chhio3-bun5-bun5 	老母io 囝真歡喜日暝那io 那吟詩細囝那聽那好睏老母看囝笑bun5-bun5 
+HoaN-hi2 soe3-kiaN2 chin kou2-chui Io-kiaN2 bo5-jit8 kang7 bo5-mi5 	歡喜細囝真古錐Io囝無日kang7 無暝
+Jit8--si5 ia7 ai3 chi2 saN-tng3 Ia7 tioh8 se2-saN ai3 piaN3-tng7 	日時ia7愛煮三頓Ia7著洗衫愛拚tng7 
+Mi5--si5 ia7 tioh8 ai3 pou2-thiN7 ThiN7 kah saN-kiN kang7 poaN3-mi5 	暝時ia7著愛補縫縫kah三更kang7 半暝
+Soe3-kiaN2 cheng-sin5 khau3 ai3 chiah8Lau7-bu2 cheng thau5 kah khap hiah8	細囝精神哭愛食老母cheng頭kah磕額
+M7-kam hou7 kiaN2 iau koe3-ki KoaN2-kin2 chun2-pi7 ka7 kiaN2 chhi7 	M7甘hou7囝iau過飢趕緊準備ka7 囝飼
+Choan5-sim chiau3-kou3 lan2 soe3-kiaN2 Hou7 i sin-the2 khah iong2-kiaN7 	全心照顧咱細囝Hou7伊身體khah勇健
+Lau7-bu2 io-kiaN2 chiam7-chiam7 toa7 E7 pe5 e7 chau2 bo5 khoaN3-oah8 	老母io囝漸漸大會爬會走無快活
+U7-si5 chiau3-kou3 na7 bo5 ho2 Hou7 I poah8 kau3 lin3-lin3-ko7 	有時照顧若無好Hou7伊poah8 kau3 lin3-lin3-ko7
+Lau7-bu2 khoaN3-kiN3 m7-kam-sim KoaN2-kin2 pho7 khi3 tit8-tit8 chim 	老母看見m7甘心趕緊抱去直直chim 
+TaN kiu5 Siong7-te3 lai5 chiau3-kou3 Soe3-kiaN2 chiam7-chiam7 na2 chin3-pou7 	TaN求上帝來照顧細囝漸漸那進步
+Chiau3-kou3 in2-chhoa7 kiaN5 chiaN3-lou7 Ia7 oe7 te3 Chu2 e5 kha-pou7 	照顧引chhoa7 行正路Ia7會te3 主e5腳步
+Sou2 choe3 na7 oe7 eng5-kng Chu2 Siong7-te3 chiok-hok ban7-ni5 ku2 	所做若會榮光主上帝祝福萬年久
+這是母親節e5時卓緞所寫e5。老母顧囝確實真辛苦，除了顧囝仔，平常時e5空課，包括煮三頓、洗衫、拚tng7、補縫tak8項long2愛，一方面看囝仔漸漸大心內真歡喜，另外一方面tak8項long2煩惱，驚伊iau過飢，會爬會走koh驚伊poah8倒，將老母顧囝e5心情寫了chiaN5生動活潑。卓緞ma7充分表現台語詞彙e5美妙，歡喜e5時陣「笑bun5-bun5」，半暝囝仔哭beh食奶，老母「cheng頭kah磕額」kan-na為著mai3 hou7囝仔「iau過飢」，咱若無ka7顧hou7好，驚伊會「poah8倒lin3-lin3-ko7」...。Chia e5語詞long2真sui2,ma7是端tiah e5台語。
+ 
+(三)  O-lo2 Siong7-te3 - 1 (O-lo2 上帝，91歲作)
+Lan2 cho3-lang5 tioh8-ai3 khiam-piM7-thang o-lo2 lan2 ka-ki7 Siong7-te3 hoaN-hi2 e5 kiaN2-ji5 Chiah oe7 tiam3 Chu2 e5 sin-piN Chu2 e5 kiu3-un toa7 bo5-pi2 Kiu3 lan2 leng5-hun5 m7-bian2 si2 	咱做人著愛謙卑M7通o-lo2咱家己上帝歡喜e5囝兒Chiah 會tiam3主e5身邊主e5救恩大無比救咱靈魂m7免死
+Lan2 tioh8 kam2-sia7 lai5 o-lo2 M7-thang kou-hu7 Chu2 kong-lo5 	咱著感謝來o-lo2M7通辜負主功勞
+Chu2 lai5 se3-kan chiaN5-choe3 lang5 Thoa-boa5 lo5-khou2 kap lan2 tang5 Bo5 liah8 ka-ki7 si7 kun-ong5 	主來世間成做人拖磨勞苦kap咱同無liah8 家己是君王
+Sun7-hok8 Siong7-te3 chin ui2-tai7 Hou7-lang5 khoaN3-khin m7 eng-kai Chu2 e5 siu7 khou2 lan2 ai3 chai Kiu3-chu2 sun7-hok8 tui3 pe7 lai5 Lan2 tioh8 chai-choe7 kin2 hoe2-kai2 Chu2 beh siok8-hoe5 lan2 chiong-lai5 	順服上帝真偉大Hou7人看輕m7應該主e5受苦咱愛知救主順服對父來咱著知罪緊悔改主beh贖回咱將來
+Se3-kan ou-am3 chin kiaN-hiaN5 Lan2 tioh8 keng2-seng2 soe3-ji7 kiaN5 Te3 Chu2 kha-pou7 ai3 si3-chiaN3 Mou5-kui2 hiong-ok m7-bian2 kiaN 	世間烏暗真驚惶咱著警醒細膩行Te3主腳步愛四正魔鬼凶惡m7免驚
+Siong7-te3 chian3-kah hou7 lan2 chheng7 Chiu7 u7 iong2-kam2 khi3 chian3-cheng 	上帝戰甲hou7咱穿就有勇敢去戰爭
+Tui3-tek8 beh lai5 chin li7-hai7 Siong7-te3 lai7-kiam3 kah i thai5 	對敵beh來真厲害上帝利劍kah伊thai5 
+Hou7 I chai-choe7 lai5 hoan2-hoe2 Ka-ki7 khiam-pi lai5 jin7 choe7 	Hou7伊知罪來反悔家己謙卑來認罪
+Siong7-te3 hoaN-hi2 siu7 chiok-hokChu2 beh chhoa7 lan2 chiuN7 thian-kok 	上帝歡喜受祝福主beh chhoa7 咱上天國
+O-lo2 Siong7-te3 - 2 (O-lo2 上帝)
+Se3-kan pian3-chhian chin li7-hai7 Tek-choe7 Siong7-te3 toa7 chai-hai7 Se3-kan ou-am3 thang kiaN-hiaN5 Tioh8-ai3 sio2-sim soe3-ji7 kiaN5 	世間變遷真厲害得罪上帝大災害世間烏暗通驚惶著愛小心細膩行
+Sin3-giong2 lou7-theng5 chin kng-beng5 KhiN5 Chu2 tiau5-tiau5 oe7 tek-seng3 U7 Chu2 in2-chhoa7 chin un2-tang3M7-bian2 khoa3-lu7 lai5 choat8-bang7 	信仰路程真光明箝主tiau5-tiau5 會得勝有主引chhoa7 真穩當M7免掛慮來絕望
+Oa2-kho3 kiu3-chu2 u7 hok-khi3 Siong7-te3 keng2-soan2 e5 kiaN2-ji5 Ui7 Chu2 hoat kng tit Chu2 thiaN3 Siong7-te3 chiok-hok u7 iong2-kiaN7 	Oa2靠救主有福氣上帝揀選e5囝兒為主發光得主疼上帝祝福有勇健
+Kiu3-chu2 sun7-hok8 lan2 ThiN-pe7 Ui7-tioh8 se2-kan cheng3 tai7-ke Hou7 lang5 teng3 ti7 sip8-ji7-ke3 Lau5 chhut po2-huih kiu3 tai7-ke 	救主順服咱天父為著世間眾大家Hou7人釘ti7 十字架流出寶血救大家
+Kiu3-chu2 siaN-im chin khiam-pi Ui7-tioh8 choe7-jin5 siu7 chham2-si2 Siong7-te3 hoat toa7 e5 siu7-khi3 Choe7-jin5 eng-kai tioh8-ai3 si2 	救主聲音真謙卑為著罪人受慘死上帝發大e5受氣罪人應該著愛死
+Chu2 kong2 in sou2 choe3 in m7-chai Pe7 ah li2 tioh8 sia3-bian2 in Kiu3-chu2 hi-seng lan2 ai3 chai Hou7-lang5 siong-sim lau5 bak8-sai2 Chu2 beh siok8-hoe5 lan2 chiong-lai5 	主講in 所做in m7知父啊你著赦免in 救主犧牲咱愛知Hou7人傷心流目屎主beh贖回咱將來
+Jin7-sek Chin-chu2 Siong7-te3(認識真主上帝，84歲作)
+Sou2 chhun jit8-chi2 si7 iu2-han7 Iau2-koh khoa3-lu7 chit se3-kan Se3-kan ou-am3 goa2 chin kiaN Khoa3-lu7 kiaN2-sun than3 in kiaN5 	所chhun日子是有限Iau2-koh掛慮這世間世間烏暗我真驚掛慮囝孫趁in 行
+Ui7-tioh8 se3-kan khah ke3-thau5 Siong7-te3 to7-li2 pang3 ti7 au7 	為著世間khah過頭上帝道理放ti7 後
+Ki5-to2 Siong7-te3 tioh8 chiau3-kou3 M7-thang hou7 in kiaN5 be5-lou7 	祈禱上帝著照顧M7通hou7 in 行迷路
+Ui7-tioh8 kiaN2-sun ki5-to2 lau5 bak8-sai2 Goa2 e5 khou2-sim chi2-u7 Siong7-te3 chai 	為著囝孫祈禱流目屎我e5苦心只有上帝知
+Ng3-bang7 kiaN2-sun sou2 choe3 ai3 lip8-chi3Sun7-than3 Siong7-te3 lai5 kiaN5 ho2 chi2-i3M7-thang pang3-sak chin to7-li2 Chiah-si Siong7-te3 e5 kiaN2-ji5 	向望囝孫所行愛立志順趁上帝來行好旨意M7通放sak 真道理Chiah是上帝e5囝兒
+Tioh8 jin7 Siong7-te3 e5 seng3-kiaN2 Beh kiu3 ban7-lang5 e5 siN3-mia7 TaN lan2 to7-li2 na7 m7 thiaN Chiong-lai5 chiu7 boe7 kau3 thiN-siaN5 Tioh8 u7 jin5-ai3 lai5 saN-thiaN3 Chiu7 oe7 eng5-kng Chu2 e5 mia5 	著認上帝e5聖囝Beh救萬人e5性命TaN咱道理na7 m7 聽將來就boe7 kau3天城著有仁愛來相疼就會榮光主e5名
+Mia5-siaN te7-ui7 long2 chiam7-si5Put-pi2 thian-tong5 e5 hok-khi3U7-thang chiah8 eng7 chin kiong-hi2Siong7-te3 su3 hok na2 ke-thiN 	名聲地位攏暫時不比天堂e5福氣有通食用真恭喜上帝賜福那加添
+Lan2 si7 Siong7-te3 e5 kiaN2-ji5 Te3 Chu2 lai5 kiaN5 oe7 seng3-li7Ho2-phaiN2 si7 Chu2 e5 chi2-i3Lan2 tioh8 pang3-sim kau-thok i	咱是上帝e5囝兒Te3 主來行會勝利好歹是主e5旨意咱著放心交託祂
+Se3-kan kan-khou2 khoai3 ke3-khi3M7-bian2 ke3-thau5 lai5 siong-piLan2 tioh8 ti-chiok lai5 hoaN-hi2 Chiu7 oe7 peng5-an ke3 jit8-chi2	世間艱苦快過去M7免過頭來傷悲咱著知足來歡喜就會平安過日子
+Peng5-an choe3 toa7 e5 hok-khi3ChhiaN2 lan2 tai7-ke tioh8 chun2-pi7Kau3-si5 Chu2 beh chhoa7 lan2 khi3Chhoa7 lan2 kiN3 pe7 chin hoaN-hi2 	平安最大e5福氣請咱大家著準備Kau3時主beh chhoa7 咱去Chhoa7 咱見父真歡喜
+Si7 i keng2-soan2 e5 kiaN2-ji5 Peng5-iu2 chhin-lang5 beh saN-kiN3 Kiu3-chu2 hoaN-hi2 lai5 ngia5-chih Tai7-ke chheng-chan3 teh gim5-si Kho3 Chu2 tit-tioh8 toa7 seng3-li7	是祂揀選e5囝兒朋友親人beh相見救主歡喜來迎接大家稱讚teh吟詩靠主得著大勝利
+第一首原來e5標題是：Khoan3-se3 Si （勸世詩），阮感覺用「O-lo2上帝」可能koh-khah oa2意。Ui3這三首歌詩，咱會tang3清楚，卓緞對基督教書刊iah是e5講道所傳達e5觀念轉做七字仔來表示，而且ti7歌詩內底ma7會tang3看著真choe7教會用語，可比「救恩」、「悔改」、「贖回」、「魔鬼」、「戰甲」、「對敵」、「利劍」、「得勝」、「天父」、「寶血」、「赦免」、「祈禱」、「榮光」、「交託」、「相疼」(saN-thiaN3)、「迎接」(ngia5-chih)...等等。
+ 
+(四)  Chiok-hok Tai7-ke koe3 Sin-ni5 (祝福大家過新年，94歲作)
+Siong7-te3 chiok-hok u7 hok-khi3 Si7 i keng2-soan2 e5 kiaN2-ji5 Chhoa7 lan2 peng5-an koe3 sin-ni5 Sin-ni5 lou7-cham7 Chu2 tai3-nia2 	上帝祝福有福氣是祂揀選e5囝兒Chhoa7 咱平安過新年新年路站主帶領
+Sou2 kiaN5 sou2 choe3 chiau3 hoat-tou7 Chiu7 oe7 eng5-kng Chu2 Ia5-sou 	所行所做照法度就會榮光主耶穌
+Kiu3-chu2 si7 lan2 e5 kng-teng Thau5-cheng5 e5 lou7 chin kng-beng5 	救主是咱e5光燈頭前e5路真光明
+Chiu7 boe7 tioh8-tak lai5 poah8-to2 Bian2 kiaN leng5-hun5 oe7 biat8-bo5 	就boe7 著tak 來poah8 倒免驚靈魂會滅無
+Kiu3-chu2 si7 lan2 e5 oah8-mia7 Choe3 thau5 chhoa7 lan2 te3 i kiaN5 KhiN5 Chu2 tiau5-tiau5 m7-bian2 kiaN Chhoa7 lan2 peng5-an kau3 ThiN-siaN5 	救主是咱e5活命做頭chhoa7 咱te3 祂行箝主tiau5-tiau5 m7免驚Chhoa7咱平安kau3天城
+SiaN5-chhiuN5 chin-chu po2-gek8 sui2 Thou5-kha phou kim kng-iaN2-iaN2 Tai7-ke chan3-bi2 chhut toa7-siaN 	城牆真珠寶玉sui2 土腳鋪金光iaN2-iaN2 大家讚美出大聲
+O-lo2 chheng-chan3 Chu2 Seng3-mia5 Ha-le-lu-iah o-lo2 Chu2 Chiok tai7-ke sin-ni5 kiong-hi2 	O-lo2稱讚主聖名Ha-le-lu-iah o-lo2主祝大家新年恭喜 
+Chiok seng3-tan3 (祝聖誕)
+Kim-jit8 tai7-ke chin hoaN-hi2Chiu7-si7 Seng3-tan3 ho2 jit8-chi2	今日大家真歡喜就是聖誕好日子
+O-lo2 thiau3-bu2 ia7 chhiuN3-koaKam2-sia7 thiaN3-thang3 Ia5-ho5-hoa5	O-lo2跳舞ia7唱歌感謝疼痛耶和華
+Chi3-chun chi3-toa7 pe7 Siong7-te3Chhe i seng3-kiaN2 lai5 kiu3-se3Beh kiu3 se3-kan cheng3 tai7-keChu2 si7 Siong7-te3 e5 Seng3-kiaN2	至尊至大父上帝差祂聖囝來救世Beh救世間眾大家主是上帝e5聖囝
+Siong7-te3 chhong3-cho7 se3-kan-lang5Tek-choe7 Siong7-te3 choe7 kek8 tang7Kiu3-chu2 hi-seng lai5 thau2-pang3Lai5 kiu3 se3-kan ban7-ban7-lang5	上帝創造世間人得罪上帝罪極重救主犧牲來thau2 放來救世間萬萬人
+Tit-kiu3 e5 lang5 chin-chiaN3 che7M7 sin3 e5 lang5 moa2 si3-ke3	得救e5人真正che7M7信e5人滿四界
+Chu2 si7 thiN-teng2 e5 kun-ong5Kang3-loh8 se3-kan lai5 chun-chong5	主是天頂e5君王降落世間來尊崇
+Lan2 u7 kiu3-chu2 thang oa2-kho3Na7 bo5 hoan2-hoe2 oe7 biat8-bo5	咱有救主通oa2靠若無反悔會滅無
+Kiu3-chu2 thong3-khou2 lai5 hi-sengSun7-hok8 Siong7-te3 hou7-lang5 teng3	救主痛苦來犧牲順服上帝hou7人釘
+Hou7-lang5 teng3 ti7 sip8-ji7-ke3Lau5-chhut po2-huih kiu3 tai7-ke	Hou7人釘ti7 十字架流出寶血救大家
+Lan2 u7 tit-kiu3 u7 oah8-mia7O-lo2 kiu3-chu2 seng3-chun-mia5	咱有得救有活命O-lo2救主聖尊名
+Ti7卓緞e5作品內底，節慶祝福e5歌詩佔真大e5比例，包括祝福某人生日、祝福聖誕／新年／母親節、祝福某教會幾週年。應該是節慶e5時陣，tak8家ma7 long2真愛聽伊所創作e5歌詩，節慶hit種歡樂e5氣氛，ma7 chiaN5做伊創作白話字歌詩一個真大e5動力。
+ 
+三、            卓緞白話字歌詩e5特色
+Ui3頂koan5七首歌詩，咱會sai2 koh來發現chia e5白話字歌詩e5一koa2特點：
+(一)   卓緞白話字歌詩e5語詞風格
+李勤岸指出，台語e5詞彙，因為歷史、政治等等e5因素，造成詞彙有幾lo7層；若是來ka7 chia所有e5詞彙做分類，會tang3分做本土語層(local layer) kah移借語層(non-local layer)兩大類，其中，移借語層e5部分，主要分做日文借詞、華文借詞kah教會用語(church register)三部分，頭前兩個是政治e5影響，siong7尾後e5是宗教e5影響，教會用語koh會tang3分做廈門話借詞kah禮拜儀式用語(liturgical register)。伊根據一koa2原則，利用電腦程式e5幫贊，將1920年代kah 1990年代e5台語小說 [4]內底所使用著e5詞彙分類出來，看移借語層這三類ti7文章內底所佔e5比例e5變化情形[Li 2000 ch1]。
+咱beh利用李勤岸分出來e5教會用語e5詞彙，用統計e5方式來看卓緞白話字歌詩e5語詞風格。做法是：
+(1)    將已經整理好e5白話字歌詩25首，先做斷詞，斷詞e5原則方式根據中央研究院中文詞知識庫小組所提出e5「分詞原則」[CKIP]。因為是白話字e5作品，詞kah詞e5分隔點to7是空白(Space) iah換choa7符號 (Carriage Return)；
+(2)   將連字符(Hyphen)兩peng5 e5空白去掉，chiah boe7 hou7電腦ka7當做是詞kah詞e5分隔點；
+(3)   將所有e5分隔點long2換做換choa7符號，而且連soa3 e5兩個分隔點ka7當做一個分隔點，同時去計算連字符e5數量；按呢產生e5檔案，一choa7有一個詞。電腦算出來e5結果，有2,878個詞，另外有1,716個連字符 [5]，所以long2總有4,594個字，；
+(4)   將chia e5詞排順序，詞e5第一個字母大小寫無分，排出來e5結果，kang7款e5詞會排ti7相oa2 e5頂下choa7;
+(5)   程式一choa7一choa7讀chia e5詞，若相連soa3讀著e5兩choa7 kang7款，數目to7加一，若是無相siang5,to7輸出詞條 [6]kah數目，並且將數目設定做1。按呢得著828個詞條kah每一個詞條e5出現頻率（詞頻）。
+(6)   將這828個詞條，對照[Li 2000 ch4]所列出e5詞條，區分教會用語（標記做「C」）kah本土語層詞彙（標記做「L」）。其中，教會用語long2總有589個詞，143個詞條。
+表一 頻率siong7 koan5 e5 30詞	表二 教會用語頻率siong7 koan5 e5 29詞
+詞頻	詞	漢羅	類別	 	詞頻	詞	漢羅	類別
+107	Chu2	主	C	 	107	Chu2	主	C
+107	Siong7-te3	上帝	C	 	107	Siong7-te3	上帝	C
+77	e5	e5	L	 	23	kiu3-chu2	救主	C
+68	chin	真	L	 	21	tai7-ke	大家	(C)
+66	lai5	來	L	 	14	chiu7	就	(C)
+60	lan2	咱	L	 	11	Bok8-su	牧師	C
+54	u7	有	L	 	11	oe7	會	(C)
+47	hou7	hou7	L	 	10	eng5-kng	榮光	C
+44	goa2	我	L	 	8	Ia5-sou	耶穌	C
+37	hoaN-hi2	歡喜	L	 	8	sun7-hok8	順服	C
+37	i	伊	L	 	7	hok-im	福音	C
+31	chin-chiaN3	真正	L	 	7	seng3-kiaN2	聖囝	C
+30	chiok-hok	祝福	L	 	7	thiN-pe7	天父	C
+26	si7	是	L	 	6	Ha-le-lu-iah	(哈里路亞)	C
+25	kam2-sia7	感謝	L	 	6	in2-chhoa7	引chhoa7	C
+23	kiu3-chu2	救主	C	 	5	chong2-hoe7	總會	(C)
+22	beh	beh	L	 	5	siok8-hoe5	贖回	C
+22	hok-khi3	福氣	L	 	5	Thian-kok	天國	C
+21	choe3	做	L	 	4	bok8-chia2	牧者	C
+21	tai7-ke	大家	(C)	 	4	gim5-si	吟詩	C
+21	tioh8	著	L	 	4	ki5-to2	祈禱	C
+20	chhoa7	chhoa7	L	 	4	kiu3-un	救恩	(C)
+20	Se3-kan	世間	L	 	4	kng-teng	光燈	C
+19	lang5	人	L	 	4	lai7-kiam3	利劍	C
+18	bo5	無	L	 	4	mou5-kui2	魔鬼	(C)
+18	o-lo2	呵咾	L	 	4	sip8-ji7-ke3	十字架	C
+17	kiaN5	行	L	 	4	siuN2-su3	賞賜	(C)
+16	ho2	好	L	 	4	tiuN2-lo2	長老	C
+16	ti7	ti7	L	 	4	toa7-tek-seng3	大得勝	C
+14	chiu7	就	(C)	 	 	 	 	 
+ 
+表一列出卓緞白話字歌詩內底詞頻siong7 koan5 e5 三十個詞；[Li 2000]koh有將移借語層e5日文借詞kah華文借詞分出來，總是卓緞e5作品內底，除了本土語層kah教會用語以外，kan-na有真少數e5日文再借詞 ( Deep-relexified Japanese Loanwords，是日文ui3古漢文創造出來e5新詞，台語kah華語chiah-koh共同借來e5語詞，親像「環境」、「檢查」)，並無一般e5日文借詞（可比「視覺(si7-kak)」）kah華文借詞（可比「落差」），因為數量siuN少(< 0.5%)，會sai2 m7-chhap。表二是卓緞白話字歌詩內底教會用語頻率siong7 koan5 e5 二十九個詞。表一kah表二e5類別欄標記「(C)」表示ti7 [Li 2000]內底無列出來，m7-koh阮認為應該是教會用語，親像「oe7 (會)」，這是廈門話，台灣福佬話讀做「e7」；標記「(C)」可能e5原因是：(1) [Li 2000] 為著避免kang7音詞，所以轉做漢羅e5形式來計算，所以話語有差異m7-koh漢字無差異e5 to7有可能算去本土語層(親像「oe7 /e7(會)」、「tai7-ke/tak8-e5(大家)」)；(2) 伊e5文本無這個詞；(3) 分類e5時tu2著e5含糊性(Ambiguity)問題。
+李勤岸將兩個時代e5文本內底教會用語e5比例算出並且列表[Li 2000 p91]，chit-ma2咱將卓緞e5作品列入來做伙討論。請看表三kah圖表一。咱通看出，卓緞所用e5教會用語比例真koan5,量其約是1920年代文本e5四倍，當然，按呢e5比較只是參考，因為這是無kang7 e5文本（小說/七字歌詩）。
+表三 教會用語ti7三種文本所佔e5比例
+ 	教會用語詞條數目	詞條總數	比例
+1920年代文本	563	12,941	4.35%
+卓緞作品	143	828	17.27%
+1990年代文本	97	12,969	0.75%
+ 
+另外是詞彙豐富度(Lexical richness) e5比較，詞彙豐富度e5算法是：
+詞彙豐富度	＝	詞條
+		詞e5總數
+詞彙豐富度e5比較請看表四，kang7款有無kang7文本e5問題，所以kan-na提供參考。
+表四  詞彙豐富度e比較
+ 	詞條數	詞數	詞彙豐富度
+1920年代	12,941	112,764	11.48%
+卓緞作品	828	2,878	28.77%
+1990年代	12,969	92,539	14.01%
+Ui3頂面e5分析，咱通發現卓緞白話字歌詩e5特色：因為伊無受過體制內e5教育，m7-bat漢字，所使用e5詞彙long2是ui3日常生活kah教會來e5,尤其教會用語e5比例真koan5,而且會sai2講完全無受著漢字e5影響，真少有日文借詞kah華文借詞，雖然是按呢，所用e5詞彙ma7 koh chiaN5豐富。
+ 
+(二)   Kah台灣民間流傳e5歌仔e5比較
+台灣自早以來，用七字e5形式來表現e5文學作品真choe7,漢文e5時代，to7有竹枝詞，m7-koh kah一般大眾生活siong7 親近e5,是歌仔。Ti7討論歌仔，咱應該先來討論民間文學。
+民間文學to7是口傳文學(Ou5 1998 p2)，伊kah當地文化傳承有真大e5關係。Ti7古早，因為文字是統治階層所使用e5工具，所以民間e5文學m7是文字beh服務e5對象。一般文人看民間文學無夠重，ma7無一套官方所認定e5文字系統來ka7記錄，當然，古早e5漢文，講kah寫是兩回事，這ma7是重要e5因素。當初想beh用漢字將chia e5文學記錄落來e5人，主要是平民百姓，in漢字kh ahbat無透，致使寫法無一致（借音、借義、造新字），甚至記落來soah m7知beh按怎讀。民間文學e5體例，包括笑話、俗語、歌謠、故事、...等等，ma7因為無文字e5束縛，表現出來khah口語、自khah自然。歌謠內底，有真大部分是用七字七字e5形式來表現e5,黃得時將台灣歌謠分做七字仔kah雜念仔，七字仔koh分山歌調、五更鼓調、十二月調、數目調、名目調、嵌字調、台日調、相褒調，[Chong 1989 p2-3]分kah真幼，總是chia e5用七字七字表現e5歌謠，一般是四句一個單位，這四句有鬥句（押韻）。
+歌仔冊是khah特殊e5例，因為伊e5流傳主要並m7是透過讀書人ka7 chia e5內容書面化、整理落來，是透過書商iah是說唱e5人ka7利用漢字ka7文字化，伊有商業利益ti7內底[Chong 1989 p62]，ma7因為按呢，烏白鬥字e5情形真嚴重。其實伊是創作，總是伊大部分e5養分是ui3民間文學來e5。歌仔冊e5題材，siong7 choe7 e5應該是教化、勸世，ma7有講歷史e5。
+若是beh提卓緞e5白話字歌詩kah一般台灣民間傳統e5歌仔做比pheng7,咱會tang3簡單做以下e5歸納：
+O        卓緞用白話字，無使用漢字，避免了時間去chhiau5-chhek beh用to2一字漢字，ma7避免用字無一致e5情形。
+O        假使將o-lo2上帝e5題材當做教化、勸世，講耶穌e5故事題材當做歷史，卓緞e5白話字歌詩加「節慶祝福」kah「記錄家己」e5題材，尤其是節慶祝福這個題材，充分說明無kang5 e5文化背景。台灣民間e5七字仔，khah少看著過年過節歡喜e5情景，有e5,是結婚、生日寫e5四句連，長度khah短。教會ti7做禮拜，iah是過聖誕節所辦e5慶祝活動，是卓緞創作e5一個真重要e5題材。
+ 
+(三)   Kah其它白話字七字仔文學作品e5比較
+有e5人tih講台灣文學，無講著台語文學e5部分；有e5人講台語文學，是ui3 1920年代台灣新文學運動開始講起，中央有一段斷層，kau3 1980年代koh開始chhiang5-chhiang5滾。Chia e5講法，實在是有修正e5必要。
+Ti7台灣，台語e5使用人口真choe7,台語文學若無包括ti7台灣文學內底，實在講boe7通；台語文學beh ui3 1920年代開始講，to7 表示ka7民間文學e5傳統tan3一邊，無夠全面（清國時代to7有歌仔冊），to7算無看著民間文學，ma7表示這是用漢字中心觀點e5思考，因為1885年發行e5台灣第一份報紙《台南府城教會報》（以下簡稱教會公報）開始，用白話字書寫e5台語文學to7展開a。 [7]
+教會公報內底有豐富e5文學作品，黃佳惠將chiah-e5文學作品分做詩、散文、小說、劇本四部分[Ng5 2000 ch3]。詩e5部分，仿民間七字仔所作e5,教會稱做「七言文」[Ng5 2000 p60]，佔詩e5作品中真大e5部分，無論宗教、社會議題、表達個人意見等等long2有。
+黃佳惠進一步整理白話字作家，包括柯維思、柯設偕、偕叡廉、賴江、林燕臣、林茂生、鄭溪泮、賴仁聲等八個人。其中柯維思、賴江、林燕臣、鄭溪泮四人有出現七言文[Ng5 2000 ch4]。
+柯維思(1868~1945)有boe7少七言文作品，題材包括教囡仔學白話字e5<Oh8 Ji7 Koa(學字歌)〉[Ng5 2000 p74-76]、宣揚宗教e5<Chu2 Chhe Sin3-Tou5 Khi3 Thoan5-To7(主差信徒去傳道)〉、鼓勵tak8家ti7吸收西方科技、文化e5同時倒轉來注重咱家己e5物件e5<Keng-Che3-Phin2(經濟品)〉[Ng5 2000 p77]、描寫1935年新竹州大地動e5<Chin3-Chai Pi-Siong Koa(震災悲傷歌)〉[Ng5 2000 p77-79]、...等等。以下引用震災悲傷歌第12段：
+Long5-hu kia3-hu3 hoan-chu5 bi2,Hu7-lu2 kia3-hu3 lai7-goa7 i,Tiam3-oan5 kia3-hu3 chhai3, kiam5-hi5,Siong-jin5 kia3-hu3 bi2-hun2 mi7.	農夫寄附蕃薯米，婦女寄附內外衣，店員寄附菜、鹹魚，商人寄附米粉麵。
+Ui3伊用「農夫」無用「作穡人」，用「婦女」無用「查某人」，用「商人」無用「生理人」，那像會tang3看著漢字e5影跡，有受著日文、漢文iah是中國白話文e5影響。
+賴江是草屯教會e5信徒，伊ti7教會公報頂面發表e5作品long2是七言文，題材包括週年/結婚紀念（可比〈Chiok 70 chiu-ni5 hi-bong7 Koa(祝70週年希望歌)〉）、教會信仰（可比〈Thoan5-tiuN2 Hun3-heng Kam2-siong2-koa (團長奮興感想歌)〉）、勸世（可比〈Sim-seng3 Koa(心性歌)〉）等。以下引用〈Song3 Phok-su7 Hun3-heng Kam2-siong2-koa (宋博士奮興感想歌)〉e5其中幾段：
+11.	Tak8 lang5 tioh8 chhiong-moa2 Seng3-Sin5,Mou5-kui2 koaN2-chhut ti7 goa7-bin7 ;Lai7-goa7 piaN3-sau3 chiaN5 seng3-kiat,Sia5-mou5 kui2-ke3 it-chin7 biat8.	Tak8人著充滿聖神，魔鬼趕出ti7外面；內外拼掃chiaN5聖潔，邪魔鬼怪一盡滅。
+16.	Kim-jit8 kau3-hoe7 long2 hok8-oah8,Put-si5 ai3 gim5 poe5-leng5-koa ;Kau3-hoe7 e7-tit na2 khoah-toa7,Kam2-sia7 Seng3-Sin5 chhiong-moa2 goa2.	今日教會long2復活，不時愛吟培靈歌；教會會得那闊大，感謝聖神充滿我。 [8]
+因為資料不足，阮對賴江e5性命歷程並無清楚，m7-koh伊e5寫作風格kah卓緞女士真seng5。假使beh chhe7無kang7 e5所在，應該是：賴江無ti7伊e5作品內底寫著家己；另外，賴江無的確有淡薄仔漢字e5底。關係賴江kah卓緞作品e5比較，這應該真趣味，值得以後koh做進一步e5討論。
+林燕臣是清國e5秀才，漢文e5底蒂真深，伊e5白話字作品內底，有部分七言文，包括〈Thoan5-kau3 60 Ni5(傳教六十年)〉、〈Song3-piat8-hoe7(送別會)〉、〈Choan-bun5 Gan2-kho(專門眼科)〉等[Ng5 2000 p93-94]。
+鄭溪泮(1896~1951) ti7教會公報發表e5作品有四篇，其中〈Chiah8-hun Koa(食薰歌)〉是七言文，另外伊有寫一篇小說《出死線》，全文四十章內底，其中有九章e5 siong7尾是以四句iah是八句e5詩來做結束，這九首詩，有四首是七言文。以下引用第五章e5詩：
+Pe7-bo2 khi3-se3 tok8 toaN-sin,Cheng7-chui2 khe-piN phoe3 liong5-jin5 ;Thian-su3 ai3 chu2 kho3 ki5-to2,Chheng cho3 Chin-seng sia7 Thian-in.	父母去世獨單身，靜水溪邊配良人；天賜愛主靠祈禱，稱做真聲謝天恩。 [9]
+ 
+白話字文學作品中e5七言文簡單介紹kau3 chia。卓緞e5作品kah chiah-e5作品比較，siong7 大e5差別是：卓緞應該是chia e5七言文作者內底，唯一無受過漢文、中文iah是日文教育e5作家。
+ 
+(四)   腔口e5特色
+若是看刊ti7教會公報頂面e5七言文，咱真容易分辨出作者e5腔口。M7-koh，若是看卓緞女士e5白話字歌詩，有泉州腔，可比choe3(做)、lou7-be2(路尾)、kun7(近)、piN7(病)、be7(妹)、ke3-sin(過身)、...等等，koh 有部分漳州腔，可比che7([多])、hoe3([歲])、kin([根])、koe3([過])、...等等。
+白話字e5文學作品，宗教性e5佔boe7少比例，包括聖經、聖詩等等，書寫是以廈門音做標準，廈門音雖然ma7是漳泉互相透lam7,總是以泉州音khah佔優勢。卓緞20歲進前long2 toa3 ti7桃園，伊e5生活用語以漳州腔為主，致使伊寫白話字歌詩e5時，有漳泉音透lam7 e5情形。
+Ui3這點，ma7 thang 說明書面語e5重要性。有文本，to7會tang3 chiaN5做典範，hou7人跟te3。
+ 
+四、            台灣社會e5反應
+卓緞女士白話字歌詩e5消息，ti7資訊爆炸e5社會中，to7那像是海底e5一粒沙nia5,boe7去得著外choe7注意kah關心。咱beh ui3一koa2現象，來看這個消息ti7台灣社會e5反應。
+第一是這個消息報紙所用e5標題。阮long2總ti7報紙頂面chhe7著五個報導kah一個讀者投書，分別是：
+(1)      自由時報2001.2.9 e5報導，標題是「憑著羅馬拼音基礎 台語聖詩句句押韻 百歲卓緞：上帝教我寫詩」；
+(2)    中國時報2001.2.9 e5報導，標題是「百歲人瑞目不識丁 吟詩作畫樣樣精」；
+(3)     自由時報2001.2.11 e5報導，標題是「卓緞老太太過百歲生日 教堂誦感恩詩場面感人」；
+(4)     更生日報2001.2.13 e5報導，標題是「卓緞婆婆百歲高齡 跑跳難不倒 身懷按摩絕招保活力 作詩作畫有毅力 懷念赴美旅遊經驗希望能再出國遊歷」；
+(5)     自由時報2001.2.21 e5讀者投書，標題是「台語文學與阿媽作家」；
+(6)    聯合報2001.2.24 e5報導，標題是「百歲人瑞卓緞 手工藝尋樂 畫畫壓花紙黏土 樸拙自然 高興時還會來段恰恰」。
+Ui3 chia e5標題，咱大概會tang3歸納以下幾點：
+(1)    Tak8家看重卓緞是一個一百歲e5老大人；
+(2)   Chiah-e5報紙內底，自由時報khah看重這個消息；
+(3)   更生日報kah聯合報e5標題無點出「白話字歌詩」，中國時報khah好一屑仔，提著「吟詩」；
+(4)   Siong7介笑詼e5是，中國時報竟然出現「目不識丁」按呢e5標題！明明卓緞女士會曉讀白話字koh會曉用白話字創作歌詩，是按怎是「目不識丁」？中國時報記者寫出「目不識丁」，表示咱e5教育，對語文方面e5議題，認知上有一koa2問題。
+第二點beh討論e5是政府相關部門e5反應。阮有kah花蓮縣文化局chih接，提供in這個消息，問in對這個寶貴e5文化資產想beh按怎來處理。真不幸，得著e5回答是：目前文化局並無負責相關業務e5部門。In kan-na提供文建會e5一份公文，叫阮會sai2去hia試看mai7。
+大環境是按呢，表示台語文工作者iah-koh有真大e5 phah拼空間，需要設法來改變tak8家e5心態。
+ 
+五、            Soa3落來e5空課
+不管社會e5反應有外冷淡，卓緞女士e5白話字歌詩，ti7台語文學、台灣文學內底，應該有伊e5地位。
+阮希望有khah choe7 e5人來關心、欣賞卓緞女士e5白話字歌詩，另外，會sai2對其它白話字文學作品，包括《教會公報》、白話字小說、聖詩內底，chhe7出所有e5白話字七言文，通對文學風格做進一步e5比較。
+卓緞e5家屬ma7希望，會tang3將chia e5作品整理出書，內底有白話字歌詩原文，koh加上漢字台語文、華語文、日文、英文e5翻寫。
+ 
+感謝
+感謝成大台灣文學研究所專案計畫研究助理廖麗雪小姐鬥chhe7教會公報資料；台大語言所張裕宏教授、成大台灣文學研究所呂興昌教授、大塊文化出版事業發行人廖立文先生等人對本篇論文論點e5指正；以及眾台語網朋友ti7論文寫作期間相關e5討論，提供有建設性e5意見。
+參考資料
+[Chong 1989] 臧汀生：《臺灣閩南語歌謠研究》，台北：商務，1989年10月。
+[CKIP] 中文詞知識庫小組：《中央研究院平衡語料庫的構建》，http:// godel. iis. sinica. edu. tw/ CKIP/ 9502.htm
+[IuN5 2001] 楊允言：〈白話字傳奇〉，《台文通訊》2001年4月第86期，頁1-3。
+[IuN5 &Li7 2002] 楊允言、呂興昌：〈七字仔tu2著上帝─論卓緞e5白話字歌詩〉，《第四屆台灣語言及其教學國際學術研討會》頁489-497，高雄：中山大學中文系，2002年4月27-28號。
+[IuN5 &TiuN 1999] 楊允言、張學謙：〈台灣福佬話非漢字拼音符號的回顧與分析〉，《第一屆台灣母語文化重生與再建學術研討會》頁62-76，台南：台南市文化基金會，1999年6月19號。
+[Li7 1998] 呂興昌：〈古早七字入文林：論鹿耳門漁夫的台灣白話史詩〉，《民間文學與作家文學研討會論文集》頁271-286，新竹：清華大學中文系，1998年11月21-22號。
+[Li2 2000] 李勤岸：《Lexical Change and Variation in Taiwanese Literary Texts, 1916--1988 ─A Computer-Assisted Corpus Analysis》，美國夏威夷大學語言學研究所博士論文，2000年5月。
+[Ng5 2000] 黃佳惠：《白話字資料中的台語文學研究》，台南師範學院鄉土文化研究所碩士論文，2000年6月。
+[ Ou5 1998] 胡萬川：〈民族‧語言‧傳統與民間文學運動〉，《民間文學與作家文學研討會論文集》頁1-22，新竹：清華大學中文系，1998年11月21-22日。
+[Ong5 ] 王順隆：《閩南語俗曲唱本「歌仔冊」全文資料庫》，http://plaza16.mbn.or.jp/ ~sunliong/kua-a-chheh.htm 
+[Toh 1972] 《卓公宗慶子孫家譜─北部設教百週年暨卓家信主八十週年紀念》，1972年。
+[Po3] 報紙相關報導，包括《自由時報》2001/2/9、2/11/、2/21，《中國時報》2001/2/9，《更生日報》2001/2/13，《聯合報》2001/2/24
+[PhoaN 1997] 潘科元：《大台北地區閩南方言音韻的類型與分佈》，清華大學語言所碩士論文，1997年1月。
+[TiuN 1995] 張德明：《語言風格學》，高雄：麗文文化，1995年10月。
+[TiuN 2001] 張裕宏：《白話字基本論：台語文對應&相關的議題淺說》，台北：文鶴，2001年3月。
+[Toh ] 卓緞e5手稿，無出版。
+ 
+

@@ -1,0 +1,29 @@
+PHULO報馬a2站
+HOTSYS台文輸入/排版
+軟體介紹
+
+吳宗信
+踏話頭
+Ti7 beh開始介紹HOTSYS這套軟體chin3前，我可能愛先向大家報告HOTSYS是an2-choaN2發展--出來e5歷史，ma7  e7-tang3借這個機會hou7一koa2有趣味beh tau3-saN-kang7促進台語現代／電腦化e5朋友一koa2建議kap參考。
+這套軟體是an3 1993年開始發展--e。開發者是toa3 ti7米國加州食thau5-lou7 e5蘇芝萌先生；i是一個機械工程師，專攻火箭結構分析。當初，i會想beh開發ti7 WINDOW頂頭使用台文輸入／排版系統e5動機其實chiaN5簡單，m7-koh ma7 chiaN5重要，i感覺ti7 DOS頂頭e5台文輸入系統，排版--出來e5刊物，外觀品質是chiok lou2--e；現有e5台文軟體teh處理教會羅馬字，long2是用chiaN5『肉腳』e5方式，toe3 be7著現代技術。也to7是ti7這個簡單e5理念下，chiah激發i想beh設計一套好用koh sui2-khui3台文軟體e5決心。
+我個人kap這套軟體會chiah-ni7有『感情』，原因是an2-ne。Ti7 93年我iau2 koh ti7 MICHIGAN大學teh讀博士班e5時，bat參與同學會一個雙月刊『台風眼』e5編輯khang-khoe3,其中『台文專刊』hit版，就是我負責--e。編輯台語文，需要一套e7-tang3處理教會羅馬字e5排版系統，tu2好蘇先生當teh開始發展HOTSYS，就an2-ne，我piN3-chiaN5 HOTSYS上早期e5使用者。我親身去操作了後，感覺這套軟體真好用，ti7我搬轉來台灣e5時，to7決定beh ti7台灣國內好好a2推廣這套台文軟體，造福所有寫台文e5同志。
+下面to7開始介紹sim2-mih是HOTSYS，i e5功能，以及beh an2-choaN2 theh8--著等等，hou7 tak8-e5做參考。
+
+Sim2-mih是HOTSYS
+H O T S Y S代表HOLO TAIWANESE SYSTEM e5簡寫，i是一套ti7 PC電腦頂頭使用e5台文[Holo文]輸入／排版系統。為著beh適應無kang7 e5作業環境，有分做台灣版kap國際版。
+國際版e5作業環境是ti7英文WINDOWS3.1 iah是WINDOWS
+95內底，配合上普遍e5 WORD 6.0 iah是WORD7.0，加上雙橋漢字軟體，koh一塊HOTSYS DISK。台灣版e5作業環境是ti7漢文CWINDOWS3.1 iah是CWINDOWS 95內底，配合上普遍e5 CWORD 6.0 iah是CWORD 7.0，加上二塊 HOTSYS DISK to7 e7-sai2--tit。
+這套系統，基本上是根據ti7台灣存在已經有百外冬e5教會羅馬字調號kap漢字輸入e5處理來做設計，chit-ma2現有e5詞庫已經有八萬外條，數量一直leh增加。Na7是ka7 Holo話詞庫換做客話，to7 e7-tang3做成一套有kang7-khoan2功能e5客語文輸入/排版系統。這件khang-khoe3應該最近to7會完成。
+
+HOTSYS e5功能
+簡單整理--起來，ie5功能有e7-kha這幾項：
+第一、所有ti7 WORD頂頭原本有e5功能long2有。一般e5拍字、排版long2無問題。
+第二、教會羅馬字現拍現有。比如講，拍『goa2』會自動piN3-chiaN5『goa2』；拍『Tai5-oan5』會自動piN3-chiaN5『Tai5-oan5』。過去批評教會羅馬字調號無法度用電腦處理e5問題，long2得著解決--a。
+第三、漢字用羅馬字來做輸入音標。比如講，拍『haiiuN』，to7 e7-tang3揀『海洋』，m7免拍聲調，拍字速度加chiok緊--e。Ti7二個音節中央e5『-』ma7無需要拍。若是三e5音節以上e5詞，iau2 koh e7-tang3用各音節e5頭一個字母做代表，比如講拍『Tol』to7會跳出『台灣人』這個詞，e7-sai2講chiok方便--e。
+
+Beh an2-choaN2 theh8--著
+有二種方式：
+第一、用ftp去網路頂頭liah8--落來，ie5站址是 ftp：//www.formosa.com/。
+第二、郵寄方式。聯絡電話：03-5784-208 x 9242(日時)，03-5961-880(暗時）
+結語：這套軟體基本上是免費提供--e，A2-koh有一個要求：希望使用者ti7所有公開e5文章iah是刊物，e7-tang3附HOTSYS e5 LOGO，tau3-saN-kang7宣傳推廣台文e5電腦化kap現代化。最後希望這套軟體對台文e5推廣，e7-tang3有一koa2貢獻。
+

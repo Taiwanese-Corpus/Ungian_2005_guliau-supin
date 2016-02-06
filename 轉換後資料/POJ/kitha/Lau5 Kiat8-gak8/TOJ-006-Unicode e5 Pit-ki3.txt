@@ -1,0 +1,79 @@
+Unicode e5 Pit-ki3 
+Lau5 Kiat8-gak8
+
+
+1. Unicode e5 lek8-su2 
+1991 V1.0 28,302 ji7.
+1996 V2.0 38,885 ji7.
+2000 V3.0 49,194 ji7.
+Iau2-ku2 teh cheng-ka sin e5 ji7 jip8--khi3, m7-ku2 i2-keng ti7 lai7-te2..e5 to7 be7 koh kai2.
+2. Unicode e5 hoan7-ui5
+Oah8 e5 (iau2 teh su2-iong7..e5) gi2-gian5. Phou2-thong e5 bun5-ji7 (plain text).
+Unicode chhu2-li2 ji7 e5 piau-si7 hong-hoat. Tak8 e5 ji7 seN-choe3 siaN2-khoan2 si7 leng7-goa7 1 chan5 tai7-chi3.
+3. Unicode e5 bok8-phiau
+Hou7 choan5 se3-kai3 bun5-ji7 e5 tian7-chu2 chu-liau7 e7-tang3 liu5-thong kau-oaN7.
+I2 -cha2 e5 siat-ke3 long2-si7 1-e/1-koa2 gi2-gian5 eng7 1 tho3 phiau-chun2 (kio3-choe3 codepage). Kap pat8-chiong2 gi2-gian5 e5 tian7-chu2 chu-liau7 bo5 hoat-tou7 kau-oaN7. Li2 na7 u7 su-iau3 eng7 2 chiong2 chha khah che7 e5 gi2-gian5 (phi3-ju5 kong2 Hoat-gi2 kap Jit8-gi2), to7 thau5 thiaN3--ah. Ai3 su2-iong7 tek8-piat8 e5 nng2-the2; chu-liau7 kap pat8-lang5 ma7 bo5 it-teng7 e7-tang3 kau-oaN7.
+Unicode e5 siat-ke3 hou7 bo5 kang7 gi2-gian5 e5 chu-liau7 e7-tang3 khng3 cho3-hoe2, kau-oaN7 ma7 bo5 bun7-toe5--ah. Na7 khoaN3 bo5, to7 chng ji7-heng5; na7 beh sia2, to7 chng hit-chiong2 gi2-gian5 e5 su-jip8-hoat to7 ho2.
+Chia u7 1 e5 chhu3-bi7 e5 koan-tiam2. Unicode sui-bong2 khoaN3--khi2-lai5 si7 kong2 "thong2-it-be2", m7-ku2 i e5 siat-ke3 si7 beh hou7 jiok8-se3 gi2-gian5 ma7 e7-tang3 kap kiong5-se3 gi2-gian5 u7 kang7-khoan2 e5 te7-ui7, long2 e7-tang3 eng7. Tai5-oan5 cheng3-hu2 teng7 e5 phiau-chun2 tian-to3-peng2: "Li2 na7 e7-sai2 eng7 chit8 tho3, pat8-hang7 long2 be7-sai2 eng7--tit."
+4. Unicode e5 hian7-hong2 
+Windows NT/2000 long2 si7 eng7 Unicode lai5 siat-ke3..e5.
+Word 2000 ma7 si7. (Word 97 tui3 Unicode e5 chi-oan5 bo5 oan5-cheng2.)
+HTML 4.0 e5 phiau-chun2 kui-teng7 eng7 Unicode. Chit-ma2 IE 5.x, Netscape 6.x
+long2 si7 eng7 Unicode.
+Java tit8-chiap eng7 Unicode.
+Ki5-tha chi-oan5 Unicode e5 nng2-the2 iau2 chiaN5 che7 (e7 ju2-lai5 ju2-che7). M7-ku2 bak8-cheng5 toa7 pou7-hun7 e5 nng2-the2 bo5 chi-oan5 Unicode.
+5. Unicode e5 pian-be2
+Unicode eng7 16 bit lai5 piau2-si7 1 ji7 (character). Sou2-i2 e7-tang3 piau2-si7  65536 ji7 (216=65536). M7-ku2  i koh siat-ke3 eng7 D800-DBFF(1024 ji) kap DC00-DFFF
+
+(1024 ji) kap DC00-DFFF(1024 ji7) 2 ji7 lai5 piau2-si7 chin-chiaN3 e5 1 ji7, sou2-i2 koh ke-chhut 1,048,576 ji7 (1024x1024=1,048,576). Long2-chong2 e7-tang3 piau2-si7  1,114,112 ji7 (65536 + 1048576=1,114,112) (0-1,100,000). 0-127 e5 pou7-hun7 ham7 ASCII sio-siang7.
+Chin-chiaN3 tian7-chu2 chu-liau7 e5 piau2-si7 hong-hoat u7 UTF-16, UTF-16LE, UTF-16BE, UTF-8, teng2-teng2. Siong7 chiap8 eng7..e5 si7 UTF-8. UTF-8 e7-sai2 kap toa7 pou7-hun7 ku7 e5 (chi-oan5 ASCII..e5) nng2-the2 sio-thong.
+Unicode pau-koat toa7 pou7-hun7 hian7-iu2 e5 pian-be2 phiau-chun2. Chiu7-si7 kong2 li2 e7-tang3 ka7 hian7-iu2 bo5 kang7 gi2-gian5 e5 chu-liau7 long2 choan2-choe3 Unicode, chiah-e5 chu-liau7 to7 e7-tang3 kau-oaN7, bo5 khi3 chhiong--tioh8--ah.
+Unicode e5 pian-be2 u7 i ka-ki7 e5 kui-chek, bo5 it-teng7 ham7 lan2 phou2-thong kong2 e5 1 e5 ji7 sio-siang7. Phi3-ju5 kong2 1 e5 Arabic e5 ji7 (grapheme) kho2-leng5 ai3 4 e5 Unicode e5 ji7 lai5 piau2-si7. Phi3-ju5 kong2 "a2" e7-sai2  eng7 Unicode 00E1 1 e5 ji7 lai5  piau2-si7 (precomposed character), ma7 e7-sai2 eng7 Unicode "a" kap Unicode 0301 2 e5 ji7 lai5 piau2-si7 (combining character sequence).
+6. Unicode kap ISO 10646
+Kan2-tan kong2 2 e5 e7-sai2 kong2 si7 kang7-khoaN2..e5.
+Pian-be2 hong-bin7, Unicode ui3 V1.1 i2-au7 to7 long2 kap ISO 10646 i5-chhi5 it-ti3.
+M7-ku2, Unicode u7 ke 1-koa2 ji7 e5 teng7-gi7. Sou2-i2 e7-sai2 kong2 hu5-hap8 ISO 10646..e5 to7 e7 hu5-hap8  Unicode.
+7. Unicode kap ji7-heng5
+Unicode chhu2-li2 pian-be2 kap ji7 e5 teng7-gi7, ji7-heng5 chhu2-li2 beh chaiN2-iuN7 hian2-si7, che si7 2 chan5 tai7-chi3. Bo5 kang7 e5 he7-thong2 su2-iong7 bo5 kang7 e5 hian2-si7 hong-hoat.
+Beh hian2-si7 Unicode sio2-khoa2 ma5-hoan5. Thong-siong5 su2-iong7 .OTF e5 ji7-heng5 tong2-an3. Nng2-the2 hong-bin7, Microsoft u7 the5-kiong 1 e5 Uniscribe hou7 nng2-the2 siat-ke3-chia2 hong-pian7 su2-iong7. Ti7 Mac thiaN kong2 u7 1 e5 ATSUI. Leng7-goa7 koh u7 1 e5 Freetype thiaN kong2 Windows/Mac/Linux long2 thong-iong7.
+Goa2 siat-ke3 e5 ji7-heng5 si7 .TTF e5 tong2-an3 na7-tiaN7, iau2 bo5 hoat-tou7 chi-oan5 Unicode. 
+8. Unicode kap La-teng-ji7 
+Lan2 it-poaN tiaN7 khoaN3--tioh8--e5 e5 La-teng-ji7, Unicode long2 u7 chi-oan5. Phi3-ju5 kong2 Basic Latin (0020-007F: Eng-gi2), Latin-1 (00A0-00FF: Hoat-gi2, Tek-gi2 teng2), Latin Extended-A (0100-017F: Latvian, Romanian, Polish, Lithuanian, Croatian, Esperanto, Maltese, Irish, Czech teng2),
+
+Latin Extended-B (0180-0233: Zulu, Pan-Nigerian, Zhuang, Acrican, Ewe, Pinyin teng2), Latin Extended Additional (1EF0-1EF9: Livonian, Vietnamese teng2).
+9. Unicode kap Peh8-oe7-ji7 (POJ)
+E7-kha chit e5 pio2 chiu7-si7 Unicode i2-keng tit8-chiap teng7-gi7 e5 ji7 (precomposed). 
+A2	a2	A3	a3	A5	a5	A7	a7	A	A			
+A	a	D	e									
+E2	e2	E3	e3	E5	e5	E7	e7					
+I2	i2	I3	i3	I5	i5	I7	i7	I	I			
+?	?											
+M2	m2											
+N2	n2	N3	n3	N								
+O2	o2	O3	o3	O5	o5	O7	o7					
+×	÷											
+O	o											
+t	U2	u2	U3	u3	U5	u5	U7	u7	μ	"	s	y
+E7-kha chit e5 pio2 si7 Unicode bo5 tit8-chiap teng7-gi7 e5 ji7, kho2-leng5 e7-tang3 eng7 kui2-e5-a2 Unicode e5 ji7 lai5 chou-hap8. Phi3-ju5 kong2 "a8" e7-sai2 eng7 Unicode 'a' kap Unicode 030D lai5 chou-hap8.
+A8	a8									
+E8	e8									
+I8	i8									
+M3	m3	M5	m5	M7	m7	M8	m8			
+M8	n5	N7	n7	N8	n8					
+O8	o8									
+T	U8	u8		?	﹐	?	1	?	o	?
+E7-kha chit e5 pio2 si7 Unicode bo5 tit8-chiap teng7-gi7 ma7 be7-tang3 eng7 kui2-e5-a2 Unicode e5 ji7 lai5 chou-hap8. Su-iau3 sin-chheng2 sin e5 Unicode.
+Ou	ou	Ou2	ou2	Ou3	ou3	Ou5	ou5	Ou8	ou8
+Kam2 e7-sai2 hiong3 Unicode chou-chit sin-chheng2 hiah-e5 su-iau3 chou-hap8 e5 ji7 chiaN5-choe3 precomposed e5 ji7? Chiau3 in e5 goan5-chek, na7 e7-tang3 eng7 chou-hap8..e5, to7 khah bo5 ai3 chiap-siu7.
+10. Unicode e5 bang7-chi2
+Unicode chou-chit: http://www.Unicode.org
+Khai-su: http://www.egt.ie/standards/la/taioan.html
+
+Proposal to add Latin characters required by Latinized Taiwanese languages to ISO/IEC 10646: http://www.taioan.com/Unicode/Unicode.html
+POJUnicode:A-ki:http://www.taioan.com/Unicode/Unicode.html      
+http://www.taioan.com/Unicode/kihosamp.html
+11. Kiat-lun7
+Tai5-oan5 beh Pun2-thou2-hoa3 tioh8-ai3 su2-iong7 100 goa7 tang e5 pun2-thou2 bun5-ji7, POJ. Im-phiau eng7 kok-che3 im-phiau IPA (International Phonetic Alphabet) to7 e7-sai2--tit.
+Kok-che3-hoa3 tioh8-ai3 kap bo5-kang7 bun5-ji7, bun5-hoa3 e5 kok-ka kau-liu5. Che eng7 POJ kap IPA siong7 sek-hap8.
+Chu-sin3-hoa3 eng7 Unicode m7-na7 e7-sai2 chhu2-li2 POJ, koh e7-sai2 kap choan5 se3-kai3 kau-oaN7 tian7-chu2 chu-liau7, pun2-thou2-hoa3 kiam kok-che3-hoa3 it-kiam-ji7-kou3.
+Sui-bong2 u7-e5 POJ Unicode bo5 tit8-chiap teng7-gi7, m7-ku2 chiah-e5 ki-sut8-seng3 e5 bun7-toe5 long2 e7-tang3 kai2-koat. Kap toa7 pou7-hun7 e5 gi2-gian5 pi2--khi2--lai5 be7 khah khun3-lan5.
