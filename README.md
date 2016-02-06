@@ -32,4 +32,10 @@
   * 用`mdbtools-gmdb`共`tgbgl.mdb`的表export轉做`csv`檔
 * `HL`、`POJ`資料夾
   * 對`原始資料`的big5檔案轉做utf8編碼
-  * `find . -type f -name '*.txt' -exec iconv -f big5 -t utf8 {} -o ../轉換後資料/{} \;`
+  * `find . -type f -name '*.txt' -exec iconv -f BIG5HKSCS -t utf8 {} -o ../轉換後資料/{} \;`
+  
+```
+sudo apt-get install -y python3 python-virtualenv g++ python3-dev zlib1g-dev libbz2-dev liblzma-dev tofrodos
+virtualenv --python=python3 venv; . venv/bin/activate; pip install --upgrade pip; pip install tai5-uan5_gian5-gi2_kang1-ku7; python 轉換資料.py
+find 轉換後資料/ -name '*txt' -exec fromdos {} \;
+```

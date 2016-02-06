@@ -1,0 +1,188 @@
+台灣白話字HAM7越南羅馬字E5文字方案比較
+
+ChiuN2 Ui5-bun5 (蔣為文)
+德州大學語言所
+
+
+
+摘要
+
+台灣話ham7越南話peN5-peN5是有聲調e5孤立語，而且long2 bat用漢字做書寫系統。越南ti7 16世紀末經由傳教士傳入羅馬字來書寫越南語；雖然羅馬字真早to7出現，漢字e5正統地位ㄧ直到20世紀chiah hong5 phah破，ti7 1945年以後羅馬字chiah chiaN5做唯一e5正式書寫系統。 
+
+本論文以語言學e5角度來比較分析台灣白話字ham7越南羅馬字e5文字設計方案。基本上，chit 2套方案long2是西方傳教士經由經驗傳承、集體創作--出-來e5音素文字(phonemic writing)。因為chit 2種語言long2有聲調，所以long2 ti7韻母頂koan5加區別符號(diacritics)來區別聲調。越南話因為語音比台灣話khah複雜，所以區別符號除了區別聲調之外，ma7用來區別語音e5種類。Ti7音素ham7文字符號e5對應方面，白話字基本上是一對一e5模式，m7-koh越南字大約有4分之1 e5音素是一對多e5方式。 
+
+整體來講，chit 2套文字long2比漢字加真簡單學、紀錄語音ma7真有效率。若認真beh比，白話字比越南羅馬字koh khah簡單有效率。 
+
+關鍵詞：白話字、羅馬字、國語字、越南、傳教士 
+
+台灣白話字HAM7越南羅馬字E5文字方案比較
+
+1. 前言
+
+1492年Kholanpos (Christopher Columbus)代表歐洲人第1 pai2行船到美洲大陸；幾年後，葡萄牙e5行船人Gama (Vasco da Gama) ti7 1498年經由「好望角」(The Cape of Good Hope) phah開歐洲到印度e5新航線。15世紀e5結束tu2好是新航線時代e5開始。Ti7亞洲，toe3新航線時代腳後tau2來--e5是西歐e5傳教活動、國際貿易kap lou7尾e殖民主義。
+
+羅馬字ma7 ti7 chit種情形之下toe3宗教活動傳播到西歐以外e5地區。台灣ham7越南to7是ti7 an2-ne e5背景之下，ti7 17世紀由西方傳教士引進羅馬字來書寫當地e5語言。現此時，雖然羅馬字ti7台灣m7是主流，m7-koh羅馬字ti7越南已經成功取代漢字chian5做in國家唯一e5正式文字。
+
+本論文to7是beh用語言學e5角度來分析比較台灣e5「白話字」ham7越南e5「國語字」chit 2套當初由傳教士發展出來e5羅馬字方案。因為篇幅限制e5關係，本文重點khng3 ti7文字方案本身e5文字結構設計e5比較；若是beh了解khah che7越南推行羅馬字成功e5社會因素，請參閱DeFrancis (1977)、Hannas (1997)、Chiung (2000)、蔣為文(2002)；若beh了解羅馬字ti7台灣e5發展，請參閱Chiung (2001)、蔣為文(2001)。
+2. 歷史背景
+
+越南bat受中國1000外年e5直接統治(公元前111~公元939)，了後雖然脫離中國e5統治來獨立，m7-koh iau2 ham7中國維持一定e5藩屬關係。Chit-e5藩屬關係一直維持到19世紀後半期法國e5介入了chiah開始有變化。
+
+2.1. 越南e5文字傳統
+
+越南e5傳統書寫系統是以漢字文言文為正統地位。了後民間雖然有「字字喃」(Ch÷ N"m) e5出現，m7-koh long2無法tou7成功挑戰kap取代漢字e5地位。
+
+漢字ti7越南e5使用大約ui3趙佗e5「南越國」(公元前204~前111) hit-cham7開始(Nguyen 1999:2)。Ti7中國直接統治e5時期漢字正式chian5做越南e5官方書寫系統。To7算ti7 10世紀越南獨立、成立藩屬國了，因為越南封建朝廷大力推廣「儒學」kap建立「科舉制度」，soah強化漢字ti7越南e5正統地位。一般來講，漢字用ti7行政、教育(科舉)、學術寫作kap古典文學e5創作(Nguyen 1999:3-4)。
+
+越南ti7借用漢字了，in發覺漢字無法tou7完整表達越南e5日常用語，所以民間慢慢a2發展出具有越南特色e5字字喃。所謂e5「字字喃」是指南方(相對中國來講)e5文字e5意思；因為欠標準化，「字字喃」ma7 e7-sai2寫做「字宁喃」或者「字字　字南」。根據推測，字字喃大概是ti7 10世紀脫離中國統治了chiah開始發展--出-來(DeFrancis 1977:21)。早期e5字字喃主要是做漢字e5輔助工具，用來紀錄地名、人名、kap地方特產等(Nguyen 1999:2)。Ti7累積幾百年使用e5經驗了，ti7 13世紀chiah有字字喃e5文學作品e5出現，1 ah ti7 16至18世紀之間達到高潮。2 字字喃e5使用者主要是thng3赤腳e5平民、落魄文人、僧侶、kap chio2數有強烈民族意識e5精英。一般來講，字字喃主要用ti7紀錄民間口傳文學、創作純越南話文學、翻譯佛經kap替漢字做注音、註解(Nguyen 1999)。
+
+字字喃e5發展ham7台灣e5「歌a2冊」--nih e5台語漢字用字e5方法是類似--e5。字字喃e5發展ti7早期是以漢字借音為主，後期是模仿漢字e5「形聲」造字原則來造字字喃。3像講台語e5「gin2-a2」ti7越南話內底叫做/kon/；/kon/ ti7早期e5字字喃寫做「昆」(因為chit字e5「漢越音」讀做/kon/)，ti7後期koh寫做「子昆」，由「子」(表示gin2-a2 e意思)kap「昆」(表音/kon/)構成。
+
+因為字字喃無得著當權e5漢字既得利益者e5支持，ma7無經過完整e5文字規劃(kan-tan隨在個人烏白創造)、加上字字喃本身e5文字缺點，soah造成真混亂e5文字使用現象。Chit-e現象to7像目前e5台語文書寫kang7款，台語漢字e5使用並無達成標準化。
+
+雖然字字喃ti7越南真早to7出現，而且koh是越南人ka-ki7創造--e5，?-koh i soah無法tou7取得正統e5地位或者取代漢字。Che主要e5原因是：
+
+第1，受中國價值觀e5影響。因為漢字ti7中國是hong5當做唯一e5正統文字，ah中國koh是越南e5宗主國，致使越南各朝廷be7-sai2無ka7漢字當做“神主牌a2"來拜。
+
+第2，hou7科舉制度束縛e5關係。因為越南各朝代long2 ka7漢字當做正統、ma7 ka7列ti7科舉考試內底，所以hit-koa2想beh做官、通過考試e5人to7 be7-sai2無學。Tng當chit-koa2人考試入取、功成名就了，in為著維護ka-ti7 e5既得利益，當然to7繼續擁護漢字e5正統地位。
+
+第3，字字喃先天e5文字結構缺陷。字字喃主要是按形聲e5方式，結合2 e5漢字(1 e5表音、1 e5表意) chian5做1 e5新e字字喃字。字字喃除了繼承漢字本身e5缺點，ma7生thoan3出koh khah che7 e5問題。像講，台語e5「字」ti7字字喃--nih寫做「字字」；「少年」寫做「」。「」ti7越南話發音/tre/；「」--nih e5「」(漢越音/le/)用來“暗示” e5發音，「小」用來表示「少年」e5意思。Ui3 chia e7-tang3看出字字喃其實是比漢字khah複雜、phaiN2學--e5。一般來講，beh讀有字字喃，to7 ai先bat漢字chiah有才tiau7讀。因為字字喃複雜kap無標準化，所以造成i推展e5困難。
+
+2.2. 越南羅馬字e5發展
+
+越南e5書寫文字一直到kah 17世紀，紀錄「音素」(phoneme) e5羅馬字e5出現chiah有重大e5轉變。羅馬字ti7越南e5發展e7-sai2分做4 e5階段：第1，17世紀初到19世紀中期e5教會使用期；第2，19世紀後半期e5法國殖民者推廣使用期；第3，20世紀前半期e5越南民族主義者推動使用期；kap第4，1945年以後e5正統地位時期。
+
+16世紀尾、17世紀頭e5時，歐洲e5傳教士tauh8-tauh8-a2來越南傳教。In為著khah緊ka7越南話學hou7好thang傳教，to7利用in熟悉e5羅馬字來ka7越南話設計1套音素文字。4 越南羅馬字e5發展ham7真che7文字發展歷史kang7款，並m7是1 e5人ti7 1工內底發明--出-來-e5，顛倒是經過1段無算短e5時間、由眾人累積經驗所“約定俗成”--起-來-e5。5 Ti7經過be7 chio2傳教士e5 phah拚之下，法國籍傳教士Dac Lo6 ti7 1651年出版第1本越南羅馬字辭典「越南、葡萄牙、拉丁語3語對照辭典7」(Do 1972)。Dac Lo ham7「越、葡、拉」對越南羅馬字e5貢獻to7像Medherst8 ham7 i ti7 1832年出版e5「福建方言字典」對台灣教會白話字e5開基性貢獻kang7款；In long2是集眾人e5經驗，ka7羅馬字書寫系統化kap出版e5頭1人。Dac Lo e5羅馬字方案ti7經過無kang7時期e5 sio2-khoa2修改了，chian5做現此時越南普遍使用e5正式文字。
+
+Ti7 19世紀後半期chin3前，越南羅馬字主要kan-tan ti7教會內底流傳使用nia5。法國殖民者來到越南了，9羅馬字chiah sio2-khoa2提升地位kap ti7教會以外e5場合使用(Vien Van Hoc 1961:21-22)。雖然法國殖民者推sak羅馬字e5最後目的是推廣法文，m7-koh i無形中soah提供越南羅馬字初期成長e5奶水。像講，法國殖民者ka7羅馬字列入學校課程，續--來ti7 1865年由官方發行第1份e5羅馬字報紙「Gia Dinh Bao」(嘉定報)；越南羅馬字ma7 ui3 hit-cham7開始號做「ch÷ Quec ng÷」(國語字) (Vien Van Hoc 1961:22)。「嘉定報」to7 ham7台灣1885年出版e5第1份羅馬字報紙「Tai5-oan5-hu2-sian5 Kau3-hoe7-po3」(台灣府城教會報) kang7款，有chhoa7頭普及羅馬字e5貢獻。另外1 e5例是，南部總督ti7 1882年簽定1份規定所有越南話e5公文ai3用羅馬字寫e5議定(Vien Van Hoc 1961:22-23)。
+
+法國殖民者會推sak越南羅馬字，主要e5原因是：
+
+第1，法國殖民者認定漢字是法國人ham7越南人之間的障礙。因為越南長期以來long2 ka7中國奉做宗主國、ma7透過漢字學習中國文化kap價值觀，假使hou7越南人繼續使用漢字to7等於是hou7越南保持ham7中國e5親密關係。為著hou7越南斷絕ham7中國e5關係、thang親近法國，無用羅馬字取代漢字be7-sai2。10
+
+第2，羅馬字是hou7越南人ui3越南語過渡到法語e5重要媒介。法國殖民者認為tng當越南人掌握著越南羅馬字了，in beh學法語to7 khah簡單，lou7尾e-tang3真緊完全轉換到使用法語。所以推行羅馬字是推行法語e5重要手段之1(DeFrancis 1977:131-134)。
+
+總講1句，ti7越南羅馬字成功取代漢字chit件tai7-chi3內底，法國殖民者扮演「催化」e5角色。雖然殖民者e5目的是beh利用羅馬字來推行法語，m7-koh無形中soah提供越南羅馬字初期成長e5空間。
+
+雖然ti7法國殖民者e5推sak之下，越南羅馬字ti7 19世紀後半期有比以前khah普遍，m7-koh整體來講i e推行效果iau2真有限(DeFrancis 1977:69)。羅馬字e5推行ai3 20世紀初以後ti7越南本土e5民族主義者e5鼓吹之下chiah有明顯e5進展(DeFrancis 1977:159)。Che原因是ti7反對法國殖民主義e5氣氛之下，便若用外來e5羅馬字to7 e7 hong5當做是oa2附外來政權e5行為。M7-koh ti7越南民族主義者感受著羅馬字簡單、好用、是教育民眾e5好工具了，in to7化解對羅馬字e5惡感，ka7羅馬字本土化、chian5做對抗外來統治e5利器。
+
+20世紀初鼓吹羅馬字e5民族主義運動e5頭1 e5代表性團體算是「東京義塾」。11「東京義塾」ti7越南所扮演e5角色to7 ka2-na2 20年代e5台灣文化協會；兩者e5差別是「文化協會」並無注重羅馬字、kan-tan倡導漢字白話文。Chit-e5差別tu2好注定羅馬字ti7台灣ham7越南有無kang5 e5發展命運。
+
+「東京義塾」e5成員主要是chit8-koa2留學日本e5越南知識份子。In ti7 1907年ti7河內12(Ha Noi)設立「東京義塾」學校，thang傳授西方思想kap科學新知等。In認定若beh達成啟發民智e5目的，無教羅馬字be7-sai2。所以「東京義塾」e5第1要務to7是beh普及羅馬字；in beh透過羅馬字來教育民眾、hou7大眾有知識thang對抗法國殖民統治。「東京義塾」雖然成立無到1冬to7 hou7法國殖民者強迫關門，m7-koh in e5主張soah ti7知識份子之中普遍得著認同ham7支持。Ti7 in e5影響之下，「推廣羅馬字」 soah chian5做越南民族主義者e5普遍主張kap推動要點，ma7引起chit8-chun7興學、辦羅馬字報紙e5風潮(Vuong & Vu 1980:20-32)。根據估計，到kah 1930年為止，全越南量約a2有75種e5羅馬字報紙(Hannas 1997:86)。
+
+雖然羅馬字ti7越南民族主義者e5推sak之下有真大e5成就，m7-koh che並無代表羅馬字ti7 hit-chun7已經完全取代漢字。羅馬字e5地位ti7 1945年胡志明宣布越南獨立了chiah進1步提升做國家唯一e5正式書寫文字。胡志明ti7 1945年9月初2宣布成立「越南民主共和國」了，新政府ti7 9月初8 to7 sui5宣佈全面推行羅馬字教育e5政策。胡志明ti7 hit年10--月koh發表1份呼籲全國同胞cho3-hoe2掃除chheN-me5牛e公開phoe，i ti7 phoe--nih講：
+
+Lan2越南e5頭家！
+
+Khah早法國帝國主義統治lan2，in實行愚民政策，in限制lan2辦學校，in無愛hou7 lan2 bat字，thang好ka7 lan2剝削。
+
+Lan2無讀冊e5人口佔全國e5 95%，e7-sai2講差不多全國long2是chheN-me5牛，lan2是beh an2-choan2 e進步？
+
+Lan2 chit-ma2已經得著獨立e5勝利。提高人民e5文化水準，是lan2目前ai3緊做e5 khang-khoe3之1。Lan2政府已經頒佈全國人民ai3 ti7 1冬內學e7-hiau2國語字（chu Quoc ngu）e5政策。Lan2已經成立平民教育署，協助人民學習。
+
+Lan2越南e5頭家！
+
+Lan2 ai ka7獨立e5 thiau7-a2 chhai7 hou7 an。Lan2 ai3追求國富民強。Lan2 ai hou7每1 e5越南人民知iaN2 ka-ti7 e5權利kap義務，有新e5知識chiah有法tou7參與建設祖國e5事業，ah che ma7是為siaN2-mih ai先學e7-hiau2國語字e5原因。
+
+Bat字--e5 ai3教?-bat字--e5，thang好替lan2 e平民教育做tam7-poh8-a2貢獻。
+
+M7-bat字--e5 ma7 ai3 kut-lat8 phah拚。Ang-sai3 ai3教bou2-kian2，a兄ai3教sio2弟，m7-bat字e5 pe7母ai由kian2來教，厝頭--e5 ai3教厝腳，好額--e5 ai3開班授課。
+
+Cha-bou2人長期來long2受壓迫，ai3 koh khah phah拚chiah toe3 e7著時代e5進步。
+
+我ng3望全國e5青年男女cho3-hoe2 phah拚來完成。
+(Ho 1994:64-65)
+
+根據估計，1945年全國bat字e5人口大約有20%；ti7全面推行羅馬字了，1953年已經提升到70% (DeFrancis 1977:240)。總講1句，越南e7-tang3 ui3漢字、字字喃成功轉換做羅馬字e5原因有真che7，其中siong7重要關鍵--e5是「外在」kap「內在」因素：
+
+外在因素是指越南ti7長期受中國kap法國殖民統治之下，按算利用越南羅馬字chian5做文化獨立e5基礎、thang進1步保障民族政治e5獨立。Ti7 40年代，日本軍為著侵略中國soah來出兵到越南，按算theh8越南做攻擊中國西南地區e5根據地。對中國來講，派軍進入越南thang掃除日軍e5根據地是有需要--e5。?-koh對hit當時iau2佔領越南e5法國來講，i驚中國軍隊若koh入--來e7 ?走、甚至ka7越南koh theh8 tng2去中國e5手--nih。對越南e5領導人來講，an2-choan2利用各國e5矛盾thang hou7越南得著獨立是要緊e5 tai7-chi3。胡志明對中國相當了解，i ma7驚中國利用掃除日軍做藉口soah佔領越南。所以i e策略是1方面阻擋中國軍隊進入越南(蔣永敬1971:107)，1方面策動反中國e5運動(蔣永敬1971:228-240)。Ti7 chit種pan7-se3之下，羅馬字當然chian5做確保政治、文化獨立e5 siong7好選擇。
+
+內在因素是指反封建、反知識壟斷e5廣大需求。To7親像胡志明ti7公開phoe內底所講--e5，an-choan2 hou7 hiah che7無受教育e5群眾有新知識thang hou7國家富強是chiok要緊e5 tai7-chi3。Ti7 19世紀以前e5越南封建社會--nih，in唯一外來e5主要威脅是中國；ti7 hit種情形之下，採用漢字雖然e7造成多數e5勞苦階級chian5做chheN-me5牛，m7-koh an2-ne做e7-sai2消除中國e5侵略慾koh e7-tang3滿足越南封建朝廷e5既得利益。M7-koh到kah 20世紀了，越南ai3應付--e5 m7-tan7中國nia5，ai koh應付sio續來e5西歐kap日本帝國主義。字字喃雖然有越南民族特色，m7-koh soah siuN複雜kap phaiN2學。對照之下，簡單、好學e5羅馬字to7 chian5做啟發民智、對抗外來統治e5 siong7好選擇。越南e5民族主義領導者ti7覺悟著時代e5變遷了，chhan5-chhan5決定採用羅馬字。Ti7掌握著“多數民眾是chheN-me5牛、kan-tan chio2既得利益者bat漢字13”e5情形之下，用全國e5力量來推sak羅馬字，當然真緊to7收著效果。
+
+2.3. 台灣羅馬字e5發展
+
+羅馬字書寫系統ti7台灣e5發展，大概e7-sai2分做2 e5時期(Chiung 2001)。第1 e5時期是荷蘭統治時代由荷蘭傳教士所設計e5描寫平埔族語言e5「新港文」(村上直次郎1933)。Chit-e5時期大概ui3 17世紀荷蘭佔領到kah 19世紀初期。第2 e5時期是19世紀後半段到tan，由西方傳教士設計、主要teh描寫台語e5「白話字」(蔣為文2001)。
+
+若準講「新港文」代表台灣島頭1 pai2有外國來e5傳教活動，「白話字」e5發展象徵ti7荷蘭撤退以後外國e5傳教活動ti7台灣e5再次復興。
+
+自荷蘭撤退以後，ti7台灣e5來自西方e5傳教活動to7 tiam7靜--落-來-a。一直到kah 19世紀後半期chiah koh開始ti7台灣chhian-iaN7--起-來。1858年e5時chun7清國ham7外國簽定「天津條約」，正式允准外國傳教士去中國傳教。台灣hit-chun7是hou7清國統治，因為天津條約e5關係，ma7開放hou7外國人來傳教。To7是ti7 chit-e5歷史緣故之下，天主教kap基督教陸續來到台灣傳教。其中siong7 kut-lat8推sak白話字e5「長老教會」ti7 1865年由「馬雅各」醫生(James L. Maxwell 1836-1921) chhoa7頭，正式ti7現此時e5台南設立傳教e5本部(徐謙信1995:6-8；賴永祥1990:277-280)。
+
+Ti7傳教士來到台灣chin3前，in ti7中國東南方一帶已經活動真久--a，而且in ti7 hia to7已經開始用羅馬字ka7閩南語、客語等語言設計1套書寫系統。14比如講，由John Van Nest Talmage (1819-1892俗稱「打馬字」)編寫，教人an2-choan2 用羅馬字來寫廈門話e5《唐話番字初學15》ti7 1852年ti7廈門出版。Chit套羅馬字ti7台灣號做「白話字」或者「教會羅馬字」。E7 ka7號做「白話字」是因為chit套文字是描寫日常生活、口語e5語言；學習者真簡單to7 e-sai2學e-hiau2 ui白話字讀出in e5口語，無像漢字an2-ne學真久iau2讀be7出正確e5發音。
+
+「白話字」siong7頭a是為著傳教e5目的chiah發展--出-來-e5。所以「白話字」真大部份e5應用kap出版long2是ham7宗教有關係--e5。Chit-koa2運用白話字e5出版品或者個人e5應用大概e7-sai2分類做下面6類：
+
+* 白話字教材
+* 白話字字典、詞典
+* 聖經、教義問答kap宣傳小冊等
+* 白話字報紙、雜誌
+* 其他有關哲學、數理、小說等題材
+* 個人e5筆記或者寫phoe* 
+
+自19世紀開始，有be7 chio2 e白話字字(詞)典出版，下面to7簡單舉chit8-koa2例。Medhurst (Water H. Medhurst麥都思1796-1857) ti7 1832年出版《福建方言字典16》；Douglas牧師(Carstairs Douglas杜嘉德1830-1877) ti7 1873年出版《廈英大辭典17》；現此時ti7台灣siong7普遍得使用e5《廈門音新字典18》是由Campbell牧師(William Campbell 1871-1918甘為霖)編輯，ti7 1913年由台南e5教會公報社發行(參閱賴永祥1990；洪惟仁1993，1996)。
+
+頭1本白話字e5新約聖經《咱的救主耶穌基督的新約19》ti7 1873年出版，舊約聖經《舊約的聖經20》ti7 1884年出版。對白話字ti7早期e5台灣教會hong5普遍使用有真大貢獻e5白話字報紙《台灣府城教會報21》ti7 1885年由Barclay牧師(Thomas Barclay 1849-1935巴克禮)發行。白話字出版品e5內容除了直接ham7宗教有關之外，ma7有chit8-koa2 kap教義khah無關係e5 mih8-a2。22像講，1897年Ge5 Ui5 Lim5出版e5數學冊《筆算的初學23》；1917年戴仁壽(G. Gushue-Taylor)出版e5《內外科看護學24》；1926年鄭溪泮(Ten7 Khe-phoan3)所出版e小說《出死線25》；1925年蔡培火(Chhoa3 Poe5-hoe2)所出版e5社會評論e5冊《十項管見26》。
+
+通常，教會e5信徒ti7教會學e7-hiau2讀寫白話字了，in e7 ka7 chit套白話字應用ti7日常生活當中，像講寫phoe hou7 hau7-sen cha-bou2-kian2、寫日記、或者做大細項tai7-chi3 e筆記。白話字ti7 1970年代chin3前，27 ti7台灣e5教會內底iau2算hong5真普遍e5使用；m7-koh，了後因為政治kap「國語政策」e5影響，soah tauh8-tauh8-a2愈來愈chio2人使用。雖然白話字對普及教育e5貢獻無分cha-pou、cha-bou2，白話字對女性教友e5影響特別大。Ti7古早重男輕女e5社會，一般cha-bou2人long2真罕leh有機會受漢文e5教育。Chit-e5現象1方面是因為文化價值觀(重男輕女) e5問題，1方面ma7是經濟問題(漢字比白話字加真phaiN2學)。Chit-koa2 cha-bou2人ti7接觸教會了，tu2好hou7 in thang學習簡單e5文字工具(白話字)、有受教育e5機會。In m7-tan7透過白話字來學習聖經e5教義，ma7 e7-sai2學習現代e5智識。現此時ti7台灣iau2有chit8-koa2老1輩e5教友(特別是女性)，m7-bat漢字、kan-tan e7-hiau2白話字。28
+
+雖然「白話字」siong7頭a是為著傳教e5目的所設計，到tan來已經無限定ti7描寫教會e5事務nia5。Ti7 1980年代以後，29對著台灣政治運動e5開展，台灣e5本土文化界ma7展開台語文運動，強烈訴求「chhui3講台語、手寫台灣文30」。Ti7現此時khah普遍e5 3種台文書寫方式「全漢」、「全羅」、kap「漢羅」內底所用e5台語羅馬字，真che7團體或者個人to7是使用白話字或者修改--過e5白話字來出版台文作品。31像講，「 Tai5-oan5-ji7」、「台文通訊」、「台文罔報」、kap「台譯5%計劃」32等團體，ti7羅馬字e5部分long2用傳統教會白話字。因為參予台文寫作e5作者e5多元化，「白話字」e5應用已經脫離過去以教會、傳教為主e5題材。
+
+3. 文字方案e5語言學分析
+
+因為台灣「白話字」ham7越南羅馬字ti7歷史e5發展當中long2加加減減有經過修改，lan2 ti7 chit份論文內底所beh分析紹介e5白話字拼字法是以「甘為霖」牧師編輯e《廈門音新字典》以後e5用法為主；越南羅馬字是以現此時越南學校教育系統--nih e5用法為準。
+
+台灣白話字ham7越南羅馬字e5文字設計long2 ham7 in本身語言e5特色有關係，所以lan2 to7 ti7 chia先講1-e7-a2台語kap越語e5特色。
+
+一般得來講，台語ham7越語kang7款long2屬「孤立語」(isolating languages)，也to7是講in e5語詞無siaN2詞性或者語法e5衍生變化。M7-tan7 an2-ne，chit 2 e5語言long2有真koan5 e單音節語詞(monosyllabic) e5特色，也to7是講in e5語詞真che7 long2是單音節--e5、或者是由單音節語詞來複合衍生構成--e5。雖然講現此時台語ham7越語e5多音節語詞e5比例愈來愈koan5，?-koh因為過去單音節語詞過che7 e5現象，soah對hit當時e5文字設計造成影響。
+
+除了有「孤立語」kap「單音節」e5特性之外，台語ham7越語long2是聲調語言。就hong5普遍得接受e5分類來講，台語有7 e5聲調類型，越南話有6 e5。Ti7台語內底有真豐富koh系統性e5「變調」(tone sandhi)現象；m7-koh ti7越南話--nih，除了真chio2數e例之外，e7-sai2講是無系統性變調e5現象。
+
+台灣「白話字」ham7越南羅馬字chit 2套文字，雖然加減long2有chit8-koa2以「音位學」(phonetics) 觀點來設計拼字法e5例，m7-koh整體來講long2 e7-sai2算是「音素」文字(phonemic writing)。就語音ham7文字符號e5對應關係來講，in原則上long2是一對一e5關係，m7-koh越南羅馬字有be7 chio2一音素對多符號e5例。E7-kha lan2 to7 ka7白話字ham7越南羅馬字sio-siang5 ham7無siang5 e5所在簡要列--出-來。
+
+Sio-siang5 e5所在：
+
+1. PeN5-pen5 long2是線性--e5、音素文字。
+
+2. Long2以音節做拼音e5單位。
+
+3. Long2有用「區別符號」(diacritics)，像講 "^" 等，來附加ti7原有e5羅馬字母頂koan5 thang區別聲調或者語音。
+
+4. Long2是經過1段無短e5時間、由真che7人累積經驗所 "約定俗成" --起-來-e5。
+
+5. 雖然當初設計long2有受 "漢字音譯" 方式e5影響，m7-koh基本上來講long2 e7-sai2當做獨立e5文字來使用。
+
+6. 因為chit 2套文字e5出現long2已經超過百年--a，所以long2加減有chit8-koa2拼字ham7現代實際發音無siang5 e5現象。
+
+無siang5 e5所在：
+
+3. 白話字e5區別符號主要用ti7聲調，m7-koh越南字e5區別符號用ti7聲調kap語音；因為chit-e5原因，白話字算是2層e5文字結構，ah越南字算是3層e5結構。1. 
+
+2. 有關區別音節ham7音節之間e5「音節符」，白話字是採用 "-" ，越南字是採用lang3 1 e5 space。
+
+3. 就語音ham7文字符號e5對應關係來講，白話字原則上是一對一e5關係，m7-koh越南羅馬字有be7 chio2一音素對多符號e5例。
+
+3.1. 台語白話字方案
+
+文字方案e5設計long2是建立ti7 hit-e5語言e5音韻分析頂頭；無kang5 e5分析觀點，通常e7造成無kang5 e5文字設計方案。就現代優勢腔e5台語來講，若無算「空聲母」(zero consonant) kap na5-au5塞音(glottal stop)，台語有17 e5聲頭(consonants) 、 6 e5單母音(simple vowels) kap 7 e5聲調(調類)。33In分別列ti圖表 1、圖表 2 kap圖表 3 hou7大家參考。
+圖表 1. 台語e5聲頭(用國際音標IPA表示)
+
+圖表 2. 台語e5單母音(用國際音標IPA表示)
+
+圖表 3. 台語e5聲調kap i e各種表示法
+
+《廈門音新字典》內底e5白話字e7-sai2講to7是照頂面圖表 1、圖表 2 kap圖表 3 e5音韻分析來設計--e5。Lan2 to7 ka7白話字--nih「音素」(聲頭kap單母音) ham7「文字符號」e5對應關係列ti圖表 4 kap圖表 5 hou7大家對照。
+
+圖表 4. 白話字e5聲頭ham7文字符號e5對應關係
+
+圖表 5. 白話字e5單母音ham7文字符號e5對應關係
+
+Ui圖表 4 kap圖表 5 e7-sai2看出白話字內底除了chio2數e例外之外，大部分long2是1 e5音素對1 e5符號組，像講/b/ to7用b，/kh/ to7用kh；而且白話字所選用e5文字符號e7-sai2講真接近現代語言學所使用e5國際音標。
+
+知ian2每1 e5聲頭ham7單母音e5文字符號了，lan2 to7來看白話字e5拼字法。基本上，白話字先照音節ka7每1 e5語詞(word)拆--開，續--來ui3 to3-peng5到正peng5 ka7每1 e5音節e5「音素」照圖表 4 kap圖表 5 e5「文字符號」ka7填寫--落-去，koh來ka圖表 3 e白話字聲調符號加ti7音節核心 (nucleus)34 頂頭，lou7尾chiah koh ka7 "-" 「音節符號」加ti7音節ham7音節之間；像講chhit-tho5、han-chi5、am-bok8-koe2、chhai3-thau5-koe2。
+
+因為台語有真豐富e5變調現象，所以白話字採用表記「單音節e5本調」(base tone of a syllable) e5方式來處理聲調。像講「菜頭粿」經過變調e5實際發音是chhai2-thau7-koe2;?-koh寫e5時ai照每1 e5音節e5本調，寫做chhai3-thau5-koe2。Chit種做法雖然講e7-sai2處理各地台語方言e5差異，m7-koh chit種做法某種程度來講是受tioh8傳統上「漢字」單音節構詞e5影響。也to7是講，傳教士設計白話字e5時並無完全ka7西方語言「多音節語詞」e5觀念應用ti7白話字--nih，所以chiah需要標單音節本調kap加 "-" ti7音節之間。Chit種做法有好--處ma7有bai2--處。Bai2--處之1 to7是e延續漢字e5單音節特色。Chit種單音節標記方式若運用ti7外來語e7 koh khah突顯i無合理e5所在。像講ka7外來語motorbike寫做ou-tou2-bai2，看--起-來to7真奇怪。因為ou-to2-bai2並?是由3 e5單音節詞素 "ou" "to2" kap "bai2" tau3--起-來-e5，是1 e5純e 3音節語詞，所以若寫做out7?bai2或者outoubai2 hoan7-se3 e7 khah合理。
+
+Out7?bai2 chit種做法是以「語詞」(包含多音節kap單音節)做單位，標「語詞」e5本調而m7是單音節e5本調，續--來ka7語詞內底音節之間e5 "-" theh8掉。Outoubai2 e5做法kap out7?bai2 e5做法差不多，不過，聲調e5部分原則上kan-tan保留「重音」，其他e5聲調long2無標。一般來講，同音異義(homophone) e5情形大部分是出現ti7單音節語詞--nih，若是多音節語詞to7真罕leh發生。所以多音節語詞e7-sai2免標聲調ma7 e7-tang3分kah真清楚。
+
+若講kah "-" chit-e5符號，真明顯e7-sai2看出白話字是ka7定義做區別音節e5「音節符號」，並m7是區別音素位置屬性e5「隔音符號」。未來若大家認為有需要改進白話字，e7-sai2考慮ka7 "-" 定義做「隔音符號」。像講han-chi5，i e /n/ ham7 /ch/真清楚是無可能tau3-tin7 cho3-hoe2發音--e5，所以e7-sai2寫做hanchi5;若是kokong，因為有可能是kok-ong (國翁) ma7有可能是ko-kong (高公)，所以to7 ti7適當e5位置加「隔音符號」hou7語詞khah正確--leh。事實上，像kokong chit種例實在真chio2，而且大部分long2是出現ti7專有名詞，一般台語e5多音節語詞真chio2有chit-e5問題。有人認為若ka7「音節符號」theh8掉e減慢閱讀e5速度，其實he是khia7 ti7慣習看漢字、無慣習看羅馬字e5角度來思考--e5。若是自細han3 to7教講「蕃薯」寫做hanchi5，an-ne i後--來讀著hanchi5 to7 e-tang3以正常e5速度了解語詞e5意思。
+
+台語e5介音(glides) /w/ ti7白話字--nih是寫做o，像講goa2、koe。有人感覺奇怪，講thai2無ai用w或者u做/w/ e5文字符號？Che主要是因為台語e5介音/w/ gau5受後piah e音節核心e5影響：假使/w/後piah接「無koan5 e5母音」([-high])，像講/a/、/e/，to7 e7 hou7原本是[+high] e5 /w/向[-high] e5方向徙位。Chit chit8徙位，to7 hou7 /w/ e5音值接近[o]或者[

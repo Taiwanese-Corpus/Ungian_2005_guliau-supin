@@ -1,0 +1,243 @@
+IONG7 POJ SIA2 SU5 E5 KUI-HOAN7 GIAN2-KIU3
+
+Chan Cheng3-gi7
+Siang-gi2 Chhut-pan2-sia7 Hoat-heng5-jin5
+
+Tiah-iau3
+
+POJ sia2 su5 e5 bun5-chiong ham7 Han3-ji7 bo5-kang5, Han3-ji7 si7 chit8 ji7 chit8 ji7 lian5-soa3, su5-lui7 piau2-tat8 bo5 beng5-khak. POJ e5 ji7-bo2 bun5-ji7 iong7 su5-lui7 beng5-khak e5 koan-tiam2 si7 chit8 hang7 chiok tiong7-iau3 e5 bun5-ji7 bun5-beng5. Koe3-khi3 kau3 taN, POJ sia2 su5 chin bo5 it-ti3, pun2-bun5 iong7 5 chiong2 kui-hoan7 lai5 tham3-tho2, iong7 bun5-ji7 kong-leng5 e5 koan-tiam2, si7-m7-si7 e7-tang3 kian3-lip8 kui-hoan7, hou7 POJ e5 bun5-beng5 seng5-kong.
+
+1. Bun5-ji7 kong-leng5 e5 koan-tiam2 si7 siaN2-mih?
+
+2. Bun5-su5 e5 5 chiong2 kui-hoan7.
+
+3. 5 chiong2 kui-hoan7 e5 pi2-kau3. 
+
+4. Kiat-lun7.
+4-1: POJ sia2 su5 e5 kui-hoan7 it-teng7 u7 su-iau3.
+4-2: POJ sia2 su5 e5 su5-lui7 ki-chhou2 si7 kok-chiong2 gi2-gian5 kiong7-thong--e5.
+4-3: POJ e5 su5-tian2 ai3 kin2-kin2 pian--chhut-lai5.
+
+Koan-kian3-su5: tok8-lip8 e5 su5-lui7; su5-tian2; siaN-tiau7-kun5; ki3-ek bou5-heng5; ji7-heng5; ji7-keng2; iok-teng7-siok8-seng5; khin-siaN; hong-im-chha. 
+
+
+IONG7 POJ SIA2 SU5 E5 KUI-HOAN7 GIAN2-KIU3
+
+Iong7 Peh8-oe7-ji7 lai5 sia2 su5, kian3-lip8 khi2-lai5 su-bin7-gi2 e5 Tai5-gi2-bun5 e5 bun5-beng5-hoa3, che si7 i2-ong2 Han3-ji7 kap Han3-Lo5 e5 su-sia2 sou2 bo5-hoat-tou7 hun-pian7--e5. Giam5-keh hun-pian7 su5-lui7 si7 Tai5-gi2-bun5 cheng-bit8-hoa3 kap beng5-khak-hoa3 e5 thau5 chit8 pou7.
+
+1. Bun5-ji7 kong-leng5 e5 koan-tiam2.
+
+Peh8-oe7-ji7 iong7 lai5 cho3 su-bin7-gi2 si7 chit8 khoan2 bun5-ji7, m7-si7 im e5 hu5-ho7 nia5; sim7-chi2 bun5-ji7 e5 kong-leng5 eng3-kai iaN5-koe3 su-sia2 kong2-oe7 e5 ki3 im hu5-ho7; koh chin3 chit8 pou7, bun5-ji7 si7 thoat-li5 im-kam2 lai5 piau2-tat8--e5. Bun5-ji7 si7 i2 ji7-heng5, ji7-keng2 lai5 piau2-tat8, eng3-kai si7 iong7 gan2 kong-leng5 e5 tui3-siong7. Lan2 khoaN3-tioh8 chit8 e5 su5, su5 si7 chit8 e5 oan5-cheng2 e5 khai3-liam7, ki-pun2 se3-pau, chhin-chhiuN7 "chheh", i2 i e5 ji7-heng5, iong7 bak8-chiu jin7--chhut-lai5 (che tong-jian5 si7 ai3 seng u7 bun5-ji7 hak8-sip8, siu7 kau3-iok8--e5.) M7-si7 iong7 chhui3 liam7--chhut-lai5 chiah chai-iaN2 piau2-tat8 e5 i3-gi7. Ka2-su2 khiam3-khoat im-kam2 e5 lang5, kang7-khoan2 e7-tang3 hak8-sip8 bun5-ji7, khiam3-khoeh gan2-koan e5 lang5, kang7-khoan2 e7-tang3 bong chhut-lai5 ji7 e5 ki3-ho7, hou7 i jin7--chhut-lai5. Chit chit8 tiam2 si7 chhin-chhiuN7 leh jin7-bat Han3-ji7--e5; ia7 chhin-chhiuN7 leh hak8-sip8 Eng-gi2 bun5-ji7 "book" kang7 i3-su3. (chu3: 1)
+
+Kan2-tan e5 su5 "chheh", it-poaN kio3-cho3 ji7-heng5; chai7 POJ sia2 e5 su5, liam5-ji7 e5 su5 na7 chin tng5 chiu7 e7 heng5-seng5 ji7-keng2, ki-pun2-siong7 khoaN3 thau5 chiu7 chai boe2, u7: ka7-ge5-chhiat-khi2, sam-pat-li-lo5; sim7-chi2 sam-pat-li-lo5-ko5. 
+
+2. Bun5-su5 e5 kui-hoan7. 
+
+Iong7 bun5-ji7 kong-leng5 lai5 sia2 su5 e5 bun5-chiong, bun5-su5 piau2-tat8 e5 sia2-hoat, pit-su e7-tang3 heng5-seng5 kou3-teng7 e5 bun5-hoat khai3-liam7, bun5-i3 chiah si7 khak-teng7--e5, bun5-su5 chiah si7 cheng-bit8--e5. 
+
+2-1. Su5-tian2 si7-m7-si7 u7 siu e5 su5.
+
+Su5-tian2 si7 bun5-su5 e5 kui-hoan7, si7 bun5-ji7 bun5-beng5 e5 kin-ku3, si7 kang7-khoan2 chit-e5 bun5-beng5 e5 lang5 kiong7-tong5 e5 bun5-hoa3 poe7-keng2, u7 it-teng7 e5 kui-hoan7 chok-iong7. Su5-tian2 si7 ai3 siu7 kong-pheng5--e5, siu e5 su5 ho2, bai2, che7, chio2, tioh8, m7-tioh8, ... ; toa7-pou7-hun7 be7 ou-peh8 lai5; sou2-i2 kian3-lip8 chhut kui-hoan7-seng3, si7 bun5-beng5 chin3-pou7 e5 i-ku3. Tai5-gi2 e5 su5-tian2 chin che7, POJ e5 su5-tian2 bo5 che7, tan7-si7 POJ bun5-su5 e5 sia2-hoat ia7 i2-keng u7 chit8 e5 khoan2, sia2--chhut-lai5 e5 bun5-su5 na7 si7 su5-tian2 u7 siu--e5, tai7-chiong3 iu2-sou2-kin-ku3, khah be7 u7 cheng-gi7; na7-si7 bo5 siu e5 bun5-su5, chok-chia2 ai3 siong5-se3 chu3-beng5 lai5-goan5: u7 siaN2-mih bun5-hian3--e5; tian5-ia2 tiau-cha--e5; ka-chok8 gi2-thoan5--e5; ka-ti7 chhong3-chok--e5. Na7-si7 piau2-tat8 tit chan2, cho3 su5-tian2 e5 lang5 e7 ka7 siu--jip8-khi3, kian3-lip8 khi2-lai5 sin e5 bun5-su5, hong-hu3 gi2-bun5 e5 lai7-iong5. Bun5-su5 e5 sia2-hoat pit-su seng kho2-lu7 su5-tian2 si7-m7-si7 u7 siu e5 su5: 
+
+ "Lim5-kheng2 e5 seN-tiuN." (chu3: 2) Che si7 an3 Eng-bun5 "What Lincoln looked like." hoan-ek8--e5. SeN-tiuN chit-e5 su5, chin che7 lang5 m7-chai, put-ko3 che si7 su5-tian2 u7 siu--e5. (chu3: 3)  
+
+ "Hit e5 si5-chun7, goa2 kui-e5-lang5 thian-chun thian-chun, gong7-ngiah gong7-ngiah." Thian-chun chit-e5 su5, si7 goa2 ko3-jin5 bo2-gi2 bat thiaN--koe3-e5, su5-tian2 bo5 siu, ham7 gong7-ngiah kang7 i3-su3, khah giam5-tiong7. Chit-khoan2 bun5-su5 ai3 chin sio2-sim su2-iong7, siong5-se3 chu3-kai2. 
+
+2-2. I2 bun5-su5 e5 bun5-hoat, si7-m7-si7 u7 tok8-lip8 e5 su5-lui7 ? 
+
+Bun5-su5 si7 kou3-seng5 bun5-ku3 e5 ki-pun2 se3-pau, it-teng7 ai3 u7 kou3-teng7 e5 su5-lui7 i-ku3, ai3 tok8-lip8 sia2-chhut su5-lui7 e5 kong-leng5; chhin-chhiuN7: 
+
+ "Ia5-sou i ho2 tak8 iuN7 e5 cheng3-thau5." (chu3: 4) Chit-ku3 oe7 " i " si7 tong7-su5, "ho2" si7 heng5-iong5-seng3 e5 hu3-su5, tak8 iuN7 e5 cheng3-thau5 si7 beng5-su5 cho3 siu7-su5 iong7. Tak8 iuN7 ma7 be7-sai2 liam5 khi2-lai5 sia2, na7-si7 liam5 khi2-lai5 sia2, piau2-si7 tan-sou3 e5 i3-su3; hun-khui sia2 piau2-si7 hok8-sou3 e5 i3-su3; pi2-ju5 kong2:
+
+Tak8 iuN7 lang5 long2 u7 ka-ti7 e5 bun5-hoa3. Piau2-si7 chin che7 iuN7 lang5.
+
+Tak8-iuN7 lang5 long2 u7 ka-ti7 e5 bun5-hoa3. Piau2-si7 kan-taN sou2 kong2 e5 hit-iuN7 lang5. 
+
+ "Tan5 Chong2-thong2 u7 pit-iau3 chhut-bin7, the3 THBK koe3-khi3 chho3-ngou7 e5 gi2-bun5 cheng3-chhek ka7 Tai5-oan5 lang5 hoe7 sit-le2." (chu3: 5) Tai5-oan5 lang5 chit-e5 bun5-su5 e5 sia2-hoat, u7 chin che7 i3-gi7. Goa2 si7 Tai5-oan5-lang5; be7-sai2 sia2 "Goa2 si7 Tai5-oan5 lang5." Pit-su sia2 cho3 "Goa2 si7 chit8 e5 Tai5-oan5 lang5." Leng7-goa7 na7-si7 sia2-cho3 "Goa2 si7 chit8 e5 Tai5-oan5 Lang5." Piau2-si7 si7 u7 tok8-lip8 kok-keh--e5, thong kok-che3--e5; m7-si7 phou2-thong e5 te7-hng lang5.
+
+2-3. Si7-m7-si7 hu5-hap8 siaN-tiau7-kun5 e5 goan5-chek. 
+
+Tai5-gi2 e5 siaN-tiau7-kun5, pun2-sin e5 siaN-tiau7 kiat-kou3 kou3-teng7, an3 bun5-su5 e5 lai7-iong5 kap ui7-ti3, tui3 bun5-ku3 e5 ham5-i3 u7 chin tiong7-iau3 e5 koat-teng7-seng3. Ki-pun2-siong7 e5 siaN7-tiau7-kun5 u7 6 chiong2: 
+
+2-3-1. Pian3-tiau7 e5 siaN-tiau7-kun5: 
+
+"Bu2-a2-kiaN2 chhiang5-chai7 iong7 Tai5-oan5-ji7 sia2 ji7-choa2." Chit-ku3 oe7 6 e5 su5 long2-si7 pian3-tiau7 e5 siaN-tiau7-kun5, tok8-lip8 e5 bun5-su5, sia2 su5 chin chheng-chho2. 
+
+2-3-2. Bo5 pian3-tiau7 e5 siaN-tiau7-kun5: 
+
+"I an3 thiN-kng khi2-lai5 chiu7 sim-bun7 i khi3 cho3-peng e5 kiaN2-ji5." Bo5 pian3-tiau7 e5 siaN-tiau7 chai7 Tai5-gi2 lai7-te2 chin chio2-sou3, pit-su tek8-piat8 ki3. ThiN-kng, sim-bun7, chiu7-si7 bo5 pian3-tiau7; leng7-goa7 te7-tang7, .... , ia7-si7. It-poaN kong2--khi2-lai5 kio3-cho3 pian3-tiau7 e5 le7-goa7.
+
+2-3-3. Pian3-siaN e5 siaN-tiau7-kun5: 
+
+"Goa2 lai5 si7 beh hou7 sim-pu7 hoan2-tui3 ta-ke." (chu3: 6) Pian3-siaN e5 siaN-tiau7 chai7 Tai5-gi2 kong2-oe7 tiong si5-siong5 e7 chhut-hian7; si7-m7-si7 bun5-su5 ia7-si7 sia2 pian3-siaN khah ho2? Sim-pu7 eng3-kai si7 sin-pu7 e5 pian3-siaN; leng7-goa7: san3-pou7 (sam3-pou7); sin-khu (seng-khu); khi2-lai5 (khit-lai5); cha-bou2-lang5 (cha-a2-lang5); hiN7-khang (hi7-khang); cheng3-choh (cheng3-chok); .....     
+
+2-3-4. Gi2-hoat-seng3 e5 siaN-tiau7-kun5: 
+
+"Hiah-e5 eng-kai cho3 thian-kok e5 kiaN2-ji5 e5 hoan2-tng2 oe7 siu7 koaN2 chhut-khi3." (chu3: 7) Gi2-hoat-siong7, "thian-kok e5 kiaN2-ji5 e5", si7 chit8 e5 oan5-seng5 e5 siaN-tiau7-kun5, gi2-hoat-siong7 na7 iong7 tou7-tiam2 tiam2 chit8-e7 khui, e7 khah ho2 khoaN3--loh8-khi3. Leng7-goa7 ia7 e7-sai2 ka7 bun5-ku3 sia2 hou7 beng5 "cho3 thian-kok e5 kiaN2-ji5 e5 lang5". 
+
+2-3-5. Gi2-khi3-seng3 e5 siaN-tiau7-kun5: 
+
+"Kong2 khi2-lai5, i si7 u7 kau3 jiat8-sim e5." Chit-khoan2 e5 gi2-khi3-seng3, chin che7 sia2 e5 su5, phiau chhut-lai5 khin-siaN e5 ki3-ho7. Bok8-tek8 si7 beh kiong5-tiau7 khin-siaN cheng5 e5 im ai3 thak8 pun2-tiau7; tan7-si7 su5-boe2 si7-m7-si7 it-teng7 khin-siaN? Ti7 gi2-khi3-seng3 e5 ku3-hoat, boe2-siaN chin tiong7-iau3, toa7-pou7-hun7 bo5-hoat-tou7 kan-taN iong7 khin-siaN piau2-tat8--e5, pit-su i2 kui-toaN7 e5 bun5-chiong e5 cheng5-au7-i3 lai5 khoaN3.  
+
+2-3-6. Khin-siaN e5 siaN-tiau7-kun5: 
+
+I3-gi7 ham7 bo5 khin-siaN bo5-kang5--e5, chai7 Tai5-gi2 lai7-te2 sou3-liong7 bo5 che7, su-iau3 tek8-piat8 ki3-ek, kio3-cho3: tek8-su5 khin-siaN, chhin-chhiuN7:
+
+"au7-jit8": i2-au7 e5 jit8-chi2; toa7-pou7-hun7 e5 lang5 e7 kong2-cho3 "au7-jit8-a2" lai5 sia2.
+
+"au7--jit8": bin5-a2-chai3 koe3 hit-kang; bun5-su5 e7 chhut-hian7 "3 kang7 au7", iah-si7 "koe3 2 kang" e5 sia2-hoat.
+
+Choe3-ho2 si7 ka7 jit8-ki5 kong2 hou7 beng5. 
+
+"Goa2 kiaN-si2.": Goa2 bo5 taN2 e5 i3-su3; "kiaN-lang5" si7 lah-sap, la5-sam5 e5 i3-su3. 
+
+ "Goa2 kiaN--si2.": Goa2 hong5 kiaN--tioh8; kap "kiaN--lang5" si7 chha-put-to i3-su3. 
+
+ "Goa2 beh chiah8 chit8 oaN2.": Goa2 chiah8 1 oaN2. 
+
+ "Goa2 beh chiah8--chit8-oaN2.": Goa2 beh chiah8, u7 kho2-leng5 e7 chiah8 2 oaN2. 
+
+Be7 kai2-pian3 i3-su3, kan-taN e7 gi2-khi3-siong7 e5 bo5-kang5, ia7 chin si5-siong5 phiau chhut-lai5 khin-siaN. Ki5-sit8, chit-khoan2 khin-siaN e5 siaN-tiau7-kun5 chai7 bun5-su5 cheng5-au7-i3 chiu7 e7 chai--e5. "Chun2-kong2 u7 si5 ke-kiam2 u7 sia2--koa3, sia2--koe3 e5 ji7 kiam2 long2 chai-bat koh e7 ki3--tit?" (chu3: 8) Chit-ku3 oe7 chiu7 u7 3 e5 khin-siaN. Tai5-gi2 e5 it-poaN-seng3 khin-siaN, i e5 chhut-hian7 eng3-kai si7 chin giam5-keh e5 han7-che3, chiu7-si7 su5-boe2 chiah e7, ham7 gi2-khi3-seng3 e5 khin-siaN chin lui7-su7. In e5 chhut-hian7 koh u7 chit8 e5 chip8-tiong-hoa3 e5 chhu-se3, ti7 bun5-ku3 e5 bun5-su5 ian2-hoa3-siong7 chin chheng-chho2, chiu7-si7 chip8-tiong ti7 boe2-im, i2 bio5-sia2 tong7-chok kap gi2-khi3 ui5 chu2. (chu3: 9)
+
+Khin-siaN e5 bun5-su5 si7-m7-si7 ai3 sia2--chhut-lai5, ai3 khoaN3 bun5-chiong e5 kong-leng5, u7 pang-chou7 gian5-gi2 e5 hak8-sip8; put-ko3 i2 bun5-ji7 e5 i3-su3, m7-si7 im-ji7, tu5-liau2 tek8-su5 khin-siaN, e7-sai2 m7-bian2. It-poaN-seng3 khin-siaN chai7 cheng-thong Tai5-gi2 e5 lang5, put-koan2 si7-m7-si7 chu3-beng5, be7 thak8 m7-tioh8, i3-su3 ia7 be7 teng5-taN5. (chu3: 10)
+
+2-4. U7 hah8 ki3-ek bou5-heng5 e5 ji7-keng2--bo5? 
+
+Jin5-lui7 e5 nau2-ti3 tui3 bun5-ji7 e5 hak8-sip8, an3 tou5-heng5 e5 jin7-bat kau3 piau2-i3 e5 bun5-ji7, sim7-chi2 si7 ji7-bo2 bun5-ji7; kang7-khoan2 si7 i2 hak8-sip8 ki3-ek e5 bou5-heng5 ui5 chu2. Choe3-kin7 e5 gian2-kiu3 i2-keng phah-phoa3 koe3-khi3 chho3-ngou7 e5 koan-tiam2. Koe3-khi3 jin7-teng7 piau2-i3 e5 tou5-heng5 bun5-ji7 si7 chai7 iu7-nau2 ki3-ek (pau-koat Han3-ji7); ji7-bo2 bun5-ji7 si7 cho2-nau2 ki3-ek; ki5-sit8, long2-si7 i2 iu7-nau2 lai5 hak8-sip8--e5. (chu3: 1)
+
+I2 POJ sia2 su5 e5 hak8-sip8 e5 keng-giam7, goa2 i2-ong2 si7 ai3 keng-koe3 thak8 chhut-lai5 siaN e5 im-kam2 lai5 chai-bat i3-gi7, siuN7 kong2 che si7 bo2-gi2 e5 tek8-teng; au7--lai5 chiam7-chiam7 an3 bun5-ji7 ji7-heng5 chiu7 thak8 e7 chhut i3-gi7, m7-bian2 keng-koe3 chhui3 e5 tong7-chok, si7 an3 bak8-chiu chiu7 jin7 e7 bat--e5. Sou2-i2, oh8 POJ kang7-khoan2 si7 bat-ji7, m7-si7 bat-im nia5, ham7 hak8-sip8 m7-si7 bo2-gi2 e5 Eng-gi2 kang7-khoan2. 
+
+Iong7 POJ sia2 e5 su5, e7 hah8 ki3-ek bou5-heng5--boe7? I2 ki3-ek e5 goan5-li2, li2 an2-choaN2 hak8-sip8 chiu7 an2-choaN2 ki3-ek. 
+
+Iong7 POJ sia2 e5 su5 long2-si7 e7-tang3 ki3-ek--e5; u7 hah8, bo5 hah8, ai3 i2 si7-m7-si7 u7 tok8-lip8 e5 su5-lui7 cho3 kin-ku3; chi2-iau3 si7 tok8-lip8--e5, ai3 tan-tok8 sia2, chhin-chhiuN7: "Ia5-sou i-ho2 tak8 iuN7 e5 cheng3-thau5", i-ho2 m7-si7 tok8-lip8 e5 su5, si7 bo5 hah8 ki3-ek bou5-heng5 e5 bun5-ji7 khai3-liam7. POJ bun5-su5 e5 hoat-tian2, hap8-seng5-su5, ian2-seng-su5, phian3-gi2,...teng2-teng2, e7 ju2 lai5 ju2 che7. 
+
+Leng7-goa7, Han3-ji7 e5 kou2-tian2 bun5-hian3, u7 be7-chio2 ti7 Tai5-gi2 e5 khau2-gi2 tiong chhut-hian3, koe3-khi3 chai7 POJ sia2 su5 e5 sit8-le7 khah chio2; tan7-si7 tai7-ke thiaN--khi2-lai5 chin koan3-si3, ia7 e7 sun7 ni2, be7-tang3 kong2 m7-si7 Tai5-gi2 e5 oe7.
+
+Sim7-chi2 si7 chin tng5 e5 bun5-gian5-bun5 e5 siok8-gi2, ia7 u7 be7-bai2--e5. "Hong5-jin5-chi-sim put-kho2 bu5." 
+
+Kou2-tian2 bun5-su5, hek8-chia2 si7 4 im e5 seng5-gi2, iu5-ki5 si7 bun5-gian5-su5: 
+
+"Lang5 si7 pah-pah-khoan2, li2 bo5 thiaN lang5 kong2 koe3, 'Hai2-piN iu2 tiok8-siu3-chi-hu' mah?" (chu3: 11)  
+
+"Ko3-jin5 chai5-sou-hak8-chhian2, kan-taN si7 ia2-jin5-hian3-phok8 nia7-nia7." 
+
+Chit-khoan2 su5 na7-si7 kong2 e7 thong, chiu7 po2-chhi5 goan5-lai5 e5 ji7-heng5; na7-si7 bun5-gian5-im bo5 hah8 oe7-gi2--e5, "oa7-sia5-thiam-chiok", e7-sai2 pian3-hoa3 cho3 sin e5 Tai5-gi2-su5 "oe7-choa5-thiN-kha", lai5 kian3-lip8 chhut POJ e5 sin-su5. 
+
+2-5. E7-tang3 iok-teng7-siok8-seng5--boe7? 
+
+Bun5-ji7 chi2-iau3 keng-koe3 hak8-sip8, bun5-ji7 kian3-lip8 e5 kui-hoan7 i2 iok-teng7-siok8-seng5 siong7-kai3 tiong7-iau3; iong7 POJ sia2 su5 e5 chit-khoan2 kui-hoan7 e7 chin che7, ia7 tap8-tap8-tih-tih, u7--e5 e7 chin bo5-liau5, put-ko3 tui3 bun5-ji7-hoa3 e5 kian3-lip8 ia7-si7 e7 u7 pang-bang5--e5. Ti7 chia u7 6 hang7 e5 le7:  
+
+2-5-1. POJ ji7-bo2 e5 toa7-sio2-sia2 e5 kui-hoan7.
+
+ Chit chit8 tiam2 kap Eng-gi2 ji7-bo2 kang7-khoan2, eng3-kai chin ho2 kian3-lip8 kiong7-sek; chhin-chhiuN7: 
+
+Tai5-oan5 Lang5, ia7 e7-sai2 sia2 Tai5-oan5-lang5. 
+
+Tang-hai2 Tai7-hak8, m7-si7 Tang-hai2 tai7-hak8. 
+
+2-5-2. Ku3-tau7 e5 oan5-cheng2-seng3.
+
+ Iong7 Han3-ji7 sia2 e5 bun5-ku3, pi2-kau3-siong7 khah be7 cheng-bit8, su5-lui7 hun be7 chheng, ji5-chhiaN2 ku3 e5 kiat-kou3 be7 beng5. Iong7 POJ sia2 e5 ku3-tau7 pit-su chheng-chheng-chho2-chho2, toa7-sia2 e5 su5 chiu7-si7 chit8 ku3 e5 khai-si2, phiau-tiam2 hu5-ho7 ia7 ai3 beng5-pek8. Bo5-lun7 ku3 e5 tng5-te2 long2-si7 iu2-sou2 kin-ku3--e5. 
+
+ "Thak8-chia2 it-teng7 ai3 chu7-ki2 siong-sin3 chit hang7 tai7-chi3 e5 jin5-but8 si7 oah8-leng5-leng5 e5 lang5." 14 e5 bun5-su5.
+
+ "Hit si5 toa3 ti7 Iu5-thai3 e5, tioh8 to5-chau2 khi3 soaN-nih." Phiau-tiam2 ai3 beng5-pek8, thak8 khah e7 sun7. 
+
+2-5-3. Sou3-ji7 sia2-hoat e5 kui-hoan7.
+
+ Sou3-ji7 e5 hong-pian7-seng3 si7 chiok ho2 jin7-bat--e5, chin7-liong7 su2-iong7 sou3-ji7 pi2 POJ e5 su5 khah ho2. Ji5-chhiaN2 ia7 ai3 chit8 koa2 kiong7-sek: 
+
+5 khou gin5 piau2-si7 chiN5 e5 liong7; 5-khou gin5 si7 chit8 e5 5 khou e5 gin5-kak-a2. 2002 ni5 3 goeh8 15 m7-bian2 sia2-cho3 2002-ni5 3-goeh8 15; tan7-si7, Tai5-oan5-ji7 te7 9 ki5, te7 8 iah8, e7-sai2 sia2 9-ki5, 8-iah8. 
+
+2-5-4. Liong7-su5 m7-bian2 liam5-ji7.
+
+ Tai5-gi2 e5 liong7-su5 chin che7, ia7 khah hok8-chap8, m7-bian2 iong7 liam5-ji7--e5, bun5-chiong sia2--khi2-lai5 khah chheng-iu. 1 hang7 tai7-chi3, m7-bian2 sia2 1-hang7, ia7 m7-bian2 sia2 chit8-hang7. Chit8 chiah gu5, m7-thang sia2 cho3 chit8-chiah-gu5. 
+
+2-5-5. Hong-im-chha e5 sia2-hoat.
+
+ POJ sia2 e5 su5, hong-im-chha e5 khun3-jiau2 chin toa7. Bo5-kang7 hong-im e5 lang5, bo5 sip8-koan3 jin7-ji7, bo5 sip8-koan3 bat POJ--e5, kho3 thak8-im lai5 liau2-kai2 i3-su3--e5, long2 e7 tui3 POJ be7 ai3, che si7 chit8 e5 goan5-in. 
+
+Ki5-sit8 iong7 POJ sia2 e5 su5, lai5 kai2-koat hong-im-chha e5 khun3-jiau2 si7 siong7-kai3 ho2 e5 hong-hoat. Hong-im ti7 Tai5-gi2 lai7-te2, thiaN--khi2-lai5 u7 beng5-hian2 e5 kam2-kak; khiok-si7 chin-chiaN3 e5 sou3-liong7 chin iu2-han7, keng-koe3 teng7-liong7 e5 hun-sek, kan-taN si7 3% i2-ha7 (chu3: 12). Koe3-khi3 POJ e5 bun5-chiong e5 liong7 i2-keng chin che7, bo5 in-ui7 hong-im-chha gou7-kai2 su5 e5 i3-su3. Iong7 POJ sia2 su5 e5 lang5 e7 iong7 siong7-kai3 beng5-khak e5 tai7-chiong3 khiuN-khau2 lai5 hoat-piau2 bun5-chiong, chiam7-chiam7 tai7-ke sio-khoaN3-sio-iuN7, hong-im-chha e7 ju2 lai5 ju2 kiam2-chio2--khi3. M7-bian2 sia2-cho3 "bun7-te5/toe5"; he si7 oe7-choa5-thiN-kha--e5. 
+
+2-5-6. Goa7-lai5-gi2 e5 sia2-hoat. 
+
+Tai5-gi2 lai7-te2 u7 chin che7 goa7-lai5-gi2 e5 oe7-ku3; tan7-si7, POJ sia2 e5 goa7-lai5 bun5-su5 iau2 chin iu2-han7, sui5 lang5 sia2 sui5 lang5 bo5-kang5, au7-jit8-a2 chiah koh gian2-kiu3. Eng-gi2 e5 "Hitler" e5 POJ, u7 lang5 sia2 "Hi-tou2-lah" (chu3: 13); u7 lang5 sia2 "Hi-thah-lah" (chu3: 14). 
+
+3. 5 chiong2 kui-hoan7 e5 pi2-kau3. 
+
+Iong7 POJ sia2 su5 lai5 kian3-lip8 bun5-chiong si7 Han3-ji7 e5 kek-beng7, koe3-khi3 i2-keng u7 chin seng5-kong e5 le7, an3 Jit8-bun5, Han5-bun5, Oat8-lam5-bun5, ... ; tui3 Han3-ji7 e5 kai2-kek chit8 pou7 chit8 pou7 chhim. 
+
+Si7 siaN2-mih khoan2 e5 kui-hoan7 e7-tang3 hou7 Han3-ji7 e5 bun5-hoa3 pian3-cho3 POJ e5 bun5-hoa3? Tai7-ke long2 chai-iaN2 iok-teng7-siok8-seng5 e5 kui-hoan7 si7 siong7 tiong7-iau3--e5; khiok-si7 ma7 be7-sai2 bo5 hah8 bun5-su5 e5 li2-lun7 ki-chhou2. 
+
+Te7 ji7 tiong7-iau3--e5 si7: i2 bun5-ku3 e5 bun5-hoat ai3 u7 tok8-lip8 e5 su5-lui7. Che si7 e7-tang3 an3 Tai5-bun5 bun5-hoat lai5 kian3-lip8 kiong7-sek--e5. 
+
+Te7 saN tiong7-iau3--e5 si7: ai3 u7 su5-tian2 e5 su5-lui7 kui-hoan7. Kau3 bok8-chian5 ui5 chi2, POJ e5 Tai5-gi2 su5-tian2 chin khiam3-khoeh.  
+
+Te7 si3 tiong7-iau3--e5 si7: u7 hah8 ki3-ek bou5-heng5 e5 ji7-keng2. Bun5-su5 sia2-chok e5 ji7-keng2 si7 an3 ki3-ti5 lai7-te2 su-chhut--e5, chi2-iau3 hak8-sip8--koe3 e5 ki3-ti5, jim7-ho5 ji7-keng2 be7 u7 khun3-lan5. 
+
+SiaN-tiau7-kun5 si7 pi2-kau3-siong7 chun5-chai7 tioh8 kong2-oe7 e5 i3-hiong3, beh ti7 su-bin7 bun5-chiong piau2-tat8 siaN-i3, chu7-jian5 u7 khah bo5-hoat-tou7. Tai5-oan5-lang5 kong2: "Kong2-oe7 tioh8-ai3 thiaN boe2-siaN." Chit8 e5 su5 e5 boe2-im, chit8 ku3 oe7 e5 boe2-siaN, e7 eng2-hiong2 chin toa7 bo5-kang5 e5 ham5-i3, ia7-si7 chin iau3-kin2--e5. 
+
+4. Kiat-lun7. 
+
+4-1. POJ sia2 su5 e5 kui-hoan7 it-teng7 u7 su-iau3. 
+
+Chu7 kou2 i2 lai5, iong7 POJ sia2 su5 e5 kui-hoan7, sui-jian5 bo5 u7 chin giam5-bit8 e5 li2-lun7, tai7-iok si7 sui5 lang5 sia2 sui5 lang5 ho2; khiok-si7 ia7 bo5 san2-seng chin toa7 e5 cheng-gi7 lai5 gou7-kai2. Put-ko3, che si7 in-ui7 koe3-khi3 kau3 taN POJ e5 bun5-chiong iau2 m7-si7 koaN-hong e5 bun5-hian3, m7-si7 hoat-lut8 e5 bun5-kiaN7. Choe3-kin7 Tai5-gi2 e5 hok8-heng iau2 kan-taN si7 i2 gi2-gian5 e5 po2-chun5, seng-thai3 e5 ui5-hou7, siong7 ke u7 iau-kiu5 tioh8 chiaN5-cho3 koaN-hong e5 oe7-gi2; si7-m7-si7 chin3 chit8 pou7 ai3 iau-kiu5 cho3 koaN-hong e5 bun5-ji7? Jim7-ho5 hoat-lut8--e5, iu5-ki5 si7 khioh-soe3--e5, na7 bo5 POJ e5 pan-pou3, Tai5-oan5-lang5 m7-chai thang kau. Chit-khoan2 e5 thai3-tou7 chiah e7-tang3 hou7 POJ chiaN5-cho3 bun5-beng5 e5 bun5-ji7, sia2 su5 e5 kui-hoan7, it-teng7 ai3 giam5-bit8 kian3-lip8--khi2-lai5. 
+
+4-2. POJ sia2 su5 e5 su5-lui7 ki-chhou2 si7 kok-chiong2 e5 gi2-gian5 kiong7-thong--e5. 
+
+Jin5-lui7 e5 su-siong2 chai7 gi2-gian5 bun5-ji7-hoa3 e5 koe3-theng5 tiong, u7 chit8 e5 kiong7-tong5 e5 i3-liam7, chiu7-si7 su5-lui7 e5 hun-piat8, tai7-iok sio-kang5, long2-si7 i2 mia5-su5, tong7-su5, heng5-iong5-su5,...teng2-teng2. Leng7-goa7, bun5-ku3 e5 kiat-kou3 ia7 tai7-iok sio-thong, i2 tong7-su5 ka siu7-su5, tong7-su5 ka pou2-gi2 ui5 chu2; Eng-gi2 e5 5 toa7 ku3-heng5 iong7 lai5 cho3 Tai5-gi2-bun5 e5 hun-sek tai7-iok e7 thong. Put-ko3, che su-iau3 koh chin3 chit8 pou7 gian2-kiu3 kap hun-sek; sui-jian5 si7 an2-ne, lan2 e7-tang3 toa7-taN2 ka2-siat. Chai7 2-2 e5 tok8-lip8 su5-lui7 tham3-tho2 tiong, khoaN3 e7 chhut-lai5 chit-e5 chhu-se3 si7 kiong7-thong--e5.     
+
+4-3. POJ e5 su5-tian2 ai3 kin2-kin2 pian--chhut-lai5. 
+
+Koe3-khi3 kap sin pian e5 Tai5-gi2 ji7-tian2 chin che7, su5-tian2 ia7 u7; chiam-tui3 POJ sia2 su5 e5 kui-hoan7-seng3 su5-tian2 chin chio2 e7-tang3 iong7; tek8-piat8 si7 goa7-lai5-gi2 iong7-su5 e5 sia2-hoat. "gas, tennis, news, curtain, hand-driver, ......" e5 iong7-su5, chin chiap8 iong7 ti7 Tai5-gi2 e5 oe7, ia7 e7 chiam7-chiam7 chhut-hian7 chai7 Tai5-gi2-bun5 e5 lai7-te2, ai3 u7 it-ti3 e5 sia2-hoat, POJ chiah e7 liu5-heng5--khi2-lai5. Maryknoll e5 English-Amoy Dictionary ka7 tennis sia2 e5 su5 si7 "bang7-kiu5"; ka7 curtain sia2-cho3 "thang-a2-pou3"; ka7 news sia2-cho3 "siau-sit", "sin-bun5"; gas u7 sia2-cho3 "gah-suh", ia7 sia2 "oa2-su"; hand-driver e5 su5 bo5 siu. 
+
+Maryknoll e5 Tiong-kok Ban5-lam5-gi2 Eng-gi2 Ji7-tian2 (Amoy-English Dictionary) sou2 siu e5 POJ su5-tian2 u7 siu "ia2-jin5", bo5 siu "ia2-jin5-hian3-phok8"; chin che7 Tai5-gi2 kong2 e7 lian3-tng2 e5 su5-lui7, chhin-chhiuN7 "liam-hoe-bi5-chhio3" eng3-kai chin7-liong7 hong-hu3, POJ e5 liu5-heng5 chiah e7 kin2. 
+
+POJ e5 su5-tian2 na7 kin2-kin2 pian--chhut-lai5, sia2 su5 e5 kui-hoan7 chiu7 ju2 u7 kin-ku3, beh iau-kiu5 cho3 koaN-hong e5 bun5-ji7 ia7 e7 ju2 u7 hoat-tou7, chit-tiam2 si7 siong7 tiong7-iau3--e5. 
+
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. Sia7-Su5: 
+
+1. Kam2-sia7 Tai5-oan5 Lo5-ma2-ji7 Hiap8-hoe7 the5-kiong hou7 goa2 chit-pian3 chham-ka e5 ki-hoe7. 
+
+2. Kam2-sia7 koe3-khi3 chin che7 hoat-piau2 e5 bun5-chiong hou7 goa2 hak8-sip8--tioh8, lin2 e5 nou2-lek8 kap ti3-hui7, goa2 e7 beng5-ki3-chai7-sim.
+
+3. Kam2-sia7 pheng5-sim2 ui2-oan5 iong7-sim lai5 khoaN3 chit-phiN lun7-bun5. Lin2 e5 chi2-kau3 it-teng7 e7-tang3 hou7 goa2 chin3-pou7.
+
+Chu3 e5 Chham-kho2 Chu7-liau7:
+
+1. p.29 ; Tai5-gi2 Hoa5-gi2 e5 kiat-kou3 kap tong7-hiong3, te7 ji7 chheh, choan5 su Tai5-gi2 to7-gian5. TeN7 Liong5-ui2; Oan2-liu5 Chhut-pan2-sia7, 2000.  
+
+2. p.65 ; Siang-gi2 Lim5-kheng2 Toan7; Stefan Lorant goan5-tu3, Chan Cheng3-gi7 ek8-chok. Siang-gi2 Chhut-pan2-sia7, 1997. 
+
+3. p.875 ; Amoy-English Dictionary; The Maryknoll Language Service Center, 1976. 
+
+4. Ma2-thai3 Hok-im te7 8, te7 9 chiuN. 
+
+5. p.1 ; Tai5oanji7 te7 9 ki5, 2001.09.20. 
+
+6. p.21 ; sin ek8 e5 Ma2-thai3 Hok-im te7 10 chiuN. ROC Seng3-keng Kong-hoe7 chhut-pan2; 2001. 6.
+
+7. p.14 ; ham7 chu3: 6 e5 chheh kang7-khoan2. 
+
+8. p.9 ; ham7 chu3: 5 e5 kang7-khoan2. 
+
+9. p.135 ; Cheng-sok Tai5-gi2 Lo5-ma2-ji7 Lian7-sip8 kap Kui-lut8. TeN7 Liong5-ui2; Ong7-bun5 Chhut-pan2-sia7; 1993. p.12; Tai5-bun5 Bong2-po3, 62-ki5, 2001.11.15; 106 e5 khin-siaN, u7 70 e5 si7 bio5-sia2 tong7-chok--e5. 
+
+10. p.150 ; Tai5-oan5 Hok-kian3-oe7 e5 Gi2-im Kiat-kou3 kah Phiau-im-hoat. TeN7 Liong5-ui2, TeN Sia7 Siok-koan; Tai5-oan5 Hak8-seng Su-kiok8, 1992.
+
+11. p.20 ; Lian5-chiau-hoe Tai5-bun5 Chap8-chi3, 3-ki5, 1999.7. p.8; Lian5-chiau-hoe Tai5-bun5 Chap8-chi3, 6-ki5, 2000.4.
+
+12. p.216 ; Tai5-gi2 Khe2-si7-liok8 e5 Khe2-si7; Chan Cheng3-gi7; Siang-gi2 Chhut-pan2-sia7, 1998.
+
+13. p.2 ; Hong-hiong3 Siang-goeh8-khan, 15-ki5, 1992.3.
+
+14. p.20 ; Lian5-chiau-hoe Tai5-bun5 Chap8-chi3, 8-ki5, 2000.10.
+0. 0. 0. 0. 
+
+
+
+
+
+
+
+

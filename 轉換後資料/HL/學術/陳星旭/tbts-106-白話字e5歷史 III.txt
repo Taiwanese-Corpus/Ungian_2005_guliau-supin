@@ -1,0 +1,79 @@
+白話字e5歷史(III)     
+Henning Kloter原作	     陳星旭翻譯
+
+3.3  19世紀末期e5 POJ
+19世紀e5下半期，編纂閩南語參考文獻e5傳教士定定有創新e5建議。有e5 hou7人接受，最後to7代替以前 e5方案。比如講Doty系統內面用 <‘ > 來表示送氣音 /ph，th，kh，tsh / to7 hou7後--來ti7後壁加一字< h > e5系統代替--去。其他有e5建議to7真短命。比如，Carstairs Douglas用中央加一畫e5 < θ。 > 來表示 /    /？，但是，無joa7久這個用法to7無人koh繼續--a。下面e5 表一是tui3 Medhurst以來，拼音法重要改變e5概要。 
+
+表一	POJ拼音法e5改變
+	Doty	MacGowan	 Douglas	Warnshuis	Campbell	Barclay
+	1853	1869	1873	De Pree 1911	1913	1923
+/     /	O。	O。	θ。	O。	O。	O。
+/ts/  ti7  /i，e/  e5頭前	ch	ch	ts	ch	ts	ts
+/ian/	ian	ien	ien	ian	ian	ien
+/iat﹁ /	iat	iet	iet	iat	iat	iet
+/i   /	ieng	eng	eng	eng	eng	eng
+/ik﹁ /	iek	ek	ek	ek	ek	ek
+/m，n/後壁 e5鼻母音	n	n	n			n
+送氣音 /ph，th，kh，tsh/	‘	h	h	h	h	h
+
+ 
+3.4	其他e5字母拼音法
+除了chia-e5無仝e5所在，傳教士一般攏toe3 19世紀中期所發展出--來e5拼音規則。但是，ma7有一koa2無屬教會e5字典編纂者認為in m7免受chia-e5拼音規則e5束縛。上明顯--e5是荷蘭翻譯者C.F.M. deGrijs kap J.J.C. Francken所編e5字典(1882)，以及in e5仝國人kap同事Gustave Schlegel。
+1862年，Schlegel kap Francken ti7 Java受任做翻譯員。接受這個khang-khoe3了後，in 才發現「Ti7荷屬印度beh講上蓋普遍e5口語，有需要一pho7好e5漢荷/荷漢字典。」DeGrijs到Java一年後就死--去。但是Francken有ka7伊e5第一份手稿修改補充。雖然這pho7《漢荷字典 (Chineesch-Hollandsch woordenboek) 》e5編纂用20 年，但是這pho7 字典ti7 Douglas hit本開創性e5《漢英字典 (Chinese-English dictionary) 》出版無joa7久以後才出版。 所以Schlegel講，「這本已經hou7新--e5代替--去，無路用--a 」。顛倒Schlegel所編e5另外hit本，因為伊e5內容豐富，soah ti7歷史上有一koa2重要性。一直到今a2日，這pho7有四卷厚e5《荷漢字典 (Nederlandsch-Chineesch woordenboek) 》是所有研究閩南語字典中間，上蓋好理解e5參考書。
+Schlegel、Francken kap De Grijs e5拼音法kap POJ有幾a7位無像。Schlegel ti7伊荷英e5雙語序言內面有提起伊ti7 1872 beh轉去荷蘭以前有kap Douglas討論過拼音e5問題。無進一步詳細講，伊有承認，伊beh說服Douglas採用伊e5系統，kan-na一部份成功。因為咱無確實會tang3證明Schlegel e5拼音法對後--來e5台灣Ho7-lo2話e5羅馬字化有影響，所以我無beh繼續討論這項代誌。
+
+4.	POJ e5功能性變化
+Walter Medhurst開始設計字母拼音法e5時，伊是用che做讀華語文字e5補助工具nia7-nia7。Medhurst e5看法是，西文字母m7是beh代替華文書寫e5方法，kan-na是beh去bat伊e5方法。Ti7序言e5尾段，伊希望，「現在這個小小e5努力將來對華語文學e5推廣有明顯e5貢獻。」Medhurst e5態度反映19世紀早期傳教士e5共同看法。DeFrancis (1950)有講，「1834年e5時，無論是專家抑是業餘--e5，大家攏同意，華文e5特色是，伊是一種非常困難、真特殊e5單音節文字，上重要--e5是伊是表意e5文字」。
+ 1850年以後，有關POJ功能性e5論點，特別是kap華文e5書寫法比較起--來，有各種真無仝e5看法。1851年Samuel Wells Williams 對第一篇有關教授華人學生羅馬字教學成功e5報告，有寫按呢e5評論:
+	有koa2傳教士認為華人beh學習in e5口語，最好e5辦法是開一條新路，m7是一步一步辛辛苦苦去行舊路，因為hia有千千萬萬e5字，親像奇形怪狀e5石頭，四界亂生e5樹枝，ti7 hia teh擋路。Hou7大多數e5旅客猶未到目的地以前to7浪費真che7時間，koh失去耐性kap機會。
+Ti7廈門e5傳教士中間，Carstairs Douglas提出對POJ上根本徹底koh最有展望e5建議方案。伊全部用POJ來表記當時e5口語，這種拍拚 ti7 19世紀尾20世紀初e5傳教士中間，是獨一無二--e5 。1873年，伊ti7所著字典e5序言寫:
+	『廈門話』m7是kan-taN是一種地方方言抑是無標準e5語言；普通老百姓kap上層階級，上有學問kap無知識e5人攏ma7 teh講。『Dialect』這字也無ka7伊特殊e5字意正確表達出--來。其實伊m7是別種語言e5某一個地方方言；伊是一種特殊e5語言。Ti7支那e5土地頂面，各所在有完全無像e5語言。
+
+Ka7廈門話定義做一種特殊e5語言以後，Douglas自然to7 be7 koh像以前e5羅馬字化推動者hiah-nih死心teh用漢字來寫。伊用另外這種西文字母來代替漢字e5做法會tang3 koh khah明白表示廈門話是一種特殊e5語言e5立場。伊ti7 hit個序言，koh寫:
+	最大e5缺陷是漢字e5欠缺。 Che有二個原因: (1) 有真che7話語，差不多有四分之一至三分之一，根本就無相當e5漢字 .. (2) 若準講，相當e5漢字有chhoe7--著，我ma7真困難甚至無法度ti7 chia印出來用。這陣我雖然因為無ti7這本字典用著漢字感覺遺憾，但是我ma7真歡喜我無用漢字。因為按呢才有法度明白表示廈門話是一種獨立語言e5事實，伊m7免oa2靠別種書寫文字，to7會tang3家己khia7起。
+
+我用兩e5附圖來說明使用POJ有兩種完全無仝款e5 做法，。Ti7 圖一，POJ只是寫ti7漢字正旁做補助說明e5工具。Ti7圖二，卻是tui3頭到尾攏全部用POJ e5寫法。
+
+圖一: 由Doty (1853:136)摘錄
+Violent	勉強		bian2 kiong2
+Visible	可看見	oe7 kuo8an tit
+Warm				sio
+Weak			軟弱	lam2; nung8 chiaN2
+Weary		倦		ia3
+Weighty	對重	傷重	tui3 tiong7, siong tiong7 
+Well		好	爽快	ho2 ;song2 kuo8ai
+Wet				tam5 
+White		白		peh8 
+
+圖二: 由 Douglas （1873:179）摘錄
+ji7 [ R,two;second]. te7-ji7, the second. toe7-ji7,id. ki5-
+ji7(R.),id.  be2-ji7--e5, the second last(v. be2). ji7-tsain2,
+the forefinger. ji7-chhoa7,  widower marrying again.
+ji7-chhut--e5, a woman married the second time.  ji7-
+hun-chhin, marriage when the bride has been married
+before,as widow or sold or divorced wife. tsoe3 ji7- hun -chhin, to marry such a woman.   chiah8 ji7-chheng, 
+to smoke the refuse of opium made up a second time.
+    ji7-pi2, the two parties in a dispute.  ji7-kau5, that
+one of the dice that has two dots.  ji7-sim, double-
+minded.  u7-ji7-sim, id.
+    bo5-ji7, having no peer or equal (s. word).   chi3-toa7
+bo5-ji7, the greatest of all; having none equal.  chhin-
+chhiuN7,kau3 bo5-ji7, exceedingly like.
+    ji7-kui2, how many above twenty? which day of the
+last decade  of the month? ji7-tsap8, twenty; the 20th
+of the month.   ji7-tsap8-it, twenty-one.  ji7-it, id.; the
+21st of the month.  ji7-kau2, twenty-nine; the 29th of
+the month (v. kau2).  it-ji7-tsap8-e5, near twenty.  ji7-
+pah, two hundred.   tsap8-ji7, twelve.  jih8-ji7, twenty-
+two; the 22d.  tsap8-poeh jih8-ji7, from 18th to 22d
+year(blooming period of youth). ji7-poeh, twenty- eight. si3-si3, tsap8-lak8; ji7-poeh, iah8-si7 tsap8-lak8,  four times four make sixteen; so also twice eight; it is just the same any way you take it.
+
+Douglas這種非正統e5論點ma7 m7是無爭論--e5。大部份華人kap真che7外國學者，最後ma7無愛用西方字母來寫，in講he是gin2-a2字。以後e5幾十冬，傳教士ma7一直teh爭論 in ti7 教育上e5好處：用西方字母來寫，敢會超過長期teh書寫e5漢字。下面e5兩段記載是當時ti7台灣開始推廣POJ e5甘為霖 (William Campbell) kap 巴克禮(Thomas Barclay)兩位牧師e5看法。Campbell認為西方字母e5書寫法無法度完全代替華文書寫法：
+照最近ti7支那發展e5狀況來看，無人對咱傳教e5兄弟公然推廣羅馬字、刊印一koa2無真有價值e5文章，棄sak華文書寫法e5做法有同感。 M7是(???)；恁看用當地文字刊印e5雜誌已經增長數百本，chia-e5無啥水準 e5投稿，並無被推sak掉，顛倒變做一koa2  siok8 koh方便e5手冊，hou7 beh學華文e5人，會tang3學khah完全，khah正確。 
+
+另外一旁，Barclay為著支持羅馬字化書寫法來辯護：
+我初初來到Formosa無joa7久，我to7有確信三項代誌，現在經過五十冬e5經驗後，我koh khah堅定我e5信念。第一，若beh有一個健康、活跳跳e5教會，教會內e5每一位兄弟姊妹一定ai3家己讀聖經；第二，用漢字來讀聖經，一定無法度達到這個目標；第三，這個目標只有用西方字母，羅馬字才會達成。我定定teh想按怎ka7口語羅馬字化，thang hou7婦仁人、gin2-a2 kap無讀冊e5人來用。用kan-na學者才會曉用e5漢字，本來to7是一種失敗e5證明。所以我to7家己做模範，無寫漢字，kan-na用羅馬字拼音。Ti7我一生內底，我kan-na有一擺用漢字聖經ti7講台講道，我對hit擺感覺足遺憾。 我知影hit擺我若無按呢做，我會失去學者e5身份，但是比起我所ng3望e5結果，he (譯者注:失去學者e5身份)不過是小小e5一項代誌。 
+
+（本文用英文發表ti7 《2002年台灣羅馬字教學kap研究國際學術研討會論文集》）
+訂正:承原作者指正，104期第3頁，《彙字..十五音》，應該改做《彙集雅俗通十五音》，作者是謝秀嵐。
+
