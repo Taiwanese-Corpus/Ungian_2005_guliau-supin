@@ -185,4 +185,130 @@ Out7?bai2 chit種做法是以「語詞」(包含多音節kap單音節)做單位�
 
 若講kah "-" chit-e5符號，真明顯e7-sai2看出白話字是ka7定義做區別音節e5「音節符號」，並m7是區別音素位置屬性e5「隔音符號」。未來若大家認為有需要改進白話字，e7-sai2考慮ka7 "-" 定義做「隔音符號」。像講han-chi5，i e /n/ ham7 /ch/真清楚是無可能tau3-tin7 cho3-hoe2發音--e5，所以e7-sai2寫做hanchi5;若是kokong，因為有可能是kok-ong (國翁) ma7有可能是ko-kong (高公)，所以to7 ti7適當e5位置加「隔音符號」hou7語詞khah正確--leh。事實上，像kokong chit種例實在真chio2，而且大部分long2是出現ti7專有名詞，一般台語e5多音節語詞真chio2有chit-e5問題。有人認為若ka7「音節符號」theh8掉e減慢閱讀e5速度，其實he是khia7 ti7慣習看漢字、無慣習看羅馬字e5角度來思考--e5。若是自細han3 to7教講「蕃薯」寫做hanchi5，an-ne i後--來讀著hanchi5 to7 e-tang3以正常e5速度了解語詞e5意思。
 
-台語e5介音(glides) /w/ ti7白話字--nih是寫做o，像講goa2、koe。有人感覺奇怪，講thai2無ai用w或者u做/w/ e5文字符號？Che主要是因為台語e5介音/w/ gau5受後piah e音節核心e5影響：假使/w/後piah接「無koan5 e5母音」([-high])，像講/a/、/e/，to7 e7 hou7原本是[+high] e5 /w/向[-high] e5方向徙位。Chit chit8徙位，to7 hou7 /w/ e5音值接近[o]或者[
+台語e5介音(glides) /w/ ti7白話字--nih是寫做o，像講goa2、koe。有人感覺奇怪，講thai2無ai用w或者u做/w/ e5文字符號？Che主要是因為台語e5介音/w/ gau5受後piah e音節核心e5影響：假使/w/後piah接「無koan5 e5母音」([-high])，像講/a/、/e/，to7 e7 hou7原本是[+high] e5 /w/向[-high] e5方向徙位。Chit chit8徙位，to7 hou7 /w/ e5音值接近[o]或者[；因為/w/聽起來khah seng [o]或者[，所以傳教士to7 ka7寫做goa2、koe。Chit種介音/w/受後piah母音影響e5現象ti7越南話內底ma7是有，而且ma7表現ti7 in e5文字系統--nih；詳細請參閱後1節。
+
+台語內底有be7 chio2鼻音化e5現象。Ti7白話字--nih是ka7鼻音符號 " n " 加ti7音節e5正peng5頂koan5，像講tin (甜)、chiun2 (蔣)、koain (關)。
+
+另外，台語iau2有na5-au5塞音化(glottal stop) e5現象(IPA標做[])，chit-e5 na5-au5塞音ti7白話字--nih是用h來標示，像講「鴨」(IPA標做 )寫做ah，「滴」(IPA標做 )寫做tih。
+
+3.2. 越南語國語字方案
+
+越南話e5方言差異真大，根據蔣為文e5初步觀察，in e5差異可能比台灣e5台語方言koh khah大。無kang7學者對越南話方言e5分類有無kang5 e5意見；根據Ngueyn Dinh Hoa (1997:10) e5講法，越南話大概e7-sai2分做北、中、南3大方言區，分別以河內、順化、胡志明市做代表。現此時越南是以河內e5方言做全國e5標準，使用ti7全國e5教育系統。根據Doan Thien Thuat (1999) e5音韻分析，河內標準音有19 e5聲頭、13 e5單母音、3 e5雙母音(diphthongs)。35聲調e5部分，根據現此時越南教育系統e5教法，有6 e5聲調(調類)。36 Lan2分別ka7 chit-koa2音素kap聲調列ti圖表 6、圖表 7、圖表 8、圖表 9 kap圖表 10。
+
+圖表 6. 越南話e5聲頭(用國際音標IPA表示)
+
+圖表 7. 越南話e5一般單母音(用國際音標IPA表示)
+
+圖表 8. 越南話e5短e單母音
+
+圖表 9. 越南話e5雙母音
+
+圖表 10. 越南話e5聲調
+
+越南話e5音素ham7文字符號e5對應kap拼字法比台灣白話字有khah複雜sio2-khoa2，若beh完全ka7 khng3 ti7本文--nih e7無方便讀，下面lan2 to7 ka7 in e5對應簡要列ti圖表 11 kap圖表 12 thang做討論，詳細e5音素-符號對應表kap拼字法請看附件1。
+
+圖表 11. 越南字e5聲頭ham7文字符號e5對應關係
+
+圖表 12. 越南話e5單母音ham7文字符號e5對應關係
+
+越南羅馬字e5音素ham7文字符號e5對應kap拼字法比台灣白話字有khah複雜sio2-khoa2。Che有幾e5主要e5原因：
+
+1) 因為越南話e5音韻系統本來to7比台語khah複雜，致使現有e5羅馬字母無法tou7應付一對一e5音素-符號對應e5需求，所以ai3 ti7現有e5羅馬字母頂頭動腳手做chit8-koa2修改。像講ti7 "o" 頂頭戴帽仔chian5 做Ou8 來表示[o]，thang區別o [。
+
+2) 因為當初設計e5時受著講無kang7母語e5眾傳教士e5影響。比如講gi [z] e5用法是受Italy話e5影響(Thompson 1987:62)、nh []是受葡萄牙話e5影響(Jerold Edmondson; David Silva個人訪談)、c， k， q [k]是受法語影響(Doan Thien Thuat個人訪談)、ph [f] 是受古希臘話影響 (DeFrancis 1977:58)。
+
+3) 因為方言音e影響。河內標準語雖然無捲舌音/t，m7-koh其他真che7所在long2有捲舌音，而且long2有反應ti7越南羅馬字e5拼字法--nih。比如講，原本越南字e5設計 "ch" 是用來記/c/， "tr" 記/ t；因為講標準語e人無分/c/ ham7 / t，所以拼字e5時tian7分be7清ai拼 "ch" iah是 "tr"；像講trang (種)有可能拼m7-tioh8，寫做chang (翁婿)。
+
+4) 因為歷史語音演變e關係。越南羅馬字自開始發展到tan ma7已經400冬--a，越南話e5語音ti7 chit 400年來當然有經過變化。當初時有差異e5語音，到chit-ma2有可能已經無分別--a。像講 "d" ham7 "gi" chit 2組符號ti7 17世紀e5時有可能分別是記[d] ham7 [kj] e5古音，m7-koh到現此時chit 2 e5古音long2變[z] e5音--a，但是文字書寫e5時iau2維持 "d" ham7 "gi" e5差別，所以現代人to7感覺符號使用無一致(Doan 1999:163-164)。因為hit-chun7設計者ka7 "d" theh來記[d] e5音，所以另外1 e5越南話音素/d/ (實際上i e音值是「pre-na5-au5塞音化」(pre-glottalized) e5 []) to7 ai用符號 "(r)" 來表示。
+
+5) 因為傳教士e5語言學知識有限，無法tou7完滿分析越南話e5音韻系統。像講當初同時用 "k" kap "q" 來表示kang7 1 e5音素/k/ to7是因為設計者kioh是介音[w]頭前e5 "q" (比如講qu?) e5發音ham7一般e5 "k" (比如講ka)無kang5，所以in to7用chit 2組符號。Koh比如講短母音((c))應該用ham7長母音/(?)類似e符號，m7-koh soah用ham7 /a/ (a)類似e5符號。現代語言學e5知識是經過久年e5累積chiah有今a2日e成就，hit當時傳教士e5音韻分析雖然m7是真完美，m7-koh算是真好e5成績--a。
+
+講完越南話拼字法比白話字khah複雜e5原因了，lan2續來補充講越南話聲頭、母音、kap聲調e5設計方式。
+
+有關塞音e5部分，越南話e5塞音有分清、濁、kap送氣，所以越南字e5設計ham7白話字kang7款：用p t k表示清音，b d g表示濁音，加h表示送氣。
+
+有關越南話e5 na5-au5塞音[]是m7是應該當做獨立e5音素，現代e語言學家有無kang5 e意見。Ti7越南羅馬字e5音韻系統--nih無ka7 na5-au5塞音[]分析做1 e5獨立e5音素，所以無符號來描寫chit-e5音，像講‥n [‥n]照講是ai3有na5-au5塞音ti7頭前，m7-koh ti7文字--nih無表現--出-來。雖然越南字無ka7 []表現--出-來，che並無造成大問題，因為語義be7因為an2-ne to7來hoe--去。
+
+另外，「雙重結束」(double closure) e5現象ti7越南字內底ma7無表現--出-來。Ti7越南話--nih，kap /k/若是接ti7 u， o，或者"後piah to7 e7發成kap ，像講"ng (阿公、先生)實際發音是。
+
+越南話e韻尾聲頭(final consonants) [c] kap  ti7越南字--nih是當做2 e5獨立e5音素，分別用 "ch" ham7 "nh" 來表記。M7-koh，[c] ham7 []其實ma7 e7-sai2分析做分別是/k/ ham7 /e5音素變體(allophonemes)，用符號 "k" ham7 "ng" 來表記to7 e-tang3。就chit-e5例來講，音素變體e5條件是ti7「前母音」後piah出現e /k/ ham7 / e7自動發做[c] kap 。像講，sinh (sui2;美麗)一定是發做[si]，無可能發做[si]。
+
+越南話e5音素ham7文字符號雖然有khah複雜，m7-koh有chit8-koa2情形是有規則e7-sai2 thang判斷--e5。Chit-e5規則是按照母音e5特色，ka7分做頭前vs.後piah、頂vs.下、長vs.短、圓chhui3 vs.扁chhui3 (參閱圖表 7、圖表 8、圖表 9)。Lan2分別舉例來說明：音素/k/後piah若接「頭前母音」to7 ai用符號 "k" ，其他e5情形to7 ai用 "q" 或者 "c"，像講ka、c﹐ (參閱圖表 11)。介音/w/後piah若接「頂母音」to7 ai用符號 "u" ，若接「下母音」to7 ai用 "o" ，像講nguy (危)、hoa (花) (參閱附件1)。音節尾溜(coda) [j]若接ti7「短母音」e5後piah to7 ai用 "y"， 其他e5情形to7 ai用 "i" ，像講Ey、tai (參閱附件1)。Ti7原來圓chhui3母音e5邊a加符號 " ' " to7變扁chhui3母音，像講u [u]變- []。
+
+有關越南話e5聲調到底有幾e5，che to7 ai看分類e5標準是siaN2；而且各地方言e5調類sio2-khoa2無kang5。雖然現此時真che7人long2講越南話有6 e5聲調，事實上che是受越南羅馬字聲調符號影響e5關係。因為越南字內底kan-tan表記6種聲調，所以人to7 kioh是越南話kan-tan有6種聲調。當初傳教士kan-tan表記6種聲調是因為in對聲調e5掌握無夠充分，無法tou7區分出韻尾語音/p/ (文字符號p)， /t/ (t)， /k/ (c 或者ch)收尾e5聲調，soah ka7 in歸類到s3/4c或者nAng調類去。若照傳統e5分法越南話是有8種聲調(參閱圖表 13)，其中e5「入聲調」ti7越南字--nih hong5合loe3「去聲調」。37
+
+因為ti7越南字--nih無區別傳統e5「入聲調」，所以其實上現此時e5 「s3/4c調」 ham7 「nAng調」long2 e7-sai2 koh分幼出2種聲調。比如講， "s﹐ng" ham7 "s﹐p" 雖然long2 peN5-peN5是「s3/4c調」，m7-koh in e5調值無kang5:"s﹐ng" e5發音時間(duration) khah長，聽--起-來seng5北京話e5第2聲(c.k.麻)；38 "s﹐p" e5發音時間khah短，聽--起-來seng5台語e5第8聲。"§ang" ham7 "(r)ac" 雖然long2 peN5-peN5是「nAng調」，m7-koh："(r)ang" e5調形類似「huyOn調」，但是發音時間比「huyOn調」短、比 "(r)ac" 長；"(r)ac" e5發音時間比 "(r)ang"  短，khah seng5台語e5第4聲。
+
+有chit8-koa2所在e方言，像講胡志明市，並無「ng·調」；in hia e5人ka7「ng·調」發做「hai調」。所以hia e5人teh寫越南字e5時khah容易ka7「ng·調」phiat8做「hai調」。
+
+因為越南話真chio2有變調e5現象，所以原則上an-choan2講to7 an-choan2寫。若有變調e5時，有時e7標變調。比如，m-ei (數量10 e5意思)本調是m-ei，i若頭前有接數字，像講hai m-?i (20 e5意思) e5時，e7變做m-?i，寫e5時to7照變調寫m-?i。若是因為地方腔口e5關係致使聲調有無kang5 e5時，無kang5 e5聲調e5標法有可能e7同時存在，像講「多謝」e7-sai2寫做「c﹐m ?n」或者「c?m ?n」。E7同時存在e5原因大部分是因為hit-koa2腔口已經真普遍--a；若是腔口無普遍e5時chun7，hit種腔口e5寫法通常e7 hong5當做寫m7-tioh8--去-a。以上所講e5 chit種處理腔口e5方式無限定ti7聲調，ma7適用ti7聲頭kap母音。
+
+圖表 13. 越南話e5傳統聲調調類
+
+越南字拼字e5時chun7 ham7白話字kang7款是以音節做基準，m7-koh越南字ti7音節之間是採用lang3 1格(space) e5方式來區別音節，像講ViOt Nam (越南)、hiOn nay (現在)、tiOn sU (博士)。
+
+越南字e5標點符號kap大小寫e5規定1部份照西洋語文e5用法，1部分koh有in越語特別e5用法，1部分是隨人e5 ka-ti7用法。下面to7 sio2-khoa2舉例來講：
+
+每1句開始e5頭1 e5字母long2 ai3大寫，結束ai3有 "."。
+
+專有名詞，像講人名、地名等e5頭1 e5字母ai3大寫。專有名詞分2大類，第1類是漢越詞，也就是原本是漢字e5詞。若準chit-koa2漢越詞是人名kap地名， "原則上" 根據「音節」來大寫，像講§μi Loan (台灣)、ViOt Nam (越南)；m7-koh ma7有例外--e5，像講En (r)e (印度)。Che例外e5原因有可能因為現此時e5民眾已經be7-hiau2漢字，be7記chit En (r)e原本是漢越詞。另外，若是人名、地名以外e5漢越詞to7照「語詞」或者「詞組」來寫，像講Quec ng÷ (國語)、X· hei chn nghUa (社會主義)、Ceng hoμ x· hei chn nghUa ViOt Nam (ma7 e7-sai2寫做Ceng hoμ X· hei Chn nghUa ViOt Nam；共和社會主義越南)。
+
+第2類是漢字以外e5專有名詞。Chit類大部分根據「語詞」來大寫，像講﹐p-ga-ni-xtan (Afghan)、?-xa-ma Bin La-(r)en (Osama Bin Laden)。
+
+越南字簡寫e5時chun7原則上照「音節」來簡寫，像講ViOt Nam簡寫做VN，X· hei chn nghUa (社會主義)寫做XHCN。
+
+越南話e5外來語主要有2 e5來源：早期以漢語為主，後--來以西方國家語言為主。以漢語為來源e5外來詞主要借漢字ka7讀做漢越音，像講Mu (美國)、Ph﹐p (法國)、v‥n hac (文學)、X· hei chn nghUa (社會主義)。以西方國家語言為來源e5外來詞to7用越南字ka7原語詞e5音拼寫出來，而且大多數long2無標聲調(若有標調，主要是標重音)，但是大多數ai3加音節符號 "-"。像講?-xtr(c)y-li-a (英語Australia)、pa-l‥ng (法語palan)、pDc-m‥ng-ga-n﹐t (法語permanganate)、" t" (英語automobile)、cμ pha (coffee)、Ucraina (Ukraine)、photo copy (ma7 e7-sai2寫做pho to co py；來自英語photocopy)。
+
+整體來講，越南字e5標點符號、大小寫、外來語e5使用雖然有一定e5原則，m7-koh變通性真大、穩定度iau2無夠。
+
+4. 結論
+
+越南羅馬字經過將近400冬e5發展，lou7尾總算ian2倒「漢字」、chiaN5做越南唯一e5正式文字。台灣白話字ti7台灣e5發展ma7過百外冬--a；現此時白話字e5發展已經突破「教會使用」時期、邁向全民使用e5階段。雖然白話字e5發展有比越南羅馬字khah慢，m7-koh越南e5例ka7 lan2證明講beh ka7台語書面語羅馬字化是有可能--e5。何況，就語言學e5角度來講，白話字e5設計比越南羅馬字khah簡單koh有系統性。就chit 1點來講，白話字koh khah有才tiau7 chian5做台灣正式e5文字。
+
+
+
+1 根據現存e文學作品年代所論斷。
+2 Ham7 Nguyen Thanh Xuan e5個人訪談。
+3 Ham7 Nguyen Quang Hong e5個人訪談。
+4 有關越南羅馬字e早期發展，請參閱Do Quang Chinh (1972)。
+5 Thompson (1987:54-55) and Ly (1996:5)。
+6 Dac Lo是越南名，法文名是Alexandre de Rhodes，漢字名是「得路」。
+7 原文Dictionarium Annamaticum， Lusetanum et Latinum。越南話俗稱「Viet Bo La」(越葡拉)。
+8 Walter Henry Medherst， 1796-1857。I 伊e漢字俗名是「麥都思」。
+9 1862年越南割「嘉定」、「邊和」kap「定祥」3省hou7法國，1885年全越南淪落法國殖民統治。
+10 像講1866年，1 e5法國殖民地行政官員Paulin Vial ti7 1張phoe--nih提起講"From the first days it was recognized that the Chinese language was a barrier between us and the nativesi8; it is the only one which can bring close to us the Annamites of the colony by inculcating in them the principles of European civilization and isolating them from the hostile influence of our neighbors" (quoted in DeFrancis 1977:77)。
+11 Ham7 Nguyen Quang Hong e5個人訪談。有關「東京義塾」，ma7 e7-sai2參閱Marr (1971:156-184)。
+12 河內是越南目前e5首都。
+13 一般來講，“要求已經e7-hiau2某種文字e5人學新e5文字系統” 比“hou7 ?-bat字e5「chheN-me5牛」去接受新文字系統”khah困難。像講，Stubbs (1980:72) to7指出當初美國e5英文拼字改革無成功e5主要關鍵to7是民眾無beh改變舊慣勢。
+14E7-sai2參考周有光(1978:18-25)。
+15 白話字冊名Tng5-oe7 hoan ji7 chhou hak8。
+16 英文冊名A Dictionary of the Hok-keen Dialect of the Chinese Language
+， According to the Reading and Colloquial Idioms。
+17 英文冊名Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy， with the Principal Variations of the Chang-chew and Chin-chew Dialects。
+18 白話字冊名E7-mng5-im Sin Ji7-tian2。英文冊名A Dictionary of the Amoy Vernacular Spoken throughout the Prefectures of Chin-chiu， Chiang-chiu and Formosa。
+19 白話字冊名Lan2 e5 Kiu3-chu2 Ia-so. Ki-tok e5 Sin-iok。
+20 白話字冊名Ku7-iok e5 Seng3 Keng。
+21 《台灣府城教會報》改過kui2-na7 pai2名，最近chit-pai2(1988)號做《台灣教會公報》。Chit份報紙ti7 1970年chin3前long2用白話字發行，1970以後改用中文發行，chit幾年koh開始ti7版面內底有1部份用台語文書寫，像講「父母話」版有白話字e5文章。
+22 E7-sai2參閱呂興昌1994。
+23 白話字冊名Pit Soan3 e5 Chhou Hak8。
+24 白話字冊名Lai7 Goa7 Kho Khan-hou7-hak8;英文名The Principles and Practice of Nursing。
+25 白話字冊名Chhut Si2-Soan3。李勤岸有ka7翻譯做漢羅台文版，全文e7-sai2 ti7台灣文學工作室網站掠著<http://ws.twl.ncku.edu.tw/>。
+26 白話字冊名Chap8-hang7 Koan2-kian3。
+27 我以《台灣教會公報》改做中文發行hit年做分界點。
+28 根據黃典誠ti7 1955年e5估計，ti7所有講Ho7-lo2話e地區，包含福建、馬來西亞、菲律賓、台灣等，long2總有115，500人e7-hiau2白話字。其中，台灣佔32，000人 (參閱許長安1992:70) 。
+29 有關1980年代以後e5台語文運動，e7-sai2參閱Chiung (1999:33-49)。
+30 台語ti7 chia e5定義是台灣各本土族群e5母語，包含原住民語言、客話、Ho7-lo2話。
+31 有關各式e5羅馬字，e7-sai2參閱楊允言&張學謙1999。
+32 Ti7 1996年由1陣海內外e5台灣少年家組成1 e5台譯5%計劃小組，chit-e5計劃to7是beh ka7 chit8-koa2 khah有名e5世界文學作品翻譯做台文。自1996年開始，已經出版幾10本e5冊--a。
+33 有關台語e5音韻系統kap白話字拼字法，詳細e7-sai2參閱張裕宏2001;鄭良偉、鄭謝淑娟1977。
+34 聲調符號加ti7音節核心只是1 e5主要e5原則nia5，ma7是有chit8-koa2 ?是標ti7音節核心e5例，像講 "poe7" kap "oe7" e5用法to7無一致。本論文內底e5標調ka7 chit種標調差異一律改做標ti7音節核心。
+35 /p/因為主要用ti7外來語，所以Doan Thien Thuat無ka7算在越南語e5音素之內。河內以外e5方言iau2包含有/t3種捲舌e5聲頭。
+36 根據無kang5 e5分類方法，越南話e7-tang3分做2 e5、4 e5、6 e5或者8 e5聲調。
+37 Ham7 Nguyen Quang Hong e5個人訪談。
+38 台灣華語e第2聲(調值212) ham7北京話e5第2聲(調值35)其實是無kang5--e5。
+
+
+
+
+
+
