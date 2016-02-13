@@ -52,10 +52,10 @@ Pio2 3-1 PKLSK kah APSK e5 pi2-kau3
 PKLSK
 APSK
 1.
-Ek8-chia2 e5 bu2-gu2 m7-si7 Tai5-gu2
-Ek8-chia2 e5 bu2-gu2 si7 Tai5-gu2
+Ek8-chia2 e5 bu2-gu2 m7-si7 Tai5-gu2
+Ek8-chia2 e5 bu2-gu2 si7 Tai5-gu2
 2.
-Ki-tok-kau3 hoan-ek8 e5
+Ki-tok-kau3 hoan-ek8 e5
 Thian-chu2-kau3, Ki-tok-kau3 kiong7-tong5 hoan-ek8 e5 
 3.
 Gu2-im kun-ku3 E7-mng5-oe7 
@@ -311,9 +311,9 @@ toe7-hng
 te7-hng
 70
 4
-soe2-le2
+soe2-le2
 93
-se2-le2
+se2-le2
 94
 16
 un-su3
@@ -330,9 +330,9 @@ chiaN5-cho3
 
 118
 17
-soe2
+soe2
 48
-se2
+se2
 32
 6
 phoe
@@ -352,19 +352,19 @@ huih
 hoeh
 70
 19
-pe7-bu2
+pe7-bu2
 34
-pe7-bo2
+pe7-bo2
 43
 8
-lau7-bu2
+lau7-bu2
 67
-lau7-bo2
+lau7-bo2
 68
 20
-kun7
+kun7
 64
-kin7
+kin7
 4
 9
 kio3-choe3
@@ -374,19 +374,19 @@ kio3-cho3
 
 127
 21
-lou7-be2
+lou7-be2
 48
-lou7-boe2
+lou7-boe2
 20
 10
-he2
+he2
 67
-hoe2
+hoe2
 48
 22
-gun5
+gun5
 51
-gin5
+gin5
 12
 11
 keng-ke3
@@ -446,14 +446,14 @@ B
 le2-mih8 
 P
 15
-le2-but8
+le2-but8
 B
 13
 4
 ngia5-chih 
 P
 4
-geng5-chiap
+geng5-chiap
 B
 18
 5
@@ -483,7 +483,7 @@ leng5-khou2
 
 
 1
-leng5-kho2
+leng5-kho2
 
 19
 Soat-beng5 : Piau-ki3-noa5, "B" piau2-si7 "Bun5-gian5-im", "P" piau2-si7 "Peh8-oe7-im". 
@@ -552,7 +552,7 @@ i
 lang5 
 3,657 
 2.3031%
-goa2
+goa2
 3,800 
 2.0153%
 4
@@ -567,11 +567,11 @@ lang5
 kong2 
 3,120 
 1.9649%
-lin2
+lin2
 3,753 
 1.9904%
 6
-lin2
+lin2
 2,972 
 1.8717%
 kong2
@@ -589,7 +589,7 @@ in
 si7 
 2,575 
 1.6217%
-lai5
+lai5
 2,769 
 1.4685%
 9
@@ -612,14 +612,14 @@ si7
 chiu7 
 2,138 
 1.3465%
-chiu7
+chiu7
 2,303 
 1.2214%
 12
 lai5 
 1,842 
 1.1601%
-Siong7-chu2
+Siong7-chu2
 2,244 
 1.1901%
 13
@@ -634,7 +634,7 @@ Ia5-sou (22)
 bo5 
 1,748 
 1.1009%
-hou7
+hou7
 2,175 
 1.1535%
 15
@@ -655,14 +655,14 @@ kap
 kap
 1,674 
 1.0543%
-li2
+li2
 1,835 
 0.9732%
 18
 li2 
 1,654 
 1.0417%
-bo5
+bo5
 1,765 
 0.9361%
 19
@@ -685,10 +685,10 @@ Pio2 5-2 liat8-chhut gu2-su5 jia-kham3-lut8 (Coverage) kah sou2 chiam3 gu2-su5 s
 Pio2 5-3 sng3 chhut nng7-hun7 gu2-liau7 gu2-su5 pian3-hoa3 e5 pi2-le7, hun-piat8 iong7 sou2-u7 gu2-liau7 e5 kak-tou7 khoaN3 kiong7-thong-su5 K e5 pi2-le7, iong7 PKLSK e5 kak-tou7 khoaN3 PKLSK gu2-su5 bo5--khi3 e5 pi2-le7, iong7 APSK e5 kak-tou7 khoaN3 APSK gu2-su5 cheng-ka e5 pi2-le7. Koat-ho7 lai7-toe2 e5 sou3-ji7 si7 kun-ku3 tou5 4-1, iah-be7 kho2-lu7 khiuN-khau2 chha-i7, bun5-peh8 chha-i7 sou2 sng3 --chhut-lai5 e5.
 Pio2 5-2 gu2-su5 jia-kham3-lut8 kah sou2 chiam3 gu2-su5 sou3-liong7 e5 pha-sou3
 
-jia-kham3-lut8
+jia-kham3-lut8
 PKLSK
 APSK
-jia-kham3-lut8
+jia-kham3-lut8
 PKLSK
 APSK
 
@@ -868,11 +868,11 @@ Gu2-su5
 
 100 i2-siong7
 
-an2-ni (an2-ne), boh8-tit (m7-thang/m7-bian2), chaiN2-iuN7 (an3-choaN2), che3-si-thau5, chi7-chui7, chiu7-kun7, choe7-choe7(chin-che7), eng5-kng(eng5-iau7), gi7, ka-ki7 (ka-ti7), kiN3-na7, lah, mah, pe7 (thian-hu7), peh-siN3 (peh-seN3), siong7-te3(Siong7-chu2), thiN-sai3 (thian-sai3), ti7-teh, tiam3-ti7, tok8-tok8
+an2-ni (an2-ne), boh8-tit (m7-thang/m7-bian2), chaiN2-iuN7 (an3-choaN2), che3-si-thau5, chi7-chui7, chiu7-kun7, choe7-choe7(chin-che7), eng5-kng(eng5-iau7), gi7, ka-ki7 (ka-ti7), kiN3-na7, lah, mah, pe7 (thian-hu7), peh-siN3 (peh-seN3), siong7-te3(Siong7-chu2), thiN-sai3 (thian-sai3), ti7-teh, tiam3-ti7, tok8-tok8
 50~99
-bian2-tit, boe7-oe7 (be7), chai-e7, hoan7-na7, iau2-be7 (iau2-boe7), keng-hak8-su7, piaN2, siaN2-su7, sian-siN (sin-seN), sin5-jiah (sin5-chek), ta2-loh8, thiN-nih8, to3-khi3 (tng2-khi3), toe7-chiuN7 (te7-siong7), toe7-nih8
+bian2-tit, boe7-oe7 (be7), chai-e7, hoan7-na7, iau2-be7 (iau2-boe7), keng-hak8-su7, piaN2, siaN2-su7, sian-siN (sin-seN), sin5-jiah (sin5-chek), ta2-loh8, thiN-nih8, to3-khi3 (tng2-khi3), toe7-chiuN7 (te7-siong7), toe7-nih8
 30~49
-a3-beng7 (Amen), an-hioh, au5-kio3, bian2 (m7-bian2), chai7-ti7, chheng-choe3-gi7, chou2, eng2-oah8 (eng2-seng), gong5-ngiah8, hang5-hok8, hi7-khang, hiau2-ngou7, hi-li7-ni5, hoe3-bo5, hut-jian5, iuN5-ko, joa7, khi3-sak, khun2-tiok8, kiah8, kin2-kin2, lun7-kau3, seng5-chiap, siN3-mia7 (seN3-mia7), siu3, song3-hiong, sun7-than3, teh-beh (teh-boeh), tian7-nih8, tiap8, tioh8-boa5
+a3-beng7 (Amen), an-hioh, au5-kio3, bian2 (m7-bian2), chai7-ti7, chheng-choe3-gi7, chou2, eng2-oah8 (eng2-seng), gong5-ngiah8, hang5-hok8, hi7-khang, hiau2-ngou7, hi-li7-ni5, hoe3-bo5, hut-jian5, iuN5-ko, joa7, khi3-sak, khun2-tiok8, kiah8, kin2-kin2, lun7-kau3, seng5-chiap, siN3-mia7 (seN3-mia7), siu3, song3-hiong, sun7-than3, teh-beh (teh-boeh), tian7-nih8, tiap8, tioh8-boa5
 5.4 APSK Cheng-ka e5 Gu2-su5 
 Pio2 5-5 chiong APSK cheng-ka e5 gu2-su5, su5-pin5 ti7 50 i2-siong7 e5 liat8 --chhut-lai5. Toe2-soaN3 kah koat-ho7, chhiaN2 khoaN3 teng2 chit8-chiat e5 soat-beng5. 
 Pio2 5-5 APSK cheng-ka e5 gu2-su5 (pou7-hun7) 
@@ -886,9 +886,9 @@ a3, an2-ne (an2-ni), an3-choaN2 (chaiN2-iuN7), bun5-tou5, chin-che7(choe7-choe7)
 100~199
 a7, be7-tang3(boe7-oe7), bo5-lun7, chhe-phai3, hit-ui7, hoat-li7-sai3-phai3, hoat-seng, hou7-siong, it-teng7, kang7-khoan2, kang-chok, khai-si2, khi3-kau3, kho2, koh-khah, m7-bat, mi7-pau, pi7, seN3-mia7 (siN3-mia7), seng-oah8, siuN7-boeh, tai7-gian5-jin5, teh-boeh (teh-beh), thong-koe3, tian-to3, tioh8-ai3, tng2-khi3 (to3-khi3)
 70~99
-chit8-koa2, choat8-tui3, choe3-au7, chou2-sian, eng2-seng (eng2-oah8), hok8-hoat8, ia7-si7, iau2-boe7 (iau2-be7), it-tit8, ka2-su2 (siat-su2), ke3-siok8, ki5-tha, koe3-khi3 (ke3-khi3), lai5-kau3, lau7-su, pat8-lang5, pok8-jin5, sat-hai7, si2-bong5, sin3-giong2, sin5-chek (sin5-jiah), te7-siong7 (toe7-chiuN7), tioh8-kiaN, tng2-lai5, ui2-tai7
+chit8-koa2, choat8-tui3, choe3-au7, chou2-sian, eng2-seng (eng2-oah8), hok8-hoat8, ia7-si7, iau2-boe7 (iau2-be7), it-tit8, ka2-su2 (siat-su2), ke3-siok8, ki5-tha, koe3-khi3 (ke3-khi3), lai5-kau3, lau7-su, pat8-lang5, pok8-jin5, sat-hai7, si2-bong5, sin3-giong2, sin5-chek (sin5-jiah), te7-siong7 (toe7-chiuN7), tioh8-kiaN, tng2-lai5, ui2-tai7
 50-69
-heng5-ui5, chan3-bi2 (o-lo2), chun-siu2, kian3-cheng3, keng-hak8-chia2, su-iau3, hi-bong7, ai3-sim, sun7-chiong5, tah-ui7, chun2-pi7 (pi7-pan7), kam2-kak, i2-sek-liat8-lang5, kan-taN, bok8-tek, chin-to7, po3-ko3, lou5-le7, gi7-jin5, beng2-siu3, liau2-kai2, che3-phin2, hoan-geng5, lai5-lim5, choe7-ko3, su7-hong7, tai7-leng5, chai-ho7, pek-hai7, m7-ku2, pou7-hun7
+heng5-ui5, chan3-bi2 (o-lo2), chun-siu2, kian3-cheng3, keng-hak8-chia2, su-iau3, hi-bong7, ai3-sim, sun7-chiong5, tah-ui7, chun2-pi7 (pi7-pan7), kam2-kak, i2-sek-liat8-lang5, kan-taN, bok8-tek, chin-to7, po3-ko3, lou5-le7, gi7-jin5, beng2-siu3, liau2-kai2, che3-phin2, hoan-geng5, lai5-lim5, choe7-ko3, su7-hong7, tai7-leng5, chai-ho7, pek-hai7, m7-ku2, pou7-hun7
 5.5 Su5-pin5 pian3-hoa3 toa7 e5 gu2-su5 
 Kun-ku3 4.6 chiat gu2-su5 pian3-hoa3-liong7 PH(k) e5 kong-sek ke3-sng3, sou2-u7 e5 kiong7-thong-su5 e5 PH hun-sou3 ti7 -0.9960 kau3 +0.9870 chi-kan. Pio2 5-6 chiong PH hun-sou3 ti7 -0.9 i2-ha7 (ti7 PKLSK e5 su5-pin5 pi2 APSK ke chiok koan5) kah +0.9 i2-siong7 (ti7 APSK e5 su5-pin5 pi2 PKLSK ke chiok koan5) e5 gu2-su5 liat8 --chhut-lai5. 
 
@@ -929,7 +929,7 @@ freq=1
 freq=2
 su5-heng5
 
-freq≦2 pi2-le7
+freq≦2 pi2-le7
 PKLSK
 1,638 
 777 

@@ -30,12 +30,12 @@ Pio2-keh 1: Gi2-im chho3-ngou7
 Chho3-ngou7
 
 Cheng3-khak
-cheng5-au7-bun5
+cheng5-au7-bun5
 lui7-heng5
 
 hun-sek
 hak8-seng
-poa2
+poa2
 boah
 poa2 ti7 phang2 bin5-teng2
 
@@ -119,7 +119,7 @@ Type 5
 B
 bun7
 
-mng7
+mng7
 I  bun7, " Li2 na2-e7 an2-ne
 Type 8
 Bun5-peh8 hun3-loan7
@@ -129,7 +129,7 @@ tiau3-bu2
 
 thiau3-bu2
 
-goa2 ti7 chia tiau3-bu2
+goa2 ti7 chia tiau3-bu2
 Type 9
 Bo5 hun Sang3-khui3 
 B
@@ -169,7 +169,7 @@ ha7-ling7-oe7
 
 Ha7-leng7-hoe7
 
-Bi2-tang Ha7-leng7-hoe7
+Bi2-tang Ha7-leng7-hoe7
 Type1/type2
 Eng>ing/ initial consonant deletion 
 C
@@ -186,7 +186,7 @@ C
 oh8--koe3
 
 oh8-koe3 
-oh8--koe3 chit8 ni5 e5 Tai5-gi2
+oh8--koe3 chit8 ni5 e5 Tai5-gi2
 Type 14
 Khin-siaN piau-ki3 chho3-ngou7
 
@@ -230,9 +230,9 @@ ong5-chu2
 Type 7
 
 D (Sim-gi5)
-ho-seng2-te7
-ho2-seng3-te7
-I ai3 u ho-seng2-te7
+ho-seng2-te7
+ho2-seng3-te7
+I ai3 u ho-seng2-te7
 Type 2
 
 D (Sim-gi5)
@@ -243,7 +243,7 @@ Type 2
 
 D (Sim-gi5)
 ia
-ia7
+ia7
 ia e theh2 goa2 cho3
 
 Type 13
@@ -263,15 +263,15 @@ the3
 Type 17
 
 D
-chhu3-lai5
-chhu3-lai7
+chhu3-lai5
+chhu3-lai7
 chhu3-lai5 e5 tai7-chi3
 
 Type 7
 
 D
-sao3
-sau3
+sao3
+sau3
 sau3 thou5-khah
 Type 18
 U/o hun3-loan7
@@ -304,8 +304,8 @@ Type 19
 Tone 2 tone 7 chho3-ngou7
 
 D
-chu3-bi7
-chhu3-bi7
+chu3-bi7
+chhu3-bi7
 
 Type 9
 
@@ -319,20 +319,20 @@ Type 17
 
 D
 khuai2-lok
-khoai3-lok8
+khoai3-lok8
 
 Type 18
 
 D
 goeh2
 
-koe3
-goeh2 chit8-ji2
+koe3
+goeh2 chit8-ji2
 Type 1/type 17
 
 D
-chit8-ji2
-chit8-jit8
+chit8-ji2
+chit8-jit8
 "
 Type 20
 Final t be7-hiau2
@@ -345,7 +345,7 @@ Type 17/type 2
 
 D
 ka
-ka7
+ka7
 ka goa2 kong2
 
 Type 13
@@ -355,7 +355,7 @@ ai2
 
 ai3
 
-goa2 ai2 li2
+goa2 ai2 li2
 Type 2
 
 D
@@ -383,21 +383,21 @@ Type 21
 Tone 2 tone 3 hun3-loan7
 
 D
-ho7-beh2
-ho7-be2
+ho7-beh2
+ho7-be2
 
 Type 17
 
 D
-hong5-da3
+hong5-da3
 hong5-te3
 
-chiah8-png7 hong5-da3 toa7
+chiah8-png7 hong5-da3 toa7
 Type 1/type 22
 
 E (Li2 Sin3-tat)
 Li
-Li2
+Li2
 
 Type 23
 Tone 1 tone 2 hun3-loan7
@@ -405,14 +405,14 @@ Tone 1 tone 2 hun3-loan7
 E (Li2 Sin3-tat)
 tiong-iao8
 
-tiong7-iau3
+tiong7-iau3
 
 Type 18
 
 E (Li2 Sin3-tat)
-si7
-si5
-se3-han3 si7
+si7
+si5
+se3-han3 si7
 Type 23
 Tone 5 tone 7
 E (Li2 Sin3-tat)
@@ -426,7 +426,7 @@ Type 17
 
 E (Li2 Sin3-tat)
 hai2-siaN
-hai2-san2
+hai2-san2
 chha2 hai2-siaN
 Type 24/type 23
 Nasal vowel kap nasal n be7-hiau2
@@ -434,7 +434,7 @@ Nasal vowel kap nasal n be7-hiau2
 E (Li2 Sin3-tat)
 ai7
 
-ia7
+ia7
 ai7 u7 chin che7
 
 Type 25
@@ -447,7 +447,7 @@ Type 26
 Tone 7 tone 8 hun3-loan
 E (Li2 Sin3-tat)
 kia jit
-kin-a2-jit8
+kin-a2-jit8
 
 Type 4
 
@@ -475,7 +475,7 @@ Type 28
 In>eng
 F(A-cheng)
 lao be
-lau7-pe7
+lau7-pe7
 
 Type 18/type 1
 
@@ -557,7 +557,7 @@ Type 18
 
 F(A-cheng)
 thao-lo
-thau5-lou7
+thau5-lou7
 
 Type 18
 
@@ -632,14 +632,14 @@ Type 30
 Final k
 F(A-cheng)
 chia beng
-chiah8-png7
+chiah8-png7
 
 Type 17
 
 F(A-cheng)
 geh tng3
 
-ke3-tng3
+ke3-tng3
 
 Type 1/type 17
 
@@ -647,7 +647,7 @@ F(A-cheng)
 chia
 chiah8
 
-chiah8-png7
+chiah8-png7
 Type 17
 
 F(A-cheng)
@@ -694,7 +694,7 @@ Type 1
 
 F(A-cheng)
 hak hao
-hak8-hau7
+hak8-hau7
 "
 Type 18
 
@@ -714,7 +714,7 @@ Type 20
 Final t
 F(A-cheng)
 ga
-ka7
+ka7
 ga gin-a gong
 Type 1
 
@@ -733,13 +733,13 @@ Type 1/type 5
 F(A-cheng)
 boa to2
 
-poah8-to2
+poah8-to2
 
 Type 1
 
 F(A-cheng)
 beh khiae
-peh--khi2-lai5
+peh--khi2-lai5
 
 Type 1
 

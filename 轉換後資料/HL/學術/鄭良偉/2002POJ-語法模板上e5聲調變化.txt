@@ -426,8 +426,8 @@ t1
 
 
 chit
-pun2
-toa7-pun2
+pun2
+toa7-pun2
 su5-tian2
 
 變調別
@@ -591,7 +591,7 @@ chit
 ui7
 
 
-TiuN hian3-tong5 sin-seN
+TiuN hian3-tong5 sin-seN
 變調別
 
 
@@ -607,7 +607,7 @@ t
 chit>8
 ui7>3
 
-TiuN>7 hian3>2-tong5>7 sin>7-seN
+TiuN>7 hian3>2-tong5>7 sin>7-seN
 c) 名詞模板(NP)所顯示e5台語聲調變化(有修飾擴充e5情形)
 Kang7 1 e5 NP內底1 e5以上e5變調音組，也to7是有1 e5以上e5本調(T) e5情況，只限ti7內部e5語詞有修飾語e5時e5語法擴充。有下面2種情形﹕
 a) N3*受修飾擴充； b) N0受修飾擴充。
@@ -955,8 +955,8 @@ t1
 
 
 chit
-pun2
-toa7-pun2
+pun2
+toa7-pun2
 su5-tian2_
 變調別
 
@@ -989,7 +989,7 @@ goan2
 
 chit_
 e5
-koai
+koai
 thai3-thai3
 
 表層發音
@@ -1083,8 +1083,8 @@ t1
 
 
 chit
-pun2
-toa7-pun2
+pun2
+toa7-pun2
 su5-tian2
 
 變調別
@@ -1110,7 +1110,7 @@ goan2
 
 chit
 e5
-koai
+koai
 thai3-thai3
 
 變調別
@@ -1227,7 +1227,7 @@ a
 
 去
 
-1-e7
+1-e7
 
 
 
@@ -1564,7 +1564,7 @@ lan2應該
 
 去
 
-1-e7
+1-e7
 
 
 

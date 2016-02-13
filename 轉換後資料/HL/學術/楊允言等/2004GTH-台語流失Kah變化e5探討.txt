@@ -51,8 +51,8 @@ APSK
 譯者e5母語m7是台語
 譯者e5母語是台語
 2.
-基督教翻譯e5
-天主教、基督教共同翻譯e5
+基督教翻譯e5
+天主教、基督教共同翻譯e5
 3.
 語音根據廈門話
 語音根據台中腔
@@ -264,20 +264,20 @@ an2-ne
 iau2-be7
 
 53
-iau2-boe7
+iau2-boe7
 87
 3
 ka-ki7[家己]
 493
-ka-ti7
+ka-ti7
 460
 15
 kio3-choe3[叫做]
 1
-kio3-cho3
+kio3-cho3
 127
 4
-chhe7
+chhe7
 93
 chhoe7
 
@@ -285,7 +285,7 @@ chhoe7
 16
 he2[火]
 67
-hoe2
+hoe2
 48
 5
 peh-siN3[百姓]
@@ -329,12 +329,12 @@ se2-le2
 20
 ke2-chi2[果子]
 65
-koe2-chi2
+koe2-chi2
 43
 9
 siN3-mia7[性命]
 47
-seN3-mia7
+seN3-mia7
 136
 21
 toe7-hng[地方]
@@ -344,7 +344,7 @@ te7-hng
 10
 chiaN5-choe3[成做]
 56
-chiaN5-cho3
+chiaN5-cho3
 118
 22
 sian-siN[先生]
@@ -359,7 +359,7 @@ phe
 23
 ke3-khi3[過去]
 27
-koe3-khi3
+koe3-khi3
 79
 12
 huih[血]
@@ -369,22 +369,22 @@ hoeh
 24
 un-su3[恩賜]
 27
-in-su3
+in-su3
 60
 
 表 4-5 P kah A相對應e5文白差異kah其它對應e5語詞
 id
 PKLSK
-Piau-ki3
+Piau-ki3
 #
 APSK
-Piau-ki3
+Piau-ki3
 #
 1
 chai-e7[災禍]
 P
 54
-chai-ho7
+chai-ho7
 B
 52
 2
@@ -406,14 +406,14 @@ B
 le2-mih8 [禮物]
 P
 15
-le2-but8
+le2-but8
 B
 13
 5
 ngia5-chih [迎接]
 P
 4
-geng5-chiap
+geng5-chiap
 B
 18
 6
@@ -523,7 +523,7 @@ i
 lang5 [人]
 3，657 
 2.3031%
-goa2
+goa2
 3，800 
 2.0153%
 4
@@ -538,11 +538,11 @@ lang5
 kong2 [講]
 3，120 
 1.9649%
-lin2
+lin2
 3，753 
 1.9904%
 6
-lin2
+lin2
 2，972 
 1.8717%
 kong2
@@ -560,14 +560,14 @@ in
 si7 [是]
 2，575 
 1.6217%
-lai5
+lai5
 2，769 
 1.4685%
 9
 in
 2，317 
 1.4592%
-u7
+u7
 2，607 
 1.3826%
 10
@@ -582,7 +582,7 @@ si7
 chiu7 [就]
 2，138 
 1.3465%
-chiu7
+chiu7
 2，303 
 1.2214%
 12
@@ -605,7 +605,7 @@ Ia5-sou[耶穌] (22)
 bo5 [無]
 1，748 
 1.1009%
-hou7
+hou7
 2，175 
 1.1535%
 15
@@ -633,7 +633,7 @@ li2[你]
 li2 [你]
 1，654 
 1.0417%
-bo5
+bo5
 1，765 
 0.9361%
 19

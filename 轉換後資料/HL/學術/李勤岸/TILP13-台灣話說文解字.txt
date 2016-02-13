@@ -50,7 +50,7 @@ Y
 Aa
 
 音意有對應。聲韻調有對應。又讀 niau-a2。
-bai2-bi7
+bai2-bi7
 [bai2]味
 禾黑
 𨦪
@@ -178,7 +178,7 @@ chiau2-siu7
 巢
 Bc
 [岫]，本字，華語罕用。[巢]，訓 讀。
-chut8-bi2
+chut8-bi2
 [秫]米
 淬
 糯
@@ -200,7 +200,7 @@ N
 舉、𧪄
 Cb
 [𧪄]，新造e5 會意字。[舉]，訓讀，非本字，聲韻無對。 
-gia5-ke5
+gia5-ke5
 [夯]枷
 N
 
@@ -314,7 +314,7 @@ ian-chhian5
 Ab
 
 本字e5 華語語意有轉變。[煙] 是假借字。[醃]，音意有對應 ，卡好。
-iau2-ku2
+iau2-ku2
 猶[閣]
 N
 
@@ -438,7 +438,7 @@ Y
 Aa
 
 音意有對應。
-lam7 cho3-hoe2
+lam7 cho3-hoe2
 [濫]做夥
 N
 
@@ -461,14 +461,14 @@ N
 老
 Cc
 本字有問題。假借字。
-lian5-hoe5
-li?n5-hoe5
+lian5-hoe5
+li?n5-hoe5
 N
 
 5連回
 Bc
 本字有問題。假借字。
-liau5-a2-si7
+liau5-a2-si7
 [聊]]仔是
 Y
 
@@ -499,14 +499,14 @@ Y
 Aa
 
 本字。
-lut-khi3
+lut-khi3
 [lut]去
 N
 
 脫
 Bc
 本字有問題。 新造形聲字。
-mi5-ban7
+mi5-ban7
 彌[漫]
 Y
 滿
@@ -529,7 +529,7 @@ Y
 Aa
 
 音意有對應;[越]:聲音清越。 聲韻調有對應。
-saN-chan3-lau5
+saN-chan3-lau5
 三[層]樓
 Y
 棧
@@ -544,7 +544,7 @@ N
 　
 Bc
 本字有問題。
-sang2-se3
+sang2-se3
 [爽]勢
 Y
 　
@@ -645,7 +645,7 @@ N
 傖，倯，庸
 Bc
 本字有問題。
-su3-si7
+su3-si7
 [四是]
 Y
 　
@@ -660,14 +660,14 @@ Y
 Aa
 
 會意字。音意有對應
-tam3-tam3
+tam3-tam3
 [t...–-tam3]
 N
 
 3頓， /占頁/
 Bc
 本字有問題。
-tan2-lou7
+tan2-lou7
 [等]路
 N
 
@@ -738,7 +738,7 @@ toa2遐 [ko7]
 Aa
 
 聲韻調有對應;[膏]，調無對，是假借字。e5 華語語意已經轉變。
-toh8 khi2-lai5
+toh8 khi2-lai5
 [toh8]起來
 N
 
@@ -753,7 +753,7 @@ N
 棟
 Bc
 本字有問題。
-tong7 bo5 lou7
+tong7 bo5 lou7
 [撞]無路
 Y
 　
