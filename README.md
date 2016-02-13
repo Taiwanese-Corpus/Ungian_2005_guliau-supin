@@ -39,3 +39,6 @@ virtualenv --python=python3 venv; . venv/bin/activate; pip install --upgrade pip
   * 人工用`notepad`共有`333pigu-`的檔案另存新檔做`UTF-8`格式
   * 斷行攏轉做linux格式
     * `find 轉換後資料/ -name '*txt' -exec fromdos {} \;`
+
+## 其他
+1. `./轉換後資料/HL/散文/楊允言/Miiome-鄒族紀事.txt`是html格式，其他攏是純文字格式
