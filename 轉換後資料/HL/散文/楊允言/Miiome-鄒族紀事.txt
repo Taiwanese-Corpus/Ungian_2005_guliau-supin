@@ -1,264 +1,73 @@
-<!-- #include virtual="/Util/hiansiPOJ.asp" -->
-<!-- #include virtual="/Util/VisitCounter.asp" -->
-<!-- #include virtual="/Util/jitki.asp" -->
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=big5">
-<title>Mi-io-me ── 鄒族紀事</title>
-<% POJ0 %>
-<% tongmia="miiome.asp"%>
-</head>
-<body bgcolor=Lemonchiffon leftmargin=100 rightmargin=100 topmargin="50">
-<basefont size=4>
-<center>
-<font color=maroon size=6>
-<%POJ "Mi-io-me ─ Chou-chok8 ki3-su7"%></font>&nbsp;&nbsp;
-<font color=navy size=6 face=標楷體>Mi-io-me ─ 鄒族紀事</font>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<% oatthok=tongansiukaijitki("kesng.txt") %>
- <%=GCounter(VisitCounter("kesng.txt"),3)%>
-<p align=right>
-
-<font color=darkgreen size=3 face=arial>
+Mi-io-me ── 鄒族紀事
+Mi-io-me ─ Chou-chok8 ki3-su7
+Mi-io-me ─ 鄒族紀事
 最近修改日期：
-<%=tongansiukaijitki(tongmia)%>
-&nbsp;&nbsp;&nbsp;&nbsp;
-最近閱讀日期：<%=oatthok%></font>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<%POJ "IuN5 Un2-gian5"%> 楊允言<br>
-羅馬字部分<%POJ "iah"%>未完成，若<%POJ "beh"%>鬥<%POJ "saN-kang7"%>請聯絡管理者
 
-<table border=1 width=100% bordercolor=silver cellspacing=0>
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>0
-<tr><td valign=top width=55%><font color=maroon>
-<% POJ "Mi-io-me, e-he-ia-a-oe<br>O---- mi-io-me, e-he-ia-a-oe<br>A-ta-pe-vo-so, na-na-lo<br>O---- mi-io-me, e-he-ia-a-oe<br>O---- mi-io-me, e-he-ia-a-oe" %>
-<td>
-<% POJ "Mi-io-me, e-he-ia-a-oe<br>O---- mi-io-me, e-he-ia-a-oe<br>A-ta-pe-vo-so, na-na-lo<br>O---- mi-io-me, e-he-ia-a-oe<br>O---- mi-io-me, e-he-ia-a-oe" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "Che si7 chit8-tiau5 Chou-chok8 e5 khan-bong5-koa, si7 goa2 oh8 e7-hiau2 e5 te7 it -tiau5 Chou-chok8 koa-iau5, koa-su5 e5 i3-su3 si7 an-ne7 :" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "這是一條鄒族e5 牽亡歌，是我學會曉e5 第一條鄒族歌謠，歌詞e5 意思是按呢：" %>
-
-<tr><td valign=top><font color=maroon>
-<% POJ "Si2--khi3 e5 bong5-hun5 a<br> Tng2-khi3 thiN-teng2 pah<br>ChhiaN2 Thian-sin5 lai5 chiap-lap8<br> Geh8-niu5 a<br>Li2 tioh8 in2-chhoa7 bong5-hun5 lai5 tng2" %>
-<td>
-<% POJ "死去e5 亡魂啊<br>轉去天頂吧<br>請天神來接納<br>月娘啊<br>汝著引chhoa7亡魂來轉" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "其實，我一直m7 知影，ti7 原住民運動中，咱chit-koa2[這些]漢人應該khia7[站]tiam3 啥麼款e5 所在。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "有時仔我tih想，假使咱beh關心原住民e5 問題，咱是m7 是 愛先有一兮「內化」e5 過程？To7是講，咱應該暫時放棄咱漢人e5 身段，先變做 原住民，kah in做伙生活，然後chiah有法度用in e5 角度來看chit-koa2 in所tu2 著e5 問題。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "但是chit點我ma7 做iah未kau3。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "以前ti7 馬祖做兵e5 時陣，連上有幾e5 原住民，in pat lim酒了後，光天化日下khia7 tiam3 路邊放尿，一半pai2 仔會起酒siau2，ma7 會去８３１(軍中妓院)開查某；m7-koh，有一件hou7 我印象真深e5 代誌是，有一個tih-beh退伍e5 原住民，因為hit陣khah自由，伊家己走去 山頂，轉來e5 時挽真choe7 草仔，煮煮e5 著theh8來食。東島(東莒)閣pat 發生一件代誌，一個原住民兵仔逃兵，bih ti7 山頂(東島無超過四平方公里)，永過e5 逃兵long2是一、兩工to7 hong7 liah8著，因為 in khah有野外求生e5 能力，經過一禮拜iah是無liah8 著，taN chit聲害a，是beh按怎chiah好？結果有一工，伊走去東島e5 ８３１ lim酒，to7按呢hong7 liah8 起來。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "一般來講，台灣e5 原住民有九族，這是人類學家e5 分法，按呢e5 分類，對原住民in是m7 是妥當，可能ma7 真phai2 講，in e5 族群意識 基本上是用部落做單位，部落e5 人數若siuN choe7，可能著有一koa2人 會分出去，閣chhe7另外一個所建立新e5 部落，ma7 有khah無勢力e5 部落歸化 入去別e5 khah強e5 部落；另外，若是phah獵e5 所在兩個部落有重thah8，按呢to7會結冤仇，人類學下腳，hong7 分ti7 仝一族e5 各部落，有可能是世仇；因為環境e5 關係，有e5 族群漢化khah深，若是toa3 ti7 深山林內e5，in e5 生活方式khah有法度保存，ma7 會hou7 咱感覺in看起來kaN2-na2 khah phai2 淡薄仔。" %>
-
-
-
-
-
-
-
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>1
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "今年 (1993)七月，我參加台原基金會所辦e5「鄒族生活營」，ti7 Tfuya(特富野)部落，對我chit個罕得走山頂e5 人，參加活動e5 原因，大部分是因為感覺趣味，無的確ti7 面對另外一個族群e5 時，ma7 會tang3 hou7 我一koa2 刺激。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "四工e5 活動中，老師 long2 是鄒族人，學員 long2 是漢人，有人學 音樂,所以beh[要]來聽in唱歌；有e5 學森林，所以beh來了解生態保育e5 問題；ma7 有做服裝設計e5，對in e5 傳統服飾有趣味；有人kah其他原住民族群已經有 接觸，趁chit-e5 機會來chia[這裡] 看mai7 仔；有e5 已經ti7 山跤[kha,腳]，讀過真choe7 資料，beh來山頂求證；當然，ma7 有一koa2 像我按呢共款 [kang7-khoan2,一樣]一箍癮癮[gian3]，著走起來山頂。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "Miiome 是第二工暗時一e5 老人教阮唱e5。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "鄒族分佈e5 所在，主要是ti7 嘉義阿里山鄉其中e5 七e5 村，屬北鄒；另外，高雄三民鄉kah桃源鄉ma7 有一koa2，屬南鄒，南鄒kah Bunun(布農) toa3[住]做伙，人數閣少，khah Bunun 化，危機意識ma7 khah重，所以，見若[每次]北鄒有祭典，in long2 會來參加。 long2 總加起來，鄒族e5 人數大約仔 是五、六千e5[個]。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "In家己稱呼in chit-e5 群體叫Chou2,所以有人認為「曹族」 是錯誤e5 講法。我想，這是以華語思考所得著e5 結論；事實上，日本時代著有 「曹族」chit款稱呼，hit-e5[那個]時陣，台灣並無華語e5 環境，「曹[cho5]」 kah「鄒[chou]」e5 發音beh仝仔beh仝，無應該講「曹族」是m7 著e5 稱呼。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "阮坐嘉義市公車ui3[從]嘉義車頭[車站]坐kau3[到]Tapangu (達邦),Tapangu 是一e5 部落，ma7 是Tapangu 村e5 行政中心，對[從]chia[這裡] 行入去，40分鐘左右會tang3 kau3 Tfuya 部落，Tfuya 部落，ti7[在]行政單位e5 觀點，是將伊劃ti7 Tapangu 村，這hou7 Tfuya e5 鄒族人感覺心內礙虐礙虐 [gai7-gioh8,尷尬],因為ti7 khah早e5 時，in小可[sio2-khoa2,稍微] 有敵對e5 關係。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "阮著toa3 ti7 Tfuya e5 教堂內。chit-e5 部落有一百戶左右， 阮去e5 時陣， 村內e5 人真choe7  long2 無ti7 e5， 走去山頂種山葵， 山葵會tang3 做 oasabi[芥茉]， 愛種ti7 日頭曝boe7 著e5 樹林內， 所以大部分是種ti7 國有林地內， 橫直[反正]boe7 去挫[chho3，砍]樹仔， 無礙著。種山葵對族人來講是一項真好e5 收入來源， 當然， 歸e5 產銷管道iah是[還是]控制ti7 漢人手頭。可能因為按呢， 查甫人留tiam3 山頂e5 boe7 少， kah別族比起來， 去都市工地做工e5 比例著khah少， m7 閣查某囡仔嫁去平地敢那[好像]真普遍， 致使留tiam3 山頂e5 查甫人娶無某， 若按呢落去， 總是有淡薄仔滅種e5 危機存在。另外， Tfuya 有兩間敢仔店[雜貨店]，  long2 是漢人開e5， in為啥麼beh[要]來山頂? 是因為原住民khah好騙， iah是山跤toa3 boe7 落去chiah[才]走路來山頂？" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "根據傳說， 鄒族是ui3[從]玉山來e5， 尚[最]強e5 時陣， 勢力 kau3 kah台南e5 安平， ti7 in身軀頂e5 裝飾有海邊e5 螺仔殼， 表示in kah大海有 接觸過， 聽講有e5 部落， 族人看起來有歐洲人生張， 照按呢來sak[推論]，可能荷蘭人 來e5 時， 血統小可[稍微]有濫著。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "講kau3 傳統服飾， ma7 真有特色， 一項一項沓[thah8，疊] 起哩， 不止費氣； 有phah[打]過熊e5 人， chiah[才]會使將有熊毛e5 飾物縛[pak8， 綁]ti7 頭頂； 有phah過山豬e5， chiah有資格用山豬嘴齒編成e5 旆鍊[phoa7-lian7， 項鍊] 掛ti7 頷頸[脖子]； phah過幾隻野獸， chiah會tang3 ti7 佩刀頂面劃幾巡 ，......， 一切照步來， 無tih kang7 相騙。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "鄒族e5 祭典主要有Mayasvi(戰祭) kah小米豐收祭， 有e5 祭典 並m7 是ti7 固定e5 時間舉辦， 由長老根據伊暗時做e5 眠夢來決定beh辦iah是無愛 辦。chit-ma2[現在]交通利便， 祭典 long2 會引來真choe7 觀光客，所以， 祭典無的確會 愈來愈形式化。部落e5 精神象徵叫做 Kuba ， 著是男子會所， 查某e5 boe7-sai2 [不可以]peh[爬]起哩， 出世初登會所禮、成年禮iah閣所有e5 祭典 long2 ti7 Kuba ，Kuba邊a 有廣場， 閣有一欉大葉榕[chheng5](雀榕)， 是鄒族e5 神樹。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "講著語言， 畢竟in是toa3-ti7 山頂e5 民族， 山勢、地形若是 小可有一e5 變化， 著有一e5 地名。In語言流失e5 情形真嚴重， 而且鄒族話以外， 華語比福佬話用khah choe7[多]； 教堂逐[tak8，每]工向族人廣播e5 時，鄒語、華語 濫做伙用， m7 閣華語khah choe7。岔開話題， 咱對chia[這裡]來反省福佬話e5 情形， 其實， 一e5 族群有一e5 族群e5 特色， beh[要]用另外一種語言來表達總是加減會 精差iah是無完全； 基本上， 華語ti7 台灣， 並無倚近chit塊土地， 比一koa2 例來講， 華語講「螃蟹」， 福佬話著有毛蟹、蟳[chim5]、chhi3 仔……等等e5 分別， 閣親像 華語e5「吃」， 福佬話著有食[chiah8]、sut、hut、孝孤、啖[tam7]sam2等等語感 無仝e5 語詞， 用咱家己e5 語言來了解咱e5 生活環境是尚介siak-phah [適切]e5， 但是， 為啥麼chiah-choe7[這麼多]台灣人beh[要]放棄家己e5 語言 ？" %>
-
-
-
-
-
-
-
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>2
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "學員 一直ka7 老師問問題， 我只是感覺逐家下[he]性命tih ka7 in ou2[挖] 物件真m7 好， m7 閣趁著chite5 互相溝通e5 機會， 無問ma7 是真phah損[可惜]。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "In教阮按怎舂[cheng]米 ， 舂kah變粉e5 米beh按怎做酒； 我 第一遍舂e5 時， 秘訣liah8 無著， 家己ma7 感覺姿勢真phai2 看， 第二遍以後著小可 有架勢出來， in講我舂了尚好， 但是我兩手手蹄仔[手心]phong3-pha7[起泡] ， 閣 破去， 腰酸手ma7 疼。in教阮beh按怎做陷阱來liah8 鳥仔、tng膨鼠[松鼠]、射熊、 拐山豬入去......。In教阮按怎做竹筒飯。in kah阮做伙唱歌。......" %>
-
-
-
-
-
-
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>3
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "四工 e5 活動， 留真choe7 e5 問題落來。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "有時仔我tih想，一大陣人走去一e5 部落， 部落e5 人應該無啥 歡迎，因為按呢會攪擾著in e5 生活。整體來講， in e5 個性khah開朗， khah活潑，對 朋友e5 感情真實， 無漢人e5 奸巧[khiau2] 。長久以來， 原住民kah漢人e5 接觸， 差不多 long2 是原住民食虧， in對漢人e5 印象自然無好。chit-ma2 iah閣真choe7 漢人 ka7 in叫做「番仔」， 無將in當做人來看待。可能因為按呢， 漢人e5 宗教傳boe7 入去 ， 但是神父來kau3 山頂， 對in有尊重， 結果天主教、基督教真緊著phah入去in e5 生活， 取代in原來e5 宗教信仰。宗教e5 入侵， 無的確帶hou7 in一koa2 好處， 問題 是chit款宗教排他性強， 叫汝愛信上帝， 信上帝e5 人chiah[，才]會tang3 上[chiuN7 ] 天堂， 拜其他e5 神boe7-sai2， 結果著ti7 神父e5 煽動下， Tfuya e5 Kuba 倒去， 神樹大葉榕ma7 剉掉， 剉掉無打緊， 閣撒[sa3] 鹽ti7 頂koan5， beh hou7 伊發boe7 出來。 ( Tfuya e5 Kuba 今年二月重起， 神樹ma7 閣發起來， m7 閣khah細欉。 )" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "對統治者來講， 伊求e5 是管理上e5 利便， khah boe7 去考慮著 族群之間e5 差異性。山地保留區iah是其它相關e5 政策， 限制著in原來e5 生活方式， 自底[本來]in phah獵， 自底in游耕； 行政區域e5 劃分， 有e5 並無尊重in e5 情形， 可比Tfuya hong7 分ti7 Tapangu村； 另外， 原來是一e5 頭人， chit-ma2 閣加一e5 村 長， 按呢族人應該愛聽啥人e5？ 換過來講教育， 現此時e5 教育體系， 基本上ma7 是 漢人e5 體系， 加上人數e5 差別， 一旦一e5 原住民進入chit-e5 體系， 伊愛面對 choe7-choe7 e5 漢人， 文化背景e5 差異閣大， in讀愈koan5[高]， 漢化e5 機會ma7 愈大， 若按呢， 教育對in是好iah是bai2[糟糕]？" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "事實上， 人數少本身著真值得煩惱， 若準部落khah開放， 驚會hong7 同化去， 但是假使保護了siuN 厲害， te3[跟]boe7 著現代化e5 跤步， kah社會ma7 會愈脫節， 一旦離開山頂， 真phai2 適應漢人社會， 若按呢， 對in kam2 有公平？ In tih講台灣猴[台灣獼猴]受保護， 但是鄒族e5 人數可能比台灣猴khah少， 動物愛保護， 人kam2 著免保護， 據在in消失去 ？" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "我知影我對in e5 了解siuN 少， m7 閣我tih想， 真choe7 in tu2 著e5 問題， 咱m7 知愛按怎解決chiah著， in家己ma7 可能m7 知影beh 如何是好。 " %>
-
-
-
-
-
-
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>4
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "Iah閣 [還]有一e5 是屬咱漢人本身e5 問題。最近幾年來， 原住民運動當tih發展， 原住民 e5 問題ma7 得著愈來愈choe7 人e5 重視； chit-pai2[這次]e5 營隊， 參加e5 chit-koa2 漢人內底， 包括福佬人、客人， 但是in普遍對家己本身e5 文化無啥了解， 尤其閣khah boe7-tang3 忍受e5 是， in已經差不多變做「北京人」a ， 家己e5 根底 著無在[chai7，穩] ， 按呢， 是有啥麼才調來關懷別人？" %>
-
-
-
-
-
-
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>5
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "細漢 時陣讀過吳鳳e5 神話， 後來chit-e5 神話hou7 m7 是鄒族e5 其他族群將伊phah破， 按呢看起來， 鄒族e5 自覺其實真oaN3[晚]。最近， in e5 智識青年有覺醒， 開始tih 採集in鄒族e5 傳說、故事， 由台原出版社出版(《鄒族的風土與神話》)， 《鄒族語典》 最近ma7 beh出版a ； 講起來， 鄒族可能真好運， kah其他e5 原住民比起來， in iah閣 保留真choe7 物件，所以， 有人開始tih做， hou7 族人信心， 按呢落去， 整體族群自覺 e5 跤步應該會khah緊， 另外一方面， 書有出版， ma7 會tang3 得著外界khah-choe7 e5 了解kah關心； iah閣有一e5 好消息， 著是鄒族e5 母語教育今年九月ma7 beh開始 a。" %>
-
-
-
-
-
-<tr><td colspan=2 align=center>
-<font size=6 face=arial>6
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "Ti7 Tfuya 四工， kan-na[只] 學著鄒族話一e5 詞: 「朋友」in講「ou1-a2-hng2」， kah 福佬話「芋仔園」真倚[oa2，近] ， 其它e5 著 long2 無記落來， 實在是見笑代。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "歌謠來講， in先教阮Miiome chit條真好聽e5 牽亡歌， 可能是 因為歌詞kah meloti[旋律] long2 真簡單、好記， 連鞭[nia-mi，馬上] 著學會曉a， 後來in 雖然閣有唱真choe7 歌， 總是我 long2 無法度記落來。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "Chit-pai2 族群接觸e5 經驗雖然是真粗淺， 總是對我e5 刺激 猶原[仍然] chiaN5[很]大。轉來了後， 我不時會唱起Miiome 。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "Kah福佬話e5 牽亡歌比起來， 伊加chiaN5[很]淒涼， 尤其是 暗時ti7 山頂唱e5 hit[那]種感覺。" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "我若唱起Miiome， in e5 天神kam2 會聽著？ 伊若看著鄒族 chit-ma2 e5 處境， 伊會艱苦boe7 ？" %>
-
-<tr><td valign=top><font color=maroon>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "O ---- mi-io-me， e-he-ia-a-oe" %>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;
-<% POJ "O ---- mi-io-me， e-he-ia-a-oe" %>
-
-
-</table>
-<hr>
-[<a href="../../chokphin.asp">轉去允言<%POJ "e5"%>文章</a>] &nbsp;&nbsp;&nbsp;&nbsp;
-[<a href="/iug/ungian/ungian.asp">轉去允言<%POJ "e5"%>網站</a>] &nbsp;&nbsp;&nbsp;&nbsp;
-[<a href="/taigu.asp">轉去本站首頁</a>] 
-
-
-</center>
-
-</body>
-</html>
+    
+最近閱讀日期：
+IuN5 Un2-gian5 楊允言
+羅馬字部分iah未完成，若beh鬥saN-kang7請聯絡管理者
+0
+Mi-io-me, e-he-ia-a-oe
+O---- mi-io-me, e-he-ia-a-oe
+A-ta-pe-vo-so, na-na-lo
+O---- mi-io-me, e-he-ia-a-oe
+O---- mi-io-me, e-he-ia-a-oe
+Mi-io-me, e-he-ia-a-oe
+O---- mi-io-me, e-he-ia-a-oe
+A-ta-pe-vo-so, na-na-lo
+O---- mi-io-me, e-he-ia-a-oe
+O---- mi-io-me, e-he-ia-a-oe
+Che si7 chit8-tiau5 Chou-chok8 e5 khan-bong5-koa, si7 goa2 oh8 e7-hiau2 e5 te7 it -tiau5 Chou-chok8 koa-iau5, koa-su5 e5 i3-su3 si7 an-ne7 :
+這是一條鄒族e5 牽亡歌，是我學會曉e5 第一條鄒族歌謠，歌詞e5 意思是按呢：
+Si2--khi3 e5 bong5-hun5 a
+Tng2-khi3 thiN-teng2 pah
+ChhiaN2 Thian-sin5 lai5 chiap-lap8
+Geh8-niu5 a
+Li2 tioh8 in2-chhoa7 bong5-hun5 lai5 tng2
+死去e5 亡魂啊
+轉去天頂吧
+請天神來接納
+月娘啊
+汝著引chhoa7亡魂來轉
+其實，我一直m7 知影，ti7 原住民運動中，咱chit-koa2[這些]漢人應該khia7[站]tiam3 啥麼款e5 所在。
+有時仔我tih想，假使咱beh關心原住民e5 問題，咱是m7 是 愛先有一兮「內化」e5 過程？To7是講，咱應該暫時放棄咱漢人e5 身段，先變做 原住民，kah in做伙生活，然後chiah有法度用in e5 角度來看chit-koa2 in所tu2 著e5 問題。
+但是chit點我ma7 做iah未kau3。
+以前ti7 馬祖做兵e5 時陣，連上有幾e5 原住民，in pat lim酒了後，光天化日下khia7 tiam3 路邊放尿，一半pai2 仔會起酒siau2，ma7 會去８３１(軍中妓院)開查某；m7-koh，有一件hou7 我印象真深e5 代誌是，有一個tih-beh退伍e5 原住民，因為hit陣khah自由，伊家己走去 山頂，轉來e5 時挽真choe7 草仔，煮煮e5 著theh8來食。東島(東莒)閣pat 發生一件代誌，一個原住民兵仔逃兵，bih ti7 山頂(東島無超過四平方公里)，永過e5 逃兵long2是一、兩工to7 hong7 liah8著，因為 in khah有野外求生e5 能力，經過一禮拜iah是無liah8 著，taN chit聲害a，是beh按怎chiah好？結果有一工，伊走去東島e5 ８３１ lim酒，to7按呢hong7 liah8 起來。
+一般來講，台灣e5 原住民有九族，這是人類學家e5 分法，按呢e5 分類，對原住民in是m7 是妥當，可能ma7 真phai2 講，in e5 族群意識 基本上是用部落做單位，部落e5 人數若siuN choe7，可能著有一koa2人 會分出去，閣chhe7另外一個所建立新e5 部落，ma7 有khah無勢力e5 部落歸化 入去別e5 khah強e5 部落；另外，若是phah獵e5 所在兩個部落有重thah8，按呢to7會結冤仇，人類學下腳，hong7 分ti7 仝一族e5 各部落，有可能是世仇；因為環境e5 關係，有e5 族群漢化khah深，若是toa3 ti7 深山林內e5，in e5 生活方式khah有法度保存，ma7 會hou7 咱感覺in看起來kaN2-na2 khah phai2 淡薄仔。
+1
+今年 (1993)七月，我參加台原基金會所辦e5「鄒族生活營」，ti7 Tfuya(特富野)部落，對我chit個罕得走山頂e5 人，參加活動e5 原因，大部分是因為感覺趣味，無的確ti7 面對另外一個族群e5 時，ma7 會tang3 hou7 我一koa2 刺激。
+四工e5 活動中，老師 long2 是鄒族人，學員 long2 是漢人，有人學 音樂,所以beh[要]來聽in唱歌；有e5 學森林，所以beh來了解生態保育e5 問題；ma7 有做服裝設計e5，對in e5 傳統服飾有趣味；有人kah其他原住民族群已經有 接觸，趁chit-e5 機會來chia[這裡] 看mai7 仔；有e5 已經ti7 山跤[kha,腳]，讀過真choe7 資料，beh來山頂求證；當然，ma7 有一koa2 像我按呢共款 [kang7-khoan2,一樣]一箍癮癮[gian3]，著走起來山頂。
+Miiome 是第二工暗時一e5 老人教阮唱e5。
+鄒族分佈e5 所在，主要是ti7 嘉義阿里山鄉其中e5 七e5 村，屬北鄒；另外，高雄三民鄉kah桃源鄉ma7 有一koa2，屬南鄒，南鄒kah Bunun(布農) toa3[住]做伙，人數閣少，khah Bunun 化，危機意識ma7 khah重，所以，見若[每次]北鄒有祭典，in long2 會來參加。 long2 總加起來，鄒族e5 人數大約仔 是五、六千e5[個]。
+In家己稱呼in chit-e5 群體叫Chou2,所以有人認為「曹族」 是錯誤e5 講法。我想，這是以華語思考所得著e5 結論；事實上，日本時代著有 「曹族」chit款稱呼，hit-e5[那個]時陣，台灣並無華語e5 環境，「曹[cho5]」 kah「鄒[chou]」e5 發音beh仝仔beh仝，無應該講「曹族」是m7 著e5 稱呼。
+阮坐嘉義市公車ui3[從]嘉義車頭[車站]坐kau3[到]Tapangu (達邦),Tapangu 是一e5 部落，ma7 是Tapangu 村e5 行政中心，對[從]chia[這裡] 行入去，40分鐘左右會tang3 kau3 Tfuya 部落，Tfuya 部落，ti7[在]行政單位e5 觀點，是將伊劃ti7 Tapangu 村，這hou7 Tfuya e5 鄒族人感覺心內礙虐礙虐 [gai7-gioh8,尷尬],因為ti7 khah早e5 時，in小可[sio2-khoa2,稍微] 有敵對e5 關係。
+阮著toa3 ti7 Tfuya e5 教堂內。chit-e5 部落有一百戶左右， 阮去e5 時陣， 村內e5 人真choe7  long2 無ti7 e5， 走去山頂種山葵， 山葵會tang3 做 oasabi[芥茉]， 愛種ti7 日頭曝boe7 著e5 樹林內， 所以大部分是種ti7 國有林地內， 橫直[反正]boe7 去挫[chho3，砍]樹仔， 無礙著。種山葵對族人來講是一項真好e5 收入來源， 當然， 歸e5 產銷管道iah是[還是]控制ti7 漢人手頭。可能因為按呢， 查甫人留tiam3 山頂e5 boe7 少， kah別族比起來， 去都市工地做工e5 比例著khah少， m7 閣查某囡仔嫁去平地敢那[好像]真普遍， 致使留tiam3 山頂e5 查甫人娶無某， 若按呢落去， 總是有淡薄仔滅種e5 危機存在。另外， Tfuya 有兩間敢仔店[雜貨店]，  long2 是漢人開e5， in為啥麼beh[要]來山頂? 是因為原住民khah好騙， iah是山跤toa3 boe7 落去chiah[才]走路來山頂？
+根據傳說， 鄒族是ui3[從]玉山來e5， 尚[最]強e5 時陣， 勢力 kau3 kah台南e5 安平， ti7 in身軀頂e5 裝飾有海邊e5 螺仔殼， 表示in kah大海有 接觸過， 聽講有e5 部落， 族人看起來有歐洲人生張， 照按呢來sak[推論]，可能荷蘭人 來e5 時， 血統小可[稍微]有濫著。
+講kau3 傳統服飾， ma7 真有特色， 一項一項沓[thah8，疊] 起哩， 不止費氣； 有phah[打]過熊e5 人， chiah[才]會使將有熊毛e5 飾物縛[pak8， 綁]ti7 頭頂； 有phah過山豬e5， chiah有資格用山豬嘴齒編成e5 旆鍊[phoa7-lian7， 項鍊] 掛ti7 頷頸[脖子]； phah過幾隻野獸， chiah會tang3 ti7 佩刀頂面劃幾巡 ，......， 一切照步來， 無tih kang7 相騙。
+鄒族e5 祭典主要有Mayasvi(戰祭) kah小米豐收祭， 有e5 祭典 並m7 是ti7 固定e5 時間舉辦， 由長老根據伊暗時做e5 眠夢來決定beh辦iah是無愛 辦。chit-ma2[現在]交通利便， 祭典 long2 會引來真choe7 觀光客，所以， 祭典無的確會 愈來愈形式化。部落e5 精神象徵叫做 Kuba ， 著是男子會所， 查某e5 boe7-sai2 [不可以]peh[爬]起哩， 出世初登會所禮、成年禮iah閣所有e5 祭典 long2 ti7 Kuba ，Kuba邊a 有廣場， 閣有一欉大葉榕[chheng5](雀榕)， 是鄒族e5 神樹。
+講著語言， 畢竟in是toa3-ti7 山頂e5 民族， 山勢、地形若是 小可有一e5 變化， 著有一e5 地名。In語言流失e5 情形真嚴重， 而且鄒族話以外， 華語比福佬話用khah choe7[多]； 教堂逐[tak8，每]工向族人廣播e5 時，鄒語、華語 濫做伙用， m7 閣華語khah choe7。岔開話題， 咱對chia[這裡]來反省福佬話e5 情形， 其實， 一e5 族群有一e5 族群e5 特色， beh[要]用另外一種語言來表達總是加減會 精差iah是無完全； 基本上， 華語ti7 台灣， 並無倚近chit塊土地， 比一koa2 例來講， 華語講「螃蟹」， 福佬話著有毛蟹、蟳[chim5]、chhi3 仔……等等e5 分別， 閣親像 華語e5「吃」， 福佬話著有食[chiah8]、sut、hut、孝孤、啖[tam7]sam2等等語感 無仝e5 語詞， 用咱家己e5 語言來了解咱e5 生活環境是尚介siak-phah [適切]e5， 但是， 為啥麼chiah-choe7[這麼多]台灣人beh[要]放棄家己e5 語言 ？
+2
+學員 一直ka7 老師問問題， 我只是感覺逐家下[he]性命tih ka7 in ou2[挖] 物件真m7 好， m7 閣趁著chite5 互相溝通e5 機會， 無問ma7 是真phah損[可惜]。
+In教阮按怎舂[cheng]米 ， 舂kah變粉e5 米beh按怎做酒； 我 第一遍舂e5 時， 秘訣liah8 無著， 家己ma7 感覺姿勢真phai2 看， 第二遍以後著小可 有架勢出來， in講我舂了尚好， 但是我兩手手蹄仔[手心]phong3-pha7[起泡] ， 閣 破去， 腰酸手ma7 疼。in教阮beh按怎做陷阱來liah8 鳥仔、tng膨鼠[松鼠]、射熊、 拐山豬入去......。In教阮按怎做竹筒飯。in kah阮做伙唱歌。......
+3
+四工 e5 活動， 留真choe7 e5 問題落來。
+有時仔我tih想，一大陣人走去一e5 部落， 部落e5 人應該無啥 歡迎，因為按呢會攪擾著in e5 生活。整體來講， in e5 個性khah開朗， khah活潑，對 朋友e5 感情真實， 無漢人e5 奸巧[khiau2] 。長久以來， 原住民kah漢人e5 接觸， 差不多 long2 是原住民食虧， in對漢人e5 印象自然無好。chit-ma2 iah閣真choe7 漢人 ka7 in叫做「番仔」， 無將in當做人來看待。可能因為按呢， 漢人e5 宗教傳boe7 入去 ， 但是神父來kau3 山頂， 對in有尊重， 結果天主教、基督教真緊著phah入去in e5 生活， 取代in原來e5 宗教信仰。宗教e5 入侵， 無的確帶hou7 in一koa2 好處， 問題 是chit款宗教排他性強， 叫汝愛信上帝， 信上帝e5 人chiah[，才]會tang3 上[chiuN7 ] 天堂， 拜其他e5 神boe7-sai2， 結果著ti7 神父e5 煽動下， Tfuya e5 Kuba 倒去， 神樹大葉榕ma7 剉掉， 剉掉無打緊， 閣撒[sa3] 鹽ti7 頂koan5， beh hou7 伊發boe7 出來。 ( Tfuya e5 Kuba 今年二月重起， 神樹ma7 閣發起來， m7 閣khah細欉。 )
+對統治者來講， 伊求e5 是管理上e5 利便， khah boe7 去考慮著 族群之間e5 差異性。山地保留區iah是其它相關e5 政策， 限制著in原來e5 生活方式， 自底[本來]in phah獵， 自底in游耕； 行政區域e5 劃分， 有e5 並無尊重in e5 情形， 可比Tfuya hong7 分ti7 Tapangu村； 另外， 原來是一e5 頭人， chit-ma2 閣加一e5 村 長， 按呢族人應該愛聽啥人e5？ 換過來講教育， 現此時e5 教育體系， 基本上ma7 是 漢人e5 體系， 加上人數e5 差別， 一旦一e5 原住民進入chit-e5 體系， 伊愛面對 choe7-choe7 e5 漢人， 文化背景e5 差異閣大， in讀愈koan5[高]， 漢化e5 機會ma7 愈大， 若按呢， 教育對in是好iah是bai2[糟糕]？
+事實上， 人數少本身著真值得煩惱， 若準部落khah開放， 驚會hong7 同化去， 但是假使保護了siuN 厲害， te3[跟]boe7 著現代化e5 跤步， kah社會ma7 會愈脫節， 一旦離開山頂， 真phai2 適應漢人社會， 若按呢， 對in kam2 有公平？ In tih講台灣猴[台灣獼猴]受保護， 但是鄒族e5 人數可能比台灣猴khah少， 動物愛保護， 人kam2 著免保護， 據在in消失去 ？
+我知影我對in e5 了解siuN 少， m7 閣我tih想， 真choe7 in tu2 著e5 問題， 咱m7 知愛按怎解決chiah著， in家己ma7 可能m7 知影beh 如何是好。
+4
+Iah閣 [還]有一e5 是屬咱漢人本身e5 問題。最近幾年來， 原住民運動當tih發展， 原住民 e5 問題ma7 得著愈來愈choe7 人e5 重視； chit-pai2[這次]e5 營隊， 參加e5 chit-koa2 漢人內底， 包括福佬人、客人， 但是in普遍對家己本身e5 文化無啥了解， 尤其閣khah boe7-tang3 忍受e5 是， in已經差不多變做「北京人」a ， 家己e5 根底 著無在[chai7，穩] ， 按呢， 是有啥麼才調來關懷別人？
+5
+細漢 時陣讀過吳鳳e5 神話， 後來chit-e5 神話hou7 m7 是鄒族e5 其他族群將伊phah破， 按呢看起來， 鄒族e5 自覺其實真oaN3[晚]。最近， in e5 智識青年有覺醒， 開始tih 採集in鄒族e5 傳說、故事， 由台原出版社出版(《鄒族的風土與神話》)， 《鄒族語典》 最近ma7 beh出版a ； 講起來， 鄒族可能真好運， kah其他e5 原住民比起來， in iah閣 保留真choe7 物件，所以， 有人開始tih做， hou7 族人信心， 按呢落去， 整體族群自覺 e5 跤步應該會khah緊， 另外一方面， 書有出版， ma7 會tang3 得著外界khah-choe7 e5 了解kah關心； iah閣有一e5 好消息， 著是鄒族e5 母語教育今年九月ma7 beh開始 a。
+6
+Ti7 Tfuya 四工， kan-na[只] 學著鄒族話一e5 詞: 「朋友」in講「ou1-a2-hng2」， kah 福佬話「芋仔園」真倚[oa2，近] ， 其它e5 著 long2 無記落來， 實在是見笑代。
+歌謠來講， in先教阮Miiome chit條真好聽e5 牽亡歌， 可能是 因為歌詞kah meloti[旋律] long2 真簡單、好記， 連鞭[nia-mi，馬上] 著學會曉a， 後來in 雖然閣有唱真choe7 歌， 總是我 long2 無法度記落來。
+Chit-pai2 族群接觸e5 經驗雖然是真粗淺， 總是對我e5 刺激 猶原[仍然] chiaN5[很]大。轉來了後， 我不時會唱起Miiome 。
+Kah福佬話e5 牽亡歌比起來， 伊加chiaN5[很]淒涼， 尤其是 暗時ti7 山頂唱e5 hit[那]種感覺。
+我若唱起Miiome， in e5 天神kam2 會聽著？ 伊若看著鄒族 chit-ma2 e5 處境， 伊會艱苦boe7 ？
+O ---- mi-io-me， e-he-ia-a-oe
+O ---- mi-io-me， e-he-ia-a-oe
+[轉去允言e5文章]     
+[轉去允言e5網站]     
+[轉去本站首頁]
