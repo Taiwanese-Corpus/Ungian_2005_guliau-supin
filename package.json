@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "deploy": "rm -rf build && mkdir -p build && cp *.yaml build && gh-pages -d build/"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  }
+}

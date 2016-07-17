@@ -1,8 +1,10 @@
 #!python
 import csv
 from os import walk
-from os.path import join, dirname, abspath
+from os.path import join, dirname, abspath, basename
+from itertools import chain
 
+import yaml
 
 這馬所在 = dirname(dirname(abspath(__file__)))
 
@@ -40,16 +42,32 @@ def 轉規類(來源, 類):
                     來源內容.update(資料來源)
                 except:
                     來源內容 = 資料來源
-                    print(類, '無檔案資料', 檔名)
+                    作者 = basename(所在)
+                    類別 = basename(dirname(所在))
+                    來源內容 = {'作者': 作者, '類別': 類別}
+                    print(類,  檔名, 來源內容)
+                    來源內容.update(資料來源)
                 for 一逝 in 檔.readlines():
                     資料 = {
                         來源: 來源內容,
                         '文本資料': 一逝.strip(),
                     }
                     全部資料.append(資料)
-    print('目錄賰：', 目錄.keys())
+    if len(目錄) > 0:
+        print('目錄賰：', 目錄.keys())
+        raise RuntimeError('表有物件無對著！！')
     return 全部資料
 
 if __name__ == '__main__':
-    轉規類(join(這馬所在, '轉換後資料'), 'HL')
-    轉規類(join(這馬所在, '轉換後資料'), 'POJ')
+    資料 = {
+        '版權': '會使公開',
+        '種類': '語句',
+        '語言腔口': '閩南語',
+        '著作年': '2005',
+        '著作所在地': '臺灣',
+    }
+    HL = 轉規類(join(這馬所在, '轉換後資料'), 'HL')
+    POJ = 轉規類(join(這馬所在, '轉換後資料'), 'POJ')
+    資料['下層'] = chain(HL, POJ)
+    with open('台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計.yaml', 'w') as 檔案:
+        yaml.dump(資料, 檔案, default_flow_style=False, allow_unicode=True)
