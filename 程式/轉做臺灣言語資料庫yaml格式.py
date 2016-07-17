@@ -48,11 +48,13 @@ def 轉規類(來源, 類):
                     print(類,  檔名, 來源內容)
                     來源內容.update(資料來源)
                 for 一逝 in 檔.readlines():
-                    資料 = {
-                        來源: 來源內容,
-                        '文本資料': 一逝.strip(),
-                    }
-                    全部資料.append(資料)
+                    文本資料 = 一逝.strip()
+                    if len(文本資料) > 0:
+                        資料 = {
+                            來源: 來源內容,
+                            '文本資料': 文本資料,
+                        }
+                        全部資料.append(資料)
     if len(目錄) > 0:
         print('目錄賰：', 目錄.keys())
         raise RuntimeError('表有物件無對著！！')
