@@ -52,5 +52,5 @@ pip install pyyaml
 python 程式/轉做臺灣言語資料庫yaml格式.py
 npm i && npm run deploy
 ```
-就會使掠[yaml](https://taiwanese-corpus.github.io/Ungian_2005_guliau-supin/台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計作.yaml)矣
+就會使掠[yaml](https://taiwanese-corpus.github.io/Ungian_2005_guliau-supin/台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計.yaml)矣
   
