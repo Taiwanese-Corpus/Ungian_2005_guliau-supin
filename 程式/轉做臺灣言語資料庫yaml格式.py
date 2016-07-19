@@ -9,7 +9,7 @@ import yaml
 這馬所在 = dirname(dirname(abspath(__file__)))
 
 
-def 轉規類(來源, 類):
+def 轉規類(語料資料夾, 類):
     欄位表 = {
         'luipiat': '類別',
         'chokchia': '作者',
@@ -19,7 +19,7 @@ def 轉規類(來源, 類):
         'lamlu': '男女',
     }
     目錄 = {}
-    with open(join(來源, 類 + '.csv')) as csvfile:
+    with open(join(語料資料夾, 類 + '.csv')) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             資料 = {}
@@ -34,7 +34,7 @@ def 轉規類(來源, 類):
 
     資料來源 = {'名': '台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計'}
     全部資料 = []
-    for 所在, _資料夾, 檔名陣列 in walk(join(來源, 類)):
+    for 所在, _資料夾, 檔名陣列 in walk(join(語料資料夾, 類)):
         for 檔名 in 檔名陣列:
             with open(join(所在, 檔名)) as 檔:
                 try:
@@ -51,7 +51,7 @@ def 轉規類(來源, 類):
                     文本資料 = 一逝.strip()
                     if len(文本資料) > 0:
                         資料 = {
-                            來源: 來源內容,
+                            '來源': 來源內容,
                             '文本資料': 文本資料,
                         }
                         全部資料.append(資料)
@@ -70,6 +70,6 @@ if __name__ == '__main__':
     }
     HL = 轉規類(join(這馬所在, '轉換後資料'), 'HL')
     POJ = 轉規類(join(這馬所在, '轉換後資料'), 'POJ')
-    資料['下層'] = chain(HL, POJ)
+    資料['下層'] = HL + POJ
     with open('台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計.yaml', 'w') as 檔案:
         yaml.dump(資料, 檔案, default_flow_style=False, allow_unicode=True)
