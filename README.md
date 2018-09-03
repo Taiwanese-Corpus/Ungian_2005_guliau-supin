@@ -41,6 +41,7 @@ virtualenv --python=python3 venv; . venv/bin/activate; pip install --upgrade pip
     * `find 轉換後資料/ -name '*txt' -exec fromdos {} \;`
   * 全部的資料攏是純文字格式
   * `./轉換後資料/HL/散文/楊允言/Miiome-鄒族紀事.txt`本底是asp的html格式，有半人工共asp、html的標仔提掉，改做純文字格式
+  * #6 chh”a=>chhōa, sia5?=>siaⁿ5
   
   
 ## 產生臺灣言語資料yaml格式
