@@ -43,15 +43,3 @@ virtualenv --python=python3 venv; . venv/bin/activate; pip install --upgrade pip
   * `./轉換後資料/HL/散文/楊允言/Miiome-鄒族紀事.txt`本底是asp的html格式，有半人工共asp、html的標仔提掉，改做純文字格式
   * #6 chh”a=>chhōa, sia5?=>siaⁿ5
   
-  
-## 產生臺灣言語資料yaml格式
-```
-virtualenv --python python3 venv
-source venv/bin/activate
-pip install --upgrade pip
-pip install pyyaml
-python 程式/轉做臺灣言語資料庫yaml格式.py
-npm i && npm run deploy
-```
-就會使掠[yaml](https://taiwanese-corpus.github.io/Ungian_2005_guliau-supin/台語文語料庫蒐集及語料庫為本台語書面語音節詞頻統計.yaml)矣
-  
